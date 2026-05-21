@@ -1,0 +1,426 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>AI-ingest — Sources</title>
+<style>
+  :root {
+    --bg: #fafaf7;
+    --ink: #1a1a1a;
+    --muted: #6b6b6b;
+    --line: #e6e3dd;
+    --accent: #2a6f4d;
+    --warn: #a8530a;
+    --chip-bg: #efece5;
+    --code-bg: #f1efe8;
+    --tier1: #2a6f4d;
+    --tier2: #4a6fa5;
+    --tier3: #8a6a3a;
+    --tier4: #a8530a;
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; padding: 0; background: var(--bg); color: var(--ink); }
+  body {
+    font-family: ui-serif, Georgia, "Iowan Old Style", "Apple Garamond", Baskerville, serif;
+    line-height: 1.55;
+    -webkit-font-smoothing: antialiased;
+  }
+  .wrap { max-width: 760px; margin: 0 auto; padding: 64px 28px 96px; }
+  header h1 { font-size: 32px; margin: 0 0 4px; letter-spacing: -0.01em; }
+  header .sub { color: var(--muted); font-size: 15px; margin: 0 0 32px; }
+  h2 {
+    font-size: 13px; margin: 44px 0 14px;
+    letter-spacing: 0.08em; text-transform: uppercase;
+    color: var(--muted); font-weight: 600;
+    font-family: ui-sans-serif, system-ui, sans-serif;
+  }
+  p { margin: 0 0 14px; }
+  .lede {
+    border-left: 3px solid var(--accent);
+    padding: 4px 0 4px 16px; color: #333; font-style: italic;
+  }
+
+  .filter {
+    margin: 0 0 14px;
+    font-family: ui-sans-serif, system-ui, sans-serif; font-size: 13px;
+  }
+  .filter button {
+    background: none; border: 1px solid var(--line);
+    border-radius: 999px; padding: 4px 12px; margin-right: 6px; margin-bottom: 6px;
+    cursor: pointer; color: var(--ink); font: inherit;
+  }
+  .filter button.active { background: var(--ink); color: white; border-color: var(--ink); }
+  .filter button:hover:not(.active) { background: var(--chip-bg); }
+
+  .source {
+    border: 1px solid var(--line);
+    border-radius: 8px; background: white;
+    margin: 10px 0; overflow: hidden;
+  }
+  .source summary {
+    list-style: none; cursor: pointer;
+    padding: 14px 18px;
+    display: flex; align-items: baseline; gap: 12px;
+    user-select: none;
+  }
+  .source summary::-webkit-details-marker { display: none; }
+  .source[open] summary { border-bottom: 1px solid var(--line); }
+  .tier {
+    font-family: ui-sans-serif, system-ui, sans-serif;
+    font-size: 10px; font-weight: 700;
+    letter-spacing: 0.08em; text-transform: uppercase;
+    padding: 2px 8px; border-radius: 3px; color: white;
+    flex-shrink: 0;
+  }
+  .tier.t1 { background: var(--tier1); }
+  .tier.t2 { background: var(--tier2); }
+  .tier.t3 { background: var(--tier3); }
+  .tier.t4 { background: var(--tier4); }
+  .name { font-size: 16px; font-weight: 600; flex: 1; }
+  .meta {
+    font-family: ui-sans-serif, system-ui, sans-serif;
+    font-size: 12px; color: var(--muted);
+    display: flex; gap: 10px; flex-shrink: 0;
+  }
+  .meta .dot { color: var(--line); }
+  .body { padding: 14px 18px 18px; font-size: 15px; }
+  .body p { margin: 0 0 10px; }
+  .body p:last-child { margin-bottom: 0; }
+  .body .why { color: #333; }
+  .body .how {
+    margin-top: 10px;
+    font-family: ui-sans-serif, system-ui, sans-serif;
+    font-size: 13px;
+    background: var(--chip-bg);
+    padding: 10px 12px; border-radius: 6px;
+  }
+  .body .how b {
+    display: block;
+    font-size: 11px; letter-spacing: 0.06em; text-transform: uppercase;
+    color: var(--muted); margin-bottom: 4px; font-weight: 600;
+  }
+  code {
+    font-family: ui-monospace, "SF Mono", Menlo, Consolas, monospace;
+    font-size: 12.5px; background: var(--code-bg);
+    padding: 1px 5px; border-radius: 3px;
+  }
+  .legend {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px;
+    margin: 0 0 28px;
+    font-family: ui-sans-serif, system-ui, sans-serif; font-size: 13px;
+  }
+  .legend .l {
+    background: white; border: 1px solid var(--line); border-radius: 6px;
+    padding: 10px 12px;
+  }
+  .legend .l .lbl {
+    display: block; font-size: 10px; font-weight: 700;
+    letter-spacing: 0.08em; text-transform: uppercase;
+    margin-bottom: 4px;
+  }
+  .legend .l.t1 .lbl { color: var(--tier1); }
+  .legend .l.t2 .lbl { color: var(--tier2); }
+  .legend .l.t3 .lbl { color: var(--tier3); }
+  .legend .l.t4 .lbl { color: var(--tier4); }
+  .legend .l .desc { color: #444; font-size: 12.5px; line-height: 1.4; }
+
+  .stack-summary {
+    background: white; border: 1px solid var(--line); border-radius: 8px;
+    padding: 18px 22px; margin: 14px 0 0;
+  }
+  .stack-summary h3 {
+    margin: 0 0 8px; font-size: 15px;
+    font-family: ui-sans-serif, system-ui, sans-serif;
+    text-transform: uppercase; letter-spacing: 0.06em; color: var(--muted);
+    font-weight: 600;
+  }
+  .stack-summary ol { margin: 6px 0 0; padding-left: 20px; }
+  .stack-summary li { margin: 4px 0; font-size: 14.5px; }
+
+  footer {
+    margin-top: 48px; font-size: 13px; color: var(--muted);
+    border-top: 1px solid var(--line); padding-top: 18px;
+    font-family: ui-sans-serif, system-ui, sans-serif;
+  }
+  @media (max-width: 540px) {
+    .legend { grid-template-columns: 1fr 1fr; }
+    .meta { display: none; }
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <header>
+    <h1>Sources</h1>
+    <p class="sub">Where AI-ingest pulls from &mdash; ranked by signal-per-effort for <em>your</em> use case.</p>
+  </header>
+
+  <h2>The honest take on Twitter</h2>
+  <p class="lede">
+    Twitter has unique signal (researchers shitposting their own results), but the API is $100&ndash;$200/month
+    and Nitter is mostly dead. For 90% of AI news that matters to a builder, HN + Reddit + a few blogs are
+    the same stories within 6 hours. Skip Twitter for v1.
+  </p>
+
+  <h2>How sources are ranked</h2>
+  <div class="legend">
+    <div class="l t1"><span class="lbl">Tier 1</span><span class="desc">Start here. High signal, free, easy to access.</span></div>
+    <div class="l t2"><span class="lbl">Tier 2</span><span class="desc">Add once Tier 1 works. Still high signal.</span></div>
+    <div class="l t3"><span class="lbl">Tier 3</span><span class="desc">Specialized. Lower volume, real gems.</span></div>
+    <div class="l t4"><span class="lbl">Tier 4</span><span class="desc">Twitter workarounds. Only if you must.</span></div>
+  </div>
+
+  <div class="filter">
+    Show:
+    <button class="active" data-tier="all">All</button>
+    <button data-tier="1">Tier 1</button>
+    <button data-tier="2">Tier 2</button>
+    <button data-tier="3">Tier 3</button>
+    <button data-tier="4">Tier 4</button>
+  </div>
+
+  <!-- TIER 1 -->
+
+  <details class="source" data-tier="1" open>
+    <summary>
+      <span class="tier t1">T1</span>
+      <span class="name">Hacker News</span>
+      <span class="meta"><span>Free API</span><span class="dot">&middot;</span><span>No auth</span></span>
+    </summary>
+    <div class="body">
+      <p class="why">The single best source for builder-relevant AI news. Devs already filter out the hype that pure Twitter scrapes carry. Comment threads are often more useful than the article.</p>
+      <div class="how">
+        <b>How to pull</b>
+        Two free APIs, both no-auth:<br>
+        &bull; <code>https://hacker-news.firebaseio.com/v0/topstories.json</code> &mdash; current top 500 IDs, fetch each by ID.<br>
+        &bull; <code>https://hn.algolia.com/api/v1/search?query=AI&tags=story&hitsPerPage=50</code> &mdash; full-text search, filter by date.<br>
+        For your use case: query for <code>"Claude"</code>, <code>"LLM"</code>, <code>"Anthropic"</code>, <code>"agent"</code> over the last 24h, dedupe.
+      </div>
+    </div>
+  </details>
+
+  <details class="source" data-tier="1">
+    <summary>
+      <span class="tier t1">T1</span>
+      <span class="name">Reddit &mdash; r/LocalLLaMA, r/ClaudeAI, r/singularity</span>
+      <span class="meta"><span>Free JSON</span><span class="dot">&middot;</span><span>OAuth required</span></span>
+    </summary>
+    <div class="body">
+      <p class="why">r/LocalLLaMA is where the open-source AI builders live &mdash; new models, quantizations, what actually works on consumer hardware. r/ClaudeAI is small but directly relevant. r/singularity is noisier but catches launches early.</p>
+      <div class="how">
+        <b>How to pull</b>
+        Append <code>.json</code> to any Reddit URL: <code>reddit.com/r/LocalLLaMA/top.json?t=day</code>. Free OAuth client needed (5-minute setup). 100 requests/minute. Filter by <code>score</code> &gt; threshold to skip noise.
+      </div>
+    </div>
+  </details>
+
+  <details class="source" data-tier="1">
+    <summary>
+      <span class="tier t1">T1</span>
+      <span class="name">Simon Willison's blog &amp; weeknotes</span>
+      <span class="meta"><span>RSS</span><span class="dot">&middot;</span><span>simonwillison.net</span></span>
+    </summary>
+    <div class="body">
+      <p class="why">If you read only one person on AI, this is the one. He's a working developer who tries every new model and writes plain-English notes on what's actually useful. Zero hype, lots of practical examples. His blogroll <em>is</em> the curation.</p>
+      <div class="how">
+        <b>How to pull</b>
+        <code>https://simonwillison.net/atom/everything/</code> &mdash; standard Atom feed. Parse with any RSS library. Update once an hour, you'll never miss anything.
+      </div>
+    </div>
+  </details>
+
+  <details class="source" data-tier="1">
+    <summary>
+      <span class="tier t1">T1</span>
+      <span class="name">Anthropic news + engineering blog</span>
+      <span class="meta"><span>RSS</span><span class="dot">&middot;</span><span>First-party</span></span>
+    </summary>
+    <div class="body">
+      <p class="why">You use Claude Code daily. Anything Anthropic ships is directly actionable for you &mdash; new models, new Claude Code features, new API capabilities. Zero noise, 100% signal for your stack.</p>
+      <div class="how">
+        <b>How to pull</b>
+        <code>https://www.anthropic.com/news/rss.xml</code>. Mirror this exactly for OpenAI (<code>openai.com/blog/rss.xml</code>), Google DeepMind, Mistral, Meta AI &mdash; all have feeds. First-party blogs are the cleanest source you'll ever find.
+      </div>
+    </div>
+  </details>
+
+  <!-- TIER 2 -->
+
+  <details class="source" data-tier="2">
+    <summary>
+      <span class="tier t2">T2</span>
+      <span class="name">GitHub Trending (AI/ML)</span>
+      <span class="meta"><span>Scrape</span><span class="dot">&middot;</span><span>github.com/trending</span></span>
+    </summary>
+    <div class="body">
+      <p class="why">New AI tools show up here before anywhere else. If someone open-sources a thing and 500 devs star it in a day, you want to know &mdash; especially when it's in your stack (TypeScript, Python).</p>
+      <div class="how">
+        <b>How to pull</b>
+        No official API. Scrape <code>github.com/trending/python?since=daily</code> and <code>/trending/typescript?since=daily</code>. Simple HTML, doesn't change often. Or use the unofficial <code>gitrend.com</code> JSON proxies. Filter repos by README mention of LLM/AI/agent keywords.
+      </div>
+    </div>
+  </details>
+
+  <details class="source" data-tier="2">
+    <summary>
+      <span class="tier t2">T2</span>
+      <span class="name">Latent Space (Substack)</span>
+      <span class="meta"><span>RSS</span><span class="dot">&middot;</span><span>latent.space</span></span>
+    </summary>
+    <div class="body">
+      <p class="why">Swyx and Alessio interview the people actually building production AI. Long-form, but the show notes alone tell you what's shipping and what's vapor. Their weekly recap post is essentially a curated AI-news brief already.</p>
+      <div class="how">
+        <b>How to pull</b>
+        Every Substack has RSS: <code>latent.space/feed</code>. Same for Interconnects (Nathan Lambert &mdash; the best technical writer on frontier model evals) and Import AI (Jack Clark, who used to run policy at Anthropic).
+      </div>
+    </div>
+  </details>
+
+  <details class="source" data-tier="2">
+    <summary>
+      <span class="tier t2">T2</span>
+      <span class="name">Lobsters</span>
+      <span class="meta"><span>RSS / JSON</span><span class="dot">&middot;</span><span>lobste.rs</span></span>
+    </summary>
+    <div class="body">
+      <p class="why">Smaller, technical version of HN. Invite-only community = much higher signal-to-noise. AI posts are less frequent but almost always substantive. Use as a tiebreaker: if HN <em>and</em> Lobsters both surface it, it's real.</p>
+      <div class="how">
+        <b>How to pull</b>
+        <code>lobste.rs/t/ai.json</code> and <code>/t/ml.json</code>. Free, no auth.
+      </div>
+    </div>
+  </details>
+
+  <details class="source" data-tier="2">
+    <summary>
+      <span class="tier t2">T2</span>
+      <span class="name">Hugging Face &mdash; Daily Papers + Trending Models</span>
+      <span class="meta"><span>API</span><span class="dot">&middot;</span><span>huggingface.co</span></span>
+    </summary>
+    <div class="body">
+      <p class="why">Daily Papers is a curated list of the few arXiv papers that actually matter that day &mdash; someone already did the filtering for you. Trending Models tells you what open-weights people are downloading <em>right now</em>.</p>
+      <div class="how">
+        <b>How to pull</b>
+        <code>huggingface.co/api/daily_papers</code> and <code>huggingface.co/api/models?sort=downloads&direction=-1</code>. Free, no auth for read.
+      </div>
+    </div>
+  </details>
+
+  <!-- TIER 3 -->
+
+  <details class="source" data-tier="3">
+    <summary>
+      <span class="tier t3">T3</span>
+      <span class="name">arXiv (cs.CL, cs.AI)</span>
+      <span class="meta"><span>Free API</span><span class="dot">&middot;</span><span>Academic</span></span>
+    </summary>
+    <div class="body">
+      <p class="why">Most arXiv papers are not for you &mdash; too academic, too speculative. But ~1 in 50 is a technique you can use tomorrow. Pull only what HN or HuggingFace Daily Papers has <em>also</em> surfaced &mdash; let those filter for you.</p>
+      <div class="how">
+        <b>How to pull</b>
+        <code>export.arxiv.org/api/query?search_query=cat:cs.CL&sortBy=submittedDate</code>. Don't pull the full set &mdash; use it to enrich items already surfaced elsewhere.
+      </div>
+    </div>
+  </details>
+
+  <details class="source" data-tier="3">
+    <summary>
+      <span class="tier t3">T3</span>
+      <span class="name">Product Hunt &mdash; AI category</span>
+      <span class="meta"><span>GraphQL API</span><span class="dot">&middot;</span><span>Free tier</span></span>
+    </summary>
+    <div class="body">
+      <p class="why">For "what new AI tool can I actually use" &mdash; not for news, for tools. Lots of wrappers and re-skins, but the occasional standout is worth the scan. Useful when you're building something and want to know what's already out there.</p>
+      <div class="how">
+        <b>How to pull</b>
+        GraphQL API, free with developer account. Query daily AI posts by topic ID. Optional source &mdash; only pull if you're in "what tool should I try this week" mode.
+      </div>
+    </div>
+  </details>
+
+  <details class="source" data-tier="3">
+    <summary>
+      <span class="tier t3">T3</span>
+      <span class="name">Bluesky &mdash; AI starter packs</span>
+      <span class="meta"><span>Free API</span><span class="dot">&middot;</span><span>AT Protocol</span></span>
+    </summary>
+    <div class="body">
+      <p class="why">A lot of AI researchers migrated here from Twitter. The public API is genuinely free (the way Twitter's used to be). Lower volume, but if you follow the right 30 people via a starter pack, you get a clean signal.</p>
+      <div class="how">
+        <b>How to pull</b>
+        <code>public.api.bsky.app/xrpc/app.bsky.feed.getAuthorFeed?actor=...</code>. No auth for public posts. Pull a curated list of 20&ndash;30 handles.
+      </div>
+    </div>
+  </details>
+
+  <!-- TIER 4 -->
+
+  <details class="source" data-tier="4">
+    <summary>
+      <span class="tier t4">T4</span>
+      <span class="name">RSSHub &mdash; Twitter via RSS bridge</span>
+      <span class="meta"><span>Self-host</span><span class="dot">&middot;</span><span>Unreliable</span></span>
+    </summary>
+    <div class="body">
+      <p class="why">If you absolutely need a specific Twitter account, RSSHub can sometimes wrap it as RSS. But: public instances get rate-limited and break weekly, and self-hosting means babysitting infrastructure. Not worth it for v1.</p>
+      <div class="how">
+        <b>How to pull</b>
+        Public instances at <code>rsshub.app/twitter/user/&lt;handle&gt;</code> &mdash; expect frequent breakage. Self-hosted Docker image is more stable but adds an ops burden you don't need yet.
+      </div>
+    </div>
+  </details>
+
+  <details class="source" data-tier="4">
+    <summary>
+      <span class="tier t4">T4</span>
+      <span class="name">Nitter instances</span>
+      <span class="meta"><span>Mostly dead</span><span class="dot">&middot;</span><span>Skip</span></span>
+    </summary>
+    <div class="body">
+      <p class="why">Was the right answer two years ago. Twitter killed the guest-token endpoint Nitter depended on; almost all public instances are down or broken. Mentioned here so you don't waste an evening trying to make it work.</p>
+      <div class="how">
+        <b>How to pull</b>
+        Don't.
+      </div>
+    </div>
+  </details>
+
+  <h2>Recommended v1 stack</h2>
+  <div class="stack-summary">
+    <h3>Start with exactly these five</h3>
+    <ol>
+      <li><b>Hacker News</b> (Algolia search, last 24h, keyword-filtered)</li>
+      <li><b>r/LocalLLaMA + r/ClaudeAI</b> (top of day, score-thresholded)</li>
+      <li><b>Simon Willison's Atom feed</b> (everything he writes)</li>
+      <li><b>Anthropic news RSS</b> (first-party, ground truth for your tools)</li>
+      <li><b>HuggingFace Daily Papers</b> (lets someone else filter arXiv for you)</li>
+    </ol>
+    <p style="margin: 14px 0 0; font-size: 14px; color: #444;">
+      Five sources, all free, all RSS or simple JSON, no auth headaches except Reddit (5-minute setup).
+      Build the pipeline against these. Add Tier 2 sources only after the first week feels right &mdash; more inputs without a tuned filter is just more noise.
+    </p>
+  </div>
+
+  <footer>
+    Cross-reference with <code>plan.html</code> &rarr; Phase 03 (the scraper). These five become entries in your <code>sources.json</code>.
+  </footer>
+
+</div>
+<script>
+  const buttons = document.querySelectorAll('.filter button');
+  const sources = document.querySelectorAll('.source');
+  buttons.forEach(b => b.addEventListener('click', () => {
+    buttons.forEach(x => x.classList.remove('active'));
+    b.classList.add('active');
+    const tier = b.dataset.tier;
+    sources.forEach(s => {
+      s.style.display = (tier === 'all' || s.dataset.tier === tier) ? '' : 'none';
+    });
+  }));
+</script>
+</body>
+</html>

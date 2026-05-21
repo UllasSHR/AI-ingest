@@ -1,0 +1,413 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>AI-ingest — Plan</title>
+<style>
+  :root {
+    --bg: #fafaf7;
+    --ink: #1a1a1a;
+    --muted: #6b6b6b;
+    --line: #e6e3dd;
+    --accent: #2a6f4d;
+    --chip-bg: #efece5;
+    --code-bg: #f1efe8;
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; padding: 0; background: var(--bg); color: var(--ink); }
+  body {
+    font-family: ui-serif, Georgia, "Iowan Old Style", "Apple Garamond", Baskerville, serif;
+    line-height: 1.55;
+    -webkit-font-smoothing: antialiased;
+  }
+  .wrap {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 64px 28px 96px;
+  }
+  header h1 {
+    font-size: 32px;
+    margin: 0 0 4px;
+    letter-spacing: -0.01em;
+  }
+  header .sub {
+    color: var(--muted);
+    font-size: 15px;
+    margin: 0 0 32px;
+  }
+  h2 {
+    font-size: 18px;
+    margin: 48px 0 10px;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+    color: var(--muted);
+    font-weight: 600;
+    font-family: ui-sans-serif, system-ui, sans-serif;
+  }
+  p { margin: 0 0 14px; }
+  .problem {
+    border-left: 3px solid var(--accent);
+    padding: 4px 0 4px 16px;
+    color: #333;
+    font-style: italic;
+  }
+  .flow {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 8px;
+    margin: 18px 0 8px;
+    font-family: ui-sans-serif, system-ui, sans-serif;
+    font-size: 13px;
+  }
+  .flow .step {
+    background: white;
+    border: 1px solid var(--line);
+    border-radius: 6px;
+    padding: 10px 8px;
+    text-align: center;
+    color: var(--ink);
+  }
+  .flow .step b { display: block; font-size: 12px; color: var(--muted); font-weight: 500; margin-bottom: 2px; text-transform: uppercase; letter-spacing: 0.05em; }
+  .arrow { text-align: center; color: var(--muted); font-size: 12px; margin: 2px 0 18px; }
+
+  .phase {
+    border: 1px solid var(--line);
+    border-radius: 8px;
+    background: white;
+    margin: 12px 0;
+    overflow: hidden;
+  }
+  .phase summary {
+    list-style: none;
+    cursor: pointer;
+    padding: 16px 20px;
+    display: flex;
+    align-items: baseline;
+    gap: 14px;
+    user-select: none;
+  }
+  .phase summary::-webkit-details-marker { display: none; }
+  .phase[open] summary { border-bottom: 1px solid var(--line); }
+  .phase .num {
+    font-family: ui-sans-serif, system-ui, sans-serif;
+    font-size: 12px;
+    color: var(--muted);
+    width: 28px;
+    flex-shrink: 0;
+  }
+  .phase .title {
+    font-size: 17px;
+    font-weight: 600;
+    flex: 1;
+  }
+  .phase .est {
+    font-family: ui-sans-serif, system-ui, sans-serif;
+    font-size: 12px;
+    color: var(--muted);
+  }
+  .phase .body {
+    padding: 4px 20px 20px 62px;
+  }
+  .phase .body p:first-child { margin-top: 14px; }
+  .phase .body ul {
+    margin: 0 0 14px;
+    padding-left: 18px;
+  }
+  .phase .body li { margin: 4px 0; }
+
+  .git-callout {
+    margin-top: 14px;
+    padding: 12px 14px;
+    background: var(--chip-bg);
+    border-radius: 6px;
+    font-family: ui-sans-serif, system-ui, sans-serif;
+    font-size: 13px;
+    line-height: 1.55;
+  }
+  .git-callout b {
+    display: block;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    font-size: 11px;
+    color: var(--muted);
+    margin-bottom: 6px;
+    font-weight: 600;
+  }
+  code {
+    font-family: ui-monospace, "SF Mono", Menlo, Consolas, monospace;
+    font-size: 12.5px;
+    background: var(--code-bg);
+    padding: 1px 5px;
+    border-radius: 3px;
+  }
+
+  .controls {
+    margin: 8px 0 16px;
+    font-family: ui-sans-serif, system-ui, sans-serif;
+    font-size: 13px;
+    color: var(--muted);
+  }
+  .controls button {
+    background: none;
+    border: 1px solid var(--line);
+    border-radius: 4px;
+    padding: 4px 10px;
+    margin-right: 6px;
+    cursor: pointer;
+    color: var(--ink);
+    font: inherit;
+  }
+  .controls button:hover { background: var(--chip-bg); }
+
+  .stack {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    margin: 6px 0 0;
+  }
+  .chip {
+    font-family: ui-sans-serif, system-ui, sans-serif;
+    font-size: 12px;
+    background: var(--chip-bg);
+    border-radius: 999px;
+    padding: 3px 10px;
+    color: #333;
+  }
+  footer {
+    margin-top: 56px;
+    font-size: 13px;
+    color: var(--muted);
+    border-top: 1px solid var(--line);
+    padding-top: 18px;
+    font-family: ui-sans-serif, system-ui, sans-serif;
+  }
+  @media (max-width: 540px) {
+    .flow { grid-template-columns: repeat(2, 1fr); }
+    .phase .body { padding-left: 20px; }
+    .phase .num { display: none; }
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <header>
+    <h1>AI-ingest</h1>
+    <p class="sub">A personal filter for the AI firehose &mdash; built front to back, the way real developers do it.</p>
+  </header>
+
+  <h2>The Problem</h2>
+  <p class="problem">
+    Twitter sells you urgency. Every day looks like "the biggest week in AI."
+    Most of it is noise dressed as news. You want signal &mdash; only the things that change what <em>you</em> can do tomorrow.
+  </p>
+
+  <h2>The Tool, in One Line</h2>
+  <p>Each morning, a single page tells you: <em>here are the 3&ndash;5 AI things from the last 24h that actually matter to you, and how each one is useful in your hands.</em></p>
+
+  <h2>How It Works</h2>
+  <div class="flow">
+    <div class="step"><b>1. Collect</b>scrape sources</div>
+    <div class="step"><b>2. Score</b>rank by your interests</div>
+    <div class="step"><b>3. Summarize</b>LLM with personal context</div>
+    <div class="step"><b>4. Serve</b>your morning page</div>
+  </div>
+  <div class="arrow">runs once daily &middot; you read for 3 minutes &middot; close the tab</div>
+
+  <h2>The Plan</h2>
+  <div class="controls">
+    <button id="expand">Expand all</button>
+    <button id="collapse">Collapse all</button>
+  </div>
+
+  <details class="phase" open>
+    <summary>
+      <span class="num">01</span>
+      <span class="title">Set up like a real developer</span>
+      <span class="est">~1 evening</span>
+    </summary>
+    <div class="body">
+      <p>Before any feature code. The goal of this phase is purely the workflow &mdash; so every later phase teaches Git by repetition, not by reading docs.</p>
+      <ul>
+        <li>Install <code>git</code>, sign in to GitHub from VS Code.</li>
+        <li><code>git init</code> in this folder. First commit: just this <code>plan.html</code>.</li>
+        <li>Create the repo on GitHub (private), <code>git push</code>.</li>
+        <li>Write a <code>README.md</code> with the one-line pitch and the 4-step flow above.</li>
+        <li>Add a <code>.gitignore</code> for <code>.env</code>, <code>node_modules</code>, <code>.next</code>.</li>
+      </ul>
+      <div class="git-callout">
+        <b>Git you'll learn here</b>
+        <code>init</code> &middot; <code>add</code> &middot; <code>commit -m</code> &middot; <code>push</code> &middot; <code>.gitignore</code> &middot; what "staged" vs "tracked" actually means.
+      </div>
+    </div>
+  </details>
+
+  <details class="phase">
+    <summary>
+      <span class="num">02</span>
+      <span class="title">Define what "personally important" means &mdash; in writing</span>
+      <span class="est">~1 hour</span>
+    </summary>
+    <div class="body">
+      <p>This is the most important file in the project. The whole tool is a function of this document. Without it, you've built another generic news aggregator.</p>
+      <ul>
+        <li>Create <code>profile.md</code>: what you're building, what you use day-to-day (Claude Code, Next.js, Supabase, etc.), what you ignore (academic benchmarks, fundraising news, etc.).</li>
+        <li>Write 5 example tweets &mdash; 3 you'd want to see, 2 you'd want filtered. These become your test cases.</li>
+        <li>Commit this. It will change as you learn what you actually want.</li>
+      </ul>
+      <div class="git-callout">
+        <b>Git you'll learn here</b>
+        Meaningful commit messages. Compare <code>"update"</code> vs <code>"profile: drop fundraising news from interests"</code> &mdash; future-you reads the second one and understands.
+      </div>
+    </div>
+  </details>
+
+  <details class="phase">
+    <summary>
+      <span class="num">03</span>
+      <span class="title">Get raw tweets in &mdash; the ugliest possible version</span>
+      <span class="est">~1 evening</span>
+    </summary>
+    <div class="body">
+      <p>One script. Pulls a day of tweets from ~15 accounts you pick. Dumps to a JSON file. No website yet, no AI yet. Just prove you can <em>get the data</em>.</p>
+      <ul>
+        <li>Pick collection method: official Twitter API (paid), <code>twscrape</code>, or RSS bridges like Nitter/RSSHub. Start with whatever has the least setup friction.</li>
+        <li>Hard-code 10&ndash;20 source accounts in a <code>sources.json</code>.</li>
+        <li>Output: <code>data/2026-05-21.json</code>. Eyeball it. Is the content there?</li>
+        <li><b>Verify by reading it back</b> &mdash; don't trust that "the script ran". (Lesson from past projects: a 200 OK is not proof.)</li>
+      </ul>
+      <div class="stack">
+        <span class="chip">Node.js or Python</span>
+        <span class="chip">cron / Task Scheduler</span>
+        <span class="chip">flat JSON files</span>
+      </div>
+      <div class="git-callout">
+        <b>Git you'll learn here</b>
+        <code>branch</code> + <code>checkout -b feature/scraper</code>. Build on a branch, merge when it works. This is how real teams keep main always-working.
+      </div>
+    </div>
+  </details>
+
+  <details class="phase">
+    <summary>
+      <span class="num">04</span>
+      <span class="title">Add the brain &mdash; LLM ranks and summarizes</span>
+      <span class="est">~1&ndash;2 evenings</span>
+    </summary>
+    <div class="body">
+      <p>One more script. Reads yesterday's JSON, feeds it to Claude (or any model) along with <code>profile.md</code>, gets back the top 3&ndash;5 items with a "why this matters to you" paragraph each.</p>
+      <ul>
+        <li>Prompt design is the whole game here. Spend time on it. Iterate against your test tweets from Phase 02.</li>
+        <li>Cluster near-duplicates before ranking &mdash; 30 tweets about the same launch should count as one item.</li>
+        <li>For each item: <em>what changed</em>, <em>why it's relevant to you specifically</em>, <em>one concrete thing to try</em>.</li>
+        <li>Output: <code>data/2026-05-21.brief.json</code>.</li>
+      </ul>
+      <div class="stack">
+        <span class="chip">Anthropic SDK</span>
+        <span class="chip">prompt caching</span>
+        <span class="chip">structured output (JSON)</span>
+      </div>
+      <div class="git-callout">
+        <b>Git you'll learn here</b>
+        Open a Pull Request to merge your feature branch &mdash; even solo. Read your own diff before merging. This catches more bugs than you'd guess.
+      </div>
+    </div>
+  </details>
+
+  <details class="phase">
+    <summary>
+      <span class="num">05</span>
+      <span class="title">Build the morning page</span>
+      <span class="est">~1 evening</span>
+    </summary>
+    <div class="body">
+      <p>Now the website. Deliberately boring: a list of cards, the date at the top, no infinite scroll, no like buttons, nothing to pull you back in. The opposite of Twitter.</p>
+      <ul>
+        <li>Next.js, deployed to Vercel. Reads today's <code>.brief.json</code>, renders it.</li>
+        <li>Each card: headline, your "why it matters", source link, "mark as read".</li>
+        <li>Once you've read it, the page goes empty until tomorrow. That's the whole point.</li>
+      </ul>
+      <div class="stack">
+        <span class="chip">Next.js</span>
+        <span class="chip">Vercel</span>
+        <span class="chip">Tailwind</span>
+      </div>
+      <div class="git-callout">
+        <b>Git you'll learn here</b>
+        Connect the GitHub repo to Vercel. Every <code>git push</code> auto-deploys. This is the moment GitHub stops feeling like homework and starts feeling like a superpower.
+      </div>
+    </div>
+  </details>
+
+  <details class="phase">
+    <summary>
+      <span class="num">06</span>
+      <span class="title">Automate &mdash; it runs without you</span>
+      <span class="est">~1 evening</span>
+    </summary>
+    <div class="body">
+      <p>The tool is only useful if it's there before you open Twitter. So it has to run on a schedule, not on your laptop.</p>
+      <ul>
+        <li>GitHub Actions: cron job at 6am, runs scrape &rarr; summarize &rarr; commit the new brief back to the repo.</li>
+        <li>Vercel redeploys on commit. Page is fresh when you wake up.</li>
+        <li>Optional: a one-line email or push notification with the headlines.</li>
+      </ul>
+      <div class="git-callout">
+        <b>Git you'll learn here</b>
+        GitHub Actions &mdash; YAML workflows, secrets management (API keys never go in the repo), watching CI runs. This is the same tooling real production systems use.
+      </div>
+    </div>
+  </details>
+
+  <details class="phase">
+    <summary>
+      <span class="num">07</span>
+      <span class="title">Tune for a month</span>
+      <span class="est">ongoing</span>
+    </summary>
+    <div class="body">
+      <p>The first week's briefs will be wrong in interesting ways. Items that shouldn't have made it. Items it missed. This is where the tool becomes <em>yours</em>.</p>
+      <ul>
+        <li>Add a thumbs-up / thumbs-down on each card. Log it.</li>
+        <li>Every Sunday, read your downvotes. Update <code>profile.md</code>. Commit with a message like <code>"profile: filter out new-model-release hype unless cheaper than Sonnet"</code>.</li>
+        <li>After a month, your <code>profile.md</code> is the most accurate description of your own attention that has ever existed in writing.</li>
+      </ul>
+      <div class="git-callout">
+        <b>Git you'll learn here</b>
+        <code>git log</code> as a journal. Six months from now you can read the history of <code>profile.md</code> and see how your interests evolved. This is one of the secretly best uses of version control.
+      </div>
+    </div>
+  </details>
+
+  <h2>What you'll know how to do, after</h2>
+  <ul>
+    <li>Stand up a real project from empty folder to deployed site.</li>
+    <li>Use Git the way working developers do &mdash; branches, PRs, meaningful history, CI.</li>
+    <li>Wire an LLM into a product with a clear job and a measurable output.</li>
+    <li>Tell the difference between "ships" and "works" &mdash; and verify the second.</li>
+  </ul>
+
+  <h2>Ground rules I'd suggest</h2>
+  <ul>
+    <li><b>One commit per working thing.</b> If you can't describe what changed in a sentence, the commit is too big.</li>
+    <li><b>Never push secrets.</b> <code>.env.local</code> stays local. Always.</li>
+    <li><b>Build the read-back before declaring done.</b> If the scraper "wrote 30 tweets", read 30 tweets back out before moving on.</li>
+    <li><b>The profile doc is the product.</b> Code is just the delivery mechanism.</li>
+  </ul>
+
+  <footer>
+    Open this file in a browser. Click any phase to expand. When you're ready, we start with Phase 01 &mdash; <code>git init</code>.
+  </footer>
+
+</div>
+<script>
+  document.getElementById('expand').addEventListener('click', () => {
+    document.querySelectorAll('details.phase').forEach(d => d.open = true);
+  });
+  document.getElementById('collapse').addEventListener('click', () => {
+    document.querySelectorAll('details.phase').forEach(d => d.open = false);
+  });
+</script>
+</body>
+</html>
