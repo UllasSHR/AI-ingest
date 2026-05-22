@@ -1,0 +1,23 @@
+{
+  "name": "ai-ingest",
+  "version": "0.1.0",
+  "description": "A personal filter for the AI firehose. One curated brief per morning.",
+  "type": "module",
+  "main": "scraper.js",
+  "scripts": {
+    "scrape": "node scraper.js"
+  },
+  "author": "Ullas",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/greatullas0-sketch/AI-ingest.git"
+  },
+  "bugs": {
+    "url": "https://github.com/greatullas0-sketch/AI-ingest/issues"
+  },
+  "homepage": "https://github.com/greatullas0-sketch/AI-ingest#readme",
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}
