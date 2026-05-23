@@ -74,6 +74,27 @@ function parseJSON(text) {
   return JSON.parse(t);
 }
 
+// Read data/feedback.json (star ratings from the web page) and turn it into a
+// short instruction block the model can use as a personalization signal.
+async function buildLearnedPreferences() {
+  let feedback = [];
+  try {
+    feedback = JSON.parse(await fs.readFile(path.join('data', 'feedback.json'), 'utf8'));
+  } catch {
+    return ''; // no feedback yet
+  }
+  if (!Array.isArray(feedback) || feedback.length === 0) return '';
+
+  const liked = feedback.filter(f => f.rating >= 4).map(f => `- ${f.title}`);
+  const disliked = feedback.filter(f => f.rating <= 2).map(f => `- ${f.title}`);
+  if (liked.length === 0 && disliked.length === 0) return '';
+
+  let out = '\n\n## Learned from my past star ratings (strong signal)\n';
+  if (liked.length) out += `\nI rated these HIGH — surface more like them:\n${liked.join('\n')}\n`;
+  if (disliked.length) out += `\nI rated these LOW — surface fewer like them:\n${disliked.join('\n')}\n`;
+  return out;
+}
+
 async function main() {
   const today = new Date().toISOString().slice(0, 10);
   const inPath = path.join('data', `${today}.json`);
@@ -83,6 +104,10 @@ async function main() {
   const items = raw.items;
   console.log(`Loaded ${items.length} items from ${inPath}\n`);
 
+  // Learned preferences: the star ratings the user gave on the web page.
+  // High-rated titles steer the brief toward similar items; low-rated away.
+  const learned = await buildLearnedPreferences();
+
   // ---------- Stage 1: FILTER (titles only) ----------
   const titleList = items
     .map((it, i) => `${i}. [${it.source}, score ${it.score ?? '-'}] ${it.title}`)
@@ -91,7 +116,7 @@ async function main() {
   const filterPrompt = `You are filtering a day of AI/tech news for one specific person. Here is exactly who they are and what they care about:
 
 <profile>
-${profile}
+${profile}${learned}
 </profile>
 
 Below are today's ${items.length} candidate items as "index. [source, score] title". Pick the items most relevant to THIS person per their profile. Cluster duplicates (same story) and keep only the best from each cluster. Keep AT MOST 12.
@@ -116,7 +141,7 @@ ${titleList}
   const briefPrompt = `You are writing a short morning AI-news brief for one specific person. Here is who they are:
 
 <profile>
-${profile}
+${profile}${learned}
 </profile>
 
 From the candidates below, choose the 3-5 that genuinely matter most to THIS person and write their brief. Follow the profile's rules exactly:

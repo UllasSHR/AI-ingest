@@ -1,0 +1,35 @@
+{
+  "date": "2026-05-22",
+  "items": [
+    {
+      "title": "I got an IT position thanks to Claude",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tjln1d/i_got_an_it_position_thanks_to_claude/",
+      "source": "reddit/ClaudeAI",
+      "why_it_matters": "Someone used Claude to automate repetitive office tasks, built an app, and this led to a new IT position and more development opportunities within their company. This shows a direct path to a career opportunity by applying AI to solve real-world problems, even with basic programming knowledge. It highlights how directing AI to build practical tools can create value and open doors, which is exactly what you're trying to get good at. This week, identify one repetitive task in your own daily routine or for someone you know, and try to build a simple automation script or app for it using Claude Code."
+    },
+    {
+      "title": "I used Claude Code to build while delegating coding to Mistral/DeepSeek - 10 days, 57M tokens saved, over 90% costs savings, Claude quality result",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tjfyh0/i_used_claude_code_to_build_while_delegating/",
+      "source": "reddit/ClaudeAI",
+      "why_it_matters": "An indie developer created a workflow using Claude Code for planning and review, but delegated the actual code generation to cheaper models like Mistral or DeepSeek, resulting in over 90% cost savings while maintaining Claude's quality. You use Claude Code daily and manage token burn. This shows a practical, shipped approach to optimize costs for your 'vibe coding' projects, allowing you to build more without hitting budget limits. It's a direct improvement to your current stack. This week, explore the linked workflow or try setting up a similar delegation pattern in Claude Code, using Claude for high-level planning and a cheaper model for code generation."
+    },
+    {
+      "title": "I built Hivemind, a Claude Code plugin that turns your repeated prompts into auto-generated skills",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tjw0ah/i_built_hivemind_a_claude_code_plugin_that_turns/",
+      "source": "reddit/ClaudeAI",
+      "why_it_matters": "An indie developer shipped an open-source Claude Code plugin called Hivemind that observes your repeated prompt patterns and automatically generates custom slash commands (skills) from them. You're focused on getting good at directing AI, and this tool directly helps you formalize and reuse your best prompts within Claude Code. It makes your 'vibe coding' more efficient by turning your effective directions into reusable components, saving you time and improving consistency. This week, install the Hivemind plugin into your Claude Code environment and try to turn one of your frequently used prompt structures into a custom skill."
+    },
+    {
+      "title": "Show HN: I Made a Claude Skill for Spec-Driven Development (SDD)",
+      "url": "https://github.com/FredAntB/Spec-Driven-Development",
+      "source": "hn",
+      "why_it_matters": "An indie developer used Claude itself to create an open-source Claude Skill for Spec-Driven Development (SDD), demonstrating how to build robust software by generating specs, tests, and CI pipelines with AI. This is a great example of someone shipping a useful tool *with* Claude, for Claude, which aligns with your goal of getting better at directing AI. SDD can help you improve the 'direction' part of your workflow by focusing on clear specifications and automated testing, leading to more shippable code. This week, explore the linked GitHub repository for the SDD skill and try to apply its principles or use the skill to define specifications and tests for a small feature in your AI-ingest project."
+    },
+    {
+      "title": "Handoffs are becoming a first-class pattern in Claude workflows. Here is how I have been thinking about them.",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tjzqrx/handoffs_are_becoming_a_firstclass_pattern_in/",
+      "source": "reddit/ClaudeAI",
+      "why_it_matters": "The concept of 'handoffs' in Claude workflows is gaining traction, with tools like Matt Pocock's `handoff` skill emerging to help manage long conversations by compressing context and chaining agents. You use Claude Code for extended sessions, and managing context is key to effective direction. This pattern and the associated skill offer a practical way to overcome context decay, allowing you to maintain focus and build more complex projects without starting from scratch. This week, look into Matt Pocock's `handoff` skill or the general concept of context compression, and try to integrate a simple handoff mechanism into one of your longer Claude Code sessions."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+@import "tailwindcss";
+
+@theme {
+  --color-bg: #000000;
+  --color-ink: #f5f1e8;        /* warm cream — primary text */
+  --color-muted: #a8a293;      /* warm grey — secondary text */
+  --color-faint: #6b6659;      /* faint — labels, meta */
+  --color-gold: #e6b450;       /* warm gold — accent */
+  --color-gold-bright: #ffd271;/* bright gold — active stars */
+  --color-card: #0d0d0b;       /* card surface */
+  --color-card-hover: #15140e; /* card surface on hover */
+  --color-line: #2a2820;       /* hairline borders */
+
+  --font-display: var(--font-fraunces);
+  --font-sans: var(--font-geist-sans);
+}
+
+html {
+  color-scheme: dark;
+}
+
+body {
+  background: var(--color-bg);
+  color: var(--color-ink);
+}
+
+/* Entrance animation for cards */
+@keyframes rise {
+  from { opacity: 0; transform: translateY(10px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+.animate-rise {
+  animation: rise 0.5s cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+
+/* Soft pop when a star is selected */
+@keyframes pop {
+  0%   { transform: scale(1); }
+  50%  { transform: scale(1.35); }
+  100% { transform: scale(1); }
+}
+.animate-pop {
+  animation: pop 0.28s ease;
+}
