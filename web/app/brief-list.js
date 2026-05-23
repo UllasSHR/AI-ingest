@@ -36,6 +36,59 @@ function Stars({ value, onRate }) {
   );
 }
 
+// ---------- the "Read" space ----------
+// Items you've marked Done don't vanish — they collect here, collapsed by
+// default, so you can reopen any of them or pull one back to the active list.
+function ReadSection({ read, onUnread }) {
+  const [open, setOpen] = useState(false);
+
+  return (
+    <div className="mt-12 border-t border-line pt-6">
+      <button
+        onClick={() => setOpen(!open)}
+        className="flex w-full items-center justify-between text-xs uppercase tracking-[0.2em] text-faint transition-colors hover:text-muted"
+      >
+        <span>Read &middot; {read.length}</span>
+        <span>{open ? "Hide" : "Show"}</span>
+      </button>
+
+      {open && (
+        <ul className="mt-5 space-y-3">
+          {read.map((it) => (
+            <li
+              key={it.url}
+              className="flex items-start justify-between gap-4 opacity-50 transition-opacity hover:opacity-100"
+            >
+              <div className="min-w-0">
+                <p className="truncate text-sm text-ink">{it.title}</p>
+                <p className="mt-0.5 text-[10px] uppercase tracking-wider text-faint">
+                  {it.source}
+                </p>
+              </div>
+              <div className="flex shrink-0 items-center gap-4 text-xs">
+                <a
+                  href={it.url}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-gold transition-colors hover:text-gold-bright"
+                >
+                  Open &#8599;
+                </a>
+                <button
+                  onClick={() => onUnread(it.url)}
+                  className="text-faint transition-colors hover:text-ink"
+                >
+                  Unread
+                </button>
+              </div>
+            </li>
+          ))}
+        </ul>
+      )}
+    </div>
+  );
+}
+
 // ---------- the brief list ----------
 export default function BriefList({ items, date }) {
   const readKey = `ai-ingest-read-${date}`;
@@ -55,6 +108,12 @@ export default function BriefList({ items, date }) {
 
   function markRead(url) {
     const next = [...new Set([...readUrls, url])];
+    setReadUrls(next);
+    localStorage.setItem(readKey, JSON.stringify(next));
+  }
+
+  function markUnread(url) {
+    const next = readUrls.filter((u) => u !== url);
     setReadUrls(next);
     localStorage.setItem(readKey, JSON.stringify(next));
   }
@@ -88,14 +147,18 @@ export default function BriefList({ items, date }) {
   const BATCH = 5;
   const visible = unread.slice(0, BATCH);
   const moreAfter = unread.length - visible.length;
+  const read = items.filter((it) => readUrls.includes(it.url));
 
   if (unread.length === 0) {
     return (
-      <div className="rounded-2xl border border-dashed border-line py-24 text-center">
-        <p className="font-display text-3xl font-light text-ink">All caught up.</p>
-        <p className="mt-3 text-sm text-muted">
-          You&rsquo;ve cleared today&rsquo;s brief. Come back tomorrow.
-        </p>
+      <div>
+        <div className="rounded-2xl border border-dashed border-line py-24 text-center">
+          <p className="font-display text-3xl font-light text-ink">All caught up.</p>
+          <p className="mt-3 text-sm text-muted">
+            You&rsquo;ve cleared today&rsquo;s brief. Come back tomorrow.
+          </p>
+        </div>
+        {read.length > 0 && <ReadSection read={read} onUnread={markUnread} />}
       </div>
     );
   }
@@ -186,6 +249,8 @@ export default function BriefList({ items, date }) {
           {moreAfter} more {moreAfter === 1 ? "story" : "stories"} after these
         </p>
       )}
+
+      {read.length > 0 && <ReadSection read={read} onUnread={markUnread} />}
     </div>
   );
 }
