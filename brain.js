@@ -80,6 +80,46 @@ function parseJSON(text) {
   return JSON.parse(t);
 }
 
+// ---------- cross-day de-dup ----------
+// A story can trend for several days; without memory it would reappear every
+// morning. We remember the URLs shown in past briefs (last 7 days) and skip them.
+const SEEN_PATH = path.join('data', 'seen.json');
+const SEEN_WINDOW_DAYS = 7;
+const DAY_MS = 24 * 60 * 60 * 1000;
+
+async function loadRecentlySeen() {
+  let seen = {};
+  try {
+    seen = JSON.parse(await fs.readFile(SEEN_PATH, 'utf8'));
+  } catch {
+    return new Set(); // no memory yet
+  }
+  const cutoff = Date.now() - SEEN_WINDOW_DAYS * DAY_MS;
+  return new Set(
+    Object.entries(seen)
+      .filter(([, iso]) => new Date(iso).getTime() >= cutoff)
+      .map(([url]) => url)
+  );
+}
+
+async function recordShown(briefItems, today) {
+  let seen = {};
+  try {
+    seen = JSON.parse(await fs.readFile(SEEN_PATH, 'utf8'));
+  } catch {
+    /* start fresh */
+  }
+  for (const it of briefItems || []) {
+    if (it.url) seen[it.url] = today;
+  }
+  // prune anything older than the window so the file can't grow forever
+  const cutoff = Date.now() - SEEN_WINDOW_DAYS * DAY_MS;
+  for (const [url, iso] of Object.entries(seen)) {
+    if (new Date(iso).getTime() < cutoff) delete seen[url];
+  }
+  await fs.writeFile(SEEN_PATH, JSON.stringify(seen, null, 2));
+}
+
 // Read data/feedback.json (star ratings from the web page) and turn it into a
 // short instruction block the model can use as a personalization signal.
 async function buildLearnedPreferences() {
@@ -107,8 +147,22 @@ async function main() {
 
   const profile = await fs.readFile('profile.md', 'utf8');
   const raw = JSON.parse(await fs.readFile(inPath, 'utf8'));
-  const items = raw.items;
-  console.log(`Loaded ${items.length} items from ${inPath}\n`);
+
+  // Drop items already shown in a brief in the last 7 days (cross-day de-dup).
+  const recentlySeen = await loadRecentlySeen();
+  const items = raw.items.filter(it => !recentlySeen.has(it.url));
+  console.log(`Loaded ${raw.items.length} items; ${items.length} fresh after de-dup\n`);
+
+  // If everything was already shown, it's a genuinely quiet day — write an
+  // empty brief rather than forcing repeats, and skip the LLM calls.
+  if (items.length === 0) {
+    const today2 = today;
+    const empty = { date: today2, items: [] };
+    await fs.writeFile(path.join('data', `${today2}.brief.json`), JSON.stringify(empty, null, 2));
+    await fs.writeFile(path.join('web', 'brief.json'), JSON.stringify(empty, null, 2));
+    console.log('Nothing new today — wrote an empty brief.');
+    return;
+  }
 
   // Learned preferences: the star ratings the user gave on the web page.
   // High-rated titles steer the brief toward similar items; low-rated away.
@@ -179,6 +233,9 @@ ${detailList}
   const webPath = path.join('web', 'brief.json');
   await fs.writeFile(webPath, JSON.stringify(brief, null, 2));
   console.log(`Published to ${webPath}`);
+
+  // Remember what we showed so it won't reappear in the next few days.
+  await recordShown(brief.items, today);
 
   // Print so we can eyeball the result (verification rule).
   console.log('\n========== TODAY\'S BRIEF ==========');
