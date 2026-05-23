@@ -15,8 +15,14 @@ import fs from 'node:fs/promises';
 import path from 'node:path';
 import process from 'node:process';
 
-// Load GEMINI_API_KEY from .env.local using Node's built-in env loader (no dep).
-process.loadEnvFile('.env.local');
+// Load GEMINI_API_KEY from .env.local for local runs. In CI (GitHub Actions)
+// there is no .env.local — the key arrives as an environment variable from a
+// repo secret — so a missing file is fine, not an error.
+try {
+  process.loadEnvFile('.env.local');
+} catch {
+  /* no .env.local (e.g. running in CI) — fall back to process.env */
+}
 const API_KEY = process.env.GEMINI_API_KEY;
 if (!API_KEY || API_KEY.startsWith('PASTE_')) {
   console.error('No real GEMINI_API_KEY in .env.local. Add your key and retry.');
@@ -168,6 +174,11 @@ ${detailList}
   const outPath = path.join('data', `${today}.brief.json`);
   await fs.writeFile(outPath, JSON.stringify(brief, null, 2));
   console.log(`\nWrote ${brief.items?.length ?? 0} items to ${outPath}`);
+
+  // Publish to the web app too, so the site always serves the latest brief.
+  const webPath = path.join('web', 'brief.json');
+  await fs.writeFile(webPath, JSON.stringify(brief, null, 2));
+  console.log(`Published to ${webPath}`);
 
   // Print so we can eyeball the result (verification rule).
   console.log('\n========== TODAY\'S BRIEF ==========');
