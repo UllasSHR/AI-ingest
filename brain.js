@@ -179,7 +179,7 @@ async function main() {
 ${profile}${learned}
 </profile>
 
-Below are today's ${items.length} candidate items as "index. [source, score] title". Pick the items most relevant to THIS person per their profile. Cluster duplicates (same story) and keep only the best from each cluster. Keep AT MOST 12.
+Below are today's ${items.length} candidate items as "index. [source, score] title". Pick the items most relevant to THIS person per their profile. Cluster duplicates (same story) and keep only the best from each cluster. Keep AT MOST 20.
 
 Respond with ONLY a JSON array of the chosen indices, most relevant first. Example: [12, 47, 3]
 
@@ -189,7 +189,7 @@ ${titleList}
 
   console.log(`Stage 1: filtering ${items.length} -> shortlist...`);
   const chosen = parseJSON(await callGemini(filterPrompt));
-  const survivors = chosen.map(i => items[i]).filter(Boolean).slice(0, 12);
+  const survivors = chosen.map(i => items[i]).filter(Boolean).slice(0, 20);
   console.log(`  shortlisted ${survivors.length} items\n`);
 
   // ---------- Stage 2: BRIEF (full content of survivors) ----------
@@ -204,7 +204,7 @@ ${titleList}
 ${profile}${learned}
 </profile>
 
-From the candidates below, choose the 3-5 that genuinely matter most to THIS person and write their brief. Follow the profile's rules exactly:
+From the candidates below, choose up to 15 items worth surfacing and write their brief, RANKED most-important first. The top 3-5 are the day's essentials (the reader may stop there); the rest are "more if they have time", so quality must stay high all the way down — no filler to reach 15. Follow the profile's rules exactly:
 - Rank "someone shipping" stories highest.
 - Every item's explanation MUST end with one concrete thing they could try THIS WEEK with what they already have. If you can't write that sentence honestly, drop the item.
 - Plain English, no hype words, one short paragraph per item.

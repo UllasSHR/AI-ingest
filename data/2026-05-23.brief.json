@@ -2,34 +2,94 @@
   "date": "2026-05-23",
   "items": [
     {
+      "title": "I built an app with Claude Code that converts any text into high-quality audio.",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tkqevl/i_built_an_app_with_claude_code_that_converts_any/",
+      "source": "reddit/ClaudeAI",
+      "why_it_matters": "Someone built and shipped a mobile app entirely using Claude Code, which is your primary coding tool. The project uses React Native and NodeJS, which are similar to your Next.js stack. This shows a direct path from using Claude Code to shipping a real product. You could study their approach to building with Claude Code and how they structured their project."
+    },
+    {
+      "title": "I built a music notation app with Claude, and Claude is also a feature inside it",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tkp3p4/i_built_a_music_notation_app_with_claude_and/",
+      "source": "reddit/ClaudeAI",
+      "why_it_matters": "Another developer shipped an open-source music notation editor using Claude Code, and even integrated Claude as a feature within the app. Their README details a workflow combining GitHub issues with Claude skills, which is directly relevant to how you direct AI to type code. You could review their GitHub repo and README to learn about their specific workflow for delegating coding tasks to Claude."
+    },
+    {
+      "title": "I used $30,983 of AI tokens last month in Claude Code on $200/mo plan",
+      "url": "https://www.indiehackers.com/post/i-used-30-983-of-ai-tokens-last-month-in-claude-code-on-200-mo-plan-3337a369a6",
+      "source": "hn",
+      "why_it_matters": "This post shares a real-world example of high token usage and cost management with Claude Code, a tool you use daily. It highlights the importance of cost efficiency, which you've previously rated as a high signal. You could read this post to understand potential cost pitfalls and strategies for managing your own Claude Code token usage."
+    },
+    {
       "title": "Microsoft starts canceling Claude Code licenses",
       "url": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
       "source": "hn",
-      "why_it_matters": "Microsoft is discontinuing Claude Code licenses. You rely on Claude Code for your development, so this change means you'll need to find alternative tools or adjust your workflow soon. This week, research alternatives to Claude Code like other AI coding assistants or explore how to integrate Claude's API directly into your IDE for similar functionality."
-    },
-    {
-      "title": "Show HN: Neuz, a self-hosted news dashboard curated by Claude",
-      "url": "https://github.com/vshvedov/neuz",
-      "source": "hn",
-      "why_it_matters": "An indie developer shipped \"Neuz,\" a self-hosted news dashboard that uses Claude for curation. This is a direct example of someone shipping a project very similar to your AI-ingest tool, using Claude. You can learn from their approach to building and deploying. This week, review the Neuz GitHub repo to see how they structured their Claude integration for news curation and consider adapting any useful patterns for your own AI-ingest project."
+      "why_it_matters": "Microsoft is reportedly canceling licenses for Claude Code, which is your primary tool for writing code. This directly impacts your current workflow and might require you to adapt or find alternatives. You should check if your access to Claude Code is affected and start exploring backup coding AI options like Codex, which you also use."
     },
     {
       "title": "Launch HN: Superset (YC P26) – IDE for the agents era",
       "url": "https://github.com/superset-sh/superset",
       "source": "hn",
-      "why_it_matters": "Superset, an open-source IDE, launched to help developers run multiple coding agents like Claude Code and Codex in parallel. This tool is designed to improve the \"direction\" part of your vibe coding by letting you manage and run several AI coding agents simultaneously, potentially speeding up your development and pushing you to ship faster. This week, try installing Superset and experimenting with running Claude Code or Codex agents in parallel on a small task for your AI-ingest project to see if it improves your workflow efficiency."
+      "why_it_matters": "Superset is an open-source IDE designed for running coding agents like Claude Code and Codex in parallel, which are your main coding tools. This could significantly improve your efficiency in directing multiple AIs, aligning with your goal of getting good at the 'direction' part. You could try out Superset to see if it streamlines your current workflow for directing Claude Code and Codex."
     },
     {
       "title": "Deep codebase context cuts Claude Code's token cost by 47%",
       "url": "https://bito.ai/blog/codebase-context-cuts-claudes-token-cost/",
       "source": "hn",
-      "why_it_matters": "New techniques for providing deep codebase context to Claude Code can significantly reduce token costs. You use Claude Code daily, and managing token costs is important. Learning these techniques could save you money and make your AI-driven development more efficient. This week, read the article to understand how \"deep codebase context\" is applied and try implementing one of their suggested methods in your current Claude Code workflow to see if you can reduce your token usage."
+      "why_it_matters": "This article discusses a method to significantly reduce Claude Code's token costs by providing deeper codebase context. Given your focus on cost savings and efficient use of Claude, this is a practical optimization. You could investigate how to implement 'deep codebase context' strategies in your own Claude Code projects to lower your token expenses."
+    },
+    {
+      "title": "After comparing Claude Max $100 and ChatGPT Pro $100 side by side on actual billable work, I'm cancelling my ChatGPT Pro subscription",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tkhp7a/after_comparing_claude_max_100_and_chatgpt_pro/",
+      "source": "reddit/ClaudeAI",
+      "why_it_matters": "This post offers a real-world comparison of Claude Max and ChatGPT Pro for billable work, reinforcing Claude's quality for getting tasks done. Since you mostly use Claude and want to ship, this feedback supports focusing on the tools that deliver results. You could use this insight to prioritize Claude for your core development tasks, knowing its strengths in practical applications."
+    },
+    {
+      "title": "Show HN: Neuz, a self-hosted news dashboard curated by Claude",
+      "url": "https://github.com/vshvedov/neuz",
+      "source": "hn",
+      "why_it_matters": "Someone shipped a self-hosted news dashboard that uses Claude for curation. This is a relevant example of building a tool with AI, similar in concept to your AI-ingest project. You could examine the Neuz GitHub repository to see how they integrated Claude for content curation and structured their self-hosted application."
     },
     {
       "title": "Show HN: Myco – coordinate Claude and DeepSeek and other LLMs in one agent swarm",
       "url": "https://github.com/primoia/myco",
       "source": "hn",
-      "why_it_matters": "Myco is a new open-source tool that allows you to coordinate multiple LLMs like Claude and DeepSeek within a single agent swarm. This aligns with your interest in delegating coding tasks to different LLMs for cost savings and leveraging specific model strengths, enhancing your \"direction\" skills for complex AI workflows. This week, explore Myco's documentation and examples to understand how it orchestrates different LLMs, then consider setting up a basic agent swarm to handle a small, specific coding task for your AI-ingest project using both Claude and a cheaper model like DeepSeek."
+      "why_it_matters": "Myco is an open-source tool for coordinating multiple LLMs, including Claude and DeepSeek (which you've used for cost savings). This directly relates to your goal of getting good at directing AI and managing different models. You could explore the Myco repo to understand how it orchestrates LLMs and consider if it could be useful for managing your AI agents in future projects."
+    },
+    {
+      "title": "Brethof-mind – local long-term memory for Claude Code (SurrealDB, no API)",
+      "url": "https://github.com/BrethofAI/brethof-mind",
+      "source": "hn",
+      "why_it_matters": "This project offers a local long-term memory solution specifically for Claude Code, your main development tool. Better memory management can significantly improve the quality and consistency of AI outputs, making your 'direction' more effective. You could investigate this tool to see if it can enhance your Claude Code workflow by providing more persistent context across sessions."
+    },
+    {
+      "title": "Show HN: Prisma Next – data contracts, migration graphs, agent DX",
+      "url": "https://github.com/prisma/prisma-next",
+      "source": "hn",
+      "why_it_matters": "Prisma is a database toolkit often used with Next.js and Supabase (Postgres). Prisma Next is a rewrite with new features, including 'agent DX' (developer experience for agents) and AI tooling integration. This could be a relevant update for your backend stack and how you direct AI. You could look into Prisma Next's agent integration features to see how it might fit into your future Next.js/Supabase projects."
+    },
+    {
+      "title": "Show HN: I made an open-source memory layer for agents",
+      "url": "https://agentrecall.cloud",
+      "source": "hn",
+      "why_it_matters": "This is an open-source, self-hostable memory layer for AI agents, which is crucial for building more complex and capable AI applications. Improving how agents remember and use information directly supports your goal of getting better at directing AI. You could check out the repo to understand how a memory layer works and consider if it could be integrated into your AI-ingest project or future agent-based tools."
+    },
+    {
+      "title": "Show HN: TruLayer – tracing, evals, and a control loop for production LLMs",
+      "url": "https://trulayer.ai/",
+      "source": "hn",
+      "why_it_matters": "TruLayer provides tools for tracing, evaluating, and controlling LLMs in production, which are essential aspects of building 'real software' that you aim to do. Understanding these concepts is key to shipping robust AI applications. You could explore TruLayer to learn about best practices for adding tracing and evaluation to your AI projects, making them more production-ready."
+    },
+    {
+      "title": "Models.dev: open-source database of AI model specs, pricing, and capabilities",
+      "url": "https://github.com/anomalyco/models.dev",
+      "source": "hn",
+      "why_it_matters": "Models.dev is an open-source resource that centralizes information on AI model specifications, pricing, and capabilities. This can make your life easier by providing a quick reference for comparing different LLMs, especially for cost, which you care about. You could use Models.dev to quickly compare the pricing and features of various LLMs when planning your next project or optimizing current ones."
+    },
+    {
+      "title": "You now get warnings about context usage when resuming a session. Windows Desktop app.",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tl6ya8/you_now_get_warnings_about_context_usage_when/",
+      "source": "reddit/ClaudeAI",
+      "why_it_matters": "The Claude Code desktop app now provides warnings about context usage, which directly helps you manage token consumption and costs. This is a practical improvement to a tool you use daily. You could pay closer attention to these new warnings in your Claude Code desktop app to better manage your token usage and avoid unexpected costs."
     }
   ]
 }

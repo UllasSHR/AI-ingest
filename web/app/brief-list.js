@@ -83,6 +83,12 @@ export default function BriefList({ items, date }) {
   const readCount = items.length - unread.length;
   const pct = items.length ? (readCount / items.length) * 100 : 0;
 
+  // Show only the next 5 unread at a time. As you mark them done, the next-best
+  // 5 slide in — go as deep as you like, but it stays finite and ranked.
+  const BATCH = 5;
+  const visible = unread.slice(0, BATCH);
+  const moreAfter = unread.length - visible.length;
+
   if (unread.length === 0) {
     return (
       <div className="rounded-2xl border border-dashed border-line py-24 text-center">
@@ -110,7 +116,7 @@ export default function BriefList({ items, date }) {
       </div>
 
       <div className="space-y-5">
-        {unread.map((it, i) => {
+        {visible.map((it, i) => {
           const r = ratings[it.url] || 0;
           return (
             <article
@@ -120,7 +126,7 @@ export default function BriefList({ items, date }) {
             >
               <div className="flex items-start gap-4 sm:gap-5">
                 <span className="font-display text-2xl font-light tabular-nums text-gold/60">
-                  {String(i + 1).padStart(2, "0")}
+                  {String(readCount + i + 1).padStart(2, "0")}
                 </span>
 
                 <div className="min-w-0 flex-1">
@@ -174,6 +180,12 @@ export default function BriefList({ items, date }) {
           );
         })}
       </div>
+
+      {moreAfter > 0 && (
+        <p className="mt-8 text-center text-xs uppercase tracking-[0.2em] text-faint">
+          {moreAfter} more {moreAfter === 1 ? "story" : "stories"} after these
+        </p>
+      )}
     </div>
   );
 }
