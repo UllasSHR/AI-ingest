@@ -1,19 +1,4 @@
 {
-  "https://old.reddit.com/r/AIAgentsInAction/comments/1t84rlc/this_guy_won_the_anthropic_hackathon_solo_then_he/": "2026-05-24",
-  "https://medium.com/@eritonsilva/from-vibe-coding-to-ai-assisted-engineering-lessons-from-real-projects-c403b85eaad1": "2026-05-24",
-  "https://news.ycombinator.com/item?id=48248801": "2026-05-24",
-  "https://github.com/tejpalv/cc-wiki": "2026-05-24",
-  "https://github.com/peterxcli/ccost": "2026-05-24",
-  "https://github.com/Tem-Degu/streetai-memory": "2026-05-24",
-  "https://github.com/anatomia-dev/anatomia": "2026-05-24",
-  "https://vechron.com/2026/05/i-reproduced-a-claude-code-rce-the-bug-pattern_is_everywhere/": "2026-05-24",
-  "https://news.ycombinator.com/item?id=48245259": "2026-05-24",
-  "https://getnable.com/": "2026-05-24",
-  "https://hack8s.com/244/llms-code-is-just-untrusted-text-until-you-validate-it": "2026-05-24",
-  "https://www.verytis.com": "2026-05-24",
-  "https://github.com/narekmalk/safedb-mcp": "2026-05-24",
-  "https://drmadmeow.up.railway.app/": "2026-05-24",
-  "https://aibtc.com/bounty/mph3k1ox8cfcc82151d3": "2026-05-24",
   "https://hackobar.com/": "2026-05-26",
   "https://www.lennysnewsletter.com/p/how-i-ai-how-the-engineer-behind": "2026-05-26",
   "https://theincidentchallenge.com/": "2026-05-26",
@@ -62,5 +47,9 @@
   "https://www.bearhugrecruiting.com/startup-recruiting/bearhug-network-origin-story": "2026-05-30",
   "https://extraheadroom.com/": "2026-05-30",
   "https://github.com/glebmish/claude-code-replay": "2026-05-30",
-  "https://blog.angeloff.name/post/2026/05/29/teaching-tmux-to-babysit-my-claude-code-agents/": "2026-05-30"
+  "https://blog.angeloff.name/post/2026/05/29/teaching-tmux-to-babysit-my-claude-code-agents/": "2026-05-30",
+  "https://github.com/raine/claude-code-proxy": "2026-05-31",
+  "https://github.com/glebis/claude-skills": "2026-05-31",
+  "https://github.com/Jwrede/tokentoll": "2026-05-31",
+  "https://github.com/jsingh6/arch-decision": "2026-05-31"
 }
