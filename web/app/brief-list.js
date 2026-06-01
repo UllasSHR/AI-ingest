@@ -98,13 +98,20 @@ export default function BriefList({ items, date }) {
   const [ratings, setRatings] = useState({});
 
   useEffect(() => {
-    try {
-      setReadUrls(JSON.parse(localStorage.getItem(readKey) || "[]"));
-      setRatings(JSON.parse(localStorage.getItem(ratingsKey) || "{}"));
-    } catch {
-      /* ignore corrupt storage */
-    }
-  }, [readKey]);
+    let cancelled = false;
+    queueMicrotask(() => {
+      if (cancelled) return;
+      try {
+        setReadUrls(JSON.parse(localStorage.getItem(readKey) || "[]"));
+        setRatings(JSON.parse(localStorage.getItem(ratingsKey) || "{}"));
+      } catch {
+        /* ignore corrupt storage */
+      }
+    });
+    return () => {
+      cancelled = true;
+    };
+  }, [readKey, ratingsKey]);
 
   function markRead(url) {
     const next = [...new Set([...readUrls, url])];
@@ -144,7 +151,7 @@ export default function BriefList({ items, date }) {
 
   // Show only the next 5 unread at a time. As you mark them done, the next-best
   // 5 slide in — go as deep as you like, but it stays finite and ranked.
-  const BATCH = 5;
+  const BATCH = 7;
   const visible = unread.slice(0, BATCH);
   const moreAfter = unread.length - visible.length;
   const read = items.filter((it) => readUrls.includes(it.url));

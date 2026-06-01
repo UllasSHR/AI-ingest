@@ -1,0 +1,414 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>AI-ingest — Interactive Code Explainer</title>
+<style>
+  :root {
+    --bg:#fff; --ink:#1a1a1a; --muted:#5b6470; --faint:#8a93a0;
+    --line:#e6e9ee; --code-bg:#f6f8fa; --code-line:#e4e8ee;
+    --accent:#D4622A; --accent-soft:#FEF3EE; --chip:#f3f5f8;
+    --ok:#2b8a3e; --bad:#d6336c;
+    --t-kw:#d6336c; --t-fn:#b84a10; --t-str:#2b8a3e; --t-num:#1971c2;
+    --t-com:#97a0ab; --t-re:#e8590c; --t-lit:#0c8599;
+    --mono:ui-monospace,"SF Mono","JetBrains Mono",Menlo,Consolas,monospace;
+    --sans:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
+  }
+  *{box-sizing:border-box;}
+  html,body{margin:0;background:var(--bg);color:var(--ink);}
+  body{font-family:var(--sans);line-height:1.65;-webkit-font-smoothing:antialiased;}
+  main{max-width:780px;margin:0 auto;padding:36px 24px 120px;}
+  a{color:var(--accent);}
+
+  .kicker{font-family:var(--mono);font-size:12.5px;color:var(--accent);}
+  h1{font-size:38px;line-height:1.1;letter-spacing:-.02em;margin:10px 0;font-weight:700;}
+  .sub{font-size:17px;color:var(--muted);margin:0 0 26px;}
+
+  /* ---- basics primer ---- */
+  .basics{background:var(--code-bg);border:1px solid var(--code-line);border-radius:14px;padding:6px 18px;margin:0 0 32px;}
+  .basics > summary{cursor:pointer;list-style:none;font-weight:700;font-size:15px;padding:12px 0;color:var(--ink);}
+  .basics > summary::-webkit-details-marker{display:none;}
+  .basics > summary::before{content:"▸  ";color:var(--accent);}
+  .basics[open] > summary::before{content:"▾  ";}
+  .basics dl{margin:4px 0 14px;}
+  .basics dt{font-family:var(--mono);font-size:13px;color:var(--accent);font-weight:600;margin-top:12px;}
+  .basics dd{margin:2px 0 0;font-size:14.5px;color:var(--muted);}
+
+  /* ---- interactive pipeline ---- */
+  .pipe{border:1px solid var(--code-line);border-radius:14px;padding:20px;margin:0 0 36px;background:#fff;}
+  .pipe-row{display:flex;align-items:stretch;gap:10px;}
+  .stage{flex:1;cursor:pointer;background:var(--code-bg);border:1.5px solid var(--code-line);
+    border-radius:12px;padding:14px;text-align:center;transition:.18s;user-select:none;}
+  .stage code{font-family:var(--mono);font-size:13px;color:var(--accent);font-weight:600;}
+  .stage small{display:block;color:var(--faint);font-size:11px;margin-top:4px;}
+  .stage:hover{border-color:var(--accent);}
+  .stage.active{background:var(--accent-soft);border-color:var(--accent);box-shadow:0 0 0 3px var(--accent-soft);}
+  .stage.lit{animation:pop .5s ease;}
+  @keyframes pop{0%{transform:scale(1);}40%{transform:scale(1.06);background:var(--accent-soft);}100%{transform:scale(1);}}
+  .arrow{align-self:center;color:var(--faint);font-size:22px;}
+  .pipe-detail{margin-top:14px;font-size:14.5px;color:var(--muted);min-height:42px;
+    border-left:3px solid var(--accent);padding:6px 0 6px 14px;}
+  .runbtn{margin-top:14px;font-family:var(--sans);font-size:13px;font-weight:600;color:#fff;
+    background:var(--accent);border:none;border-radius:8px;padding:8px 16px;cursor:pointer;}
+  .runbtn:active{transform:translateY(1px);}
+
+  /* ---- concept cards ---- */
+  section{padding:32px 0;border-top:1px solid var(--line);scroll-margin-top:16px;}
+  section .num{font-family:var(--mono);font-size:11.5px;color:var(--faint);letter-spacing:.1em;}
+  section h2{font-size:23px;letter-spacing:-.015em;margin:6px 0 4px;font-weight:700;}
+  section .file{font-family:var(--mono);font-size:12.5px;color:var(--muted);margin:0 0 14px;}
+  section .file b{color:var(--accent);}
+  section p.lede{font-size:15.5px;color:#33383f;margin:0 0 16px;}
+  p code,li code,dd code,.lede code{font-family:var(--mono);font-size:12.5px;background:var(--chip);
+    padding:1px 6px;border-radius:5px;color:#9B4420;}
+
+  .snip{position:relative;margin:4px 0 16px;}
+  .snip pre{margin:0;background:var(--code-bg);border:1px solid var(--code-line);border-radius:12px;
+    padding:16px;overflow-x:auto;font-family:var(--mono);font-size:12.5px;line-height:1.6;color:#2b2f36;tab-size:2;}
+  .snip .copy{position:absolute;top:9px;right:9px;font-family:var(--sans);font-size:11px;font-weight:600;
+    color:var(--muted);background:#fff;border:1px solid var(--code-line);border-radius:7px;
+    padding:3px 9px;cursor:pointer;opacity:0;transition:.15s;}
+  .snip:hover .copy{opacity:1;}
+  .snip .copy:hover{color:var(--accent);border-color:var(--accent);}
+  .snip .copy.done{color:var(--ok);border-color:var(--ok);opacity:1;}
+
+  .c-kw{color:var(--t-kw);font-weight:600;} .c-fn{color:var(--t-fn);} .c-str{color:var(--t-str);}
+  .c-num{color:var(--t-num);} .c-com{color:var(--t-com);font-style:italic;}
+  .c-re{color:var(--t-re);} .c-lit{color:var(--t-lit);}
+
+  /* ---- what-if lab ---- */
+  .lab{border:1px solid var(--code-line);border-radius:12px;padding:14px 16px;margin-top:14px;background:#fff;}
+  .lab .q{font-size:12px;text-transform:uppercase;letter-spacing:.1em;color:var(--accent);font-weight:700;margin-bottom:10px;}
+  .lab .btns{display:flex;flex-wrap:wrap;gap:8px;}
+  .lab button{font-family:var(--mono);font-size:12.5px;font-weight:600;cursor:pointer;
+    border:1.5px solid var(--code-line);background:var(--code-bg);color:var(--ink);
+    border-radius:8px;padding:7px 12px;transition:.15s;}
+  .lab button:hover{border-color:var(--accent);}
+  .lab button.sel{background:var(--accent-soft);border-color:var(--accent);color:var(--accent);}
+  .lab .out{margin-top:12px;font-size:14px;min-height:24px;padding:10px 12px;border-radius:8px;
+    background:var(--chip);color:var(--muted);transition:.15s;}
+  .lab .out.good{background:#f0faf4;color:#1d6b30;border-left:3px solid var(--ok);}
+  .lab .out.bad{background:#fff5f5;color:#a51d4a;border-left:3px solid var(--bad);}
+  .lab .out b{font-family:var(--mono);}
+
+  footer{padding-top:32px;color:var(--faint);font-size:14px;border-top:1px solid var(--line);margin-top:8px;}
+</style>
+</head>
+<body>
+<main>
+
+  <div class="kicker">a hands-on tour of your own code</div>
+  <h1>The patterns worth keeping — try them</h1>
+  <p class="sub">
+    Same ideas as the static tour, but here you poke at them. Click the pipeline,
+    press <b>Run</b>, and use the <b>what-if buttons</b> to see what would break if you
+    wrote it the other way.
+  </p>
+
+  <!-- ===== basics primer ===== -->
+  <details class="basics">
+    <summary>New to JS? The 6 words you need first</summary>
+    <dl>
+      <dt>object</dt><dd>A bag of named values: <code>{ title, url }</code>. The whole app passes these around.</dd>
+      <dt>async / await</dt><dd>Network calls take time. <code>await</code> says "pause here until this finishes," without freezing the rest of the program.</dd>
+      <dt>Promise</dt><dd>A placeholder for a value that isn't ready yet (a fetch in flight). You <code>await</code> it to get the value.</dd>
+      <dt>array methods</dt><dd><code>.map()</code> transforms each item, <code>.filter()</code> keeps some — both return a <em>new</em> array, leaving the original alone.</dd>
+      <dt>Set</dt><dd>A collection that auto-rejects duplicates and answers "have I seen this?" instantly.</dd>
+      <dt>throw</dt><dd>Stop now with an error you wrote, instead of crashing later with a cryptic one.</dd>
+    </dl>
+  </details>
+
+  <!-- ===== interactive pipeline ===== -->
+  <div class="pipe">
+    <div class="pipe-row">
+      <div class="stage active" data-stage="0">
+        <code>scraper.js</code><small>collect</small>
+      </div>
+      <div class="arrow">&rarr;</div>
+      <div class="stage" data-stage="1">
+        <code>brain.js</code><small>filter</small>
+      </div>
+      <div class="arrow">&rarr;</div>
+      <div class="stage" data-stage="2">
+        <code>web/</code><small>render</small>
+      </div>
+    </div>
+    <div class="pipe-detail" id="pipeDetail"></div>
+    <button class="runbtn" id="runBtn">&#9654; Run the pipeline</button>
+  </div>
+
+  <!-- ===== 1: nullish ===== -->
+  <section>
+    <div class="num">01 · BUILDING BLOCKS</div>
+    <h2>One shape for many sources</h2>
+    <p class="file">from <b>scraper.js</b> — <code>makeItem()</code></p>
+    <p class="lede">
+      Every source (HN, Reddit, RSS, HuggingFace) funnels through <code>makeItem</code> and
+      comes out identical — the <b>adapter</b> idea. The tricky bit is the default value:
+      <code>score ?? null</code> keeps a real <code>0</code>; <code>score || null</code> throws it away.
+    </p>
+    <div class="snip"><button class="copy">Copy</button><pre data-for="s1"></pre></div>
+    <div class="lab"
+      data-q="A story has score 0. Which default keeps it?"
+      data-opt='[
+        {"l":"score ?? null","good":true,"t":"Result: <b>0</b> ✓ — ?? only replaces null/undefined, so a real zero survives."},
+        {"l":"score || null","good":false,"t":"Result: <b>null</b> ✗ — 0 is falsy, so || silently drops a genuine score."}
+      ]'></div>
+  </section>
+
+  <!-- ===== 2: optional chaining ===== -->
+  <section>
+    <div class="num">02 · BUILDING BLOCKS</div>
+    <h2>Reaching into deep objects without crashing</h2>
+    <p class="file">from <b>brain.js</b> — reading Gemini's reply</p>
+    <p class="lede">
+      The model's reply is deeply nested and any level can be missing. Optional chaining
+      (<code>?.</code>) walks the path and yields <code>undefined</code> instead of throwing.
+    </p>
+    <div class="snip"><button class="copy">Copy</button><pre data-for="s2"></pre></div>
+    <div class="lab"
+      data-q="Gemini returns {} (empty). How do you read candidates[0]?"
+      data-opt='[
+        {"l":"data?.candidates?.[0]","good":true,"t":"Result: <b>undefined</b> ✓ — then your <b>if (!text) throw</b> fires one clear error you control."},
+        {"l":"data.candidates[0]","good":false,"t":"💥 <b>TypeError: Cannot read properties of undefined</b> — a cryptic crash deep in someone else’s data."}
+      ]'></div>
+  </section>
+
+  <!-- ===== 3: parallel ===== -->
+  <section>
+    <div class="num">03 · RESILIENCE</div>
+    <h2>Run everything in parallel — without one failure killing the rest</h2>
+    <p class="file">from <b>scraper.js</b> — <code>main()</code></p>
+    <p class="lede">
+      Five network calls fire at once. If Reddit is down you still want the other four.
+      <code>Promise.allSettled</code> waits for all and never rejects.
+    </p>
+    <div class="snip"><button class="copy">Copy</button><pre data-for="s3"></pre></div>
+    <div class="lab"
+      data-q="Reddit is down today. What ships?"
+      data-opt='[
+        {"l":"Promise.allSettled","good":true,"t":"✓ 4 sources merged, Reddit logged and skipped. The brief still ships."},
+        {"l":"Promise.all","good":false,"t":"✗ The whole batch rejects the instant Reddit fails — 0 items, empty brief, broken morning."}
+      ]'></div>
+  </section>
+
+  <!-- ===== 4: dedupe ===== -->
+  <section>
+    <div class="num">04 · RESILIENCE</div>
+    <h2>De-duplicate with a Set</h2>
+    <p class="file">from <b>scraper.js</b> — <code>fetchHN()</code></p>
+    <p class="lede">
+      The same story shows up under several keyword searches. A <code>Set</code> keeps the
+      first of each URL and drops the rest in one pass.
+    </p>
+    <div class="snip"><button class="copy">Copy</button><pre data-for="s5"></pre></div>
+    <div class="lab"
+      data-q="Checking 1000s of URLs for duplicates — which scales?"
+      data-opt='[
+        {"l":"seen.has(url)  (Set)","good":true,"t":"✓ O(1) per check — stays fast no matter how many URLs you have."},
+        {"l":"arr.includes(url)","good":false,"t":"✗ O(n) per check → O(n²) overall — re-scans the whole array every time, crawls as it grows."}
+      ]'></div>
+  </section>
+
+  <!-- ===== 5: two-stage ===== -->
+  <section>
+    <div class="num">05 · WORKING WITH AN LLM</div>
+    <h2>The two-stage pipeline (the cost trick)</h2>
+    <p class="file">from <b>brain.js</b> — <code>main()</code></p>
+    <p class="lede">
+      Stage 1 sends only <em>titles</em> and asks for the best indices; stage 2 sends the full
+      content of just those survivors. Cheap filter, then expensive detail.
+    </p>
+    <div class="snip"><button class="copy">Copy</button><pre data-for="s8"></pre></div>
+    <div class="lab"
+      data-q="~100 articles to filter. What do you send the model?"
+      data-opt='[
+        {"l":"titles → indices, then 5 full","good":true,"t":"✓ ~100 short titles + 5 full bodies. Tiny prompt, fits the free tier, fast."},
+        {"l":"all 100 full articles","good":false,"t":"✗ A giant prompt — slow, and it can blow the free-tier token limit or time out."}
+      ]'></div>
+  </section>
+
+  <!-- ===== 6: tolerant parse ===== -->
+  <section>
+    <div class="num">06 · WORKING WITH AN LLM</div>
+    <h2>Parsing JSON the model "mostly" returned</h2>
+    <p class="file">from <b>brain.js</b> — <code>parseJSON()</code></p>
+    <p class="lede">
+      Models love wrapping JSON in <code>```json</code> fences or a chatty sentence.
+      Strip the noise, grab everything between the first bracket and last closer, then parse.
+    </p>
+    <div class="snip"><button class="copy">Copy</button><pre data-for="s7"></pre></div>
+    <div class="lab"
+      data-q='Model replies: ```json\n[1,2]\n```  — now what?'
+      data-opt='[
+        {"l":"parseJSON(text)","good":true,"t":"✓ Fences stripped, brackets found → <b>[1, 2]</b>. Tolerant of formatting noise."},
+        {"l":"JSON.parse(text)","good":false,"t":"✗ <b>SyntaxError: Unexpected token `</b> — raw model text is rarely clean JSON."}
+      ]'></div>
+  </section>
+
+  <footer>
+    One file, no build step, no dependencies. The static version lives in
+    <code>code-explainer.html</code> — this one is for poking at the ideas.
+  </footer>
+</main>
+
+<!-- ===== raw snippets (verbatim, no escaping needed) ===== -->
+<script type="text/plain" id="s1">
+function makeItem({ title, url, source, score, content }) {
+  return {
+    title: (title || '').trim(),
+    url,
+    source,
+    score: score ?? null,                 // ?? keeps a real 0
+    content: (content || '').trim().slice(0, 2000),
+    fetched_at: new Date().toISOString(),
+  };
+}
+</script>
+
+<script type="text/plain" id="s2">
+const data = await res.json();
+const text = data.candidates?.[0]?.content?.parts?.[0]?.text;
+if (!text) throw new Error(`${model}: empty response`);
+return text;
+</script>
+
+<script type="text/plain" id="s3">
+// allSettled: one failure doesn't kill the whole run.
+const results = await Promise.allSettled(tasks.map(t => t[1]));
+
+const all = [];
+for (let i = 0; i < tasks.length; i++) {
+  const r = results[i];
+  if (r.status === 'fulfilled') all.push(...r.value);   // merge this source
+  else console.log(`  ✗ ${tasks[i][0]} failed`);         // log + carry on
+}
+</script>
+
+<script type="text/plain" id="s5">
+// dedup by URL — same story appears under many keyword queries
+const seen = new Set();
+return items.filter(i => {
+  if (!i.url || seen.has(i.url)) return false;
+  seen.add(i.url);
+  return true;
+});
+</script>
+
+<script type="text/plain" id="s7">
+function parseJSON(text) {
+  let t = text.trim();
+  t = t.replace(/^```(?:json)?\s*/i, '').replace(/\s*```$/, '');
+  const starts = ['{', '['].map(c => t.indexOf(c)).filter(i => i !== -1);
+  const first = starts.length ? Math.min(...starts) : -1;
+  const last = Math.max(t.lastIndexOf('}'), t.lastIndexOf(']'));
+  if (first !== -1 && last !== -1) t = t.slice(first, last + 1);
+  return JSON.parse(t);
+}
+</script>
+
+<script type="text/plain" id="s8">
+// Stage 1: titles only -> model returns indices, e.g. [12, 47, 3]
+const chosen = parseJSON(await callGemini(filterPrompt));
+const survivors = chosen.map(i => items[i]).filter(Boolean).slice(0, 20);
+
+// Stage 2: full content of just the survivors -> the brief
+const brief = parseJSON(await callGemini(briefPrompt));
+</script>
+
+<!-- ===== highlighter + interactions ===== -->
+<script>
+(function () {
+  const KW = new Set(["const","let","var","function","async","await","return","for","of",
+    "in","if","else","try","catch","finally","throw","new","import","from","export","default",
+    "class","this","typeof","instanceof","while","continue","break","void","do","switch","case"]);
+  const LIT = new Set(["null","true","false","undefined","NaN","Infinity"]);
+  const esc = s => s.replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;");
+
+  function highlight(src){
+    let i=0,n=src.length,out="",prev="";
+    const isWord=c=>/[A-Za-z0-9_$]/.test(c), isVal=c=>/[A-Za-z0-9_$)\]]/.test(c);
+    while(i<n){
+      const c=src[i];
+      if(/\s/.test(c)){out+=c;i++;continue;}
+      if(c==="/"&&src[i+1]==="/"){let j=i+2;while(j<n&&src[j]!=="\n")j++;out+='<span class="c-com">'+esc(src.slice(i,j))+"</span>";i=j;continue;}
+      if(c==="/"&&src[i+1]==="*"){let j=i+2;while(j<n&&!(src[j]==="*"&&src[j+1]==="/"))j++;j=Math.min(n,j+2);out+='<span class="c-com">'+esc(src.slice(i,j))+"</span>";i=j;continue;}
+      if(c==='"'||c==="'"||c==="`"){const q=c;let j=i+1;while(j<n){if(src[j]==="\\"){j+=2;continue;}if(src[j]===q){j++;break;}j++;}out+='<span class="c-str">'+esc(src.slice(i,j))+"</span>";i=j;prev=q;continue;}
+      if(c==="/"&&!isVal(prev)){let j=i+1,cls=false,ok=true;while(j<n){const d=src[j];if(d==="\\"){j+=2;continue;}if(d==="[")cls=true;else if(d==="]")cls=false;else if(d==="/"&&!cls){j++;break;}else if(d==="\n"){ok=false;break;}j++;}if(ok){while(j<n&&/[a-z]/i.test(src[j]))j++;out+='<span class="c-re">'+esc(src.slice(i,j))+"</span>";i=j;prev="/";continue;}}
+      if(/[0-9]/.test(c)){let j=i+1;while(j<n&&/[0-9a-fA-F_xX.]/.test(src[j]))j++;out+='<span class="c-num">'+esc(src.slice(i,j))+"</span>";i=j;prev="0";continue;}
+      if(isWord(c)){let j=i+1;while(j<n&&isWord(src[j]))j++;const w=src.slice(i,j);let k=j;while(k<n&&src[k]===" ")k++;const after=src[k];
+        if(KW.has(w))out+='<span class="c-kw">'+w+"</span>";
+        else if(LIT.has(w))out+='<span class="c-lit">'+w+"</span>";
+        else if(after==="(")out+='<span class="c-fn">'+esc(w)+"</span>";
+        else out+=esc(w);
+        i=j;prev=w[w.length-1];continue;}
+      out+=esc(c);prev=c;i++;
+    }
+    return out;
+  }
+
+  // render snippets
+  document.querySelectorAll("pre[data-for]").forEach(pre=>{
+    const raw=document.getElementById(pre.getAttribute("data-for")).textContent.replace(/^\r?\n/,"").replace(/\s+$/,"");
+    pre.dataset.raw=raw; pre.innerHTML=highlight(raw);
+  });
+
+  // copy buttons
+  document.querySelectorAll(".snip .copy").forEach(btn=>{
+    btn.addEventListener("click",()=>{
+      const pre=btn.parentElement.querySelector("pre");
+      navigator.clipboard.writeText(pre.dataset.raw||pre.textContent).then(()=>{
+        btn.textContent="Copied";btn.classList.add("done");
+        setTimeout(()=>{btn.textContent="Copy";btn.classList.remove("done");},1400);
+      });
+    });
+  });
+
+  // ---- interactive pipeline ----
+  const stageInfo=[
+    "scraper.js pulls raw items from 5 free sources in parallel and normalizes them into one shape → data/DATE.json.",
+    "brain.js sends titles to Gemini for a cheap filter, then full text of the survivors → data/DATE.brief.json (3–5 picks).",
+    "web/ reads the brief, renders the boring morning page, and collects your star ratings to feed back into tomorrow's filter."
+  ];
+  const detail=document.getElementById("pipeDetail");
+  const stages=[...document.querySelectorAll(".stage")];
+  function show(idx){
+    stages.forEach(s=>s.classList.toggle("active",+s.dataset.stage===idx));
+    detail.textContent=stageInfo[idx];
+  }
+  stages.forEach(s=>s.addEventListener("click",()=>show(+s.dataset.stage)));
+  show(0);
+
+  document.getElementById("runBtn").addEventListener("click",()=>{
+    stages.forEach(s=>s.classList.remove("lit"));
+    let i=0;
+    const step=()=>{
+      if(i>0)stages[i-1].classList.remove("lit");
+      if(i<stages.length){stages[i].classList.add("lit");show(i);i++;setTimeout(step,650);}
+      else setTimeout(()=>stages[stages.length-1].classList.remove("lit"),400);
+    };
+    step();
+  });
+
+  // ---- what-if labs ----
+  document.querySelectorAll(".lab").forEach(lab=>{
+    const opts=JSON.parse(lab.getAttribute("data-opt"));
+    lab.innerHTML='<div class="q">'+lab.getAttribute("data-q")+'</div><div class="btns"></div><div class="out">Pick one to see what happens →</div>';
+    const btns=lab.querySelector(".btns"), out=lab.querySelector(".out");
+    opts.forEach((o,idx)=>{
+      const b=document.createElement("button");
+      b.textContent=o.l;
+      b.addEventListener("click",()=>{
+        lab.querySelectorAll("button").forEach(x=>x.classList.remove("sel"));
+        b.classList.add("sel");
+        out.innerHTML=o.t;
+        out.className="out "+(o.good?"good":"bad");
+      });
+      btns.appendChild(b);
+    });
+  });
+})();
+</script>
+</body>
+</html>

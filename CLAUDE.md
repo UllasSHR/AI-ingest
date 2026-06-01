@@ -13,14 +13,41 @@ and `sources.html` for why each source was chosen.
 
 ## Architecture / data flow
 ```
-scraper.js  ->  data/YYYY-MM-DD.json        (raw items from the sources)
-brain.js    ->  data/YYYY-MM-DD.brief.json  (LLM-filtered 3-5 item brief)
-web/        ->  reads the brief, renders the morning page (Next.js -> Vercel)
+scraper.js  ->  data/YYYY-MM-DD.json        (raw items, ~5 sources, normalized shape)
+brain.js    ->  data/YYYY-MM-DD.brief.json  (LLM-filtered, ranked brief)
+            ->  web/brief.json              (same brief, copied so the site can import it)
+web/        ->  imports web/brief.json, renders the morning page (Next.js -> Vercel)
+            ->  /api/rate writes star ratings to data/feedback.json (local only)
+brain.js    <-  data/feedback.json          (past ratings become a personalization signal)
+            <-  data/seen.json              (URLs shown in last 7 days -> skip, cross-day de-dup)
 ```
 
+The two-stage Gemini pipeline in `brain.js` keeps token use inside the free tier:
+- **Stage 1 (FILTER):** send only *titles* of all items -> model returns the indices
+  of the most relevant ones, clustering duplicates. Caps at 20 survivors.
+- **Stage 2 (BRIEF):** send *full content* of survivors -> model writes the ranked
+  "what changed / why it matters to you / try this week" brief (up to 15 items).
+
+The feedback loop closes through `buildLearnedPreferences()` in `brain.js`: items the
+user rated >=4 stars steer the next brief toward similar stories, <=2 away. Ratings are
+written by `web/app/api/rate/route.js`, which only persists to disk when the app runs
+locally — **on Vercel the filesystem is read-only/ephemeral, so deployed ratings live in
+the browser's localStorage and never reach `brain.js`.** The learning loop only works
+when you run `npm run dev` locally and rate there.
+
 ## Commands
+Pipeline (run from repo root):
 - `npm run scrape` — pull today's items (HN, Reddit, Simon Willison, HF Daily Papers)
 - `npm run brief`  — run the two-stage Gemini pipeline, write today's brief
+
+Web app (run from `web/` — it's a separate npm package with its own deps):
+- `npm run dev`   — Next dev server (rate stories here to feed the learning loop)
+- `npm run build` — production build
+- `npm run lint`  — eslint
+
+Automation: `.github/workflows/daily.yml` runs scrape + brief daily at 00:30 UTC
+(06:00 IST) and commits the fresh brief back to the repo. `GEMINI_API_KEY` comes
+from a repo secret, not `.env.local`.
 
 ## Conventions
 - Node ESM (`"type": "module"`), Node 24+.
@@ -40,6 +67,14 @@ web/        ->  reads the brief, renders the morning page (Next.js -> Vercel)
   (strip markdown fences); never `JSON.parse` raw model output.
 - **Re-running the scraper clobbers the day's file** (same date = same name).
   Fine for one daily run; revisit if it bites.
+- **`brain.js` writes the brief to TWO places** — `data/*.brief.json` (archive) and
+  `web/brief.json` (what the site imports). The daily workflow commits both. If the
+  page looks stale, check `web/brief.json`, not just `data/`.
+- **`web/` is a separate Next.js app with breaking changes from training data.**
+  Per `web/AGENTS.md`: read the relevant guide in `node_modules/next/dist/docs/`
+  before writing web code — APIs, conventions, and file structure may differ.
+- **Quiet-day path:** if every fresh item was already shown (seen.json), `brain.js`
+  writes an empty brief and skips the LLM entirely — no wasted API calls.
 
 ## Working style (the user is learning Git)
 - **The user drives all Git commands.** Claude prepares the work and explains each

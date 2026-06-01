@@ -1,0 +1,419 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Reading Your Own Code — AI-ingest</title>
+<style>
+  :root {
+    --bg: #f3f1ea;           /* warm off-white */
+    --card: #ffffff;
+    --ink: #1f1d19;          /* warm near-black */
+    --muted: #8a857b;
+    --faint: #b3aca0;
+    --line: #e7e3d9;
+    --sage: #6f8c5e;         /* green accent (the "on" toggle) */
+    --sage-soft: #eef2e9;
+    --coral: #df6e49;        /* coral accent (the "changed/attention") */
+    --coral-soft: #fbede6;
+    --btn: #1a1815;          /* black button */
+    --code-bg: #1c1b18;      /* dark terminal panel */
+    --code-ink: #e8e4db;
+    --code-cmt: #837d71;
+    --code-coral: #e8906f;
+    --mono: ui-monospace, "SF Mono", Menlo, Consolas, monospace;
+    --sans: ui-sans-serif, system-ui, -apple-system, sans-serif;
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; background: var(--bg); color: var(--ink); }
+  body { font-family: var(--sans); line-height: 1.6; -webkit-font-smoothing: antialiased; }
+  .wrap { max-width: 800px; margin: 0 auto; padding: 52px 22px 120px; }
+
+  header .eyebrow { display:flex; align-items:baseline; gap:9px; }
+  header .eyebrow .mark { font-family:var(--mono); font-size:15px; color:var(--ink); font-weight:600; letter-spacing:-.01em; }
+  header .eyebrow .ctx { font-size:12px; color:var(--muted); }
+  h1 { font-weight: 700; font-size: 35px; line-height:1.12; margin:14px 0 8px; letter-spacing:-.02em; }
+  .sub { color: var(--muted); font-size: 15px; margin: 0; max-width: 64ch; }
+
+  h2 { font-size: 11px; letter-spacing:.14em; text-transform:uppercase; color: var(--muted);
+       margin: 50px 0 8px; font-weight: 700; }
+  h2 .n { color: var(--sage); margin-right: 8px; }
+  .lead { color: var(--muted); margin: 0 0 18px; max-width: 66ch; }
+  p { max-width: 68ch; }
+
+  .card { background:var(--card); border:1px solid var(--line); border-radius:16px;
+          box-shadow: 0 1px 2px rgba(31,29,25,.04), 0 8px 24px rgba(31,29,25,.05); }
+
+  .quad { display:grid; grid-template-columns: 1fr 1fr; gap:12px; margin:18px 0; }
+  .q { background:var(--card); border:1px solid var(--line); border-radius:14px; padding:15px 17px;
+       box-shadow: 0 1px 2px rgba(31,29,25,.04); }
+  .q b { color:var(--sage); display:block; font-size:14px; margin-bottom:4px; }
+  .q span { font-size:13.5px; color:var(--muted); }
+
+  /* snippet cards */
+  .snip { border:1px solid var(--line); border-radius:16px; background:var(--card); margin:16px 0; overflow:hidden;
+          box-shadow: 0 1px 2px rgba(31,29,25,.04), 0 8px 24px rgba(31,29,25,.05); }
+  .snip > .head { padding:15px 18px; display:flex; align-items:center; gap:10px; flex-wrap:wrap; }
+  .snip .file { font-family:var(--mono); font-size:12.5px; color:var(--ink); font-weight:600; }
+  .snip .title { font-size:14px; color:var(--muted); }
+  .snip .tag { margin-left:auto; font-size:10px; text-transform:uppercase; letter-spacing:.06em;
+               color:var(--faint); }
+  .snip .hint { padding:0 18px 12px; font-size:12.5px; color:var(--muted); margin-top:-4px; }
+  .snip .hint b { color:var(--coral); }
+
+  /* dark terminal-style code panel (like the reference's right side) */
+  .codewrap { font-family:var(--mono); font-size:12.5px; line-height:1.75; color:var(--code-ink);
+              background:var(--code-bg); margin:0 14px 14px; border-radius:12px; padding:14px 0; overflow-x:auto; }
+  .line { white-space:pre; padding:1px 16px; border-left:3px solid transparent; }
+  .line.has-note { cursor:pointer; }
+  .line.has-note::after { content:" ⌖"; color:#6b665d; font-size:11px; }
+  .line.has-note:hover { background:rgba(255,255,255,.045); }
+  .line.active { background:rgba(232,144,111,.14); border-left-color:var(--coral); }
+  .line.active::after { color:var(--coral); }
+  .cmt { color:var(--code-cmt); font-style:italic; }
+
+  .note-panel { display:none; margin:0 14px 14px; padding:13px 16px; font-size:13.5px; color:var(--ink);
+                background:var(--coral-soft); border-left:3px solid var(--coral); border-radius:0 10px 10px 0; }
+  .note-panel.show { display:block; }
+  .note-panel .lbl { font-size:10px; letter-spacing:.08em; text-transform:uppercase; color:var(--coral); font-weight:700; display:block; margin-bottom:3px; }
+
+  .summary { padding:0 18px 16px; font-size:13.5px; color:var(--muted); }
+  .summary strong { color:var(--ink); }
+
+  /* crash museum */
+  .crash { border:1px solid var(--line); border-radius:16px; background:var(--card); margin:12px 0; overflow:hidden;
+           box-shadow: 0 1px 2px rgba(31,29,25,.04); }
+  .crash summary { list-style:none; cursor:pointer; padding:16px 18px; display:flex; gap:12px; align-items:baseline; }
+  .crash summary::-webkit-details-marker { display:none; }
+  .crash .sev { width:9px; height:9px; border-radius:50%; flex-shrink:0; align-self:center; }
+  .crash .ctitle { font-weight:600; font-size:15px; flex:1; }
+  .crash .chip { font-size:10px; text-transform:uppercase; letter-spacing:.06em; color:var(--faint); }
+  .crash[open] summary { border-bottom:1px solid var(--line); }
+  .cbody { padding:8px 18px 18px; }
+  .cbody .row { margin:13px 0; }
+  .cbody .row b { display:block; font-size:11px; letter-spacing:.07em; text-transform:uppercase; margin-bottom:4px; }
+  .cbody .symptom b { color:var(--coral); }
+  .cbody .cause b { color:var(--sage); }
+  .cbody .fix b { color:var(--sage); }
+  .cbody .lesson b { color:var(--coral); }
+  .cbody .row div { font-size:14px; color:var(--muted); }
+  .errline { font-family:var(--mono); font-size:12px; color:var(--code-coral); background:var(--code-bg);
+             padding:9px 13px; border-radius:8px; margin-top:7px; white-space:pre-wrap; }
+
+  .predict { background:var(--card); border:1px solid var(--line); border-radius:14px; padding:16px 18px; margin:12px 0;
+             box-shadow: 0 1px 2px rgba(31,29,25,.04); }
+  .predict .q2 { font-size:14px; color:var(--ink); margin-bottom:10px; }
+  .btn { background:var(--btn); border:0; color:#fff; border-radius:10px; padding:9px 16px; font:inherit; font-size:12.5px; font-weight:500; cursor:pointer; }
+  .btn:hover { background:#000; }
+  .predict .ans { display:none; margin-top:12px; font-size:13.5px; color:var(--muted); }
+  .predict .ans.open { display:block; }
+
+  ul.clean { padding-left:18px; }
+  ul.clean li { margin:7px 0; color:var(--muted); font-size:14.5px; }
+  ul.clean li b { color:var(--ink); }
+
+  .controls { margin:10px 0 0; }
+  .controls button { background:var(--card); border:1px solid var(--line); color:var(--muted); border-radius:9px; padding:7px 13px; font:inherit; font-size:12px; cursor:pointer; margin-right:6px; }
+  .controls button:hover { border-color:var(--sage); color:var(--sage); }
+
+  .checklist { background:var(--card); border:1px solid var(--line); border-radius:16px; padding:20px 24px;
+               box-shadow: 0 1px 2px rgba(31,29,25,.04); }
+  .checklist label { display:flex; gap:11px; align-items:flex-start; padding:8px 0; font-size:14.5px; color:var(--muted); cursor:pointer; }
+  .checklist input { margin-top:4px; accent-color: var(--sage); }
+  footer { margin-top:48px; border-top:1px solid var(--line); padding-top:18px; color:var(--faint); font-size:13px; }
+  code { font-family:var(--mono); font-size:.9em; background:#ece8df; padding:1px 6px; border-radius:5px; color:#3a372f; }
+  @media (max-width:560px){ .quad{grid-template-columns:1fr;} h1{font-size:29px;} }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <header>
+    <div class="eyebrow"><span class="mark">ai-ingest</span><span class="ctx">field guide</span></div>
+    <h1>Reading your own code</h1>
+    <p class="sub">You directed every line of this project. Now learn to <em>read</em> it. <strong>Tip:</strong> in the dark code panels below, lines marked <span style="color:var(--coral)">⌖</span> are clickable — tap one to see exactly what it does.</p>
+  </header>
+
+  <h2><span class="n">01</span>The four questions</h2>
+  <p class="lead">Whenever you look at code, ask these in order. They're the whole skill, compressed.</p>
+  <div class="quad">
+    <div class="q"><b>What does it do?</b><span>Find where it starts (the entry point), then follow the data as it moves and changes.</span></div>
+    <div class="q"><b>Why is it here?</b><span>Every line solves a problem. If you can't see the problem it solves, that's the line to ask about.</span></div>
+    <div class="q"><b>When will it break?</b><span>Look at the inputs and assumptions. Empty list? Missing file? Network down? Each one is a crack.</span></div>
+    <div class="q"><b>How will I notice?</b><span>Read the actual error. Check the real side-effect, not just "it ran." A 200 is not proof.</span></div>
+  </div>
+
+  <h2><span class="n">02</span>How to read a file you've never read</h2>
+  <ul class="clean">
+    <li><b>Find the entry point.</b> In your scripts it's the <code>main()</code> call at the bottom. Start there, not at line 1.</li>
+    <li><b>Follow the data.</b> The whole project is one river: <code>scraper.js</code> → a JSON file → <code>brain.js</code> → a brief file → the web page.</li>
+    <li><b>Comments are the map.</b> The grey italic lines tell you the <em>why</em>. Read those first.</li>
+    <li><b>Names are clues.</b> <code>fetchHN</code>, <code>makeItem</code>, <code>loadRecentlySeen</code> — good names say what a thing does before you read how.</li>
+  </ul>
+
+  <h2><span class="n">03</span>Your code — click the ⌖ lines</h2>
+  <p class="lead">Real code from your project. Click any line marked <span style="color:var(--coral)">⌖</span> to reveal what it does and when it breaks.</p>
+
+  <!-- makeItem -->
+  <div class="snip">
+    <div class="head"><span class="file">scraper.js</span><span class="title">One shape for every source</span><span class="tag">normalize</span></div>
+    <div class="note-panel"></div>
+    <div class="codewrap">
+<div class="line" data-note="The funnel. HN, Reddit, and RSS all return totally different objects — this turns any of them into ONE tidy shape so nothing downstream has to care where an item came from.">function makeItem({ title, url, source, score, content, published_at }) {</div>
+<div class="line">  return {</div>
+<div class="line" data-note="(text || '') means: if title is missing/empty, use an empty string instead. A guard against undefined blowing up later.">    title: (title || '').trim(),</div>
+<div class="line">    url,</div>
+<div class="line">    source,</div>
+<div class="line" data-note="?? means: if score is null or undefined, use null. Different from ||, which also catches 0 — here we want to keep a real 0 score.">    score: score ?? null,</div>
+<div class="line" data-note="slice(0, 2000) caps the text length so one giant post can't bloat the file. Small, defensive habit.">    content: (content || '').trim().slice(0, 2000),</div>
+<div class="line">    published_at: published_at || null,</div>
+<div class="line" data-note="A timestamp of when WE fetched it — useful for debugging and sorting later.">    fetched_at: new Date().toISOString(),</div>
+<div class="line">  };</div>
+<div class="line">}</div>
+    </div>
+    <div class="summary"><strong>When it breaks:</strong> if a new source's data is shaped differently, this is the one place you adapt it. Blank titles in your brief? The bug is almost always here — a field was named differently than you mapped.</div>
+  </div>
+
+  <!-- allSettled -->
+  <div class="snip">
+    <div class="head"><span class="file">scraper.js</span><span class="title">One dead source can't kill the run</span><span class="tag">resilience</span></div>
+    <div class="hint">This pattern saved you when Anthropic's feed 404'd. <b>Click the lines.</b></div>
+    <div class="note-panel"></div>
+    <div class="codewrap">
+<div class="line" data-note="allSettled runs ALL sources and waits for every one — but unlike Promise.all, it NEVER throws. Each result is marked fulfilled or rejected.">const results = await Promise.allSettled(tasks.map(t =&gt; t[1]));</div>
+<div class="line"></div>
+<div class="line">for (let i = 0; i &lt; tasks.length; i++) {</div>
+<div class="line">  const r = results[i];</div>
+<div class="line" data-note="If this source worked, add its items to the pile.">  if (r.status === 'fulfilled') {</div>
+<div class="line">    all.push(...r.value);</div>
+<div class="line" data-note="If it failed, just log a note and move on — the other sources still count. THIS is why one 404 didn't ruin everything.">  } else {</div>
+<div class="line">    summary.push(`${name} FAILED: ${r.reason.message}`);</div>
+<div class="line">  }</div>
+<div class="line">}</div>
+    </div>
+    <div class="summary"><strong>The lesson:</strong> design for partial failure. With plain <code>Promise.all</code>, one failure aborts everything (you'd get zero items). <code>allSettled</code> got you 190 items even with Anthropic down.</div>
+  </div>
+
+  <!-- rate limit -->
+  <div class="snip">
+    <div class="head"><span class="file">scraper.js</span><span class="title">Be polite to an API</span><span class="tag">real crash</span></div>
+    <div class="note-panel"></div>
+    <div class="codewrap">
+<div class="line">for (const q of queries) {</div>
+<div class="line" data-note="Fetch the data for one keyword. fetch() is how code talks to other servers over the internet.">  const res = await fetch(url, { headers: { 'User-Agent': USER_AGENT } });</div>
+<div class="line" data-note="ALWAYS check the status first. !res.ok means it failed (404, 500, etc). Without this, a failed request returns garbage that crashes the next line.">  if (!res.ok) throw new Error(`HN[${q}]: ${res.status}`);</div>
+<div class="line">  const data = await res.json();</div>
+<div class="line" data-note="Wait 250ms before the next request. Fire them all instantly and HN rate-limits you — the request died with 'terminated'. This pause is the fix.">  await new Promise(r =&gt; setTimeout(r, 250));</div>
+<div class="line">}</div>
+    </div>
+    <div class="summary"><strong>The lesson:</strong> APIs push back if you're greedy. "Works once" and "works when hammered" are different bars.</div>
+  </div>
+
+  <!-- model fallback -->
+  <div class="snip">
+    <div class="head"><span class="file">brain.js</span><span class="title">Models get retired — fall through</span><span class="tag">resilience</span></div>
+    <div class="note-panel"></div>
+    <div class="codewrap">
+<div class="line" data-note="A list of model names, best first. AI model names get deprecated constantly, so we keep backups.">const MODELS = ['gemini-2.5-flash', 'gemini-2.0-flash', 'gemini-1.5-flash'];</div>
+<div class="line"></div>
+<div class="line">for (const model of MODELS) {</div>
+<div class="line">  try {</div>
+<div class="line" data-note="400 or 404 means 'that model name isnt valid' — so skip to the next name in the list instead of crashing.">    if (res.status === 400 || res.status === 404) continue;</div>
+<div class="line" data-note="It worked — hand back the answer and stop looping.">    return text;</div>
+<div class="line">  } catch (e) { lastErr = e; }</div>
+<div class="line">}</div>
+<div class="line" data-note="Only reached if EVERY model failed. A clear, loud error — not a silent mystery.">throw new Error('All models failed');</div>
+    </div>
+    <div class="summary"><strong>When it breaks:</strong> only when all three names are dead. The fix is a one-line edit — add the new name to the top of <code>MODELS</code>.</div>
+  </div>
+
+  <!-- tolerant JSON -->
+  <div class="snip">
+    <div class="head"><span class="file">brain.js</span><span class="title">Never trust raw AI output</span><span class="tag">defensive</span></div>
+    <div class="note-panel"></div>
+    <div class="codewrap">
+<div class="line">function parseJSON(text) {</div>
+<div class="line">  let t = text.trim();</div>
+<div class="line" data-note="Strips the ```json code fences that models love to wrap their answers in. Without this, JSON.parse throws.">  t = t.replace(/^```(?:json)?\s*/i, '').replace(/\s*```$/, '');</div>
+<div class="line" data-note="Grabs only the part from the first brace to the last — ignoring any 'Here is your data:' chatter around it.">  t = t.slice(firstBrace, lastBrace + 1);</div>
+<div class="line" data-note="Only NOW do we parse. The whole function is a seatbelt for messy AI replies.">  return JSON.parse(t);</div>
+<div class="line">}</div>
+    </div>
+    <div class="summary"><strong>The lesson:</strong> treat model output as untrusted text, always. You asked for "only JSON" — models still add fences and prose. This cleans it first.</div>
+  </div>
+
+  <!-- env -->
+  <div class="snip">
+    <div class="head"><span class="file">brain.js</span><span class="title">Same code, two environments</span><span class="tag">real gotcha</span></div>
+    <div class="note-panel"></div>
+    <div class="codewrap">
+<div class="line">try {</div>
+<div class="line" data-note="On your laptop this file exists and holds your key. Load it.">  process.loadEnvFile('.env.local');</div>
+<div class="line" data-note="On GitHubs servers there is NO .env.local — so we shrug instead of crashing. The key arrives a different way (a secret).">} catch {</div>
+<div class="line">}</div>
+<div class="line" data-note="Either way, read the key from the environment. Works in both places.">const API_KEY = process.env.GEMINI_API_KEY;</div>
+    </div>
+    <div class="summary"><strong>The lesson:</strong> your code runs in places you didn't expect (laptop vs. the cloud robot). Don't assume a file exists.</div>
+  </div>
+
+  <!-- client/localStorage -->
+  <div class="snip">
+    <div class="head"><span class="file">web/app/brief-list.js</span><span class="title">Browser-only memory</span><span class="tag">React</span></div>
+    <div class="note-panel"></div>
+    <div class="codewrap">
+<div class="line" data-note="This line marks the component to run in the BROWSER, not on the server. Needed because it touches localStorage and clicks.">"use client";</div>
+<div class="line"></div>
+<div class="line" data-note="useState holds data that can change and re-draws the screen when it does. Here: the list of URLs youve read.">const [readUrls, setReadUrls] = useState([]);</div>
+<div class="line"></div>
+<div class="line" data-note="useEffect runs AFTER the page draws, only in the browser — the one safe place to touch localStorage (which doesnt exist on the server).">useEffect(() =&gt; {</div>
+<div class="line">  setReadUrls(JSON.parse(localStorage.getItem(readKey) || "[]"));</div>
+<div class="line">}, [readKey]);</div>
+    </div>
+    <div class="summary"><strong>When it breaks:</strong> read <code>localStorage</code> outside <code>useEffect</code> and you get <em>localStorage is not defined</em> on the server. This is also why your read/rating state is per-device.</div>
+  </div>
+
+  <div class="predict">
+    <div class="q2">Predict it: the daily robot runs, but Reddit is down today. What happens to your brief?</div>
+    <button class="btn" onclick="this.nextElementSibling.classList.toggle('open')">Reveal answer</button>
+    <div class="ans"><strong>It still works.</strong> The <code>Promise.allSettled</code> pattern logs Reddit's failure and the other sources still deliver. You'd get a slightly thinner brief and a <code>reddit FAILED</code> line in the summary — the page never goes blank.</div>
+  </div>
+
+  <h2><span class="n">04</span>The crash museum</h2>
+  <p class="lead">Every real failure from this build. Crashes are the fastest teacher. Click each to expand: symptom → cause → fix → lesson.</p>
+  <div class="controls">
+    <button onclick="document.querySelectorAll('.crash').forEach(d=>d.open=true)">Expand all</button>
+    <button onclick="document.querySelectorAll('.crash').forEach(d=>d.open=false)">Collapse all</button>
+  </div>
+
+  <details class="crash">
+    <summary><span class="sev" style="background:var(--coral)"></span><span class="ctitle">The catastrophe: endless out-of-memory</span><span class="chip">hardest</span></summary>
+    <div class="cbody">
+      <div class="row symptom"><b>Symptom</b><div>The dev server printed "Ready" then died over and over — looked out of RAM, but the machine had 12 GB free.<div class="errline">FATAL ERROR: JavaScript heap out of memory</div></div></div>
+      <div class="row cause"><b>Cause</b><div>Editing <code>next.config</code> to silence a harmless warning triggered rapid restarts, which <strong>corrupted the <code>.next</code> build cache</strong>. "Out of memory" was a symptom, not the cause.</div></div>
+      <div class="row fix"><b>Fix</b><div>Delete the cache: <code>Remove-Item -Recurse -Force web/.next</code>. Instantly worked.</div></div>
+      <div class="row lesson"><b>Lesson</b><div><strong>"Delete the cache and rebuild" is a top-3 debugging move.</strong> Caches are generated — deleting them is safe. And the symptom is not always the cause.</div></div>
+    </div>
+  </details>
+
+  <details class="crash">
+    <summary><span class="sev" style="background:var(--coral)"></span><span class="ctitle">A source vanished: Anthropic 404</span><span class="chip">network</span></summary>
+    <div class="cbody">
+      <div class="row symptom"><b>Symptom</b><div>One scraper source failed every run.<div class="errline">✗ anthropic   FAILED: Status code 404</div></div></div>
+      <div class="row cause"><b>Cause</b><div>Anthropic doesn't publish RSS at the URL we guessed — the endpoint doesn't exist.</div></div>
+      <div class="row fix"><b>Fix</b><div>Commented that source out; the other 4 carried the run.</div></div>
+      <div class="row lesson"><b>Lesson</b><div>External things you don't control will disappear. Wrap every external call so one failure can't sink the ship.</div></div>
+    </div>
+  </details>
+
+  <details class="crash">
+    <summary><span class="sev" style="background:#e0a23c"></span><span class="ctitle">"terminated": the rate-limit</span><span class="chip">apis</span></summary>
+    <div class="cbody">
+      <div class="row symptom"><b>Symptom</b><div>HN scraping randomly failed when run twice quickly.<div class="errline">✗ hn   FAILED: terminated</div></div></div>
+      <div class="row cause"><b>Cause</b><div>Five fast back-to-back requests tripped HN's rate limit.</div></div>
+      <div class="row fix"><b>Fix</b><div>A 250ms pause between requests.</div></div>
+      <div class="row lesson"><b>Lesson</b><div>APIs push back if you're greedy. Add small delays, set a User-Agent, check <code>res.ok</code>.</div></div>
+    </div>
+  </details>
+
+  <details class="crash">
+    <summary><span class="sev" style="background:#e0a23c"></span><span class="ctitle">The date rolled over</span><span class="chip">assumptions</span></summary>
+    <div class="cbody">
+      <div class="row symptom"><b>Symptom</b><div>The brain couldn't find today's data.<div class="errline">ENOENT: no such file or directory, open '.../data/2026-05-22.json'</div></div></div>
+      <div class="row cause"><b>Cause</b><div>We scraped one day, ran the brief after midnight. <code>brain.js</code> looks for <em>today's</em> file — which didn't exist.</div></div>
+      <div class="row fix"><b>Fix</b><div>Run scrape and brief together (the daily robot does, back-to-back).</div></div>
+      <div class="row lesson"><b>Lesson</b><div>Code makes silent assumptions — here, "the scrape happened today." When something's "not found," check the assumption about <em>when</em> or <em>where</em>.</div></div>
+    </div>
+  </details>
+
+  <details class="crash">
+    <summary><span class="sev" style="background:#7d9bc4"></span><span class="ctitle">The commit that became a ghost file</span><span class="chip">git · windows</span></summary>
+    <div class="cbody">
+      <div class="row symptom"><b>Symptom</b><div>A commit "worked" but none appeared — instead a file with a garbled name showed up.</div></div>
+      <div class="row cause"><b>Cause</b><div>Double quotes got auto-converted to "smart quotes," which PowerShell didn't recognize, so it mis-parsed the command.</div></div>
+      <div class="row fix"><b>Fix</b><div>Use single quotes in PowerShell: <code>git commit -m 'message'</code>.</div></div>
+      <div class="row lesson"><b>Lesson</b><div>The terminal is literal. Same words, different quote characters, totally different result.</div></div>
+    </div>
+  </details>
+
+  <details class="crash">
+    <summary><span class="sev" style="background:#7d9bc4"></span><span class="ctitle">"no upstream branch"</span><span class="chip">git</span></summary>
+    <div class="cbody">
+      <div class="row symptom"><b>Symptom</b><div>First push of a new branch refused.<div class="errline">fatal: The current branch has no upstream branch.</div></div></div>
+      <div class="row cause"><b>Cause</b><div>A brand-new branch has no remote counterpart yet, so plain <code>git push</code> doesn't know where to send it.</div></div>
+      <div class="row fix"><b>Fix</b><div><code>git push -u origin branch-name</code> — sets the link once.</div></div>
+      <div class="row lesson"><b>Lesson</b><div>This isn't an error, it's git telling you the next step — it even prints the command. Read the error; it's often the answer.</div></div>
+    </div>
+  </details>
+
+  <h2><span class="n">05</span>"When will it break?" — the usual cracks</h2>
+  <ul class="clean">
+    <li><b>Missing / empty inputs.</b> Empty array, missing file, <code>null</code> where an object was expected.</li>
+    <li><b>The network.</b> Anything with <code>fetch</code> can fail, time out, or 404. Always check <code>res.ok</code>.</li>
+    <li><b>Untrusted text.</b> LLM output, scraped HTML, user input — never assume it's well-formed.</li>
+    <li><b>Different environments.</b> Laptop vs. CI vs. Vercel differ — files that exist locally, a read-only filesystem in production.</li>
+    <li><b>Time &amp; state.</b> "Today's file," "already seen," caches that go stale.</li>
+    <li><b>The literal terminal.</b> Quotes, characters, exact branch names.</li>
+  </ul>
+
+  <h2><span class="n">06</span>How to notice it's broken</h2>
+  <ul class="clean">
+    <li><b>Read the error — don't flinch.</b> The first line usually names the problem (<code>ENOENT: no such file</code> = a file is missing).</li>
+    <li><b>"It ran" is not "it worked."</b> Check the real result: did the file get written? Does the page show the items? <strong>The most important habit.</strong></li>
+    <li><b>Log the counts.</b> Your scraper prints <code>hn 95 items</code>. If it said <code>0</code>, you'd know instantly.</li>
+    <li><b>Bisect.</b> Change one thing, re-check. Don't change five and guess.</li>
+    <li><b>Cap your retries.</b> Same fix fails twice → change your theory, don't repeat it.</li>
+  </ul>
+
+  <div class="predict">
+    <div class="q2">Predict it: <code>npm run brief</code> finishes with no error, but the site shows yesterday's stories. Where do you look first?</div>
+    <button class="btn" onclick="this.nextElementSibling.classList.toggle('open')">Reveal answer</button>
+    <div class="ans"><strong>Check the real side-effect, not the exit code.</strong> "No error" only means it didn't crash. Open <code>web/brief.json</code> — is its <code>date</code> today's? If yes, the brief is fine and it's a page/cache issue. If no, the brief didn't write. Follow the data to the exact broken step.</div>
+  </div>
+
+  <h2><span class="n">07</span>Your reading checklist</h2>
+  <div class="checklist">
+    <label><input type="checkbox"> I found the entry point and read from there, not line 1.</label>
+    <label><input type="checkbox"> I can trace one item through the whole pipeline.</label>
+    <label><input type="checkbox"> I read the comments first — I know the <em>why</em>.</label>
+    <label><input type="checkbox"> For each risky line, I can name when it would break.</label>
+    <label><input type="checkbox"> I checked the real side-effect, not just "it ran."</label>
+    <label><input type="checkbox"> When it broke, I read the error before guessing.</label>
+    <label><input type="checkbox"> I changed one thing at a time.</label>
+  </div>
+
+  <h2><span class="n">08</span>What to do this week</h2>
+  <ul class="clean">
+    <li><b>Open <code>scraper.js</code></b> and read it top to bottom with this guide beside you.</li>
+    <li><b>Make one tiny change.</b> In <code>brief-list.js</code>, change <code>BATCH = 5</code> to <code>7</code>. Run <code>npm run dev</code>, watch 7 cards appear.</li>
+    <li><b>Then change a prompt word</b> in <code>brain.js</code> and see the brief shift. Small, safe, reversible.</li>
+  </ul>
+
+  <footer>
+    Built from your own AI-ingest code and the real crashes we hit together. The goal isn't to memorize syntax — it's to never again look at your code and feel like a stranger.
+  </footer>
+
+</div>
+
+<script>
+  document.querySelectorAll('.line').forEach(line => {
+    line.innerHTML = line.innerHTML.replace(/(?<!:)(\/\/[^\n]*)/g, '<span class="cmt">$1</span>');
+    if (line.dataset.note) {
+      line.classList.add('has-note');
+      line.addEventListener('click', () => {
+        const snip = line.closest('.snip');
+        const panel = snip.querySelector('.note-panel');
+        const isActive = line.classList.contains('active');
+        snip.querySelectorAll('.line.active').forEach(l => l.classList.remove('active'));
+        if (isActive) {
+          panel.classList.remove('show');
+        } else {
+          line.classList.add('active');
+          panel.innerHTML = '<span class="lbl">This line</span>' + line.dataset.note;
+          panel.classList.add('show');
+        }
+      });
+    }
+  });
+</script>
+</body>
+</html>

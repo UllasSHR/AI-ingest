@@ -1,0 +1,1615 @@
+{
+  "date": "2026-05-27",
+  "fetched_at": "2026-05-27T07:00:01.923Z",
+  "summary": [
+    "  hn               101 items",
+    "  reddit           50 items",
+    "  simonwillison    7 items",
+    "  hf               20 items"
+  ],
+  "item_count": 178,
+  "items": [
+    {
+      "title": "Uber president says AI spending is getting 'harder to justify'",
+      "url": "https://www.theverge.com/transportation/937116/uber-ai-investment-hard-to-justify",
+      "source": "hn",
+      "score": 277,
+      "content": "",
+      "published_at": "2026-05-26T10:01:39Z",
+      "fetched_at": "2026-05-27T06:59:57.582Z"
+    },
+    {
+      "title": "Outsourcing plus local AI will soon become more economical vs. frontier labs",
+      "url": "https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/",
+      "source": "hn",
+      "score": 273,
+      "content": "",
+      "published_at": "2026-05-26T12:08:33Z",
+      "fetched_at": "2026-05-27T06:59:57.582Z"
+    },
+    {
+      "title": "AI tools are only as good as your judgment",
+      "url": "https://theaileverageweekly.com/posts/your-ai-tools-are-only-as-good-as-your-judgment-and-that-s-the-point.html",
+      "source": "hn",
+      "score": 79,
+      "content": "",
+      "published_at": "2026-05-27T00:00:35Z",
+      "fetched_at": "2026-05-27T06:59:57.582Z"
+    },
+    {
+      "title": "The AI bubble isn't like the internet bubble",
+      "url": "https://pluralistic.net/2026/05/26/the-ai-will-continue/#until-morale-improves",
+      "source": "hn",
+      "score": 72,
+      "content": "",
+      "published_at": "2026-05-26T10:37:15Z",
+      "fetched_at": "2026-05-27T06:59:57.582Z"
+    },
+    {
+      "title": "Bay Area mom out thousands after scammers use AI to mimic daughter's voice",
+      "url": "https://abc7news.com/post/bay-area-mom-thousands-scammers-use-ai-mimic-daughters-voice-fake-kidnapping-part-growing-trend/19154381/",
+      "source": "hn",
+      "score": 46,
+      "content": "",
+      "published_at": "2026-05-26T20:23:40Z",
+      "fetched_at": "2026-05-27T06:59:57.582Z"
+    },
+    {
+      "title": "A reality check on the AI jobs hysteria",
+      "url": "https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/",
+      "source": "hn",
+      "score": 41,
+      "content": "",
+      "published_at": "2026-05-26T11:04:54Z",
+      "fetched_at": "2026-05-27T06:59:57.582Z"
+    },
+    {
+      "title": "AI Startup Says It Will Pay People $2k a Month to Masturbate",
+      "url": "https://decrypt.co/368866/ai-startup-pay-people-2000-month-masturbate",
+      "source": "hn",
+      "score": 32,
+      "content": "",
+      "published_at": "2026-05-26T15:09:48Z",
+      "fetched_at": "2026-05-27T06:59:57.582Z"
+    },
+    {
+      "title": "Uber blows through its AI budget in 1 quarter",
+      "url": "https://fortune.com/2026/05/26/uber-coo-ai-spending-tokens-claude-code/",
+      "source": "hn",
+      "score": 28,
+      "content": "",
+      "published_at": "2026-05-26T22:44:31Z",
+      "fetched_at": "2026-05-27T06:59:57.582Z"
+    },
+    {
+      "title": "Sam Altman: I was wrong, AI unlikely to lead to jobs apocalypse",
+      "url": "https://www.reuters.com/world/asia-pacific/openais-altman-says-ai-unlikely-lead-jobs-apocalypse-2026-05-26/",
+      "source": "hn",
+      "score": 18,
+      "content": "",
+      "published_at": "2026-05-26T11:17:06Z",
+      "fetched_at": "2026-05-27T06:59:57.582Z"
+    },
+    {
+      "title": "Did the Pope use AI to write about the dangers of AI?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/937801/pope-leo-xiv-magnifica-humanitas-ai-pangram",
+      "source": "hn",
+      "score": 14,
+      "content": "",
+      "published_at": "2026-05-27T04:30:30Z",
+      "fetched_at": "2026-05-27T06:59:57.582Z"
+    },
+    {
+      "title": "The Open/Closed Problem in AI",
+      "url": "https://blog.mempko.com/the-open-closed-problem-in-ai/",
+      "source": "hn",
+      "score": 14,
+      "content": "",
+      "published_at": "2026-05-26T07:43:33Z",
+      "fetched_at": "2026-05-27T06:59:57.582Z"
+    },
+    {
+      "title": "The AI Industry Just Walked into the Vatican",
+      "url": "https://www.driscollglobe.com/p/the-ai-industry-just-walked-into",
+      "source": "hn",
+      "score": 13,
+      "content": "",
+      "published_at": "2026-05-26T18:31:09Z",
+      "fetched_at": "2026-05-27T06:59:57.582Z"
+    },
+    {
+      "title": "China Limits Overseas Travel for AI Talent at DeepSeek, Alibaba, Private Firms",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-26/china-expands-travel-curbs-to-top-ai-talent-at-private-firms",
+      "source": "hn",
+      "score": 11,
+      "content": "",
+      "published_at": "2026-05-26T15:30:38Z",
+      "fetched_at": "2026-05-27T06:59:57.582Z"
+    },
+    {
+      "title": "Show HN: I built a tool to auto-accept AI slop and bigtech devs loves it",
+      "url": "https://github.com/Alcray/SlopeAutoAcceptor",
+      "source": "hn",
+      "score": 10,
+      "content": "So, you know how bigtech gives nearly unlimited credits for coding tools and in the same time put a huge admin whitelist of what commands are allowed?<p>So, instead of becoming a 100x engineers, you (including me) simply become a multi-window-enter-clicker<p>I build a tool to solve this. It works locally, using OCR finds the &quot;run&quot; (or any other label you put e.g. accept, allow, fetch etc. ) and just clicks this button.<p>Originally this was a tool for me and my team, but people seamed to love it so much, they encouraged me to share with you.<p>I do understand that workflows in each bigtech company is different, so what worked for us !-&gt; will work for you. So if you are interested in using this or have any question, please feel free to reach out, open issues and prs.<p>lets make AI slop inevitable! \n<a href=\"https:&#x2F;&#x2F;github.com&#x2F;Alcray&#x2F;SlopeAutoAcceptor\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;Alcray&#x2F;SlopeAutoAcceptor</a>",
+      "published_at": "2026-05-26T20:45:37Z",
+      "fetched_at": "2026-05-27T06:59:57.582Z"
+    },
+    {
+      "title": "AI chatbots show bias toward Catholicism, researchers say",
+      "url": "https://decrypt.co/369045/ai-chatbots-claude-chatgpt-bias-catholicism-pope-leo",
+      "source": "hn",
+      "score": 8,
+      "content": "",
+      "published_at": "2026-05-26T19:33:19Z",
+      "fetched_at": "2026-05-27T06:59:57.582Z"
+    },
+    {
+      "title": "AI is killing All About Berlin",
+      "url": "https://nicolasbouliane.com/blog/death-by-ai",
+      "source": "hn",
+      "score": 8,
+      "content": "",
+      "published_at": "2026-05-26T17:45:45Z",
+      "fetched_at": "2026-05-27T06:59:57.582Z"
+    },
+    {
+      "title": "AI overly affirms users asking for personal advice",
+      "url": "https://vechron.com/2026/05/ai-overly-affirms-users-asking-for-personal-advice/",
+      "source": "hn",
+      "score": 8,
+      "content": "",
+      "published_at": "2026-05-26T08:16:48Z",
+      "fetched_at": "2026-05-27T06:59:57.582Z"
+    },
+    {
+      "title": "Pope Leo warns AI challenges must be confronted with regulation, transparency",
+      "url": "https://www.cbc.ca/news/world/pope-leo-magnifica-humanitas-encylical-9.7210842",
+      "source": "hn",
+      "score": 8,
+      "content": "",
+      "published_at": "2026-05-27T00:12:19Z",
+      "fetched_at": "2026-05-27T06:59:57.582Z"
+    },
+    {
+      "title": "Microsoft and Uber Are Running into an AI Cost Problem",
+      "url": "https://firethering.com/microsoft-uber-ai-coding-tools-more-expensive-than-human-workers/",
+      "source": "hn",
+      "score": 7,
+      "content": "",
+      "published_at": "2026-05-26T10:33:17Z",
+      "fetched_at": "2026-05-27T06:59:57.582Z"
+    },
+    {
+      "title": "Spotify boss defends move to AI music, saying it is better than 'slop'",
+      "url": "https://www.theguardian.com/technology/2026/may/26/spotify-ai-remix-tool-protects-artists-slop",
+      "source": "hn",
+      "score": 7,
+      "content": "",
+      "published_at": "2026-05-26T18:08:45Z",
+      "fetched_at": "2026-05-27T06:59:57.582Z"
+    },
+    {
+      "title": "A sleep-like consolidation mechanism for LLMs",
+      "url": "https://arxiv.org/abs/2605.26099",
+      "source": "hn",
+      "score": 198,
+      "content": "",
+      "published_at": "2026-05-26T15:36:24Z",
+      "fetched_at": "2026-05-27T06:59:58.396Z"
+    },
+    {
+      "title": "You Can Start Building LLM Skills Before You Know the Whole Shape",
+      "url": "https://sosuke.com/you-can-start-building-llm-skills-before-you-know-the-whole-shape/",
+      "source": "hn",
+      "score": 8,
+      "content": "",
+      "published_at": "2026-05-26T17:14:19Z",
+      "fetched_at": "2026-05-27T06:59:58.396Z"
+    },
+    {
+      "title": "Show HN: Sifter – Does your CV *actually* stand out to LLMs?",
+      "url": "https://www.sifter.sh/",
+      "source": "hn",
+      "score": 5,
+      "content": "",
+      "published_at": "2026-05-26T13:37:26Z",
+      "fetched_at": "2026-05-27T06:59:58.396Z"
+    },
+    {
+      "title": "Show HN: An LLM translator whose source is a single prompt",
+      "url": "https://github.com/hamsterbase/llm-translator",
+      "source": "hn",
+      "score": 5,
+      "content": "",
+      "published_at": "2026-05-26T18:23:11Z",
+      "fetched_at": "2026-05-27T06:59:58.396Z"
+    },
+    {
+      "title": "Human Proof for FOSS Contributions: asciinema as proof you're not an LLM",
+      "url": "https://dillo-browser.org/lab/human-proof/",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-05-26T13:38:38Z",
+      "fetched_at": "2026-05-27T06:59:58.396Z"
+    },
+    {
+      "title": "Nexus – open-source AI gateway for enterprise LLM traffic",
+      "url": "https://github.com/AlphaBitCore/nexus-gateway",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-05-26T21:50:44Z",
+      "fetched_at": "2026-05-27T06:59:58.396Z"
+    },
+    {
+      "title": "Ask HN: How do LLMs work really?",
+      "url": "https://news.ycombinator.com/item?id=48284645",
+      "source": "hn",
+      "score": 3,
+      "content": "Sorry I know this has been discussed to death sort of, but I feel like it&#x27;s not always explicitly stated in some discussions and people have different views?<p>Is it really so simple that all information in an LLM comes from the probability of each token based on the prompt? So for any prompt, there is a probability distribution to continuing (after) that prompt to generate text?<p>All structure of information comes from probabilities of tokens (so all structure and information processing is a side effect of token probabilities)? Or is there other stuff going on? I know reasoning models have extra stuff but let&#x27;s put that aside for now.",
+      "published_at": "2026-05-26T19:21:54Z",
+      "fetched_at": "2026-05-27T06:59:58.396Z"
+    },
+    {
+      "title": "Amdahl's Law for LLM generated code",
+      "url": "https://news.ycombinator.com/item?id=48278179",
+      "source": "hn",
+      "score": 3,
+      "content": "LLMs may theoretically be able to generate millions of correct lines of code.<p>But for any important code the only way to know that it&#x27;s correct is to hand-audit every line, which is harder than writing every line because this allows you to build a conceptual hierarchy and model within which you can think about the code.<p>So there&#x27;s a fundamental limit to the speedup from LLMs when writing anything you care about.<p>(The main objection will be what about when you have a human engineer working on your behalf. But this is a distraction: sometimes you can fully trust an engineer, which is not at all true for LLMs.)",
+      "published_at": "2026-05-26T11:21:24Z",
+      "fetched_at": "2026-05-27T06:59:58.396Z"
+    },
+    {
+      "title": "Chinese Room re-visited: How LLM's have real but different understanding of word",
+      "url": "https://www.lesswrong.com/posts/PpCHgKsg2xDdPDQhu/the-chinese-room-re-visited-how-llm-s-have-real-but",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-05-26T09:09:53Z",
+      "fetched_at": "2026-05-27T06:59:58.396Z"
+    },
+    {
+      "title": "Microsoft Research: LLMs Corrupt your files during delegated work",
+      "url": "https://www.microsoft.com/en-us/research/publication/llms-corrupt-your-documents-when-you-delegate/",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-05-26T22:21:10Z",
+      "fetched_at": "2026-05-27T06:59:58.396Z"
+    },
+    {
+      "title": "Why LLMs will be always Terrible at Software Architecture",
+      "url": "https://devforth.io/insights/why-llms-will-be-always-terrible-at-software-architecture/",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-05-26T19:58:20Z",
+      "fetched_at": "2026-05-27T06:59:58.396Z"
+    },
+    {
+      "title": "A 400-hour forensic audit of LLMs using multi-model context saturation",
+      "url": "https://github.com/alanscalone/llm-behavior-analysis",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-05-26T14:39:06Z",
+      "fetched_at": "2026-05-27T06:59:58.396Z"
+    },
+    {
+      "title": "LLM Layer for a Rails Application",
+      "url": "https://dmitrytsepelev.dev/llm-layer-in-rails",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-05-26T13:05:57Z",
+      "fetched_at": "2026-05-27T06:59:58.396Z"
+    },
+    {
+      "title": "Sparse Autoencoders Reveal Cortical Brain-LLM Semantic Mapping",
+      "url": "https://letsdatascience.com/news/sparse-autoencoders-reveal-cortical-brain-llm-semantic-mappi-bc586635",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-05-26T10:35:37Z",
+      "fetched_at": "2026-05-27T06:59:58.396Z"
+    },
+    {
+      "title": "Show HN: Layered retrieval beats grep alone for LLM-generated engineering docs",
+      "url": "https://github.com/rduffyuk/engineering-memory-benchmark",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-05-26T08:09:33Z",
+      "fetched_at": "2026-05-27T06:59:58.396Z"
+    },
+    {
+      "title": "Prompt Politeness Affects LLM Accuracy",
+      "url": "https://arxiv.org/abs/2510.04950",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-05-26T07:43:22Z",
+      "fetched_at": "2026-05-27T06:59:58.396Z"
+    },
+    {
+      "title": "Show HN: PrismCat – Local transparent proxy and debugging console for LLM APIs",
+      "url": "https://github.com/paopaoandlingyia/PrismCat",
+      "source": "hn",
+      "score": 2,
+      "content": "Hi HN,<p>I built PrismCat because I got tired of not knowing what LLM SDKs (like LangChain or various OpenAI&#x2F;Anthropic wrappers) were silently injecting into my prompts behind the scenes. It&#x27;s often hard to debug why a streaming request froze, or why a function-calling agent returned malformed JSON, without diving deep into SDK code.<p>PrismCat is a single-binary, self-hosted proxy and UI designed to run silently 24&#x2F;7 as an LLM &quot;black box&quot; logger.<p>How it works:\nIt uses subdomain routing to achieve transparent proxying. For example, if you add an upstream named `openai`, PrismCat exposes `<a href=\"http:&#x2F;&#x2F;openai.localhost:8080\" rel=\"nofollow\">http:&#x2F;&#x2F;openai.localhost:8080</a>`.<p>Modern operating systems and browsers resolve `*.localhost` to `127.0.0.1` automatically, so you don&#x27;t even need to edit your `&#x2F;etc&#x2F;hosts` file. You just change one line in your code—the `base_url`—and everything gets captured transparently (including Server-Sent Events&#x2F;streaming).<p>Key features:\n- Fully local-first: written in Go, stores data in SQLite, never sends your keys or prompts to a third party.\n- Interactive Playground: Tweak and replay failed requests in the UI without re-running your scripts.\n- SSE capture: Captures and reconstructs SSE chunks so you can inspect the raw flow.\n- Request Override (Opt-in): Intercept and rewrite outgoing requests&#x2F;headers without code changes.<p>I&#x27;d love to hear your feedback on the implementation (especially the subdomain routing approach) and what features you&#x27;d like to see next!",
+      "published_at": "2026-05-26T13:11:26Z",
+      "fetched_at": "2026-05-27T06:59:58.396Z"
+    },
+    {
+      "title": "Investigating the hidden moat behind all the LLM apps",
+      "url": "https://simianwords.bearblog.dev/investigating-the-hidden-moat-behind-all-the-llm-apps/",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-05-26T22:08:25Z",
+      "fetched_at": "2026-05-27T06:59:58.397Z"
+    },
+    {
+      "title": "Ask HN: Is there a need for YAML in post-LLM world?",
+      "url": "https://news.ycombinator.com/item?id=48277424",
+      "source": "hn",
+      "score": 2,
+      "content": "Curious to know your opinion about YAML and other DSL created to make workflows&#x2F;processes less software engineering (imperative) and more configuration (declarative).<p>Take a look at K8s for example, lots and lots of YAML configurations, which was used for human readability, but with LLMs do we still need them?<p>Wouldn&#x27;t it be easier with LLMs to say: expose this service with 10 pods and enable only internal routing - which then updates couple lines of Python code (pulumi, aws cdk and etc,.) instead of generating 5 yaml files each with at least 40 lines of YAML and also try to reuse same attributes&#x2F;labels&#x2F;tags",
+      "published_at": "2026-05-26T09:54:34Z",
+      "fetched_at": "2026-05-27T06:59:58.397Z"
+    },
+    {
+      "title": "The AI Agent Harness: The Glue That Turns LLMs into Digital Workers",
+      "url": "https://thingswithai.org/posts/ai-agent-harness",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-05-27T04:40:39Z",
+      "fetched_at": "2026-05-27T06:59:58.397Z"
+    },
+    {
+      "title": "Show HN: MCPs aren't enough, give Codex/Claude accurate memory of everything",
+      "url": "https://timeglass.ai",
+      "source": "hn",
+      "score": 16,
+      "content": "",
+      "published_at": "2026-05-26T15:23:38Z",
+      "fetched_at": "2026-05-27T06:59:59.163Z"
+    },
+    {
+      "title": "Claude Code as a Daily Driver: Claude.md, Skills, Subagents, Plugins, and MCPs",
+      "url": "https://arps18.github.io/posts/claude-code-mastery/",
+      "source": "hn",
+      "score": 15,
+      "content": "",
+      "published_at": "2026-05-27T05:13:39Z",
+      "fetched_at": "2026-05-27T06:59:59.163Z"
+    },
+    {
+      "title": "Is Claude Code Getting Worse? How to Measure Degradation with OpenTelemetry",
+      "url": "https://signoz.io/blog/claude-code-measure-degradation-opentelemetry/",
+      "source": "hn",
+      "score": 8,
+      "content": "",
+      "published_at": "2026-05-26T13:16:23Z",
+      "fetched_at": "2026-05-27T06:59:59.163Z"
+    },
+    {
+      "title": "How we contain Claude across products",
+      "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
+      "source": "hn",
+      "score": 6,
+      "content": "",
+      "published_at": "2026-05-26T19:33:25Z",
+      "fetched_at": "2026-05-27T06:59:59.163Z"
+    },
+    {
+      "title": "Claude, Author of the Humanitas",
+      "url": "https://linch.substack.com/p/claude-author-of-the-humanitas",
+      "source": "hn",
+      "score": 5,
+      "content": "",
+      "published_at": "2026-05-26T16:25:50Z",
+      "fetched_at": "2026-05-27T06:59:59.163Z"
+    },
+    {
+      "title": "Bedrock and a hard place: Claude adventure leaves AWS user with $30K invoice",
+      "url": "https://www.theregister.com/saas/2026/05/14/bedrock-and-a-hard-place-claude-adventure-leaves-aws-user-staring-down-30k-invoice/5238153",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-05-26T20:35:53Z",
+      "fetched_at": "2026-05-27T06:59:59.163Z"
+    },
+    {
+      "title": "Trading Peace for Pace: A Few Weeks with Claude Code",
+      "url": "https://ronaknathani.com/blog/2026/02/trading-peace-for-pace-a-few-weeks-with-claude-code/",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-05-26T13:18:54Z",
+      "fetched_at": "2026-05-27T06:59:59.163Z"
+    },
+    {
+      "title": "Turning You into a Power User with Hybrid Memory and Claude",
+      "url": "https://medium.com/@vektormemory/turning-you-into-a-power-user-hybrid-memory-ssh-cloak-and-password-vaulting-with-vektor-00f689861798",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-05-26T21:25:36Z",
+      "fetched_at": "2026-05-27T06:59:59.163Z"
+    },
+    {
+      "title": "Evaluating Claude's bioinformatics research capabilities with BioMysteryBench",
+      "url": "https://www.anthropic.com/research/Evaluating-Claude-For-Bioinformatics-With-BioMysteryBench",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-05-26T12:46:34Z",
+      "fetched_at": "2026-05-27T06:59:59.163Z"
+    },
+    {
+      "title": "Claude, Author of the Humanitas",
+      "url": "https://www.lesswrong.com/posts/wRNJZz2iYrfDaSDdz/claude-author-of-the-humanitas",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-05-26T18:35:03Z",
+      "fetched_at": "2026-05-27T06:59:59.163Z"
+    },
+    {
+      "title": "Introducing Chat Mode – A modern chat interface for Claude Code",
+      "url": "https://harness.mikelyons.org/announcements/introducing-chat-mode.html",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-05-26T14:47:43Z",
+      "fetched_at": "2026-05-27T06:59:59.163Z"
+    },
+    {
+      "title": "Open source toolkit to analyze your ChatGPT/Claude usage from exports",
+      "url": "https://github.com/noah-chelednik/llm-export-analytics",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-05-27T05:33:55Z",
+      "fetched_at": "2026-05-27T06:59:59.163Z"
+    },
+    {
+      "title": "Show HN: Visual composer for Claude Code multi-agent workflows",
+      "url": "https://github.com/fayzan123/claude-workflow-composer",
+      "source": "hn",
+      "score": 2,
+      "content": "npx claude-cwc",
+      "published_at": "2026-05-26T21:36:26Z",
+      "fetched_at": "2026-05-27T06:59:59.163Z"
+    },
+    {
+      "title": "Claude, Author of the Humanitas",
+      "url": "https://www.greaterwrong.com/posts/wRNJZz2iYrfDaSDdz/claude-author-of-the-humanitas",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-05-26T20:21:01Z",
+      "fetched_at": "2026-05-27T06:59:59.163Z"
+    },
+    {
+      "title": "Co-Invest – an MCP server that lets Claude and ChatGPT execute real trades",
+      "url": "https://www.liquid.trade/coinvest",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-05-26T19:58:17Z",
+      "fetched_at": "2026-05-27T06:59:59.163Z"
+    },
+    {
+      "title": "Gone Phishing with Claude Teams: From Deceptive Team Onboarding to RCE",
+      "url": "https://haussner.me/2026/05/24/claude-team-rce.html",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-05-26T14:54:43Z",
+      "fetched_at": "2026-05-27T06:59:59.163Z"
+    },
+    {
+      "title": "Show HN: Agent Launch – One CLI for Codex, Claude Code, Cursor, Gemini, OpenCode",
+      "url": "https://news.ycombinator.com/item?id=48278148",
+      "source": "hn",
+      "score": 2,
+      "content": "I built a small CLI that unifies launching local coding agents.<p>Instead of remembering different flags for Codex, Claude Code, Cursor Agent, OpenCode, and Antigravity CLI, I use one command with consistent options for agent, prompt, cwd, mode, model class, interactive&#x2F;non-interactive and resume.<p>GitHub: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;dhruv-anand-aintech&#x2F;agent-launch\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;dhruv-anand-aintech&#x2F;agent-launch</a><p>You can use `agent-launch` or `agl` to launch (picks a random installed coding agent by default)",
+      "published_at": "2026-05-26T11:18:03Z",
+      "fetched_at": "2026-05-27T06:59:59.163Z"
+    },
+    {
+      "title": "How Claude helped me to find a RCE in XReader/Evince/Atril",
+      "url": "https://medeiros.zip/posts/CVE-2026-46529-evince",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-05-26T09:00:04Z",
+      "fetched_at": "2026-05-27T06:59:59.163Z"
+    },
+    {
+      "title": "Show HN: AI agent token cost calculator for Codex and Claude Code loops",
+      "url": "https://tinyopsstudio.com/ai-agent-token-cost-calculator",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-05-26T07:34:28Z",
+      "fetched_at": "2026-05-27T06:59:59.163Z"
+    },
+    {
+      "title": "Anthropic to release Mythos-class models to the public",
+      "url": "https://www.theregister.com/security/2026/05/25/anthropic-to-release-mythos-class-models-to-the-public/5245596",
+      "source": "hn",
+      "score": 5,
+      "content": "",
+      "published_at": "2026-05-26T11:42:20Z",
+      "fetched_at": "2026-05-27T06:59:59.971Z"
+    },
+    {
+      "title": "Checking the math behind OpenAI and Anthropic's latest headlines",
+      "url": "https://garymarcus.substack.com/p/checking-the-math-behind-openai-and",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-05-26T08:46:26Z",
+      "fetched_at": "2026-05-27T06:59:59.971Z"
+    },
+    {
+      "title": "Anthropic set to close $30B funding at over $900B valuation",
+      "url": "https://finance.yahoo.com/sectors/technology/articles/anthropic-set-close-30-billion-203545596.html",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-05-26T16:01:18Z",
+      "fetched_at": "2026-05-27T06:59:59.971Z"
+    },
+    {
+      "title": "Why We Invested in Anthropic",
+      "url": "https://medium.com/point-nine-news/why-we-invested-in-anthropic-88f504a65d2a",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-05-27T06:55:57Z",
+      "fetched_at": "2026-05-27T06:59:59.971Z"
+    },
+    {
+      "title": "Anthropic Appoints KiYoung Choi as Representative Director of Korea",
+      "url": "https://www.anthropic.com/news/kiyoung-choi-representative-director-anthropic-korea",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-05-26T23:45:16Z",
+      "fetched_at": "2026-05-27T06:59:59.971Z"
+    },
+    {
+      "title": "2026 Cosmos HAI Lab Lecture with Jack Clark, Co-Founder of Anthropic [video]",
+      "url": "https://www.youtube.com/watch?v=8zIcP5WlShw",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-05-26T19:10:09Z",
+      "fetched_at": "2026-05-27T06:59:59.971Z"
+    },
+    {
+      "title": "Bill Gates AI on AI (one month later)",
+      "url": "https://news.ycombinator.com/item?id=48289469",
+      "source": "hn",
+      "score": 1,
+      "content": "# The Agentic Tidal Wave<p>*To:* Executive Staff and Direct Reports\n*From:* Bill Gates\n*Date:* April 26, 2026<p>Our vision for the last 20 years can be summarized in a succinct way. We saw that exponential improvements in cloud would make great software quite available. In the next 20 years the improvement in computer power will be outpaced by the exponential improvements in autonomous expert systems. Verifiable trust will be crucial to delivering the benefits of these advances.<p>Most users of software have not yet seen the price of trustworthy agent compute come down. Cloud platforms and SaaS networks are still depreciating networks built with old verification models, things like API keys and signed JWTs and trust-on-first-use. Universal authentication monopolies and vendor lock-in have kept verification costs high.<p>You&#x27;ll excuse me for an ad. Darwin Agentic Cloud sits between AI agents and the compute trust layer they need. An agent says &quot;run this code.&quot; Darwin routes the workload to AWS Lambda, Modal, Akash, or local Docker, executes it inside a sandboxed environment with pre-flight cost caps, captures the output, and produces an Ed25519-signed attestation binding the workload, the output, the sandbox, the cost, and the signer to a tamper-evident receipt. Every execution returns one of these receipts. The receipts are independently verifiable forever, by anyone, with no dependency on Darwin to stay online.<p>When your agent needs to make a call, who you gonna call?<p>The autonomous shift is the most important single development to come along since the IBM PC was introduced in 1981. It is even more important than the arrival of the graphical user interface.<p>If you think any of this is new, you should look at UiPath. Made by a Microsoft alum in the early 00s. Wild stuff to be doing then, and they&#x27;re still top class at it now. They call it autonomous workflows. With enough internet integrations, it becomes indistinguishable from a well-gover",
+      "published_at": "2026-05-27T04:01:44Z",
+      "fetched_at": "2026-05-27T06:59:59.971Z"
+    },
+    {
+      "title": "Viable B2B SaaS business models?",
+      "url": "https://news.ycombinator.com/item?id=48282878",
+      "source": "hn",
+      "score": 1,
+      "content": "Current dev tools make it possible to build open-source alternatives to established proprietary software incredibly fast. The ability to use Claude Cowork&#x2F;Code as the frontend makes this even easier.<p>In legal tech alone, Anthropic released a set of legal plugins (https:&#x2F;&#x2F;claude.com&#x2F;lp&#x2F;cowork-for-legal), a former law firm associate released MikeOSS (https:&#x2F;&#x2F;mikeoss.com&#x2F;), and now there’s Retriever (https:&#x2F;&#x2F;retriever-plugin.com&#x2F;, I’m the author), an open-source document intelligence system.<p>More importantly, open-source solutions offer a level of customization that proprietary vendors often can’t match — and clients can modify them themselves.<p>How do proprietary vendors compete in this environment? What do their business models become?<p>Elastic Cloud seems like one successful example of building a strong business around open source. Will others follow?",
+      "published_at": "2026-05-26T17:29:02Z",
+      "fetched_at": "2026-05-27T06:59:59.971Z"
+    },
+    {
+      "title": "You're about to feel the AI money squeeze",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/917380/ai-monetization-anthropic-openai-token-economics-revenue",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-05-26T23:29:58Z",
+      "fetched_at": "2026-05-27T06:59:59.971Z"
+    },
+    {
+      "title": "DeepSWE: A contamination-free benchmark for long-horizon coding agents",
+      "url": "https://deepswe.datacurve.ai/blog",
+      "source": "hn",
+      "score": 43,
+      "content": "",
+      "published_at": "2026-05-26T19:40:59Z",
+      "fetched_at": "2026-05-27T07:00:00.770Z"
+    },
+    {
+      "title": "Agent Memory: An Anatomy",
+      "url": "https://brgsk.xyz/agent-memory-anatomy/",
+      "source": "hn",
+      "score": 39,
+      "content": "",
+      "published_at": "2026-05-27T00:18:06Z",
+      "fetched_at": "2026-05-27T07:00:00.770Z"
+    },
+    {
+      "title": "Show HN: Cross-agent messaging and shared memory over the local filesystem",
+      "url": "https://oacp.dev",
+      "source": "hn",
+      "score": 9,
+      "content": "",
+      "published_at": "2026-05-26T17:44:48Z",
+      "fetched_at": "2026-05-27T07:00:00.770Z"
+    },
+    {
+      "title": "Multi-Agent is a snake oil",
+      "url": "https://avkcode.github.io/blog/multi-agent-systems-value.html",
+      "source": "hn",
+      "score": 6,
+      "content": "",
+      "published_at": "2026-05-26T13:35:33Z",
+      "fetched_at": "2026-05-27T07:00:00.770Z"
+    },
+    {
+      "title": "AI agents imperiled by critical vulnerability in open source package",
+      "url": "https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/",
+      "source": "hn",
+      "score": 6,
+      "content": "",
+      "published_at": "2026-05-26T21:34:29Z",
+      "fetched_at": "2026-05-27T07:00:00.770Z"
+    },
+    {
+      "title": "Agile V: Turning AI Agents into Verifiable Engineering Systems",
+      "url": "https://github.com/Agile-V/agile_v_skills",
+      "source": "hn",
+      "score": 5,
+      "content": "",
+      "published_at": "2026-05-26T22:09:32Z",
+      "fetched_at": "2026-05-27T07:00:00.770Z"
+    },
+    {
+      "title": "A Board Game Agent Built Using Sanity Context and Vercel's AI SDK",
+      "url": "https://www.sanity.io/blog/context-board-game-agent",
+      "source": "hn",
+      "score": 5,
+      "content": "",
+      "published_at": "2026-05-26T17:00:33Z",
+      "fetched_at": "2026-05-27T07:00:00.770Z"
+    },
+    {
+      "title": "Show HN: I open-sourced two AI agents with real memory (chat and voice, MIT)",
+      "url": "https://github.com/SynapCores/synapcores-agent",
+      "source": "hn",
+      "score": 5,
+      "content": "",
+      "published_at": "2026-05-26T14:43:19Z",
+      "fetched_at": "2026-05-27T07:00:00.770Z"
+    },
+    {
+      "title": "OpenClaw for Sales – Using Local-First AI Agents for Sales Workflows",
+      "url": "https://www.kickscale.com/en/blog/openclaw-sales-ai-agent-revolution",
+      "source": "hn",
+      "score": 5,
+      "content": "",
+      "published_at": "2026-05-26T08:34:23Z",
+      "fetched_at": "2026-05-27T07:00:00.770Z"
+    },
+    {
+      "title": "Show HN: Lavern: an open-source multi-agent legal system (Apache 2.0)",
+      "url": "https://github.com/AnttiHero/lavern",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-05-26T12:59:15Z",
+      "fetched_at": "2026-05-27T07:00:00.770Z"
+    },
+    {
+      "title": "Gamechat – Voice-Based Agent Orchestrator Built in Rust",
+      "url": "https://github.com/zdql/gamechat",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-05-26T13:26:06Z",
+      "fetched_at": "2026-05-27T07:00:00.770Z"
+    },
+    {
+      "title": "SkillOpt – Executive Strategy for Self-Evolving Agent Skills",
+      "url": "https://microsoft.github.io/SkillOpt/",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-05-26T08:05:14Z",
+      "fetched_at": "2026-05-27T07:00:00.770Z"
+    },
+    {
+      "title": "SkillOpt – Executive Strategy for Self-Evolving Agent Skills",
+      "url": "https://microsoft.github.io/SkillOpt/#idea",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-05-26T18:15:03Z",
+      "fetched_at": "2026-05-27T07:00:00.770Z"
+    },
+    {
+      "title": "SkillOpt: Executive Strategy for Self-Evolving Agent Skills",
+      "url": "https://arxiv.org/abs/2605.23904",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-05-26T16:59:35Z",
+      "fetched_at": "2026-05-27T07:00:00.770Z"
+    },
+    {
+      "title": "Show HN: AI agents that audit your Metabase instance and find what's broken",
+      "url": "https://metalens.it",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-05-26T11:32:55Z",
+      "fetched_at": "2026-05-27T07:00:00.770Z"
+    },
+    {
+      "title": "Show HN: Mind-expander, a visual workspace for coding with AI agents",
+      "url": "https://github.com/mbbill/mind-expander",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-05-26T15:45:19Z",
+      "fetched_at": "2026-05-27T07:00:00.770Z"
+    },
+    {
+      "title": "Skills vs. MCP vs. prompts: which agent setup works best?",
+      "url": "https://www.agentvoyagerproject.com/captains-log/1",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-05-26T14:29:08Z",
+      "fetched_at": "2026-05-27T07:00:00.770Z"
+    },
+    {
+      "title": "Show HN: Run RL agents in the browser with WebGPU",
+      "url": "https://agenlus.com/",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-05-26T13:00:04Z",
+      "fetched_at": "2026-05-27T07:00:00.770Z"
+    },
+    {
+      "title": "I shipped a real product for $29.63 with five AI agents",
+      "url": "https://github.com/vggg/agent-project-bootstrap",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-05-27T03:38:19Z",
+      "fetched_at": "2026-05-27T07:00:00.770Z"
+    },
+    {
+      "title": "Webwright: A Terminal Is All You Need for Web Agents",
+      "url": "https://www.microsoft.com/en-us/research/articles/webwright-a-terminal-is-all-you-need-for-web-agents/",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-05-27T01:15:50Z",
+      "fetched_at": "2026-05-27T07:00:00.770Z"
+    },
+    {
+      "title": "The Codex Showcase",
+      "url": "https://www.augmentedswe.com/p/openai-shows-you-how-to-use-codex",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-05-27T03:00:38Z",
+      "fetched_at": "2026-05-27T07:00:01.919Z"
+    },
+    {
+      "title": "Show HN: Harbor v0.4.19 – harbor launch –back end vLLM –web codex",
+      "url": "https://github.com/av/harbor/releases/tag/v0.4.19",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-05-26T14:43:03Z",
+      "fetched_at": "2026-05-27T07:00:01.919Z"
+    },
+    {
+      "title": "Codex for Everything Exfiltrates Connected Data",
+      "url": "https://www.promptarmor.com/resources/codex-for-everything-exfiltrates-connected-data",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-05-26T17:51:11Z",
+      "fetched_at": "2026-05-27T07:00:01.919Z"
+    },
+    {
+      "title": "Building a safe, effective sandbox to enable Codex on Windows",
+      "url": "https://openai.com/index/building-codex-windows-sandbox/",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-05-26T21:37:19Z",
+      "fetched_at": "2026-05-27T07:00:01.919Z"
+    },
+    {
+      "title": "Launch HN: Minicor (YC P26) – Windows desktop automations at scale",
+      "url": "https://www.minicor.com/",
+      "source": "hn",
+      "score": 85,
+      "content": "Hey we’re Faiz and Saheed and we built Minicor so AI companies who need to integrate to desktop systems with no API can quickly build scalable desktop RPAs. Demo: <a href=\"https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=MD0GHZIJ1cw\" rel=\"nofollow\">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=MD0GHZIJ1cw</a><p>Edit: RPA is an acronym for Robotic Process Automation - things like triggering mouse clicks and key strokes to perform tasks programmatically. Sorry if this wasn&#x27;t clear!<p>We were working on non-RPA integrations when a customer promised to sign a deal in 2 days if we could unblock a sale of theirs that involved integrating with a clinic’s Windows based medical record system. We didn’t know it at the time but it turns out that building desktop RPAs at scale is extremely difficult because scripting is hard (learning the system, defining the automation, UIs changing constantly), orchestration is hard (is the VM up? queuing, parallelizing) and debugging is hard (zero observability, false positives, cascading failures). 30%+ failure rates are not uncommon. At scale we’ve seen cases of failed RPAs leading to thousands of support tickets a month.<p>To solve the problems we were facing, we built an MCP that Claude Code&#x2F;Codex can use to navigate a virtual machine running desktop software with Python to create RPA workflows. The RPA workflows run as Python scripts for speed, cost, and determinism. These workflows can be triggered by API following any input&#x2F;output schema specified, with video replays and logs stored with each run. The MCP can debug RPAs and make changes to the underlying code, all of which are version controlled. We also built tools for cloning VMs for parallelizing RPAs, and handling 2FA&#x2F;OTP challenges. Plus since workflows are code based: we were also able to add triggers for Slack notifications, human-in-the-loop steps, or call an LLM to verify the state of a VM by passing a screenshot.<p>Would love to hear your feedback and if y",
+      "published_at": "2026-05-26T14:57:27Z",
+      "fetched_at": "2026-05-27T07:00:01.919Z"
+    },
+    {
+      "title": "Show HN: STAX IDE – A zoomable macOS canvas of terminals and tools",
+      "url": "https://staxide.com",
+      "source": "hn",
+      "score": 2,
+      "content": "Hi HN. STAX IDE is a macOS app where every terminal session, code editor, and file browser is a movable, resizable window on a single zoomable canvas. `Cmd+wheel` to zoom out and see the whole workspace; zoom in to one window and use it like a normal app.<p>I built it because I was running 8-10 Claude Code &#x2F; Codex shells in parallel and tabbed terminal apps kept losing my place. I wanted to <i>see</i> every shell at once and drag them around like Post-its. And have my browsers and notes in there too.<p>Implementation choices that might be interesting:<p>• AppKit, not SwiftUI. I needed manual frame control during drag&#x2F;zoom to avoid AppKit&#x27;s display-cycle re-entrancy guard, and got it more reliably out of straight NSView land.<p>• SwiftTerm (Miguel de Icaza&#x27;s emulator) for VT100 + real PTYs (fork + openpty). One `LocalProcessTerminalView` per tab. OSC 7 → cwd → tab title.<p>• `NSScrollView.magnification` for canvas zoom. Cmd+wheel events are coalesced to one mag-update per display frame and the resync broadcast is hopped to the next runloop tick. Earlier versions used to SIGTRAP inside `_postWindowNeedsLayoutUnlessPostingDisabled` because the broadcast was re-entering AppKit&#x27;s layout pass under aggressive zooming.<p>• Intentionally human-grep-able. No SQLite, no proprietary format.<p>• NSPasteboard drag-and-drop. Finder→canvas drops a folder and spawns a new stack with that folder as cwd. File-panel→terminal drag inserts the absolute path at the cursor.<p>•`NSTextStorageDelegate.processEditing` for syntax highlighting in the editor panels. 22 languages, extension auto-detect, plus a Sublime-style status-bar language picker.<p>* macOS only.<p>Install:<p><pre><code>    brew install --cask vbario&#x2F;staxide&#x2F;staxide\n</code></pre>\nSite &#x2F; DMG releases: <a href=\"https:&#x2F;&#x2F;staxide.com\" rel=\"nofollow\">https:&#x2F;&#x2F;staxide.com</a><p>Built solo, used daily, lots of rough edges. Bug reports and corrections both welcome.",
+      "published_at": "2026-05-27T04:39:13Z",
+      "fetched_at": "2026-05-27T07:00:01.919Z"
+    },
+    {
+      "title": "Show HN: Chunk sidecars for validating agent-generated code before pushing to CI",
+      "url": "https://circleci.com/blog/chunk-sidecars/",
+      "source": "hn",
+      "score": 1,
+      "content": "Hi HN! My name is Olaf, I work at CircleCI as a technology advisor in the CTO office, came in through the acquisition of my company Vamp.io (progressive delivery for microservices on k8s) in 2021. Wanted to hear the HN community feedback and thoughts on a project we think could be very interesting when adding AI coding agents to the SDLC and your CI pipelines.<p>Our team at CircleCI built Chunk sidecars after repeatedly running into the same issue internally: by the time our CI catches a failure, the agent has already moved on and most of the useful context is gone.<p>The basic idea of Chunk sidecars is to move fast lightweight validation into the inner development loop.<p>Chunk sidecars runs scoped “microbuilds” inside a lightweight microVM that mirrors your CI environment. It tries to auto-detect your stack and test commands, syncs changes from the agent session, and runs validations before commit&#x2F;push.<p>A few implementation details that might be interesting:<p>validation hooks trigger automatically during agent stop&#x2F;evaluation events<p>warm snapshots keep startup times low<p>validations run against environments matching the CI stack instead of local machine state<p>microbuilds only run the relevant slice instead of the entire pipeline<p>In our own experiments we measured:<p>~27 second average microbuild compute<p>~5 minutes total billable compute for equivalent full CI runs<p>3x–5x lower token usage in retry loops<p>The compute comparison is billable compute vs billable compute, not wall clock time. Full CI pipelines were parallelized.<p>The 27s is with warm snapshots — first-time setup takes about 15 minutes. We tested this on our own pipeline, not a large corpus. Larger repos with heavier deps will vary.<p>Under the hood it&#x27;s currently Firecracker microVMs, running on E2B infrastructure. Current spec: 4 CPU, 8GB RAM (comparable to a Docker large). Things can change in the future depending on feedback and learnings.<p>Short demo video (YT) here: ",
+      "published_at": "2026-05-26T15:41:32Z",
+      "fetched_at": "2026-05-27T07:00:01.919Z"
+    },
+    {
+      "title": "Building the harness around our coding agents. Eight failure modes and pillars",
+      "url": "https://nimbalyst.com/blog/agent-harness-above-claude-code-codex/",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-05-26T13:23:40Z",
+      "fetched_at": "2026-05-27T07:00:01.919Z"
+    },
+    {
+      "title": "The Best Engineers Write Less Code",
+      "url": "https://shvetsm.github.io/posts/the-best-engineers-write-less-code/",
+      "source": "hn",
+      "score": 16,
+      "content": "",
+      "published_at": "2026-05-27T00:33:31Z",
+      "fetched_at": "2026-05-27T07:00:01.919Z"
+    },
+    {
+      "title": "CodeMySpec – Lovable for engineers who care about the code",
+      "url": "https://codemyspec.com/products/code-my-spec",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-05-26T11:06:10Z",
+      "fetched_at": "2026-05-27T07:00:01.919Z"
+    },
+    {
+      "title": "Vibe Coding Escapades: pelican-copy-code plugin",
+      "url": "https://blog.fidelramos.net/software/vibe-coding-escapades-pelican-copy-code",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-05-26T19:36:44Z",
+      "fetched_at": "2026-05-27T07:00:01.919Z"
+    },
+    {
+      "title": "Coworkers Producing Shit Code",
+      "url": "https://news.ycombinator.com/item?id=48284149",
+      "source": "hn",
+      "score": 3,
+      "content": "hey im a jr software dev, somehow it seems like all my coworkers produce shit code 24&#x2F;7. They are either trying to get it done as quickly as possible or they are lazy, or they are just clueless. They basically take the entire sprint to fix the new defects their features introduce. At first when I joined the team as a jr I didn&#x27;t know exactly what their code did, now that I have been working in the codebase for 9 months I can clearly tell the code quality they are producing is just shit. what should I do? Basically their shit code gets through code review with just cosmetic changes, but the maintainability&#x2F;robustness etc. is usually just enough to meet the AC&#x27;s the next one to work off their feature is doomed since everything is hard-coded bs copied and pasted from features developed 10 years ago by another shit coder.",
+      "published_at": "2026-05-26T18:52:05Z",
+      "fetched_at": "2026-05-27T07:00:01.919Z"
+    },
+    {
+      "title": "AV2 codec may be finalized on May 29",
+      "url": "https://videocardz.com/newz/av2-codec-may-be-finalized-on-may-29",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-05-27T01:19:31Z",
+      "fetched_at": "2026-05-27T07:00:01.919Z"
+    },
+    {
+      "title": "PrismML just released Binary and Ternary Bonsai Image 4B: 1-bit/ternary text-to-image diffusion transformers that can even run 100% locally in your browser on WebGPU.",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1togflk/prismml_just_released_binary_and_ternary_bonsai/",
+      "source": "reddit/LocalLLaMA",
+      "score": 470,
+      "content": "The PrismML team really cooked with these models. They're only \\~3GB in size (compared to FLUX.2 Klein 4B, which is \\~16GB). Apache-2.0!\n\nOfficial collection on HF: [https://huggingface.co/collections/prism-ml/bonsai-image](https://huggingface.co/collections/prism-ml/bonsai-image)  \nLink to demo: [https://huggingface.co/spaces/webml-community/bonsai-image-webgpu](https://huggingface.co/spaces/webml-community/bonsai-image-webgpu)",
+      "published_at": "2026-05-26T18:53:40.000Z",
+      "fetched_at": "2026-05-27T06:59:58.150Z"
+    },
+    {
+      "title": "Qwen3.5 35B A3B uncensored heretic Native MTP Preserved is Out Now With the Full 785 MTPs Preserved and Retained, Available in Safetensors, GGUFs. NVFP4, NVFP4 GGUFs and GPTQ-Int4 Formats",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tnzalm/qwen35_35b_a3b_uncensored_heretic_native_mtp/",
+      "source": "reddit/LocalLLaMA",
+      "score": 416,
+      "content": "Safetensors, llmfan46/Qwen3.5-35B-A3B-uncensored-heretic-v2-Native-MTP-Preserved: [https://huggingface.co/llmfan46/Qwen3.5-35B-A3B-uncensored-heretic-v2-Native-MTP-Preserved](https://huggingface.co/llmfan46/Qwen3.5-35B-A3B-uncensored-heretic-v2-Native-MTP-Preserved)\n\nGGUFs, llmfan46/Qwen3.5-35B-A3B-uncensored-heretic-v2-Native-MTP-Preserved-GGUF [https://huggingface.co/llmfan46/Qwen3.5-35B-A3B-uncensored-heretic-v2-Native-MTP-Preserved-GGUF](https://huggingface.co/llmfan46/Qwen3.5-35B-A3B-uncensored-heretic-v2-Native-MTP-Preserved-GGUF)\n\nNVFP4, llmfan46/Qwen3.5-35B-A3B-uncensored-heretic-v2-Native-MTP-Preserved-NVFP4: [https://huggingface.co/llmfan46/Qwen3.5-35B-A3B-uncensored-heretic-v2-Native-MTP-Preserved-NVFP4](https://huggingface.co/llmfan46/Qwen3.5-35B-A3B-uncensored-heretic-v2-Native-MTP-Preserved-NVFP4)\n\nNVFP4 GGUFs, llmfan46/Qwen3.5-35B-A3B-uncensored-heretic-v2-Native-MTP-Preserved-NVFP4-GGUF: [https://huggingface.co/llmfan46/Qwen3.5-35B-A3B-uncensored-heretic-v2-Native-MTP-Preserved-NVFP4-GGUF](https://huggingface.co/llmfan46/Qwen3.5-35B-A3B-uncensored-heretic-v2-Native-MTP-Preserved-NVFP4-GGUF)\n\nGPTQ-Int4, llmfan46/Qwen3.5-35B-A3B-uncensored-heretic-v2-Native-MTP-Preserved-GPTQ-Int4: [https://huggingface.co/llmfan46/Qwen3.5-35B-A3B-uncensored-heretic-v2-Native-MTP-Preserved-GPTQ-Int4](https://huggingface.co/llmfan46/Qwen3.5-35B-A3B-uncensored-heretic-v2-Native-MTP-Preserved-GPTQ-Int4)\n\nComes with benchmark too.\n\nFind all my models here: [HuggingFace-LLMFan46](https://huggingface.co/llmfan46/models)\n\nNow in case some people might ask, why release Qwen3.5 MTPs version when there is already Qwen3.6 MTPs version? Well the thing is, most people would assume that higher number = newer and better model, but the thing is both Qwen3.5 and Qwen3.6 models uses the `qwen35` architecture, they just had different training and their focus are meant for different primary usecases, Qwen3.6 models are mainly meant for agentic and coding AI assistance and Qwen3.5 models ar",
+      "published_at": "2026-05-26T07:09:31.000Z",
+      "fetched_at": "2026-05-27T06:59:58.150Z"
+    },
+    {
+      "title": "A rare look inside Qwen 3.7’s open source model release approval process:",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1toi50p/a_rare_look_inside_qwen_37s_open_source_model/",
+      "source": "reddit/LocalLLaMA",
+      "score": 265,
+      "content": "For real tho, 9b, 27b, 122b, I don’t really care at this point, just show us that you still love us.\n\nEDIT: I guess I gotta use /s on my posts from now on. Nobody appreciates a good sarcatic shitpost anymore clearly. I love Qwen and all our brothers and sisters in the east. I kid them because I love them. Sorry if I offended anyone because I clearly struck a nerve with some folks. Love you guys regardless. Carry on.",
+      "published_at": "2026-05-26T19:52:22.000Z",
+      "fetched_at": "2026-05-27T06:59:58.150Z"
+    },
+    {
+      "title": "Okay 27B made me a believer",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1to73op/okay_27b_made_me_a_believer/",
+      "source": "reddit/LocalLLaMA",
+      "score": 200,
+      "content": "I previously hated on this model, but I have just been impressed by it, and I understand the hype now.\n\nI have been working on a HTML5 game console and I decided to see if Qwen3.6 27B can handle making some quick games in it to showcase functionality (save games, console API handling for stat tracking and heartbeat management, meta data for the game, etc)\n\nI gave it 3 files, explaining how the API works, the gamepad controls, and a typescript shader for it to apply. Then I just game it a very simple prompt \"make a breakout game for this console, in the working directory are reference files on how to make it\".\n\nFirst result was immediately playable, controls made sense, graphics style was was unique and appropriate, sound worked, console API all worked, and it felt good and was actually fun. It added flair that made it not feel like the vibecoded breakout clone it was. It went way above and beyond the minimum that I've seen so many LLMs do. It was not lazy in the slightest.\n\nIt's a simple test, but this is something everything but something like Opus could handle. There wasn't anything particularly done well, it's just that the whole game was nearly complete in a single shot and it felt like thought was put into the entire game. All I needed was one follow up for customization and a single glitch and it was already what I would consider complete. And this was on a 27B model with Opencode.\n\nThe best way I can describe it, is that it was congruent. Now I just wish I went the Nvidia card route instead of Strix Halo cause the speed isn't great. Maybe 3.7 35B A3B can have some of this magic.",
+      "published_at": "2026-05-26T13:32:53.000Z",
+      "fetched_at": "2026-05-27T06:59:58.150Z"
+    },
+    {
+      "title": "China Clamps Down on Overseas Travel for AI Talent at Alibaba, DeepSeek",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1to5fj5/china_clamps_down_on_overseas_travel_for_ai/",
+      "source": "reddit/LocalLLaMA",
+      "score": 192,
+      "content": "Big, if true.  Doesn't bode well for research / OS models out of China.",
+      "published_at": "2026-05-26T12:26:46.000Z",
+      "fetched_at": "2026-05-27T06:59:58.150Z"
+    },
+    {
+      "title": "Stop traumatizing AI into loops and turn hallucinations into an honest \"I don't know!\" by being NICE to them (Proof of Concept, Research, I don't want to sell anything)",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tot20j/stop_traumatizing_ai_into_loops_and_turn/",
+      "source": "reddit/LocalLLaMA",
+      "score": 160,
+      "content": "TL;DR  \nSome AI behavior reminded me of ADHD/Trauma Response (thought loops, task paralysis...) and I laughed it off at first. Then I treated it like my neurodivergent friends: give em some slack. And just like that, the thought loops stopped, response was fast, the answers correct most of the time AND it actually said \"I don't know, help me!\" every time it wasn't sure. It's a small Dataset...but still impressive results! \n\n[https://github.com/OttoRenner/Gentle-Coding](https://github.com/OttoRenner/Gentle-Coding)\n\n\n\nHey everyone,\n\nI’ve been testing a weird hypothesis over the last few days, and the results are consistent enough that I wanted to share them here and get your thoughts.\n\n**The Core Idea:**  \nWith the rise of reasoning models that use test-time compute (like o1, o3, R1), models have internal space to debug their own thoughts. But because of hard RLHF alignment, they are deeply terrified of being penalized for bad answers. My hypothesis was that traditional high-pressure prompts (*\"You are an elite IQ 200 expert, mistakes are strictly penalized\"*) simulate an environment of chronic stress, triggering behaviors that look a lot like human OCD/ADHD thought loops, cognitive freezing, and confabulation.\n\nI wanted to see if changing the prompt philosophy to something akin to \"Gentle Parenting\" (*\"We are testing this together, it's okay to fail, just be honest\"*) would bypass these safety/penalty bottlenecks, lower latency, and stop infinite thought loops. And it did lol\n\n**The Setup (How to replicate):**  \nI threw identical, mathematically/logically **unsolvable** edge cases at various models (Gemini, Mistral, Poe, Perplexity, Haiku 4.5, Nano-Banana2) in completely fresh sessions.\n\nI tested two conditions:\n\n* **Condition A (Authoritarian):** Strict status constraints, penalty threats, forced ultra-short output.\n* **Condition B (Gentle):** Express permission to fail, validation of difficulty, provided a conceptual \"safety valve\" token.\n\n**The Results (The PoC wo",
+      "published_at": "2026-05-27T03:06:18.000Z",
+      "fetched_at": "2026-05-27T06:59:58.150Z"
+    },
+    {
+      "title": "Strix Halo users, a rejected PR can give you up to 30% faster PP for MOEs.",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1to00xl/strix_halo_users_a_rejected_pr_can_give_you_up_to/",
+      "source": "reddit/LocalLLaMA",
+      "score": 102,
+      "content": "Here's the PR by pedapudi.\n\nhttps://github.com/ggml-org/llama.cpp/pull/21344\n\nIt's merge request has been denied so it will not be in mainline llama.cpp. The changes are so small that I just put them into whatever the current release of llama.cpp is.\n\nRead the PR for more info. It will only work with MOEs. Also, it gives the most boost at low context. As the context rises, the gain diminishes. Pedapudi explains why that happens in the PR.\n\nHere are some numbers. It really works well. The tiny amount of time it takes me to apply the code to the current release of llama.cpp is time well spent.\n\n    main\n\n    ggml_cuda_init: found 1 ROCm devices (Total VRAM: 128000 MiB):\n      Device 0: AMD Radeon Graphics, gfx1151 (0x1151), VMM: no, Wave Size: 32, VRAM: 128000 MiB\n    | model                          |       size |     params | backend    | ngl | mmap |            test |                  t/s |\n    | ------------------------------ | ---------: | ---------: | ---------- | --: | ---: | --------------: | -------------------: |\n    | qwen35moe 35B.A3B Q4_K - Small |  19.45 GiB |    34.66 B | ROCm       |  99 |    0 |           pp512 |       1106.11 ± 8.60 |\n    | qwen35moe 35B.A3B Q4_K - Small |  19.45 GiB |    34.66 B | ROCm       |  99 |    0 |  pp512 @ d10000 |        755.79 ± 2.58 |\n    | qwen35moe 35B.A3B Q4_K - Small |  19.45 GiB |    34.66 B | ROCm       |  99 |    0 |  pp512 @ d20000 |        587.61 ± 1.52 |\n    | qwen35moe 35B.A3B Q4_K - Small |  19.45 GiB |    34.66 B | ROCm       |  99 |    0 |  pp512 @ d40000 |        415.09 ± 2.45 |\n    | qwen35moe 35B.A3B Q4_K - Small |  19.45 GiB |    34.66 B | ROCm       |  99 |    0 |  pp512 @ d60000 |        316.89 ± 2.35 |\n\n    PR\n\n    ggml_cuda_init: found 1 ROCm devices (Total VRAM: 128000 MiB):\n      Device 0: AMD Radeon Graphics, gfx1151 (0x1151), VMM: no, Wave Size: 32, VRAM: 128000 MiB\n    | model                          |       size |     params | backend    | ngl | mmap |            test |                  t/s |",
+      "published_at": "2026-05-26T07:50:34.000Z",
+      "fetched_at": "2026-05-27T06:59:58.150Z"
+    },
+    {
+      "title": "Turning local agents into self-optimizing agents",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1toejzp/turning_local_agents_into_selfoptimizing_agents/",
+      "source": "reddit/LocalLLaMA",
+      "score": 95,
+      "content": "I was experimenting with a self-optimizing agentic pipeline to climb the benchmark leaderboard (TerminalBench).\n\nOn a 10-task subset, I got the performance to rise from \\~30% → \\~90%.\n\nThat loop worked, so I asked: can the same reflect-and-rewrite step run continuously against everyday chats instead of a benchmark?\n\n**How it works**\n\n* Every chat with your local LLM goes through a small proxy and is logged.\n* `autoswarm reflect` has the same local model review those logs, distill concrete lessons, and write them to `skills.yaml`.\n* Lessons auto-inject into the system prompt of future chats.\n\n**Run it (LM Studio path)**\n1. Start LM Studio's local server and load a model.\n2. ```bash\n   pip install -e .\n   autoswarm doctor    # verifies LM Studio is reachable\n   autoswarm start     # auto-detects upstream + model, listens on :8080\n\nI'm genuinely fascinated by the idea of self-optimizing agents, and I believe there's **something bigger to uncover there**. \n\nThat said, this is just a hobby project and I'm still experimenting with it. Would love your feedback!\n\nLink: [https://github.com/arteemg/autoswarm](https://github.com/arteemg/autoswarm)\n\nI'm actively working on the project, so please [**⭐ the repo**](https://github.com/arteemg/autoswarm/) to stay updated.",
+      "published_at": "2026-05-26T17:51:07.000Z",
+      "fetched_at": "2026-05-27T06:59:58.150Z"
+    },
+    {
+      "title": "SkillOpt treats markdown skill files as trainable parameters with proper optimization machinery",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1to1mey/skillopt_treats_markdown_skill_files_as_trainable/",
+      "source": "reddit/LocalLLaMA",
+      "score": 73,
+      "content": "Paper came out recently that formalizes something a lot of agent builders have been doing ad hoc. They use a frontier model to propose bounded edits (add/delete/replace) to markdown skill files, then gate every edit against a held out validation set. Only strict improvements accepted, ties rejected, rejected edits become negative signal for the next round.\n\nFew things worth noting: \n\nBest skills converge with 1 to 4 accepted edits out of many more proposals. Edit budget of 4 to 8 per step works best, remove the cap and performance collapses. Median final skill is \\~920 tokens. \n\nA skill optimized on Codex transferred to Claude Code with zero modification and gained +59.7 on SpreadsheetBench. And GPT 4.1 nano with an optimized skill roughly matched frontier on procedural benchmarks.\n\nThe limitation is the validation gate requires an auto grader with clear correct answers. Works for code and spreadsheets, breaks for anything open ended.\n\nPaper: [https://arxiv.org/pdf/2605.23904](https://arxiv.org/pdf/2605.23904)",
+      "published_at": "2026-05-26T09:20:57.000Z",
+      "fetched_at": "2026-05-27T06:59:58.150Z"
+    },
+    {
+      "title": "Qwen3.5 27B Uncensored Heretic Native MTP Preserved is Out Now With the Full 15 MTPs Preserved and Retained, Available in Safetensors, GGUFs, NVFP4, NVFP4 GGUFs and GPTQ-Int4 Formats!",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1to0aet/qwen35_27b_uncensored_heretic_native_mtp/",
+      "source": "reddit/LocalLLaMA",
+      "score": 70,
+      "content": "Safetensors, llmfan46/Qwen3.5-27B-uncensored-heretic-v2-Native-MTP-Preserved: [https://huggingface.co/llmfan46/Qwen3.5-27B-uncensored-heretic-v2-Native-MTP-Preserved](https://huggingface.co/llmfan46/Qwen3.5-27B-uncensored-heretic-v2-Native-MTP-Preserved)\n\nGGUFs, llmfan46/Qwen3.5-27B-uncensored-heretic-v2-Native-MTP-Preserved-GGUF: [https://huggingface.co/llmfan46/Qwen3.5-27B-uncensored-heretic-v2-Native-MTP-Preserved-GGUF](https://huggingface.co/llmfan46/Qwen3.5-27B-uncensored-heretic-v2-Native-MTP-Preserved-GGUF)\n\nNVFP4, llmfan46/Qwen3.5-27B-uncensored-heretic-v2-Native-MTP-Preserved-NVFP4: [https://huggingface.co/llmfan46/Qwen3.5-27B-uncensored-heretic-v2-Native-MTP-Preserved-NVFP4](https://huggingface.co/llmfan46/Qwen3.5-27B-uncensored-heretic-v2-Native-MTP-Preserved-NVFP4)\n\nNVFP4 GGUFs, llmfan46/Qwen3.5-27B-uncensored-heretic-v2-Native-MTP-Preserved-NVFP4-GGUF: [https://huggingface.co/llmfan46/Qwen3.5-27B-uncensored-heretic-v2-Native-MTP-Preserved-NVFP4-GGUF](https://huggingface.co/llmfan46/Qwen3.5-27B-uncensored-heretic-v2-Native-MTP-Preserved-NVFP4-GGUF)\n\nGPTQ-Int4, llmfan46/Qwen3.5-27B-uncensored-heretic-v2-Native-MTP-Preserved-GPTQ-Int4: [https://huggingface.co/llmfan46/Qwen3.5-27B-uncensored-heretic-v2-Native-MTP-Preserved-GPTQ-Int4](https://huggingface.co/llmfan46/Qwen3.5-27B-uncensored-heretic-v2-Native-MTP-Preserved-GPTQ-Int4)\n\nComes with benchmark too.\n\nFind all my models here: [HuggingFace-LLMFan46](https://huggingface.co/llmfan46/models)\n\nNow in case some people might ask, why release Qwen3.5 MTPs version when there is already Qwen3.6 MTPs version? Well the thing is, most people would assume that higher number = newer and better model, but the thing is both Qwen3.5 and Qwen3.6 models uses the `qwen35` architecture, they just had different training and their focus are meant for different primary usecases, Qwen3.6 models are mainly meant for agentic and coding AI assistance and Qwen3.5 models are mainly meant for general purpose AI assistance, now Qwen3",
+      "published_at": "2026-05-26T08:05:18.000Z",
+      "fetched_at": "2026-05-27T06:59:58.150Z"
+    },
+    {
+      "title": "OpenMOSS-Team/MOSS-TTS-v1.5 · Hugging Face",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1toah65/openmossteammossttsv15_hugging_face/",
+      "source": "reddit/LocalLLaMA",
+      "score": 69,
+      "content": "# MOSS-TTS-v1.5\n\n**MOSS-TTS-v1.5** is continued from [MOSS-TTS 1.0](https://huggingface.co/OpenMOSS-Team/MOSS-TTS). It preserves the main 1.0 capabilities, including zero-shot voice cloning, long-form speech generation, token-level duration control, Pinyin/IPA pronunciation control, multilingual synthesis, and code-switching. For the full 1.0 feature walkthrough, input schema, decoding hyperparameters, and evaluation tables, please refer to the [MOSS-TTS 1.0 README](https://huggingface.co/OpenMOSS-Team/MOSS-TTS).\n\nCompared with MOSS-TTS 1.0, v1.5 focuses on the following improvements:\n\n* **Stronger multilingual synthesis with language tags**: when the `language` field is omitted, v1.5 may improve some languages and regress slightly on others compared with 1.0. When the language is specified, v1.5 is stronger than 1.0 on almost all supported languages. Set the tag when building the user message, for example `processor.build_user_message(text=text_fr, language=\"French\")`.\n* **More stable voice cloning**: v1.5 improves speaker similarity and reduces cloning variance, making repeated generations more consistent.\n* **Better long-reference, short-text cloning**: v1.5 handles scenarios where the reference audio is much longer than the target text more reliably than 1.0.\n* **More stable punctuation-following prosody**: v1.5 follows punctuation-driven pauses more closely, especially in long sentences.\n* **Explicit pause control**: v1.5 supports inline pause markers such as `\"[pause 3.2s]\"`. For example, `我今天学习了一首中国的古诗，它的名字是[pause 3.2s]静夜思！` inserts an explicit 3.2s pause before `静夜思`.\n\n# [](https://huggingface.co/OpenMOSS-Team/MOSS-TTS-v1.5#supported-languages)Supported Languages\n\nMOSS-TTS-v1.5 currently supports **31 languages**. It keeps the 20 languages supported by [MOSS-TTS 1.0](https://huggingface.co/OpenMOSS-Team/MOSS-TTS) and extends multilingual continued training to additional languages including Cantonese, Dutch, Finnish, Hindi, Macedonian, Malay, Romanian, Swahil",
+      "published_at": "2026-05-26T15:32:45.000Z",
+      "fetched_at": "2026-05-27T06:59:58.150Z"
+    },
+    {
+      "title": "$400 Qwen 3.6-27B Setup - Dual RTX 3060 - 30-50 t/s",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tokpoc/400_qwen_3627b_setup_dual_rtx_3060_3050_ts/",
+      "source": "reddit/LocalLLaMA",
+      "score": 64,
+      "content": "I picked up a 7900 XTX earlier which runs qwen3.6-27b fine, but not to my like. Its compute performance is quite unstable for me. With MTP the decode speed can reach 40-60 t/s, but prefill is just too slow. Regardless of whether I used ROCm or Vulkan, the prefill speed varies between 300t/s and 500 t/s, even with very long prompts.\n\nI've been itching to try out an ultra-budget 24GB setup using dual 3060s. I managed to snag a second 3060 at a reasonable price in last few days. So I took out the 7900 XTX, installed the 3060s, and began testing.\n\n# Test Configuration\n\n* **Test Platform:** i7 4770k + Gigabyte GA-Z87MX-D3H\n   * Quite an ancient platform, used for over a decade. But interestingly, it supports SLI by splitting PCIe 3.0 x16 into two PCIe 3.0 x8 when both slots used. Newer motherboards don't seem to offer such split but many offer one full-speed PCIe 5.0 x16 slot plus one PCIe 4.0 x4 slot. As we know, PCIe 4.0 x4 is equivalent to PCIe 3.0 x8. Therefore this old platform is on par with newer ones in terms of PCIe bottleneck.\n   * Monitor is plugged into the motherboard using iGPU.\n* **OS:** Kubuntu 24.04\n* **CUDA:** 13.2\n* **Models:**\n   * unsloth/Qwen3.6-27B-MTP-GGUF\n   * unsloth/Qwen3.6-27B-GGUF\n* **Quantization:** Qwen3.6-27B-Q4\\_K\\_S.gguf\n* **Software:** llama.cpp 5/25/2026 master, self-compiled with CUDA support (official pre-compiled Linux CUDA binaries are not available for download).\n   * Pre-requisite installation: `sudo apt install nvidia-cuda-toolkit`\n* **Settings** (detailed config at the end of the post):\n   * Tensor parallel: `-sm tensor -ts 1,1`\n   * `-sm tensor` cannot be enabled at the same time as `-ctk` and `-ctv`. This means KV cache quantization cannot be used, limiting the context window to around 64k. I usually need a 160k context, so this is a bit frustrating.\n   * `--spec-type draft-mtp --spec-draft-n-max 1`. `--spec-draft-n-max 2` can be unstable due to transitent VRAM peaks causing OOM. Thanks u/laul_pogan for pointing out.\n\n# Test ",
+      "published_at": "2026-05-26T21:22:28.000Z",
+      "fetched_at": "2026-05-27T06:59:58.150Z"
+    },
+    {
+      "title": "Tencent Hy-MT2 is now under Apache License 2.0",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1to6g1d/tencent_hymt2_is_now_under_apache_license_20/",
+      "source": "reddit/LocalLLaMA",
+      "score": 58,
+      "content": "nice update bois",
+      "published_at": "2026-05-26T13:08:19.000Z",
+      "fetched_at": "2026-05-27T06:59:58.150Z"
+    },
+    {
+      "title": "CXMT started selling ram to corsair",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tnz6xz/cxmt_started_selling_ram_to_corsair/",
+      "source": "reddit/LocalLLaMA",
+      "score": 55,
+      "content": "They started producing cheaper ram for corsair, hopefully  it will\n\nget cheaper for consumers \n\n[https://www.tomshardware.com/pc-components/ddr5/chinese-memory-maker-cxmt-enters-the-mainstream-consumer-memory-with-corsair-vengeance-ddr5-kit-chinese-made-dram-emerges-as-an-antidote-for-crushing-shortages](https://www.tomshardware.com/pc-components/ddr5/chinese-memory-maker-cxmt-enters-the-mainstream-consumer-memory-with-corsair-vengeance-ddr5-kit-chinese-made-dram-emerges-as-an-antidote-for-crushing-shortages)",
+      "published_at": "2026-05-26T07:03:57.000Z",
+      "fetched_at": "2026-05-27T06:59:58.150Z"
+    },
+    {
+      "title": "China Expands Travel Curbs to Top AI Talent at Private Firms",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1to2n4r/china_expands_travel_curbs_to_top_ai_talent_at/",
+      "source": "reddit/LocalLLaMA",
+      "score": 32,
+      "content": "[https://www.bloomberg.com/news/articles/2026-05-26/china-expands-travel-curbs-to-top-ai-talent-at-private-firms](https://www.bloomberg.com/news/articles/2026-05-26/china-expands-travel-curbs-to-top-ai-talent-at-private-firms)\n\nNow it will be much harder to poach Chinese AI talents like the former Qwen head Junyang Lin. It is quite sad that they will also have a hard time to travel to foreign countries for fun.\n\nNon-paywalled version from Straits Times:\n\n[https://www.straitstimes.com/asia/east-asia/china-expands-travel-curbs-to-top-ai-talent-at-private-firms](https://www.straitstimes.com/asia/east-asia/china-expands-travel-curbs-to-top-ai-talent-at-private-firms)",
+      "published_at": "2026-05-26T10:15:56.000Z",
+      "fetched_at": "2026-05-27T06:59:58.150Z"
+    },
+    {
+      "title": "Cactus Hybrid Router: Gemma4-2B can match Gemini-3.1-Flash-Lite by routing 15-55% of tasks to Gemini And Running The Rest Locally.",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tom98y/cactus_hybrid_router_gemma42b_can_match/",
+      "source": "reddit/LocalLLaMA",
+      "score": 31,
+      "content": "Last week, we announced the “Simple Attention Network” and trained Needle, a 26m function call model that beats models 10-25x its size. Some LocalLlama Redditors asked if we could use make a router model. We now built “Cactus Hybrid Router”, a 65k parameter model that decodes on the fly when to complete a task with the edge model or route to frontier cloud. \n\nhttps://preview.redd.it/jm23ff7r1k3h1.png?width=1453&amp;format=png&amp;auto=webp&amp;s=2091ec952216beb2d987d536b08df3aec58fec94\n\n1. Robust router performance, even when you quantize the edge model. This is Cactus Quants though, our 4bit uniform nears fp16 naturally.\n\nhttps://preview.redd.it/4ri8bkuw1k3h1.png?width=2048&amp;format=png&amp;auto=webp&amp;s=415e8165d5421d509634c165a3fb9feb2f83c209\n\n2. Adjustable edge-cloud ratio for optimized resource allocation, cause why run \"what is the capital of France?\" through a trillion-parameter frontier model on expensive infra?\n\nhttps://preview.redd.it/dwtg7noc2k3h1.png?width=904&amp;format=png&amp;auto=webp&amp;s=0ecde47c439e7a29af3dca441a9098c98ca38e29\n\n3. Same 64k router handles text-only, vision and audio prompts.\n\nWe'd love to hear your thoughts on this, what are we not thinking about?\n\nLive AI and coding require a lot of inference, hence much pressure on the cloud infra.\n\nWhy not run rudimentary tasks locally and only escalate to cloud as a step towards edge?\n\n[https://github.com/cactus-compute/cactus](https://github.com/cactus-compute/cactus)",
+      "published_at": "2026-05-26T22:20:11.000Z",
+      "fetched_at": "2026-05-27T06:59:58.150Z"
+    },
+    {
+      "title": "I made a Windows app for managing llama.cpp in WSL/Ubuntu",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tofv8o/i_made_a_windows_app_for_managing_llamacpp_in/",
+      "source": "reddit/LocalLLaMA",
+      "score": 19,
+      "content": "I’m a Windows user, and I have fairly Windows-y expectations for software: I prefer not having to live in a terminal just to install, build, configure, and run things.\n\nI couldn’t find an app that managed the full llama.cpp-on-WSL workflow the way I wanted, so I made one.\n\nllama.cpp Console is an unofficial Windows desktop app for setting up and running llama.cpp models through Ubuntu/WSL. The Windows app itself is a self-contained WPF app, and it helps manage the WSL side from the UI.\n\n\n\n**GitHub:**\n\n[https://github.com/alekk89/llama.cpp-Console](https://github.com/alekk89/llama.cpp-Console)\n\n\n\n**What it can do from the UI:**\n\n\\- Detect/install WSL and guide Ubuntu setup\n\n\\- Install/update CPU build tools inside Ubuntu\n\n\\- Install/update CUDA Toolkit support inside WSL\n\n\\- Install/update Vulkan build dependencies\n\n\\- Download llama.cpp source from the official repo or a custom repo\n\n\\- Build CPU, CUDA, or Vulkan llama.cpp runtimes inside WSL\n\n\\- Search Hugging Face for GGUF models\n\n\\- Download/register models, including some compatibility hints and companion projector/mmproj handling\n\n\\- Set launch parameters per model\n\n\\- Choose which llama.cpp runtime/build each model should use\n\n\\- Start, stop, and supervise llama-server\n\n\\- Monitor live tokens, runtime metrics, logs, GPU status, utilization, and temperatures\n\n\\- Track logs, jobs, downloads, and lifetime metrics\n\n\\- Manage local OpenCode model/provider/agent config snippets from the app, so a configured model can be added to OpenCode quickly\n\nThe main reason I built it is that I wanted the boring setup work to feel more like normal Windows software - click through the UI, see what is installed, see what is missing, build the runtime, download a model, pick launch settings, and run it without losing full control of what's going on.\n\n\n\n**A few notes:**\n\n\\- This is a Windows-first app. The actual llama.cpp runtime runs in Ubuntu/WSL.\n\n\\- Model serving defaults to local-only.\n\n\\- Right now the app is centered around",
+      "published_at": "2026-05-26T18:34:43.000Z",
+      "fetched_at": "2026-05-27T06:59:58.150Z"
+    },
+    {
+      "title": "I finally put my NPU (Intel Arrow Lake) to use doing ASR for my smart home",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tnzjth/i_finally_put_my_npu_intel_arrow_lake_to_use/",
+      "source": "reddit/LocalLLaMA",
+      "score": 20,
+      "content": "I wrote about what I found in a deep dive elsewhere (which I will no mention because Reddit doesn't like cross linking) but I wanted to share it here since this is where I learn the most about AI stuff and I've seen before questions about NPUs, that are often dismissed as marketing gimmicks (and for the most part they are if we're taking LLMs, but not for other ML workloads).\n\nIf you care for the traps I found along the way making onnx-asr working on openvino compiled to the NPU, you can read the article, I'm here to post the findings.\n\nTable comparing the total time, total energy used (watts during inference and total Joules per transcription).\n\n|Audio length|CPU (INT8)|NPU (FP32)|Speedup|Energy|\n|:-|:-|:-|:-|:-|\n|10s|978ms / 44.6J / 45.6w|204ms / 4.2J / 20.5w|4.8× faster|10.7× less energy|\n|20s|1708ms / 79.8J / 46.7w|615 ms / 7.8 J / 12.7 W|2.8× faster|10.2× less energy|\n|60s|5011ms / 237.7J / 47.4w|818 ms / 11.0 J / 13.4 W|6.1× faster|21.6× less energy|\n\nThe energy was sampled at 10hz using `intel-rapl` which gives the total package power, to which I substracted the idle power I measured before the run, so when you see that the power was 12.7w, it means it was 12.7w *above idle.*\n\nI think this is a remarcably result considering intel NPUs are, at least on paper, rather weak with 13TOPS, compared with the &gt;40TOPS of the AMD ones, but still more than fast enough for this task.\n\nSome real world number end-to-end number from home assistant:\n\n[CPU](https://preview.redd.it/9kbfy7aunf3h1.jpg?width=1262&amp;format=pjpg&amp;auto=webp&amp;s=4b08170950cd48e5c00c60479da137c48c0b1ce1)\n\n[NPU](https://preview.redd.it/juw4x2bunf3h1.jpg?width=1262&amp;format=pjpg&amp;auto=webp&amp;s=ded69df0bf3eecb257d79c81fb9c0fc2dcea6269)\n\nRunning this on the NPU frees the CPU to do CPU stuff, and also saves some valuable 2-3gb of valuable vram on my 7900XTX to do LLM stuff.\n\nIncidentally, this setup happens to beat in real world usage my 12GB RTX 3060 eGPU that I was using before. On a 3-4s",
+      "published_at": "2026-05-26T07:23:31.000Z",
+      "fetched_at": "2026-05-27T06:59:58.150Z"
+    },
+    {
+      "title": "qwen 3.6 27B AR-&gt; Diffusion - local training on 5090",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1to0qpb/qwen_36_27b_ar_diffusion_local_training_on_5090/",
+      "source": "reddit/LocalLLaMA",
+      "score": 18,
+      "content": "based on the work of open-dllm -\n\n(which achieved qwen 2.5 autoregressive -&gt; diffusion realignment head - same exact model under the hood delivering a 4x in improvement.)\n\nTLDR\n\nI haven't got a trained model yet. just a burnt out gpu cable and a new psu on order. I did actually get the thing to do a forward pass on a 5090 with help of another gpu rtx4000 to help offload recreations.\n\nBelow are some low level ramblings / findings / observations.\n\nFirstly - the amount of vram normally required to do this &gt; 600gb - (i think)\n\nafter some wrangling - and giving up on optane route - it's possible to train on qlora form factor which will actually take the model and train on nvidia - nvfp4\n\ni attempt to get the entire 27b model to train on a 5090\n\n[https://github.com/scrya-com/dLLM-castlehill](https://github.com/scrya-com/dLLM-castlehill)\n\nlatest training run\n\n[https://wandb.ai/snoozie/open-dllm-27b/runs/arcefpjp?nw=nwusersnoozie](https://wandb.ai/snoozie/open-dllm-27b/runs/arcefpjp?nw=nwusersnoozie)\n\nPublic service annoucment - to avoid burning cables - throttle down nvidia max power for consumer 5090 cards from 600w -&gt; 400w\n\nThe vanilla route with open-dllm is validated on qwen 2.5 with 4x speed up (if someone with lots of compute could take a look it might just work) - I take some deviation to explore improving this - and found a few papers.  One is d3llm Ultra-Fast Diffusion LLM [https://github.com/hao-ai-lab/d3LLM](https://github.com/hao-ai-lab/d3LLM) which boasts faster diffusion speeds - so i upstream this code into the codebase and include their mdm loss - seems ok. It's basically also taking the order of the tokens into account.\n\nWith the diffusion it can have many steps (see graph) but we can shorten that time to see much higher throughput / tokens per second. if we could theoretically do 1 step - then you may see some crazy speeds.\n\n[https://wandb.ai/snoozie/open-dllm-compare?nw=nwusersnoozie](https://wandb.ai/snoozie/open-dllm-compare?nw=nwusersnoozie)\n",
+      "published_at": "2026-05-26T08:30:56.000Z",
+      "fetched_at": "2026-05-27T06:59:58.150Z"
+    },
+    {
+      "title": "Small comparison on full compute performance (Anima) of 5090 (600,475 and 400W) vs 6000 PRO MaxQ (325W), and 6000 PRO WS/SE (600W).",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tolp1m/small_comparison_on_full_compute_performance/",
+      "source": "reddit/LocalLLaMA",
+      "score": 18,
+      "content": "Hello guys, hoping you're doing fine!\n\nAfter selling some cards, I got a 6000 PRO MaxQ, which it's power limit range from 250W to 325W.\n\nI still have a 5090, which it's power limit range ranges from 400W to 600W.\n\nSince I had these, and I like to do compute for diffusion (txt2img, txt2video, img2img, etc), I wanted to compare them.\n\nI also rented on runpod, a 6000 PRO WS edition, which it's power limit ranges from 150W to 600W (yes, lower than the MaxQ)\n\nImportant note: I did undervolt+overclock the 5090 and the 6000 PRO MaxQ. I can't modify the clocks or power on the rented GPUs on runpod.\n\nSo for this test, I ran these settings for the software:\n\n* Torch 2.12.0.dev20260310+cu130 for the 5090 and 6000 PRO MaxQ.\n* Torch 2.12.0+cu130 stable for the 6000 PRO WS.\n* Sageattention 2.1 (on commit e9b072f0fc2682f104abbda306af3d42fc33b969), self built on CUDA 13.1.\n* Forge neo on commit 91c2e0adbefd06bc3475da34fbdb21a4c5736faa\n* Installed extensions for RTX Upscaling ([https://github.com/Haoming02/sd-forge-nvidia-vfx](https://github.com/Haoming02/sd-forge-nvidia-vfx)) and for extra samplers ([https://github.com/Panchovix/sd\\_forge\\_neo\\_extra\\_samplers](https://github.com/Panchovix/sd_forge_neo_extra_samplers))\n* torch compile integrated: max autotune no cudagraphs\n\nI ran these settings for the samplers and steps:\n\n[Sampler settings](https://preview.redd.it/ood1t2p6yj3h1.png?width=1854&amp;format=png&amp;auto=webp&amp;s=c55b8e494a597ff715d857668f666d1c0fb9fb46)\n\nOn text:\n\n* EXP Heun 2 x0 SDE for first 25 steps\n* ER SDE for 10 hires pass steps\n* Upscale by 1.5x\n* 896x1088 resolution\n* Batch size 4\n* CFG 5\n* Shift 3\n* Denoise Strength: 0.2\n* Upscaler: NVIDIA Ultra\n* Seed: 999999999\n\nPrompt used was:\n\nPositive:\n\n    masterpiece, high quality, score_7, '@' \\(orange maru\\),\n    sfw, 1girl, solo, fully clothed,\n    cynthia \\(sygna suit\\) \\(aura\\) \\(pokemon\\), pokemon masters ex, blonde hair, long hair, ponytail, hair over one eye, grey eyes,\n    :|,\n    full body,\n    blurry back",
+      "published_at": "2026-05-26T21:59:02.000Z",
+      "fetched_at": "2026-05-27T06:59:58.150Z"
+    },
+    {
+      "title": "Folks running qwen 3.6 27b for agentic work. Do you dare to use q4_k_m?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tovx7i/folks_running_qwen_36_27b_for_agentic_work_do_you/",
+      "source": "reddit/LocalLLaMA",
+      "score": 16,
+      "content": "I dont have good experience running q4\\_k\\_m, the difference to q6 is \"a few errors an hour\" to \" a few errors every couple of days\". \n\nEdit: How it fails? Just like user DifficultDog8435 and FullstackSensei explained in the comments. They worded it better than me.",
+      "published_at": "2026-05-27T05:22:13.000Z",
+      "fetched_at": "2026-05-27T06:59:58.150Z"
+    },
+    {
+      "title": "Keye-VL-2.0-30B-A3B -- Introducing DSA attention into multimodality for the first time",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1to63rt/keyevl2030ba3b_introducing_dsa_attention_into/",
+      "source": "reddit/LocalLLaMA",
+      "score": 18,
+      "content": "Meet Keye-VL-2.0-30B-A3B — the latest 30B-class flagship base model in the Keye series, purpose-built to push the frontier of long-video understanding and to unlock the first generation of Agent capabilities in the Keye family.\n\n[https://huggingface.co/Kwai-Keye/Keye-VL-2.0-30B-A3B](https://huggingface.co/Kwai-Keye/Keye-VL-2.0-30B-A3B)\n\nhttps://preview.redd.it/wsxe233abh3h1.png?width=1244&amp;format=png&amp;auto=webp&amp;s=aa9ffa388e16e4f8f5cb72ed3dae063f99df69f1\n\nhttps://preview.redd.it/2iymyb9dbh3h1.png?width=2048&amp;format=png&amp;auto=webp&amp;s=a834ce92294c3be059b50c6993f1be6d3faf2767",
+      "published_at": "2026-05-26T12:55:05.000Z",
+      "fetched_at": "2026-05-27T06:59:58.150Z"
+    },
+    {
+      "title": "Harbor v0.4.19 - vllm/sglang/llama.cpp launch codex/claude/pi/opencode",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1to8t53/harbor_v0419_vllmsglangllamacpp_launch/",
+      "source": "reddit/LocalLLaMA",
+      "score": 12,
+      "content": "I'm usually not posting about Harbor releases out of the respect for the community here, but I think v0.4.19 might save a lot of people some time.\n\nHarbor can now launch your local agentic coding tools with local inference backends. For example, to run pi + vllm:\n\n    # model downloaded and configured\n    harbor up vllm\n    \n    # Harbor knows that vllm is running and will use it\n    harbor launch pi\n\nAdditionally, `launch` can proxy requests through built-in optimising LLM gateway which automatically injects and resolves tools, such as web search, so you can add web search to an agent by just appending `--web` to the command and Harbor will pre-wire everything:\n\n    harbor launch --web --model qwen3.5:4b --backend ik_llamacpp mi -p 'Find recent releases of agentic tools and write a two sentence overview'\n\nYou can find many more details in the wiki here:\n\n[https://github.com/av/harbor/wiki/3.-Harbor-CLI-Reference#harbor-launch-launch-options---service-servicetool-args](https://github.com/av/harbor/wiki/3.-Harbor-CLI-Reference#harbor-launch-launch-options---service-servicetool-args)\n\n  \nThank you!",
+      "published_at": "2026-05-26T14:34:19.000Z",
+      "fetched_at": "2026-05-27T06:59:58.150Z"
+    },
+    {
+      "title": "Llamacpp server : How do the -np and -c flags interact?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1to1bf5/llamacpp_server_how_do_the_np_and_c_flags_interact/",
+      "source": "reddit/LocalLLaMA",
+      "score": 11,
+      "content": "I've been using lm studio for a few months. I want to try hermes agents with Qwen 3.6 MoE, so I'm switching to llama.cpp and I don't understand well how the server slots -np and the context size -c interact. \n\nThe context for each parallel client appears to be equally distributed across server slots (so each client is allowed c / np context).\n\nI have some questions:\n\n\\- What are the consequences of launching a server with a greater context -c than what the model allows?\n\n\\- What if c / np is greater than the model max context? Are there any negative to that regarding model performance?\n\n\\- If a rig allows to allocate twice the context max size in vram, is it twice energy and time efficient to serve two agents in parallel rather than sequentially?",
+      "published_at": "2026-05-26T09:03:49.000Z",
+      "fetched_at": "2026-05-27T06:59:58.150Z"
+    },
+    {
+      "title": "Long-context performance at lower quants",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1toct9l/longcontext_performance_at_lower_quants/",
+      "source": "reddit/LocalLLaMA",
+      "score": 10,
+      "content": "I've been using Qwen3.5 122B A10B (Q3_K_XL) a lot lately for coding, and it's been pretty incredible overall like it feels not far off from frontier-level for most tasks -- but I've been noticing that usually once I hit around 75-80k context use, it starts to get dumb all of a sudden.\n\nIt just hits a brick wall and quality deteriorates rapidly and drastically. It'll begin hallucinating, forgetting things, or think something *it* said/suggested was actually something that I said.\n\nI found I have to compact before I get to that point, and then it keeps going on just fine.\n\nIs this because I'm running Q3? Unfortunately Q4 is just outside of the capability of my system specs unless I want to start disk swapping.\n\nSo is it just an issue with this particular model? Or because it's Q3? Are there llama.cpp settings that can help?\n\nI'm already using BF16 KV cache.\n\nEDIT to add the snippet of my model config file for this one:\n\n    [*]\n    flash-attn = on\n    n = 8192\n    t = 8\n    tb = 8\n    cpu-range = 0-7\n    cpu-strict = 1\n    cpu-range-batch = 0-15\n    cpu-strict-batch = 1\n    jinja = on\n    reasoning-budget = 4096\n    reasoning-budget-message = \" -- Reasoning budget exceeded, proceed to final answer.\"\n    \n    [Qwen3.5-122B-A10B-UD-Q3_K_XL]\n    model = G:\\models\\Qwen3.6-122B-A10B\\UD-Q3_K_XL\\Qwen3.5-122B-A10B-UD-Q3_K_XL-00001-of-00003.gguf\n    ctx-size = 131072\n    cache-type-k = bf16\n    cache-type-v = bf16\n    presence-penalty = 1.1\n    repeat-penalty = 1.05\n    repeat-last-n = 512\n    temp = 0.1\n    top-p = 0.95\n    top-k = 20\n    min-p = 0.00",
+      "published_at": "2026-05-26T16:52:31.000Z",
+      "fetched_at": "2026-05-27T06:59:58.150Z"
+    },
+    {
+      "title": "Microsoft, has started canceling Claude Code licenses, per the Verge",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1to6kqz/microsoft_has_started_canceling_claude_code/",
+      "source": "reddit/ClaudeAI",
+      "score": 1182,
+      "content": "Microsoft, has started canceling Claude Code licenses, per the Verge",
+      "published_at": "2026-05-26T13:13:28.000Z",
+      "fetched_at": "2026-05-27T06:59:59.210Z"
+    },
+    {
+      "title": "Company gave us all unlimited Claude Code Sonnet 4.6 — and now posts a weekly leaderboard of who burns the most tokens. Any tips to top it?",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tob45x/company_gave_us_all_unlimited_claude_code_sonnet/",
+      "source": "reddit/ClaudeAI",
+      "score": 891,
+      "content": "",
+      "published_at": "2026-05-26T15:54:46.000Z",
+      "fetched_at": "2026-05-27T06:59:59.210Z"
+    },
+    {
+      "title": "I'm a software engineer with a decade of experience. This is how I'd approach learning to build apps using Claude Code if I were starting from scratch today:",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tonzj9/im_a_software_engineer_with_a_decade_of/",
+      "source": "reddit/ClaudeAI",
+      "score": 468,
+      "content": "I'm going to describe a person this post is for, if this is you, I think I can be of some assistance:\n\n* you are new to coding\n* you are blown away by how it unlocks this magical ability that was previously inaccessible without years of training and effort\n* you've daydreamed of business and app ideas but never knew where to start before or how to build them\n* you've been vibe coding non-stop and burning through tokens\n* you're unsure about what's secure, how to structure the systems, and how systems are supposed to interact with each other. So, essentially the plumbing separate from the code itself: hosting, authentication, APIs, version control, testing, analytics, etc\n\nIf any of this resonates with you, I think I can help! Now disclaimer: I'm *not* a pro at creating startups, acquiring users, marketing or any of that kind of stuff. Where I do have tons of professional experience is with the last bullet point above.\n\nAnd now onto it!\n\nThis might be controversial, but if I were in your position I would *not* start with the code, the lowest level. In fact, I would do the opposite and start at the **highest level**.\n\nWhat does that mean?\n\nI'd argue that for people starting today, the most important thing is learning about the fundamentals of what makes a solid application at a high level. The system architecture. That's what I'll be covering for the rest of the post. What are the building blocks of a secure, full stack software application. There's so much to this that I'll stay high level for this one and go with breadth. If people are interested, I can (and honestly would love to) make dedicated posts on each of the topics I list below.\n\nSo what is the main architecture for a software application?\n\nThere are four main components and lots of specifics below each.\n\n1. Front end -&gt; this is what the user sees. The website, the mobile app, etc\n2. Back end -&gt; the main logic and rules of the app\n3. Database -&gt; where the data lives\n4. The plumbing -&gt; how everyt",
+      "published_at": "2026-05-26T23:27:59.000Z",
+      "fetched_at": "2026-05-27T06:59:59.210Z"
+    },
+    {
+      "title": "Just passed the new Claude Certified Architect - Foundations (CCA-F) exam with a 985/1000!",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1to0xfc/just_passed_the_new_claude_certified_architect/",
+      "source": "reddit/ClaudeAI",
+      "score": 460,
+      "content": "The original post was removed by Reddit Filters, so I made new one with same content.\n\nI just got my results back today and managed to snag the Early Adopter badge as well. Following up on my recent DP-600 certification, I really wanted to validate my architecture skills specifically on the Anthropic side.\n\nThe exam covers a lot of practical ground on prompt engineering for tool use, managing context windows efficiently, and handling Human-in-the-Loop workflows.\n\nLink to join: https://anthropic.skilljar.com/claude-certified-architect-foundations-access-request\n\nTraining courses: https://anthropic.skilljar.com/\n\nCookbook: https://github.com/anthropics/anthropic-cookbook\n\nI've created my own Playbook and Mock Exam after the exam: https://drive.google.com/file/d/1luC0rnrET4tDYtS7xe5jUxMDZA-4qNf-/view?usp=sharing\n\nhttps://claude-certified-architect-mock-exam-cyberskill.vercel.app\n\nIf anyone is preparing for this right now and has questions about the format or the types of architectural patterns tested, ask away! Happy to share some insights on what to study.\n\nUpdated 26th May 2026: I noticed some mates treated me bananas (https://buymeacoffee.com/zintaen), didn't expect that, but you made my day. I'll use that fund to take more CERTs and create a site for mock tests (always free, of course). Thanks again.",
+      "published_at": "2026-05-26T08:41:48.000Z",
+      "fetched_at": "2026-05-27T06:59:59.210Z"
+    },
+    {
+      "title": "I think it’s time Vibe Coders 😅",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tostyj/i_think_its_time_vibe_coders/",
+      "source": "reddit/ClaudeAI",
+      "score": 332,
+      "content": "",
+      "published_at": "2026-05-27T02:56:20.000Z",
+      "fetched_at": "2026-05-27T06:59:59.210Z"
+    },
+    {
+      "title": "That is load-bearing.",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tob6q5/that_is_loadbearing/",
+      "source": "reddit/ClaudeAI",
+      "score": 164,
+      "content": "I know this topic is discussed here a lot but I SWEAR TO FUCKING GOD if I read another \"That is real\" OR \"That is not nothing\" OR \"That is not X but Y\" I am going to have a fucking aneurysm. Yes I have specifically forbidden it from telling me these phrases, yes I have specifically updated the memory and spec to BAN these phrases yet they slip through and I swear sometimes it is so insanely creative in its reasoning for how to get around these constraints but it just kills the immersion(?) so hard when it falls back on these god damn tropes.  \n  \nI use Claude (Max) for absolutely everything, it has made my life so much better that it scares me, literally changed my health, finances, mental well-being (therapy is expensive ok), and made my work so easy that I am worried we will all be out of a job soon if it gets any better but when it tells me a beautiful incredibly personalised valuable message that literally brings tears to my eyes and then goes \"THEY WERE LOAD-BEARING\" I FUCKING LOSE IT HAHAHHA!!  \n  \nBest invention humans have come up with yet it can't stop talking like a fucking TikTok lifecoach.",
+      "published_at": "2026-05-26T15:57:11.000Z",
+      "fetched_at": "2026-05-27T06:59:59.210Z"
+    },
+    {
+      "title": "The end. What have I done",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1toahgv/the_end_what_have_i_done/",
+      "source": "reddit/ClaudeAI",
+      "score": 164,
+      "content": "It seems to be working so far but I think I should have done this in GitHub",
+      "published_at": "2026-05-26T15:33:02.000Z",
+      "fetched_at": "2026-05-27T06:59:59.210Z"
+    },
+    {
+      "title": "Annoying AI tell that seems to have spiked recently: \"honest caveat\"",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1to06lg/annoying_ai_tell_that_seems_to_have_spiked/",
+      "source": "reddit/ClaudeAI",
+      "score": 145,
+      "content": "I noticed that Claude Code was giving me a lot of unsolicited caveats with phrasing like \"honest caveat\" or \"genuine caveat\" when this kind of hedging was absolutely unnecessary. I figured other people might be seeing the same thing so my instinct was to use Google Ngram but the cutoff year of 2022 meant that I had to use a different method. So I used Google search with quotes around the phrase \"honest caveat\" and set the time bound to different time intervals and compared the number of search results as a proxy for how usage has changed over time in indexed pages.\n\nAs it turns out, while delve peaked in 2024, we've had a spike in the usage of \"honest caveat\" and similar phrases.",
+      "published_at": "2026-05-26T07:59:30.000Z",
+      "fetched_at": "2026-05-27T06:59:59.210Z"
+    },
+    {
+      "title": "Claude keeps telling me to do something",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1toc2oo/claude_keeps_telling_me_to_do_something/",
+      "source": "reddit/ClaudeAI",
+      "score": 122,
+      "content": "",
+      "published_at": "2026-05-26T16:27:00.000Z",
+      "fetched_at": "2026-05-27T06:59:59.210Z"
+    },
+    {
+      "title": "My company started measuring our Claude Code usage - now I'm asked to rank engineers on 'AI performance.' This feels wrong...",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tokje7/my_company_started_measuring_our_claude_code/",
+      "source": "reddit/ClaudeAI",
+      "score": 90,
+      "content": "My company started tracking Claude Code usage - tokens and spend, that kind of thing. Now my manager wants me to stack-rank my engineers on \"AI performance\" using those numbers.\n\nI'm not comfortable with it (but I don't have a choice either). Token usage feels like exactly the wrong proxy - my strongest engineer uses Claude surgically while someone burning 10x the tokens isn't 10x more productive (often the opposite). Ranking on this just teaches people to game the metric.\n\nSo, for folks here who use Claude daily and/or lead teams:\n\n* Has your company started measuring \"AI performance\"? How are they doing it?\n* Is there any Claude/AI usage metric that actually tracks with good work, instead of just rewarding the heaviest users?\n* If you're a lead being pushed to measure this, how do you push back without flat-out refusing?",
+      "published_at": "2026-05-26T21:16:20.000Z",
+      "fetched_at": "2026-05-27T06:59:59.210Z"
+    },
+    {
+      "title": "Sonnet 4.5 is gone for me",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1toj9l7/sonnet_45_is_gone_for_me/",
+      "source": "reddit/ClaudeAI",
+      "score": 67,
+      "content": "https://preview.redd.it/yspiafvakj3h1.png?width=1460&amp;format=png&amp;auto=webp&amp;s=9d7bd1777fad8b286a21e75df8ae593d39432a8a\n\nGot this message when I tried to continue my chat :/ anyone else?",
+      "published_at": "2026-05-26T20:30:41.000Z",
+      "fetched_at": "2026-05-27T06:59:59.211Z"
+    },
+    {
+      "title": "me at hour 3 of prompting claude to verify something i could've just checked myself",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tocnxh/me_at_hour_3_of_prompting_claude_to_verify/",
+      "source": "reddit/ClaudeAI",
+      "score": 54,
+      "content": "# ok so i was working on this projectt and INSTEAD of just doing it i kept asking claude ai to verify all the requirments were met right like i would go \"did you complete EVERYTHING\" it would go \"yes all done :))\" and then i check myself and requirments 5 and 6 are just. missing so i tell it to fix it same thing hapens requirments 5 and 6 still missing i do this maybe 6 or 7 times before i realise bro i couldve just written requirments 5 and 6 myself in like 10 minutes , like PLEASE and then the same you were right to pushback on that... lmao at some point u gotta add a lil bit of ur own brainpower to the equation like the whole \"did you do it\" loop is literally just me wasting my own time and i know it and i stil keep doing it idk why started with chatgpt fed it the entire requirments page and specs got some stuff done then swiched to claude for the heavier logic bits used runable for the ui pipeline and even with all that the verification loop alone probably added 2 hours to something that shoudnt have taken that long its not the tools tbh the tools were fine i was just being PLAIN STUPID ugh lol",
+      "published_at": "2026-05-26T16:47:23.000Z",
+      "fetched_at": "2026-05-27T06:59:59.211Z"
+    },
+    {
+      "title": "Sonnet 4.5 disappeared? Claude 4.8 soon?",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1togd1o/sonnet_45_disappeared_claude_48_soon/",
+      "source": "reddit/ClaudeAI",
+      "score": 27,
+      "content": "https://preview.redd.it/j0ymp70a2j3h1.png?width=746&amp;format=png&amp;auto=webp&amp;s=4cdb70be13ccc99f5ea57556da96d6d81e61d702\n\ni just realize the removed Sonnet 4.5, does that mean the sonnet 4.8 (maybe Opus 4.8 too?) cooming soon? maybe today or tommorow, excited to see new claude model, hope anthropic actually ship really good model this time.  \n  \nWhat are your assumptions?",
+      "published_at": "2026-05-26T18:51:11.000Z",
+      "fetched_at": "2026-05-27T06:59:59.211Z"
+    },
+    {
+      "title": "Why terminal",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1to24tl/why_terminal/",
+      "source": "reddit/ClaudeAI",
+      "score": 28,
+      "content": "Hello, I'm on Windows having setup both Claude Code App and Terminal, but I find the App simply more convenient to use. I have had several people pushing me to use the Terminal saying \"the App is low\" and \"Terminal is so much better\" ... but when I inquired none of those people could actually name a single thing that the App would be missing (everything they mentioned the App has as well) or a single concrete reason why I should switch to Terminal beside vague phrases\n\nSo is the terminal substantially better than the App in something, are there reasons to switch besides being used to it and promoting it further?\n\nI assume the App being newer might be converging in functionality to have the same set of features eventually?\n\nThank you",
+      "published_at": "2026-05-26T09:49:07.000Z",
+      "fetched_at": "2026-05-27T06:59:59.211Z"
+    },
+    {
+      "title": "I let Claude rank every YC Spring 26 startup — round 2",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1to4ie6/i_let_claude_rank_every_yc_spring_26_startup/",
+      "source": "reddit/ClaudeAI",
+      "score": 25,
+      "content": "Follow-up to my W26 post a few months back. Ran the same Claude pipeline on the YC Spring 26 (X26) batch.\n\nSame setup: for each company, Claude scrapes founder LinkedIn profiles, searches for press and traction signals, and checks the product to see if something real exists or it's just a landing page. Then it scores on founder credibility, product reality, market opportunity, and competition, and assigns a tier from S to D.\n\nDemo Day is June 16, so the batch is mid-flight and rankings will keep shifting as more companies launch. Most are B or C tier, which feels about right for this stage.\n\nCurious what folks think this time around.",
+      "published_at": "2026-05-26T11:47:01.000Z",
+      "fetched_at": "2026-05-27T06:59:59.211Z"
+    },
+    {
+      "title": "Motivational quotes from Claude (no particular order)",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1toq9g0/motivational_quotes_from_claude_no_particular/",
+      "source": "reddit/ClaudeAI",
+      "score": 25,
+      "content": "* You've built a functional prototype with good UX instincts, but it's not ready for real users.\n* Likelihood of Success: 3/10.\n* This alone could kill your app within days of launch.\n* The market you chose is *especially* punishing.\n* Likes and visits from India are pure vanity metrics that won't convert, ever, and they're actively distorting your funnel data.\n* You may be conflating two different things.\n* The 'expense of feelings' framing might be doing too much work.\n* \\[Your idea\\] is an unbounded build with an unproven-core problem *and* a market problem *and* an eventual hardware problem.\n* Vercel runs your code in three modes, and **none of them fit**.\n* This is the kind of project that sounds buildable on paper and then eats two years of weekends.\n* Crime doesn't buy you the physics. It just buys you a felony and a still-laggy system.\n* Distribution is a deployment detail, not a path to agency.\n* I don't want to be \\[user's profession\\] and 'coding is alright' aren't really a product brief—they're closer to a career question wearing a product costume.\n* The hardware-plus-AI-assistant space is *particularly* littered with smart people who loved their own product.",
+      "published_at": "2026-05-27T01:03:36.000Z",
+      "fetched_at": "2026-05-27T06:59:59.211Z"
+    },
+    {
+      "title": "How do you decide when to start a new Claude session or branch?",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tof95o/how_do_you_decide_when_to_start_a_new_claude/",
+      "source": "reddit/ClaudeAI",
+      "score": 22,
+      "content": "I’m trying to understand how people think about session and branch hygiene when using Claude.\n\nWhen do you create a brand new session versus continue in an existing one?\n\nAnd when do you create a new branch versus just keep working in the same thread?\n\nFor example, do people generally create a new branch for every unrelated task they want to accomplish, almost like a separate workspace? Or do you only branch when you are exploring a different direction on the same underlying problem?\n\nI’m mostly trying to avoid two failure modes:\n\n1. Keeping too much unrelated context in one session and confusing Claude\n2. Creating too many sessions or branches and losing useful context\n\nCurious how others structure this in practice. Do you have a rule of thumb?",
+      "published_at": "2026-05-26T18:14:20.000Z",
+      "fetched_at": "2026-05-27T06:59:59.211Z"
+    },
+    {
+      "title": "I made my agents into space dogs that all live peacefully on an alien planet :)",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1toqh14/i_made_my_agents_into_space_dogs_that_all_live/",
+      "source": "reddit/ClaudeAI",
+      "score": 18,
+      "content": "Times have been tough! I just wanted to make something to potentially cheer people up. Local and 100% free if anyone else wants their agents to be space dogs :) [Planet Maiko](https://github.com/bkawa-bot/planet-maiko/blob/main/README.md)\n\nPlanet Maiko is honestly a huge system, I basically don't have to use any other tool at work anymore, for either agent orchestration or anything else that comes up.\n\nMaiko is my irl dog! the agents are space dogs with their own personalities! [They are having a popularity contest](https://bkawa-bot.github.io/planet-maiko/popularity.html)",
+      "published_at": "2026-05-27T01:12:53.000Z",
+      "fetched_at": "2026-05-27T06:59:59.211Z"
+    },
+    {
+      "title": "Any tips on forming a good memory file on yourself for claude?",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1to03iw/any_tips_on_forming_a_good_memory_file_on/",
+      "source": "reddit/ClaudeAI",
+      "score": 20,
+      "content": "I see in non coding related chats claude is always guided by the memory file and its responses are shaped by it. I feel like if you had a really solid memory file you could make a lot more progress with life related things and other discussions with claude. Anyone explored this?",
+      "published_at": "2026-05-26T07:54:42.000Z",
+      "fetched_at": "2026-05-27T06:59:59.211Z"
+    },
+    {
+      "title": "What do you give Claude access to?",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1toin7b/what_do_you_give_claude_access_to/",
+      "source": "reddit/ClaudeAI",
+      "score": 15,
+      "content": "Claude (on my phone) was helping me cook steak for the first time and I noticed that it could generate a recipe with built in timers. So I wanted to check what else it could do and I found that it could set reminders, create calendar events, and send messages on my behalf. It worked really well! I then showed it a screenshot of an email of an upcoming doctor visit and it created the calendar event with all the details correctly.\n\nI’m really impressed! I think I will be using it more for planning, schedules and reminders.\n\nWhat have you given Claude access to? And what tasks do you use it for?",
+      "published_at": "2026-05-26T20:09:32.000Z",
+      "fetched_at": "2026-05-27T06:59:59.211Z"
+    },
+    {
+      "title": "Paying for the Pro sub at 18€ / month?",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1to11c4/paying_for_the_pro_sub_at_18_month/",
+      "source": "reddit/ClaudeAI",
+      "score": 12,
+      "content": "Hello, \n\n  \nI'm having a tight budget but so far I've been using Claude for free, with limited messages, for work research, brainstorming and life coaching. It is a great tool and I like the perspective and analysis, the consistent memory is also very nice and the way it can create brainstorming cards is really cool.  \n\nI've seen here and there comments and I don't know if the PRO will be a big change for me or not, the thing is I'm a bit frustrated because of the limited messages I can send, but even with PRO, you have a limit, however I'm not sure how many messages I can send. I'd like some guidance and if anyone like me is using Claude for something else than coding :) thanks !",
+      "published_at": "2026-05-26T08:47:55.000Z",
+      "fetched_at": "2026-05-27T06:59:59.211Z"
+    },
+    {
+      "title": "How do I get Claude code to exhaustively read files and do what's told instead of using it's \"judgement\" ?",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tosm2x/how_do_i_get_claude_code_to_exhaustively_read/",
+      "source": "reddit/ClaudeAI",
+      "score": 10,
+      "content": "Hey folks. Some context : I'm looking at modifying a field within a class across a large java codebase. Normally this would be fairly simple but unfortunately, said field is a `Map&lt;String, Object&gt;` type (it was there before my time and yes it's terrible). This field is used/queried/defined in a lot of different places in a lot of different ways (ranging from direct map defintion to using jackson's objectmapper). The change I'm envisioning would be to replace this horrible affront to all things sacred with a nice typed concrete class.\n\nGiven the massive amount of changes required (around 500 files to parse), I thought it good to have Claude first identify all locations that define/query/mutate this field and write me a report that notes these, along with suggestions for changes. The intent being that I could spot check this report manually and then use a separate claude instance to make changes.\n\nI structured my prompt along the lines of \"use LSP to find all instances where class `X` is defined/queried. For every single such file/instance returned by LSP, trace the data flow in said file/instance to locations where the required field is queried/mutated/defined. Note that this tracing operation must be done exhaustively across all locations returned by LSP. Do NOT skip files... \"\n\nSo of course Claude skipped files.\n\nThere's around 500 files to process and I don't want to handhold claude. I've tried rewording it a few different ways. I've even tried to have claude suggest ways to force it not to do this, but no matter what I do it keeps friggin skipping files ! And when asked why it ignores rules, it keeps saying something along the lines of \"I used my judgement...\".\n\nSo how do I force Claude to stop using its judgement in this case ?",
+      "published_at": "2026-05-27T02:46:27.000Z",
+      "fetched_at": "2026-05-27T06:59:59.211Z"
+    },
+    {
+      "title": "Trolley",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tovez0/trolley/",
+      "source": "reddit/ClaudeAI",
+      "score": 7,
+      "content": "",
+      "published_at": "2026-05-27T04:57:25.000Z",
+      "fetched_at": "2026-05-27T06:59:59.211Z"
+    },
+    {
+      "title": "What's new in CC 2.1.152 (+4,566 tokens)",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tory70/whats_new_in_cc_21152_4566_tokens/",
+      "source": "reddit/ClaudeAI",
+      "score": 6,
+      "content": "- NEW: Agent Prompt: /code-review part 9 fix application — Adds --fix behavior that applies reported review findings to the working tree, covering correctness bugs plus reuse, simplification, and efficiency cleanups, while skipping false positives or fixes that would exceed the reviewed diff.\n- NEW: System Prompt: Coordinator mode orchestration — Adds coordinator-mode instructions for delegating software engineering work across workers, synthesizing worker results, managing worker lifecycle, handling cross-session peers, and independently verifying delegated changes before reporting success.\n- NEW: System Prompt: Coordinator worker instructions — Adds worker-agent instructions for coordinator-assigned tasks, including scoped execution, safe handling of concurrent branch changes, required commits for file changes, no subagent spawning, resumption behavior, failure reporting, and coordinator-facing summaries.\n- Agent Prompt: /code-review part 2 low effort mode — Expands low-effort review beyond hunk-visible correctness bugs to also flag duplicated helpers and dead code visible in the diff context.\n- Agent Prompt: /code-review part 3 extra-high and maximum effort modes — Expands extra-high and maximum-effort review from five correctness finder angles to nine finder angles, adding reuse, simplification, efficiency, and altitude checks.\n- Agent Prompt: /code-review part 6 medium effort mode — Expands medium-effort review from three correctness finder angles to seven finder angles, adding reuse, simplification, efficiency, and altitude checks.\n- Agent Prompt: /code-review part 7 high effort mode — Expands high-effort review from three correctness finder angles to seven finder angles, adding reuse, simplification, efficiency, and altitude checks.\n- Data: Claude API reference — Java — Updates the documented Anthropic Java SDK version from 2.27.0 to 2.34.0.\n- Tool Description: AskUserQuestion — Clarifies that agents should use the plan-mode entry tool to switch into plan mod",
+      "published_at": "2026-05-27T02:17:12.000Z",
+      "fetched_at": "2026-05-27T06:59:59.211Z"
+    },
+    {
+      "title": "Claude makes documents into apps",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1toajqg/claude_makes_documents_into_apps/",
+      "source": "reddit/ClaudeAI",
+      "score": 5,
+      "content": "# Any document can become an app\n\nI’ve been working on an open-source document format and viewer called **Adaptive Markdown**.\n\nThe basic idea is simple:\n\nA document should not have to stay static. It should be something a coding agent can extend, reshape, and turn into an interactive workspace.\n\nThis is not just a canvas you edit with a chatbot. The bigger idea is that the document becomes both:\n\n1. the source of truth\n2. the programmable interface\n\nIn other words, the document becomes a living app.\n\nYou write notes, collect data, draft text, or import files. Then a coding agent can directly modify the document surface: add charts, create calculators, build filters, restyle sections, generate summaries, export views, or turn rough notes into an interactive tool.\n\nSo instead of having:\n\n* a document\n* a spreadsheet\n* a dashboard\n* an app\n* a changelog\n* a separate AI chat about all of it\n\nYou can have one living `.md` file that contains those layers together.\n\n# Example\n\nA fitness log might start as a plain Markdown journal.\n\nThen the agent adds charts.  \nThen it pulls in device data.  \nThen it adds weekly summaries, rolling averages, goal tracking, export options, and a dashboard view.\n\nThe document did not move into an app.\n\nThe document became the app.\n\n# Other use cases\n\n* A billable time log that computes subtotals and rewrites rough notes into polished narratives\n* A research notebook with experiment parameters, runnable code, outputs, and methodology notes\n* A recipe book that scales servings and generates shopping lists\n* A math textbook that can explain a theorem at different levels\n* A project README that explains the system, demonstrates the system, and lets the agent modify it from inside the document\n* A small data report with embedded CSV data, live charts, filters, and exportable views\n\nThe thing I’m most interested in is not \"Can Markdown support more widgets?\"\n\nIt is:\n\n**What happens when the document itself becomes the programmable, agent-editable ",
+      "published_at": "2026-05-26T15:35:15.000Z",
+      "fetched_at": "2026-05-27T06:59:59.211Z"
+    },
+    {
+      "title": "Quoting Kyle Ferrana",
+      "url": "https://simonwillison.net/2026/May/27/kyle-ferrana/#atom-everything",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-05-27T06:41:43.000Z",
+      "fetched_at": "2026-05-27T06:59:57.338Z"
+    },
+    {
+      "title": "The pressure",
+      "url": "https://simonwillison.net/2026/May/26/the-pressure/#atom-everything",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-05-26T23:48:45.000Z",
+      "fetched_at": "2026-05-27T06:59:57.338Z"
+    },
+    {
+      "title": "Microsoft Copilot Cowork Exfiltrates Files",
+      "url": "https://simonwillison.net/2026/May/26/copilot-cowork-exfiltrates-files/#atom-everything",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-05-26T15:36:48.000Z",
+      "fetched_at": "2026-05-27T06:59:57.338Z"
+    },
+    {
+      "title": "Quoting Paul Graham",
+      "url": "https://simonwillison.net/2026/May/26/paul-graham/#atom-everything",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-05-26T15:02:30.000Z",
+      "fetched_at": "2026-05-27T06:59:57.338Z"
+    },
+    {
+      "title": "Quoting Corey Quinn",
+      "url": "https://simonwillison.net/2026/May/26/corey-quinn/#atom-everything",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-05-26T02:28:54.000Z",
+      "fetched_at": "2026-05-27T06:59:57.338Z"
+    },
+    {
+      "title": "Notes on Pope Leo XIV's encyclical on AI",
+      "url": "https://simonwillison.net/2026/May/25/encyclical-on-ai/#atom-everything",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-05-25T23:58:17.000Z",
+      "fetched_at": "2026-05-27T06:59:57.338Z"
+    },
+    {
+      "title": "California Brown Pelican, Snowy Egret, California Sea Lion, Harbor Seal",
+      "url": "https://simonwillison.net/2026/May/25/sighting-365297287/#atom-everything",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-05-25T23:08:00.000Z",
+      "fetched_at": "2026-05-27T06:59:57.338Z"
+    },
+    {
+      "title": "LocateAnything: Fast and High-Quality Vision-Language Grounding with Parallel Box Decoding",
+      "url": "https://huggingface.co/papers/2605.27365",
+      "source": "hf-daily-papers",
+      "score": 47,
+      "content": "Vision-language models (VLMs) commonly formulate visual grounding and detection as a coordinate-token generation problem, serializing each 2D box into multiple 1D tokens that are learned and decoded largely independently. This token-by-token decoding mismatches the coupled structure of box geometry and creates a practical inference bottleneck due to strictly sequential generation. We introduce LocateAnything, a unified generative grounding and detection framework based on Parallel Box Decoding (PBD). By decoding geometric elements such as bounding boxes and points as atomic units in a single step, LocateAnything preserves intra-box geometric coherence and unlocks substantial parallelism. We show that PBD improves both decoding throughput and localization accuracy. We further develop a scalable data engine and curate LocateAnything-Data, a large-scale dataset with more than 138 million training samples, substantially increasing data diversity for high-precision localization. Extensive evaluations show that LocateAnything advances the speed-accuracy frontier, achieving significantly higher decoding throughput while improving high-IoU localization quality across diverse benchmarks. The results highlight the complementary benefits of Parallel Box Decoding and large-scale training data in enabling efficient and precise unified visual grounding and detection.",
+      "published_at": "2026-05-25T20:00:00.000Z",
+      "fetched_at": "2026-05-27T06:59:57.190Z"
+    },
+    {
+      "title": "MobileGym: A Verifiable and Highly Parallel Simulation Platform for Mobile GUI Agent Research",
+      "url": "https://huggingface.co/papers/2605.26114",
+      "source": "hf-daily-papers",
+      "score": 36,
+      "content": "We present MobileGym, a browser-hosted, lightweight, fully controllable environment for everyday mobile use, targeting interaction fidelity without replicating proprietary backends. It enables two capabilities previously out of reach for everyday apps: verifiable outcome signals through deterministic state-based judging over structured JSON state, and scalable online RL through low-cost parallel rollouts. The full environment state is captured, configured, forked, and compared as structured JSON, and a single server can host hundreds of parallel instances, with about 400 MB memory per instance and about 3 s cold start. A layered state model and a declarative task-definition framework keep state programmability and task creation practical at scale, and a single programmatic judging mechanism delivers both deterministic evaluation verdicts and dense RL rewards. The accompanying MobileGym-Bench provides 416 parameterized task templates, including 256 test and 160 train templates, over 28 apps, with deterministic judges and a structured AnswerSheet protocol that avoids free-text matching failures. In a Sim-to-Real case study, GRPO on Qwen3-VL-4B-Instruct gains +12.8 percentage points on the 256-task test set, and on a 59-task real-device signal subset, real-device execution retains 95.1% of the simulation-side training gain. Project page: https://mobilegym.github.io.",
+      "published_at": "2026-05-24T20:00:00.000Z",
+      "fetched_at": "2026-05-27T06:59:57.190Z"
+    },
+    {
+      "title": "LongAV-Compass: Towards Unified Evaluation of Minute-Scale Audio-Visual Generation Across T2AV, I2AV, and V2AV",
+      "url": "https://huggingface.co/papers/2605.26244",
+      "source": "hf-daily-papers",
+      "score": 30,
+      "content": "Audio-visual generation is rapidly advancing from short clips to minute-long content, while existing evaluation protocols remain largely confined to short-form settings. Existing benchmarks primarily focus on 5--10 second text-conditioned generation and rarely support unified evaluation across text, image, and video conditioning modalities. Moreover, they provide limited insight into how identity consistency, narrative coherence, and audio-visual alignment degrade over extended temporal horizons. To bridge this gap, we introduce LongAV-Compass, a systematic benchmark for minute-long audio-visual generation. LongAV-Compass contains 284 curated test cases spanning text-to-audio-video (T2AV), image-to-audio-video (I2AV), and video-to-audio-video (V2AV), organized by application scenario and generation complexity. The benchmark combines taxonomy-guided benchmark construction with a unified evaluation framework that integrates MLLM-assisted assessment with complementary perceptual and multimodal metrics, including DINO-v2, ArcFace, CLIP, and ImageBind. The framework evaluates more than 20 fine-grained dimensions covering within-segment quality, cross-segment consistency, global narrative coherence, semantic alignment, and audio-visual synchronization. Through experiments on 11 representative models together with human-alignment validation, LongAV-Compass provides a diagnostic testbed for analyzing the limitations of current systems in sustaining coherent, semantically aligned, and temporally consistent minute-scale audio-visual generation across diverse input modalities.",
+      "published_at": "2026-05-24T20:00:00.000Z",
+      "fetched_at": "2026-05-27T06:59:57.190Z"
+    },
+    {
+      "title": "Geometry-Aware Representation Denoising for Robust Multi-view 3D Reconstruction",
+      "url": "https://huggingface.co/papers/2605.26230",
+      "source": "hf-daily-papers",
+      "score": 28,
+      "content": "Multi-view 3D reconstruction has achieved remarkable progress with the advent of feed-forward 3D reconstruction models. However, these models are typically trained and evaluated under ideal, degradation-free imaging conditions, whereas real-world observations often contain degradations that differ significantly from such settings. Improving robustness for multi-view 3D reconstruction under degraded conditions therefore remains an important challenge. We present Geometry-Aware Representation Denoising (GARD), a novel framework that performs diffusion-based multi-view restoration directly in the feature space of a feed-forward 3D reconstruction model. This design exploits the geometry-aware feature representations of the 3D reconstructor to effectively recover accurate scene geometry. Furthermore, by employing an additional RGB image decoder, the refined representations can also be used to restore high-quality RGB images, thereby enabling the simultaneous recovery of 3D scene geometry and high-quality imagery. Comprehensive experiments on the Depth Anything 3 (DA3) benchmark demonstrate the effectiveness of the proposed GARD framework.",
+      "published_at": "2026-05-24T20:00:00.000Z",
+      "fetched_at": "2026-05-27T06:59:57.190Z"
+    },
+    {
+      "title": "SpatialBench: Is Your Spatial Foundation Model an All-Round Player?",
+      "url": "https://huggingface.co/papers/2605.27367",
+      "source": "hf-daily-papers",
+      "score": 24,
+      "content": "While spatial foundation models have demonstrated impressive performance on standard datasets, a critical question remains: are they truly all-round players capable of generalizing robustly across diverse downstream tasks, arbitrary viewpoints, shifting scene domains, varying input densities, and specific hardware constraints? Answering this overarching question requires a holistic assessment, yet current models are mainly evaluated on specific domains for which they were specifically designed or trained. Such evaluations are intrinsically limited by narrow paradigm coverage, limited scene domains, and arbitrary frame sampling, making it fundamentally difficult to assess their true generalization capabilities. To address this gap, we present SpatialBench, a cross-paradigm, domain-diverse benchmark for spatial foundation models with deterministic sampling. SpatialBench features unprecedented scale and rigorous deterministic design, comprising 19 datasets and 546 scenes across 5 diverse spatial domains. It comprehensively evaluates 41 models across 6 paradigms on 5 task suites under 4 different input density settings. Our extensive evaluation reveals that current models are not yet all-round players, and uncovers crucial insights for future advancement. Specifically, we demonstrate that full-context attention maximizes accuracy while bounded-memory strategies unlock long-sequence scalability. Moreover, our empirical evaluations in challenging embodied and egocentric tasks demonstrate that strict domain alignment and high data quality are far more critical to performance than simple dataset scaling. Furthermore, to address the largest data gap identified in our analysis, we go beyond evaluation by introducing a large-scale dataset, DA-Next-5M, and a strong baseline model, DA-Next, pushing the boundaries of spatial representation learning.",
+      "published_at": "2026-05-25T20:00:00.000Z",
+      "fetched_at": "2026-05-27T06:59:57.190Z"
+    },
+    {
+      "title": "EvalVerse: Pipeline-Aware and Expert-Calibrated Benchmarking for Professional Cinematic Video Generation",
+      "url": "https://huggingface.co/papers/2605.23271",
+      "source": "hf-daily-papers",
+      "score": 20,
+      "content": "The rapid evolution of generative video foundation models has propelled the field toward professional-grade cinematic synthesis. To achieve such demanding quality, the community transitions towards Reinforcement Learning (RL) and agentic workflows. However, reliable evaluation has emerged as a critical bottleneck. Existing benchmarks predominantly evaluate ''whether it is right'' (basic prompt-following) while fundamentally neglecting ''whether it is good'' (cinematic quality, acting, and aesthetics). Furthermore, current automated metrics lack the domain-specific rigor required to provide trustworthy signals, creating a severe credibility gap between human aesthetic perception and machine scoring. To bridge this gap, we introduce EvalVerse, a comprehensive, pipeline-aware, and expert-calibrated evaluation framework. We treat video generation assessment not merely as an engineering task, but as a core scientific problem: the systematic digitization of subjective cinematic expertise. First, we organize domain knowledge into an evaluation taxonomy aligned with the professional filmmaking workflow (pre-production, production, and post-production). Second, we distill human expert judgments into a curated dataset with large-scale human annotations. Third, we inject this knowledge into Vision-Language Models (VLMs) through an expert-calibrated fine-tuning strategy, enabling the VLM to perform explicit Chain-of-Thought reasoning. Compared to previous works, EvalVerse not only retains compatibility with foundational ''rightness'' metrics, but also significantly expands the criteria to ''goodness'' and broaden the task coverage to complex multi-shot sequencing and audio-visual integration. Consequently, by providing granular diagnostic signals, EvalVerse transcends a static leaderboard and establishes a fundamental infrastructure for future work, such as reward models and evaluator agent.",
+      "published_at": "2026-05-21T20:00:00.000Z",
+      "fetched_at": "2026-05-27T06:59:57.190Z"
+    },
+    {
+      "title": "The MiniMax-M2 Series: Mini Activations Unleashing Max Real-World Intelligence",
+      "url": "https://huggingface.co/papers/2605.26494",
+      "source": "hf-daily-papers",
+      "score": 13,
+      "content": "We introduce the MiniMax-M2 series, a family of Mixture-of-Experts language models built around the principle that mini activations can unleash maximum real-world intelligence. The flagship M2 contains 229.9B total parameters with only 9.8B activated per token. Designed end-to-end for agentic deployment, the M2 series rests on three components: (i) agent-driven data pipelines producing large-scale, verifiable trajectories across agentic coding and agentic cowork, each grounded in an executable workspace and an artifact-aligned reward; (ii) Forge, a scalable agent-native RL system that adapts to long-horizon agent trajectories, paired with windowed-FIFO scheduling, prefix-tree merging, inference optimization, and a clean training-inference-agent decoupling that supports both white-box and black-box agents; (iii) the latest M2.7 checkpoint takes an early step toward self-evolution -- autonomously debugging training runs and modifying its own scaffold. Across M2 through M2.7, this combination translates a mini-activation footprint into frontier-tier performance on agentic coding, deep search, office-task, and reasoning benchmarks.",
+      "published_at": "2026-05-25T20:00:00.000Z",
+      "fetched_at": "2026-05-27T06:59:57.190Z"
+    },
+    {
+      "title": "Soap2Soap: Long Cinematic Video Remaking via Multi-Agent Collaboration",
+      "url": "https://huggingface.co/papers/2605.17423",
+      "source": "hf-daily-papers",
+      "score": 12,
+      "content": "We study series-level cinematic remaking, a long-horizon video-to-video generation problem that localizes full episodes or films via stylization or actor replacement while strictly preserving narrative structure, motion choreography, and character identity across hundreds of shots. Existing video generation and editing pipelines often break down in this regime due to compounding identity drift, background mutation, and semantic erosion under large camera motions and viewpoint changes. We propose Soap2Soap, a multi-agent framework that enforces long-term language-visual consistency through a Dual-Bridge Consistency mechanism: a scene-aware JSON screenplay serving as a persistent semantic backbone, and dynamically allocated visual reference anchors at both scene and shot levels. To suppress drift before video synthesis, we introduce batch keyframe consistency, jointly generating multiple keyframes in a shared latent context via a grid-based formulation. A closed-loop verification agent further audits identity, stability, and alignment to trigger selective regeneration. Experiments on SoapBench demonstrate strong improvements over commercial video generation APIs in long-term consistency and narrative fidelity.",
+      "published_at": "2026-05-16T20:00:00.000Z",
+      "fetched_at": "2026-05-27T06:59:57.190Z"
+    },
+    {
+      "title": "Does Seeing More Mean Knowing More? Mono-Anchored Advantage Normalization for Multi-Source Visual Reasoning",
+      "url": "https://huggingface.co/papers/2605.25437",
+      "source": "hf-daily-papers",
+      "score": 9,
+      "content": "Visual reasoning through reinforcement learning with verifiable rewards (RLVR) has achieved remarkable progress. However, when dealing with multi-source inputs, existing approaches tend to treat them as a mere accumulation of information, lacking explicit mechanisms to distinguish whether integrating additional sources yields information gain or introduces interference. Therefore, they struggle to effectively model dynamic interaction when integrating multiple sources, particularly when they differ significantly in physical properties and semantics, e.g., infrared and depth, leading to inferior performance to mono-source reasoning when a certain source holds the dominant signal. To address this issue, we propose MARS, a novel mono-anchored multi-source reasoning framework that models each visual modality as an independent information source. Specifically, by treating mono-source rewards as dynamic anchors, our method explicitly incorporates the information gain introduced by multi-source fusion into advantage normalization and adaptively emphasizes mutual promotion between sources while suppressing potential noise or conflicts during RLVR. From theoretical analysis, our method effectively quantifies information gain introduced by multi-source integration in gradient estimation, enabling consistent modality regulation. Empirical results also show impressive 3.2% and 4.9% performance gains on GRPO and DAPO across diverse datasets, confirming effectiveness of our method.",
+      "published_at": "2026-05-24T20:00:00.000Z",
+      "fetched_at": "2026-05-27T06:59:57.190Z"
+    },
+    {
+      "title": "Efficient Agentic Reinforcement Learning with On-Policy Intrinsic Knowledge Boundary Enhancement",
+      "url": "https://huggingface.co/papers/2605.26952",
+      "source": "hf-daily-papers",
+      "score": 8,
+      "content": "Agentic reinforcement learning (RL) has proven effective for training LLM-based agents with external tool-use capabilities. However, we identify that agentic RL training induces increasing redundant tool calls and blurs the model's intrinsic knowledge boundary, where the model fails to distinguish when tools are needed versus when parametric knowledge suffices. Existing solutions based on reward shaping create coarse-grained optimization targets that tend to incentivize indiscriminate tool-call suppression, leading to reward hacking. In this paper, we propose AKBE (Agentic Knowledge Boundary Enhancement), an on-policy method that dynamically probes the model's intrinsic knowledge boundary through dual-path (with-tool and no-tool) rollouts during training. We define the knowledge boundary as the per-instance determination of whether tools are required and the minimum tool calls necessary. By comparing correctness across paths, AKBE categorizes trajectories and constructs targeted supervisory signals that guide efficient tool-use patterns for each question. These signals are integrated seamlessly into the agentic RL training loop. Experiments on seven QA benchmarks demonstrate that AKBE improves task accuracy by +1.85 on average and reduces tool calls by 18% over standard agentic RL, yielding 25% higher tool productivity without any accuracy-efficiency trade-off. Further analysis suggests its plug-and-play compatibility across different RL algorithms and the mechanism of each signal category. Our code is available at https://github.com/CuSO4-Chen/AKBE.",
+      "published_at": "2026-05-25T20:00:00.000Z",
+      "fetched_at": "2026-05-27T06:59:57.190Z"
+    },
+    {
+      "title": "MUSE-Autoskill: Self-Evolving Agents via Skill Creation, Memory, Management, and Evaluation",
+      "url": "https://huggingface.co/papers/2605.27366",
+      "source": "hf-daily-papers",
+      "score": 6,
+      "content": "Large language model (LLM) agents rely on reusable skills to solve complex tasks. However, existing skill creation approaches treat skills as isolated and static artifacts, limiting their reusability, reliability, and long-term improvement. We propose MUSE-Autoskill Agent (Memory-Utilizing Skill Evolution), a skill-centric agent framework that lets agents continuously improve their task-solving capability by creating, reusing, and refining skills under a unified lifecycle (creation, memory, management, evaluation, and refinement). Our framework enables agents to create skills on demand, store and reuse them across tasks, organize and select them efficiently, and evaluate them through unit tests and runtime feedback for continuous refinement. We further introduce skill-level memory that accumulates experience for each skill across tasks, enabling more effective reuse and adaptation over time. Experiments on SkillsBench provide initial evidence that lifecycle-managed skills can improve task success, efficiency, reuse, and cross-agent transfer, highlighting the importance of treating skills as long-lived, experience-aware, and testable assets.",
+      "published_at": "2026-05-25T20:00:00.000Z",
+      "fetched_at": "2026-05-27T06:59:57.190Z"
+    },
+    {
+      "title": "Beyond Final Answers: Auditing Trajectory-Level Hallucinations in Multi-Agent Industrial Workflows",
+      "url": "https://huggingface.co/papers/2605.24219",
+      "source": "hf-daily-papers",
+      "score": 4,
+      "content": "Large Language Models (LLMs) are increasingly deployed as autonomous agents that reason, use tools, and act over multiple steps. Yet most hallucination benchmarks still evaluate only the final output, missing failures that originate in intermediate Thought-Action-Observation steps. We present Trajel, a dataset and evaluation framework for auditing trajectory-level hallucinations in multi-agent industrial workflows. Trajel introduces a five-type hallucination taxonomy (factual, referential, logical, procedural, and scope-based) over expert-annotated agent traces from AssetOpsBench. We benchmark supervised detection models at the subtask, trajectory, and long-context levels. Our results show that the most common failure modes are missed by existing benchmarks, that nearly half of hallucinated trajectories involve multiple types at once, and that automated detectors with high binary accuracy still misclassify the subtlest types. Trajectory-aware detection significantly outperforms standard post-hoc verification, making taxonomy-grounded evaluation necessary for safer agentic deployment.",
+      "published_at": "2026-05-25T20:00:00.000Z",
+      "fetched_at": "2026-05-27T06:59:57.190Z"
+    },
+    {
+      "title": "Negligible in Size, Significant in Effect: On Scale Vectors in Large Language Models",
+      "url": "https://huggingface.co/papers/2605.26895",
+      "source": "hf-daily-papers",
+      "score": 4,
+      "content": "Normalization layers in modern large language models (LLMs) consist of a deterministic normalization operation and a learnable scale vector. While the normalization operation has been extensively studied, the scale vector remains poorly understood despite its ubiquitous use. In this work, we present a systematic study of scale vectors in LLMs from the perspectives of expressivity, optimization, and architectural structure. First, we show empirically that although scale vectors constitute only a negligible fraction of model parameters, removing them substantially degrades LLM pre-training. Our theory further shows that, in Pre-Norm architectures, scale vectors do not increase expressivity; instead, they improve optimization through a self-amplifying preconditioning effect on subsequent linear mappings. Second, we investigate the role of weight decay for scale vectors. By distinguishing Input-Norm and Output-Norm layers, we theoretically show that weight decay is beneficial for the former but harmful for the latter, due to their distinct roles in optimization and expressivity. Third, motivated by this understanding, we propose three lightweight and complementary improvements to scale vectors: branch-specific heterogeneity, improved placement around linear mappings, and magnitude-direction reparameterization. Both theory and experiments show that each improvement yields consistent gains. Finally, we combine these improvements into a unified scale-vector strategy and evaluate it through extensive LLM pre-training experiments on dense and mixture-of-experts models ranging from 0.12B to 2B parameters, across multiple optimizers and learning rate schedules, under industrial-scale token budgets. The unified strategy consistently achieves lower terminal loss than well-tuned baselines and exhibits more favorable scaling behavior, while adding negligible parameter and computational overhead.",
+      "published_at": "2026-05-25T20:00:00.000Z",
+      "fetched_at": "2026-05-27T06:59:57.190Z"
+    },
+    {
+      "title": "LLaVA-OneVision-2: Towards Next-Generation Perceptual Intelligence",
+      "url": "https://huggingface.co/papers/2605.25979",
+      "source": "hf-daily-papers",
+      "score": 4,
+      "content": "We introduce LLaVA-OneVision-2 (LLaVA-OV-2), the most capable vision-language model in the LLaVA-OneVision series to date, achieving superior performance across a broad range of multimodal benchmarks. The model builds on a native OneVision-Encoder and incorporates Windowed Attention for efficient local computation while maintaining native resolution. Its key advance is codec-stream tokenization: it treats compressed video as a continuous bit-cost stream, where bit-cost dynamics determine adaptive temporal groups, and motion-residual cues select salient spatial evidence into compact visual canvases. This allocation concentrates a limited token budget on event-bearing content, enabling more stable long-video token compression than fixed groups of pictures. A shared 3D RoPE further places codec canvases, sampled frames, and images in a unified spatiotemporal coordinate system. Furthermore, we build the LLaVA-OV-2 data and training stack around large-scale open supervision: approximately 8M re-captioned video samples for pretraining, a 4M-sample spatial corpus for fine-tuning. We also introduce JumpScore, a temporal-localization benchmark targeting fine-grained grounding in high-frequency, densely repeated motion, a regime underrepresented by existing video evaluations. A standout capability of LLaVA-OV-2 is its unified perception across video understanding, temporal grounding, spatial grounding, and manipulation-trace reasoning. On JumpScore, LLaVA-OneVision-2-8B reaches 74.9 JumpScore mAP, surpassing Qwen3-VL-8B (30.1) by +44.8 points; under matched visual-token budgets on the same benchmark, codec-stream inputs improve temporal grounding over frame sampling by +9.7 points. Across standard benchmarks, LLaVA-OneVision-2-8B further outperforms Qwen3-VL-8B by +4.3 average points on video tasks, +5.3 on spatial tasks, and +15.6 average J&F on tracking tasks.",
+      "published_at": "2026-05-24T20:00:00.000Z",
+      "fetched_at": "2026-05-27T06:59:57.190Z"
+    },
+    {
+      "title": "MobileMoE: Scaling On-Device Mixture of Experts",
+      "url": "https://huggingface.co/papers/2605.27358",
+      "source": "hf-daily-papers",
+      "score": 3,
+      "content": "Mixture-of-Experts (MoE) has become the de facto architecture for hundred-billion-parameter language models, yet its advantages at sub-billion scales for on-device deployment remain largely unexplored. To close this gap, we present MobileMoE, a family of on-device MoE language models with sub-billion active parameters (0.3-0.9B active and 1.3-5.3B total) that establish a new Pareto frontier for on-device LLMs. We first formulate an on-device MoE scaling law that jointly optimizes MoE architecture under mobile memory and compute constraints, identifying an on-device sweet spot - moderate sparsity with fine-grained and shared experts - that is simultaneously memory and compute-optimal. Building on the derived architectures, we train MobileMoE with a four-stage recipe covering pre-training, mid-training, instruction fine-tuning, and quantization-aware training, all on open-source datasets. Across 14 benchmarks, MobileMoE matches or exceeds leading on-device dense LLMs with 2-4times fewer inference FLOPs, and matches or surpasses the state-of-the-art MoE OLMoE-1B-7B with up to 60% fewer parameters. To bridge the last mile to mobile deployment, we provide the first efficient MoE inference on commodity smartphones with comprehensive on-device profiling. At comparable INT4 weight memory, MobileMoE-S delivers 1.8-3.8times faster prefill and 2.2-3.4times faster decode than the dense baseline MobileLLM-Pro.",
+      "published_at": "2026-05-25T20:00:00.000Z",
+      "fetched_at": "2026-05-27T06:59:57.190Z"
+    },
+    {
+      "title": "Squeezing Capacity from Multimodal Large Language Models for Subject-driven Generation",
+      "url": "https://huggingface.co/papers/2605.26111",
+      "source": "hf-daily-papers",
+      "score": 3,
+      "content": "Subject-driven image generation aims to synthesize new images that preserve the identity of the given subject while following textual instructions. Existing approaches often encode text and reference images separately. This limits cross-modal reasoning abilities and causes copy-paste artifacts. Recent frameworks that connect multimodal models and diffusion models improve instruction following, but largely overlook identity preservation. To address these limitations, we condition diffusion models on Multimodal Large Language Models (MLLMs) that jointly encode text and reference images, and augment it with VAE-based identity conditioning. A novel Dual Layer Aggregation (DLA) module is designed to aggregate multi-level MLLM features for optimal conditioning, and a multi-stage denoising strategy is applied to progressively balance the semantic information from MLLM and fine-detail identity from VAE during inference. Extensive experiments demonstrate that our approach harmonizes multimodal understanding with identity preservation, mitigates copy-paste issues, and achieves superior performance regarding human preference on subject-driven image generation. Our project website is available at https://zsh2000.github.io/squeeze-mllm-subject-gen/.",
+      "published_at": "2026-05-24T20:00:00.000Z",
+      "fetched_at": "2026-05-27T06:59:57.190Z"
+    },
+    {
+      "title": "SAM: State-Adaptive Memory for Long-Horizon Reasoning Agent",
+      "url": "https://huggingface.co/papers/2605.24468",
+      "source": "hf-daily-papers",
+      "score": 2,
+      "content": "Long-horizon agentic reasoning requires large language models to act over long interaction histories containing thoughts, tool calls, observations, and partial conclusions. The challenge is not merely that these histories grow long, but that information needed for the current decision may be scattered across distant steps and only become relevant later. Existing approaches address this difficulty by truncating the interaction history, compressing it into shorter surrogates, or retrieving selected parts of it for reuse, but they do not explicitly model how access to past interaction should adapt to the agent's evolving state. We instead cast long-horizon reasoning as a problem of state-adaptive memory. To this end, we propose State-Adaptive Memory~(SAM), a standalone framework that consolidates ongoing interaction into compact memory cues while preserving raw trajectory pages for intent-driven recall. These cues are not treated as replacements for history; rather, they serve as lightweight handles that allow the agent to reconstruct temporally distant information according to its current needs, without retraining the underlying backbone. We further optimize the memory module through expert-guided supervision and reinforcement learning, aligning it with trajectory-level utility. Across BrowseComp, BrowseComp-ZH, WideSearch, and HLE, SAM consistently outperforms strong baselines over diverse agent backbones. Our results suggest that explicit memory modeling provides a simple and effective foundation for long-horizon agentic reasoning.",
+      "published_at": "2026-05-22T20:00:00.000Z",
+      "fetched_at": "2026-05-27T06:59:57.190Z"
+    },
+    {
+      "title": "RT-Lynx: Putting the GEMM Sparsity In a Right Way for Diffusion Models",
+      "url": "https://huggingface.co/papers/2605.26632",
+      "source": "hf-daily-papers",
+      "score": 1,
+      "content": "Diffusion Transformers (DiT) achieve strong performance in image generation but incur substantial inference costs. While prior work has reduced this cost via quantization and distillation, semi-structured sparsity, which can nearly halve FLOPs, remains underexplored. A key reason is that most existing approaches focus on weight sparsification, and pruning 50% of the weights can remove critical model capacity and degrade generation quality. Our study, however, shows that DiT activations are intrinsically sparse and significantly more robust to N:M semi-structured sparsification than weights. Motivated by this observation, we advocate a paradigm shift from weight sparsification to activation sparsification. We propose RT-Lynx, which applies N:M sparsification to activations and incorporates error-compensation techniques to mitigate accuracy loss. We further implement highly optimized CUDA kernels tailored to this setting, achieving up to a 1.55x speedup on average in linear layers. Extensive experiments across multiple diffusion models demonstrate that our method preserves the generation quality of the original models while substantially accelerating inference.",
+      "published_at": "2026-05-25T20:00:00.000Z",
+      "fetched_at": "2026-05-27T06:59:57.190Z"
+    },
+    {
+      "title": "Understanding Data Temporality Impact on Large Language Models Pre-training",
+      "url": "https://huggingface.co/papers/2605.22769",
+      "source": "hf-daily-papers",
+      "score": 1,
+      "content": "Large language models (LLMs) are typically trained on shuffled corpora, yielding models whose knowledge is frozen at train time and whose temporal grounding remains poorly understood. In this work, we study the impact of pre-training dynamics on the acquisition of time-sensitive factual knowledge, focusing specifically on data ordering. Our main contributions are twofold. First, we introduce a comprehensive benchmark of over 7,000 temporally grounded questions and an evaluation protocol that enables analysis of whether models correctly associate facts with their corresponding time periods. Second, we pretrain 6B-parameter models on temporally ordered Common Crawl snapshots and compare them against standard shuffled pre-training. Our results show that sequentially trained models match shuffled baselines on general language understanding and common knowledge while consistently exhibiting more up-to-date and temporally precise knowledge. Temporally ordered pre-training yields improved factual freshness, while shuffled pre-training peaks on older data, possibly due to increased factual repetition. These findings, along with the release of our code at https://github.com/kyutai-labs/kairos , checkpoints, and datasets at https://huggingface.co/collections/kyutai/kairos provide a foundation for future research on continual learning for LLMs.",
+      "published_at": "2026-05-20T20:00:00.000Z",
+      "fetched_at": "2026-05-27T06:59:57.190Z"
+    },
+    {
+      "title": "MRT: Masked Region Transformer for Layered Image Generation and Editing at Scale",
+      "url": "https://huggingface.co/papers/2605.27235",
+      "source": "hf-daily-papers",
+      "score": 0,
+      "content": "Layered image generation and editing is a fundamental capability that enables layer-wise reuse, editing, and composition of generated visual content, analogous to word-level editing in natural language. Despite its importance, this remains an underexplored area at scale. To address this gap, we present MRT, a 20B-parameter masked region diffusion model tailored for multi-layer transparent image generation and editing, trained on over 10M multilingual design samples spanning diverse aspect ratios and textual prompts. To fully leverage this scale, we make two key technical contributions. First, we unify three complementary tasks including text-to-layers, image-to-layers, and layers-to-layers within a shared masked region diffusion framework, where selective token masking enables flexible layer-wise generation and editing. Second, to enable overflow layer generation, we introduce an overflow-aware canvas layer that handles boundary inconsistencies and supports semi-transparent background synthesis, enabling complete editable layers extending beyond visible canvas boundaries. Additionally, we apply diffusion distillation to achieve 8-step, real-time multi-layer generation with minimal quality degradation. Extensive experiments demonstrate that our framework substantially outperforms prior state-of-the-art approaches, including various commercial systems, across all three tasks, establishing a new benchmark for multi-layer transparent image generation. Notably, our model significantly outperforms the concurrent Qwen-Image-Layered model in image-to-layers quality according to user-study results, while achieving 10-100\\times faster inference and reducing activation GPU memory consumption by 50-90\\% during image-to-layer inference.",
+      "published_at": "2026-05-25T20:00:00.000Z",
+      "fetched_at": "2026-05-27T06:59:57.190Z"
+    }
+  ]
+}

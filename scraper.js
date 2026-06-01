@@ -30,7 +30,7 @@ function makeItem({ title, url, source, score, content, published_at }) {
 // ---------- source 1: Hacker News (Algolia search) ----------
 async function fetchHN() {
   const since = Math.floor((Date.now() - ONE_DAY_MS) / 1000);
-  const queries = ['AI', 'LLM', 'Claude', 'Anthropic', 'agent'];
+  const queries = ['AI', 'LLM', 'Claude', 'Anthropic', 'agent' , 'codex'];
   const items = [];
 
   for (const q of queries) {
