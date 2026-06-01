@@ -1,0 +1,41 @@
+{
+  "date": "2026-05-29",
+  "items": [
+    {
+      "title": "Dynamic Workflows in Claude Code",
+      "url": "https://claude.com/blog/introducing-dynamic-workflows-in-claude-code",
+      "source": "hn",
+      "why_it_matters": "Anthropic introduced dynamic workflows in Claude Code, allowing the CLI to adapt its execution path based on real-time task feedback rather than following rigid step-by-step instructions. As a vibe coder using Claude Code as your primary keyboard, this makes the tool much smarter at self-correcting when a Next.js build fails or a Supabase schema mismatch occurs. Run `npm install -g @anthropic-ai/claude-code@latest` today and use it to refactor a component in your AI-ingest project to see how it handles multi-step debugging."
+    },
+    {
+      "title": "Claude Opus 4.8 Released",
+      "url": "https://www.anthropic.com/news/claude-opus-4-8",
+      "source": "hn",
+      "why_it_matters": "Anthropic released Claude Opus 4.8, their most powerful model yet, featuring significantly improved reasoning and coding capabilities. This is now the top-tier brain behind the Claude API and Claude Code, meaning the tool you use every day just got a massive upgrade in understanding complex system architectures. Switch your Claude Code developer session to use the new Opus 4.8 model this week when mapping out your next database migration in Supabase."
+    },
+    {
+      "title": "I cut my AI API costs 99% by switching from Claude to DeepSeek",
+      "url": "https://twitter.com/kevinsays/status/2059724146221662339",
+      "source": "hn",
+      "why_it_matters": "Developers are sharing strategies to cut AI API costs by up to 99% by routing heavy background tasks from Claude to DeepSeek. Since you are building AI-ingest—a tool that processes and filters high volumes of text—using Claude for everything will quickly get expensive, whereas delegating the heavy lifting to DeepSeek keeps your project economically viable. Sign up for a DeepSeek API key and swap out the summarization model in your AI-ingest backend from Claude to DeepSeek this week to compare the cost and quality."
+    },
+    {
+      "title": "Tokenscope – See what your Claude Code session cost",
+      "url": "https://github.com/wartzar-bee/tokenscope",
+      "source": "hn",
+      "why_it_matters": "Tokenscope is a new open-source tool that lets you analyze your local git history to see exactly how many tokens and dollars your Claude Code sessions are costing you. When vibe coding, it is easy to lose track of how much money you are spending on API calls during long debugging loops. Run `npx tokenscope` in your AI-ingest repository directory this week to get a clear breakdown of your development costs per commit."
+    },
+    {
+      "title": "Multiplayer – A debugging agent to run locally next to your coding agent",
+      "url": "https://www.multiplayer.app/",
+      "source": "hn",
+      "why_it_matters": "Multiplayer is a new local debugging agent designed to run alongside Claude Code, capturing full-stack, unsampled session data (logs, traces, and requests) to prevent buggy code from reaching production. When you let AI write your Next.js frontend and Supabase backend code, bugs often slip through because the AI doesn't see the runtime errors; Multiplayer gives your coding agent the exact context it needs to fix its own bugs. Download Multiplayer and run it locally alongside Claude Code the next time you are debugging a broken API route in your Next.js app."
+    },
+    {
+      "title": "Generate Claude Code Workflows using Spec-Driven Development",
+      "url": "https://github.com/sermakarevich/sddw/",
+      "source": "hn",
+      "why_it_matters": "An open-source plugin called `sddw` allows you to generate structured Claude Code workflows using a Spec-Driven Development approach. Instead of giving Claude Code vague prompts that lead to messy code, this lets you write a clear markdown specification first, which the AI then systematically implements step-by-step. Write a simple `.sdd` markdown spec for the next feature you want to add to AI-ingest, and use the `sddw` tool to let Claude Code build it with perfect discipline this week."
+    }
+  ]
+}

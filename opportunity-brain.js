@@ -21,7 +21,7 @@ if (!API_KEY || API_KEY.startsWith('PASTE_')) {
   process.exit(1);
 }
 
-const MODELS = ['gemini-2.5-flash', 'gemini-flash-latest', 'gemini-2.5-flash-lite', 'gemini-2.0-flash'];
+const MODELS = ['gemini-3.5-flash', 'gemini-2.5-flash', 'gemini-3.1-flash-lite', 'gemini-2.5-flash-lite'];
 const SEEN_PATH = path.join('data', 'opportunities-seen.json');
 const SEEN_WINDOW_DAYS = 30;
 const DAY_MS = 24 * 60 * 60 * 1000;

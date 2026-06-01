@@ -1,0 +1,33 @@
+{
+  "date": "2026-05-31",
+  "items": [
+    {
+      "title": "Use OpenAI and Kimi Subscriptions in Claude Code",
+      "url": "https://github.com/raine/claude-code-proxy",
+      "source": "hn",
+      "why_it_matters": "You previously rated saving costs with alternative models in Claude Code highly. This open-source proxy lets you route your Claude Code terminal sessions through other API providers or subscriptions, helping you bypass Anthropic's rate limits and high token costs while keeping the terminal interface you like. Try installing this proxy locally this week and routing a Claude Code session through a cheaper API key to see if it lowers your development costs.",
+      "action": "Install the proxy via npm, configure it with a cheaper API key, and run your next Claude Code session through it to see if it cuts your development costs."
+    },
+    {
+      "title": "Collection of Claude Code Skills",
+      "url": "https://github.com/glebis/claude-skills",
+      "source": "hn",
+      "why_it_matters": "Since you use Claude Code daily to write your software, you can speed up your workflow using custom 'skills' (reusable terminal commands). This repository compiles community-made skills that automate repetitive tasks like writing structured git commits or generating project maps. Try cloning this repo today, copying the git-commit skill into your Claude Code config, and using it to automate your next commit on the AI-ingest repo.",
+      "action": "Clone this repo today, copy the git-commit skill into your Claude Code config, and use it to automate your next commit on the AI-ingest repo."
+    },
+    {
+      "title": "Tokentoll: A CI Gate for LLM API Cost Regressions",
+      "url": "https://github.com/Jwrede/tokentoll",
+      "source": "hn",
+      "why_it_matters": "As you build AI-ingest, you are calling LLM APIs and running code via GitHub. This tool acts as a continuous integration (CI) gate that monitors your code for changes that would cause LLM token usage to spike, preventing accidental expensive API bills. Try adding the Tokentoll GitHub Action to your AI-ingest repository workflow this week to automatically track and limit your API costs on every push.",
+      "action": "Add the Tokentoll GitHub Action to your AI-ingest repository workflow this week to automatically track and limit your API costs on every push."
+    },
+    {
+      "title": "Arch-Decision: Multi-Agent Architecture Tool for Claude Code",
+      "url": "https://github.com/jsingh6/arch-decision",
+      "source": "hn",
+      "why_it_matters": "As a vibe coder, your primary job is 'direction'—knowing what to ask for and how to structure your app before the AI writes the code. This tool integrates directly with Claude Code to help you systematically think through and document architectural decisions. Try running this tool in your AI-ingest directory this week to map out the database schema for your next feature before you let the AI write any code.",
+      "action": "Run this tool in your AI-ingest directory this week to map out the database schema for your next feature before you let the AI write any code."
+    }
+  ]
+}

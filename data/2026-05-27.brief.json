@@ -1,0 +1,95 @@
+{
+  "date": "2026-05-27",
+  "items": [
+    {
+      "title": "I shipped a real product for $29.63 with five AI agents",
+      "url": "https://github.com/vggg/agent-project-bootstrap",
+      "source": "hn",
+      "why_it_matters": "Someone shipped a real product with AI agents for a very low cost, which is exactly what you're aiming for. The project is open source, offering a direct example of building and deploying. Try this week: Explore the GitHub repository to understand the architecture and agent implementation, then try to adapt a small part of it for a feature in your AI-ingest project."
+    },
+    {
+      "title": "A Board Game Agent Built Using Sanity Context and Vercel's AI SDK",
+      "url": "https://www.sanity.io/blog/context-board-game-agent",
+      "source": "hn",
+      "why_it_matters": "This is a story about someone building and shipping an AI agent using Vercel, which is part of your current hosting stack. It demonstrates a concrete application of AI agents in a deployed project. Try this week: Look into Vercel's AI SDK documentation and examples to see how it integrates with Next.js, then try building a simple agent interaction within a new page of your AI-ingest project."
+    },
+    {
+      "title": "Bedrock and a hard place: Claude adventure leaves AWS user with $30K invoice",
+      "url": "https://www.theregister.com/saas/2026/05/14/bedrock-and-a-hard-place-claude-adventure-leaves-aws-user-staring-down-30k-invoice/5238153",
+      "source": "hn",
+      "why_it_matters": "This is a cautionary tale about unexpected costs when using AI APIs like Claude, which you use daily. Understanding potential cost pitfalls is crucial for shipping revenue projects without surprises. Try this week: Review your current Claude API usage and set up spending alerts or hard limits within your AWS or Anthropic console to prevent unexpected bills."
+    },
+    {
+      "title": "Show HN: skills-for-humanity – 171 structured reasoning skills for Claude Code",
+      "url": "https://github.com/human-avatar/skills-for-humanity",
+      "source": "hn",
+      "why_it_matters": "This resource provides structured reasoning skills specifically for Claude Code, which you use for keyboard work. It can help you improve your 'direction' skills by giving you more precise ways to prompt. Try this week: Pick 2-3 relevant skills from the repository and try applying them in your Claude Code workflow for a specific task in your AI-ingest project."
+    },
+    {
+      "title": "Show HN: MCPs aren't enough, give Codex/Claude accurate memory of everything",
+      "url": "https://timeglass.ai",
+      "source": "hn",
+      "why_it_matters": "This tool aims to give AI coding assistants like Codex and Claude better memory, addressing a common challenge in long coding sessions. Improved memory can make your AI direction more efficient. Try this week: Install this tool and experiment with it during a coding session in Claude Code, observing if it helps maintain context for your AI-ingest development."
+    },
+    {
+      "title": "Show HN: AI agent token cost calculator for Codex and Claude Code loops",
+      "url": "https://tinyopsstudio.com/ai-agent-token-cost-calculator",
+      "source": "hn",
+      "why_it_matters": "This calculator helps estimate token costs for AI agent loops using Codex and Claude Code, directly addressing your interest in cost savings and efficient AI usage. Try this week: Use this calculator to estimate the token costs for a planned agent feature in your AI-ingest project, helping you design for efficiency."
+    },
+    {
+      "title": "Show HN: Agent Launch – One CLI for Codex, Claude Code, Cursor, Gemini, OpenCode",
+      "url": "https://news.ycombinator.com/item?id=48278148",
+      "source": "hn",
+      "why_it_matters": "This CLI unifies launching various coding agents, including Codex and Claude Code, which are part of your stack. It can simplify your workflow and make experimenting with agents faster. Try this week: Install the `agent-launch` CLI and use it to start a Claude Code session for a small task in your AI-ingest project, streamlining your agent setup."
+    },
+    {
+      "title": "Show HN: Visual composer for Claude Code multi-agent workflows",
+      "url": "https://github.com/fayzan123/claude-workflow-composer",
+      "source": "hn",
+      "why_it_matters": "This tool provides a visual way to compose multi-agent workflows for Claude Code, which could make directing complex AI tasks easier and more intuitive. Try this week: Install the `claude-cwc` tool and try visually mapping out a multi-step process for a new feature in your AI-ingest project."
+    },
+    {
+      "title": "Show HN: I open-sourced two AI agents with real memory (chat and voice, MIT)",
+      "url": "https://github.com/SynapCores/synapcores-agent",
+      "source": "hn",
+      "why_it_matters": "These open-sourced agents include 'real memory,' which is a key challenge in building effective AI tools. Exploring their code can give you insights into implementing better memory for your own agents. Try this week: Clone the repository and examine the memory implementation of one of the agents, then consider how you could adapt a similar approach for a component in your AI-ingest project."
+    },
+    {
+      "title": "Show HN: Mind-expander, a visual workspace for coding with AI agents",
+      "url": "https://github.com/mbbill/mind-expander",
+      "source": "hn",
+      "why_it_matters": "This visual workspace is designed for coding with AI agents, which could enhance your ability to direct AI and manage complex coding tasks. Try this week: Install Mind-expander and use it to work on a small, isolated coding task for your AI-ingest project, evaluating how the visual interface aids your workflow."
+    },
+    {
+      "title": "Trading Peace for Pace: A Few Weeks with Claude Code",
+      "url": "https://ronaknathani.com/blog/2026/02/trading-peace-for-pace-a-few-weeks-with-claude-code/",
+      "source": "hn",
+      "why_it_matters": "This article shares a personal experience of using Claude Code, offering practical insights into its benefits and challenges. It can help you refine your own expectations and workflow with your primary coding AI. Try this week: Read the article and compare the author's experience with your own, then identify one specific adjustment you could make to your Claude Code usage to improve your 'pace' or 'peace.'"
+    },
+    {
+      "title": "Turning You into a Power User with Hybrid Memory and Claude",
+      "url": "https://medium.com/@vektormemory/turning-you-into-a-power-user-hybrid-memory-ssh-cloak-and-password-vaulting-with-vektor-00f689861798",
+      "source": "hn",
+      "why_it_matters": "This piece explores how to become a 'power user' of Claude by implementing hybrid memory techniques. This directly ties into your goal of getting better at directing AI. Try this week: Experiment with a simple form of hybrid memory, like maintaining a scratchpad of key context or previous AI outputs, in your Claude Code sessions for your AI-ingest project."
+    },
+    {
+      "title": "Introducing Chat Mode – A modern chat interface for Claude Code",
+      "url": "https://harness.mikelyons.org/announcements/introducing-chat-mode.html",
+      "source": "hn",
+      "why_it_matters": "This introduces a new chat interface for Claude Code, which could make your daily interactions smoother and more efficient, helping you direct the AI more effectively. Try this week: Explore the features of this new chat mode and consider if it offers improvements over your current Claude Code interface that could speed up your development."
+    },
+    {
+      "title": "Show HN: PrismCat – Local transparent proxy and debugging console for LLM APIs",
+      "url": "https://github.com/paopaoandlingyia/PrismCat",
+      "source": "hn",
+      "why_it_matters": "This tool acts as a debugging console for LLM APIs, allowing you to see exactly what's being sent and received. This is crucial for verifying AI output and understanding why agents might behave unexpectedly, improving your direction skills. Try this week: Set up PrismCat as a proxy for your Claude API calls in your AI-ingest project to inspect prompts and responses, helping you debug agent interactions."
+    },
+    {
+      "title": "Show HN: Cross-agent messaging and shared memory over the local filesystem",
+      "url": "https://oacp.dev",
+      "source": "hn",
+      "why_it_matters": "This project provides a mechanism for agents to communicate and share memory, which is essential for building more complex, multi-agent systems. This could be valuable for future iterations of your AI-ingest tool. Try this week: Review the project's approach to cross-agent communication and shared memory, then brainstorm how you might incorporate a simple version of this into a future multi-agent feature for AI-ingest."
+    }
+  ]
+}

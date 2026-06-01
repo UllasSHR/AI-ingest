@@ -1,0 +1,61 @@
+{
+  "date": "2026-05-28",
+  "items": [
+    {
+      "title": "Zorilla: Vibe-coding a 3D game in the browser with Claude",
+      "url": "https://www.zoril.la/",
+      "source": "hn",
+      "why_it_matters": "An indie developer and his 13-year-old son shipped a browser-based 3D game remixer powered by Claude. Crucially, they built a background Claude task that reads their project's DECISIONS.md, pulls funnel metrics, and proposes three growth experiments daily—which is highly similar to what you are building with AI-ingest. Try writing a prompt for AI-ingest today that reads your current TODO list and proposes your next three shipping tasks.",
+      "concrete_action": "Inspect Zorilla's approach to using Claude for a daily brief, and write a prompt for AI-ingest that reads your own project's TODOs and proposes your next three shipping tasks."
+    },
+    {
+      "title": "Analyze your ChatGPT/Claude usage from account exports",
+      "url": "https://github.com/noah-chelednik/llm-export-analytics",
+      "source": "hn",
+      "why_it_matters": "This open-source toolkit lets you analyze your actual usage patterns from your exported LLM history. Since you are trying to move from an over-learning phase to a shipping phase, this tool can give you hard data on how you spend your time with Claude. Export your Claude chat history today and run this toolkit to see exactly how many hours and tokens you are spending on learning vs. active building.",
+      "concrete_action": "Export your Claude chat history today and run this toolkit to see exactly how many hours and tokens you are spending on learning vs. active building."
+    },
+    {
+      "title": "Claude-handoff-revive: Resume Claude Code sessions without burning context",
+      "url": "https://github.com/sofumel/claude-handoff-revive",
+      "source": "hn",
+      "why_it_matters": "Claude Code can quickly consume your token limits when you restart sessions because it has to re-read your entire workspace. This tool generates a lightweight handoff state so you can resume coding without wasting API budget. Clone this repo today and use its handoff prompt template in your AI-ingest terminal to save tokens on your next coding session.",
+      "concrete_action": "Clone this repo today and use its handoff prompt template in your AI-ingest terminal to save tokens on your next coding session."
+    },
+    {
+      "title": "Claude Code as a Daily Driver: Mastering Claude.md and MCPs",
+      "url": "https://arps18.github.io/posts/claude-code-mastery/",
+      "source": "hn",
+      "why_it_matters": "This guide outlines how to use a `claude.md` file in your repository to give Claude Code persistent instructions, rules, and stack definitions. This prevents the AI from suggesting libraries or patterns outside of your Next.js and Supabase stack. Create a `claude.md` file in your AI-ingest repo today to lock down your stack constraints and keep Claude Code aligned.",
+      "concrete_action": "Create a `claude.md` file in your AI-ingest repo today to lock down your stack constraints and keep Claude Code aligned."
+    },
+    {
+      "title": "Token-Xray: Calculate your savings on the Claude Code flat plan",
+      "url": "https://github.com/Coral-Bricks-AI/coral-ai/tree/main/claude-code-token-xray",
+      "source": "hn",
+      "why_it_matters": "Claude Code's flat pricing plan can be a massive subsidy compared to raw API costs, but it is hard to track how many tokens you are actually using. This tool analyzes your local Claude Code logs to show your real token consumption. Run this script on your AI-ingest directory this week to see exactly how much value you are getting out of your Claude Code setup.",
+      "concrete_action": "Run this script on your AI-ingest directory this week to see exactly how much value you are getting out of your Claude Code setup."
+    },
+    {
+      "title": "Botscope: Detect anti-bot and anti-agent defenses for any website",
+      "url": "https://botscope.org/",
+      "source": "hn",
+      "why_it_matters": "Because AI-ingest relies on fetching and filtering news from various web sources, you will inevitably run into Cloudflare or other anti-bot walls. Botscope lets you test any URL to see what kind of agent defenses it has active. Run your primary target news feeds through Botscope this week to identify which sites will require custom headers or API-based fetching.",
+      "concrete_action": "Run your primary target news feeds through Botscope this week to identify which sites will require custom headers or API-based fetching."
+    },
+    {
+      "title": "AI coding agents are installing non-existent npm packages",
+      "url": "https://thenewstack.io/aikido-ai-agents-security/",
+      "source": "hn",
+      "why_it_matters": "AI coding tools like Claude Code sometimes hallucinate npm package names that do not exist, leaving projects vulnerable if malicious actors register those names. Since you are letting AI do most of your keyboard work, you need to verify what it installs. Open your AI-ingest `package.json` file today and verify that every dependency listed is a real, legitimate package.",
+      "concrete_action": "Open your AI-ingest `package.json` file today and verify that every dependency listed is a real, legitimate package."
+    },
+    {
+      "title": "TokenAdvisor: Trim your prompts to lower your LLM bill",
+      "url": "https://tokenadvisor.dev/",
+      "source": "hn",
+      "why_it_matters": "When building AI-ingest, you pay for every token you send to the Claude API. TokenAdvisor lets you paste a prompt and instantly see which words, redundant phrases, or formatting elements you can cut without losing quality. Paste your main AI-ingest system prompt into TokenAdvisor today to optimize your prompt and lower your daily API spend.",
+      "concrete_action": "Paste your main AI-ingest system prompt into TokenAdvisor today to optimize your prompt and lower your daily API spend."
+    }
+  ]
+}

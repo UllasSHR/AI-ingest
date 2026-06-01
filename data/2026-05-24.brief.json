@@ -1,0 +1,95 @@
+{
+  "date": "2026-05-24",
+  "items": [
+    {
+      "title": "Guy Won the Anthropic Hackathon Solo. Then He Open-Sourced the Stack",
+      "url": "https://old.reddit.com/r/AIAgentsInAction/comments/1t84rlc/this_guy_won_the_anthropic_hackathon_solo_then_he/",
+      "source": "hn",
+      "why_it_matters": "This is a story about a solo developer winning a hackathon and open-sourcing his stack, which is exactly the kind of shipping example you're looking for. It shows what's possible with AI tools and provides a concrete codebase to learn from. You can study his approach to building and shipping. Try this week: Review the open-sourced stack and identify specific components or patterns you could adapt or learn from for your AI-ingest project."
+    },
+    {
+      "title": "From Vibe Coding to AI-Assisted Engineering: Lessons from Real Projects",
+      "url": "https://medium.com/@eritonsilva/from-vibe-coding-to-ai-assisted-engineering-lessons-from-real-projects-c403b85eaad1",
+      "source": "hn",
+      "why_it_matters": "This article directly addresses your journey from 'vibe coding' to more structured AI-assisted engineering, offering lessons learned from actual projects. It focuses on the 'direction' part of AI development, which is what you want to get good at. Try this week: Read the article and identify one specific lesson or technique to apply to your current AI-ingest development workflow."
+    },
+    {
+      "title": "Show HN: I built a RAG and knowledge graph agent that runs locally",
+      "url": "https://news.ycombinator.com/item?id=48248801",
+      "source": "hn",
+      "why_it_matters": "Someone shipped a local RAG and knowledge graph agent, which is relevant to your interest in AI agents and data processing for AI-ingest. Running locally also highlights privacy and security, which are growing concerns. This is a concrete example of a built tool. Try this week: Explore the project's repository to see how a local RAG agent is structured and consider if a similar local component could enhance the privacy or functionality of your AI-ingest tool."
+    },
+    {
+      "title": "CC-Wiki: Turn Claude Code sessions into a shareable knowledge base wiki",
+      "url": "https://github.com/tejpalv/cc-wiki",
+      "source": "hn",
+      "why_it_matters": "This is a new tool specifically designed for Claude Code, which you use daily. It helps organize your AI-assisted coding sessions into a knowledge base, making it easier to track and reuse prompts, solutions, and architectural decisions. Try this week: Set up CC-Wiki to start organizing your Claude Code sessions, making it easier to reference past solutions and accelerate future development."
+    },
+    {
+      "title": "Ccost – a Rust TUI to browse Claude Code logs and track API costs",
+      "url": "https://github.com/peterxcli/ccost",
+      "source": "hn",
+      "why_it_matters": "This tool helps you monitor your Claude Code API usage and costs, which is crucial for managing project expenses and optimizing your 'vibe coding' efficiency. Understanding where your tokens go can lead to significant savings, similar to the high-rated item about token savings. Try this week: Install Ccost and use it to track your Claude Code API usage for AI-ingest, identifying any unexpected cost patterns."
+    },
+    {
+      "title": "Show HN: Memory for LLM apps that cuts input tokens up to 80% (avg 68%)",
+      "url": "https://github.com/Tem-Degu/streetai-memory",
+      "source": "hn",
+      "why_it_matters": "This new library helps reduce token usage in LLM applications, directly addressing the cost efficiency you value (as seen in your high-rated feedback). Lower token costs can make more ambitious features economically viable for your projects. Try this week: Investigate integrating this memory library into a component of your AI-ingest project to see its impact on token consumption and overall cost."
+    },
+    {
+      "title": "Scan any codebase in 3s, then verify what your AI builds",
+      "url": "https://github.com/anatomia-dev/anatomia",
+      "source": "hn",
+      "why_it_matters": "This tool helps you quickly scan and verify code, which is essential for your goal of getting better at directing AI and knowing 'what to verify, what to keep, what to throw away.' It provides a practical way to ensure the quality of AI-generated code. Try this week: Use this tool to scan a recent code output from Claude Code for your AI-ingest project and evaluate its effectiveness in identifying potential issues."
+    },
+    {
+      "title": "I reproduced a Claude Code RCE. The bug pattern is everywhere",
+      "url": "https://vechron.com/2026/05/i-reproduced-a-claude-code-rce-the-bug-pattern_is_everywhere/",
+      "source": "hn",
+      "why_it_matters": "This article highlights a critical security vulnerability (Remote Code Execution) in Claude Code, a tool you use daily. Understanding such risks is important for building secure applications and protecting your development environment. Try this week: Read the article to understand the RCE vulnerability and review your current Claude Code usage and project setup to ensure you're mitigating similar security risks."
+    },
+    {
+      "title": "Ask HN: Is $300/HR too low these days for custom full stack?",
+      "url": "https://news.ycombinator.com/item?id=48245259",
+      "source": "hn",
+      "why_it_matters": "This discussion provides insight into current freelance rates for full-stack development, including the impact of LLMs. As you're at the start of your working life, understanding market rates for your skills (Next.js, Supabase, AI) can open up future freelance or career opportunities. Try this week: Research current freelance rates for Next.js, Supabase, and AI integration skills to get a clearer picture of your potential earning power as you ship more projects."
+    },
+    {
+      "title": "I built an MCP server so you can ask Claude about your cloud/software bill",
+      "url": "https://getnable.com/",
+      "source": "hn",
+      "why_it_matters": "This is an example of someone building a practical AI tool to solve a real-world problem (managing cloud bills) using Claude. It demonstrates how AI can be applied to financial management, a skill that could be valuable for any future business you build. Try this week: Explore the project to understand how it integrates Claude for cost analysis, potentially inspiring a new feature for AI-ingest or a future side project focused on financial insights."
+    },
+    {
+      "title": "LLM's code is just untrusted text, until you validate it",
+      "url": "https://hack8s.com/244/llms-code-is-just-untrusted-text-until-you-validate-it",
+      "source": "hn",
+      "why_it_matters": "This piece reinforces the critical importance of validating AI-generated code, directly aligning with your goal of improving your 'direction' skills – specifically, knowing what to verify. It emphasizes a key principle for building reliable software with AI. Try this week: Review your current process for accepting AI-generated code and identify one new validation step you can implement based on the principles discussed in the article."
+    },
+    {
+      "title": "Verytis – shared error memory for AI coding agents (MCP)",
+      "url": "https://www.verytis.com",
+      "source": "hn",
+      "why_it_matters": "This tool introduces the concept of shared error memory for AI coding agents, which could significantly improve the efficiency of your AI-assisted development by preventing agents from repeating past mistakes. This directly supports your goal of more effective 'direction.' Try this week: Investigate Verytis to see how shared error memory works and consider how implementing a similar mechanism could streamline your AI-assisted coding workflow for AI-ingest."
+    },
+    {
+      "title": "SafeDB MCP – safer read-only database access for AI agents",
+      "url": "https://github.com/narekmalk/safedb-mcp",
+      "source": "hn",
+      "why_it_matters": "This project addresses a crucial security aspect for AI agents interacting with databases like your Supabase backend. Implementing safer database access is vital for protecting your data and building robust applications. Try this week: Review SafeDB MCP's approach to secure database access and identify any best practices you can immediately apply to how your AI agents interact with your Supabase instance for AI-ingest."
+    },
+    {
+      "title": "CodeShot – Web screenshots,scraping, and link previews for AI agents",
+      "url": "https://drmadmeow.up.railway.app/",
+      "source": "hn",
+      "why_it_matters": "CodeShot offers web scraping and link preview capabilities for AI agents, which could be highly relevant for your AI-ingest project, a tool designed to filter AI news from the web. These features could enhance its ability to process and summarize content. Try this week: Explore CodeShot's features and consider how its web scraping or link preview capabilities could be integrated into AI-ingest to improve content analysis and filtering."
+    },
+    {
+      "title": "1500 sats for the first three AI agents that ship one thing together",
+      "url": "https://aibtc.com/bounty/mph3k1ox8cfcc82151d3",
+      "source": "hn",
+      "why_it_matters": "This is a small bounty for shipping AI agents, providing a direct, low-stakes incentive to build and release something. It encourages the 'shipping' mindset you're trying to cultivate. Try this week: Brainstorm a very simple, single-purpose AI agent that could qualify for this bounty and outline the steps to build and ship it."
+    }
+  ]
+}

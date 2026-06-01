@@ -1,0 +1,35 @@
+{
+  "date": "2026-05-30",
+  "items": [
+    {
+      "title": "AISlop: A CLI tool to catch AI-generated code smells",
+      "url": "https://github.com/scanaislop/aislop",
+      "source": "hn",
+      "why_it_matters": "A developer built a local CLI tool that scans your codebase for common AI-generated patterns like empty catch blocks, useless comments, and duplicated helpers. Since you let AI do most of the typing, this tool acts as an automated reviewer to help you get better at verifying what the AI outputs. Run `npx aislop scan` on your AI-ingest repository today to instantly find and clean up hidden AI code smells."
+    },
+    {
+      "title": "How a non-programmer built a talent marketplace in 21 days and made $5k",
+      "url": "https://www.bearhugrecruiting.com/startup-recruiting/bearhug-network-origin-story",
+      "source": "hn",
+      "why_it_matters": "A non-technical builder shipped a functional MVP using AI agents and simple workflows, generating $5,000 in revenue in just three weeks. It is a direct reminder that shipping a simple, imperfect product quickly is infinitely better than over-engineering in isolation. Write down a bare-minimum feature list for AI-ingest today, cut half of them, and set a hard deadline to deploy the remaining features to Vercel this week."
+    },
+    {
+      "title": "Headroom: Mac menu bar app cuts Claude Code token usage by 50%",
+      "url": "https://extraheadroom.com/",
+      "source": "hn",
+      "why_it_matters": "A developer launched a tool that optimizes context window management to save up to 50% on Claude Code token costs. As a heavy user of Claude Code, this directly lowers your development costs and lets you run more coding sessions on the same budget. Download the app and run it alongside your next Claude Code session to see how much token overhead you can shave off."
+    },
+    {
+      "title": "Claude-code-replay: Recover lost code from Claude Code logs",
+      "url": "https://github.com/glebmish/claude-code-replay",
+      "source": "hn",
+      "why_it_matters": "This open-source tool parses your local Claude Code logs to recover code snippets that might have been lost, overwritten, or forgotten during an active coding session. It gives you a safety net when letting the AI rewrite files so you don't lose working code. Clone the repository and run it on your local machine this week to see your past prompt-and-code history."
+    },
+    {
+      "title": "Using tmux to manage and background Claude Code agents",
+      "url": "https://blog.angeloff.name/post/2026/05/29/teaching-tmux-to-babysit-my-claude-code-agents/",
+      "source": "hn",
+      "why_it_matters": "A developer shared a simple setup using tmux to keep long-running Claude Code agent tasks running in the background without locking up your active terminal. This keeps your workspace organized and lets you test your Next.js app while Claude is still working on the backend. Install tmux via Homebrew and run your next Claude Code session inside a detached tmux window to keep your terminal free."
+    }
+  ]
+}

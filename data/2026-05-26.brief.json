@@ -1,0 +1,95 @@
+{
+  "date": "2026-05-26",
+  "items": [
+    {
+      "title": "Show HN: Hackobar – One feed for AI news",
+      "url": "https://hackobar.com/",
+      "source": "hn",
+      "why_it_matters": "This is an indie developer who built a tool to solve the exact problem you're tackling with AI-ingest: drowning in AI news. They specifically mention using Claude Code to help build it, offering direct inspiration and a potential competitor to study. Review the Hackobar site and any public details about its architecture to compare with your own AI-ingest project and identify features or approaches you could implement this week."
+    },
+    {
+      "title": "How the engineer behind Claude Cowork uses Claude",
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-how-the-engineer-behind",
+      "source": "lennysnewsletter.com",
+      "why_it_matters": "This article details how an engineer uses Claude for building, which directly aligns with your goal of getting better at directing AI and using Claude Code effectively. It offers practical strategies and insights into real-world AI development. Read the article for specific techniques or workflows that the Claude Cowork engineer uses and try applying one of them to your current AI-ingest development process."
+    },
+    {
+      "title": "Show HN: I Built a Debugging Challenge for the AI Coding Age",
+      "url": "https://theincidentchallenge.com/",
+      "source": "hn",
+      "why_it_matters": "An indie developer shipped a challenge designed to help engineers improve their debugging and verification skills in the AI coding age, which directly addresses your goal of getting good at the 'direction' part of vibe coding. It encourages bringing your agents. Participate in the debugging challenge to test and improve your 'direction' skills with Claude Code, seeing how well you can identify and fix issues even with AI assistance."
+    },
+    {
+      "title": "Show HN: Fungible – A local personal finance app in the terminal",
+      "url": "https://github.com/tomfunk/fungible",
+      "source": "hn",
+      "why_it_matters": "This is an example of an indie developer shipping a complete application with an integrated chatbot, demonstrating how AI can be incorporated into a full product. While it's a terminal app, it shows the end-to-end process of building and releasing. Explore the repo for how the chatbot integration is done and consider how a similar local-first app with a Claude backend could be built using your stack."
+    },
+    {
+      "title": "Anthropic to release Mythos-class models to the public",
+      "url": "https://www.theregister.com/security/2026/05/25/anthropic-to-release-mythos-class-models-to-the-public/5245596",
+      "source": "theregister.com",
+      "why_it_matters": "Anthropic, a core AI provider for you, is releasing a new class of models. This could offer improved performance or capabilities for your projects and change the economic viability of certain features. Keep an eye on Anthropic's official channels for the Mythos release and check if it offers a free tier or beta access to experiment with its new capabilities."
+    },
+    {
+      "title": "Show HN: Smriti: Shared Reasoning State for Claude Code and Codex",
+      "url": "https://github.com/himanshudongre/smriti/",
+      "source": "hn",
+      "why_it_matters": "This tool aims to improve your 'direction' skills by maintaining a shared reasoning state for Claude Code and Codex, helping you track and refine your prompts and the AI's thought process. Install Smriti and experiment with its shared reasoning state feature in your current AI-ingest project to see if it improves your ability to direct Claude Code."
+    },
+    {
+      "title": "Show HN: AWO – Run Claude and Codex in isolated Git worktrees",
+      "url": "https://github.com/ystepanoff/awo",
+      "source": "hn",
+      "why_it_matters": "This tool helps you manage your AI coding environments with Claude and Codex using Git worktrees, which can improve your workflow and Git discipline as you learn it. Try setting up AWO to manage distinct Claude Code/Codex projects within Git worktrees for better isolation and version control."
+    },
+    {
+      "title": "Show HN: docs-cli - coding-agent project state in Markdown",
+      "url": "https://artrichards.github.io/agent-playbook-suite/blog/",
+      "source": "hn",
+      "why_it_matters": "An indie developer shipped this tool to help keep project documentation in sync, especially when working with AI agents. This can improve your Git discipline and project management, which is crucial for shipping. Install `docs-cli` and try using it to manage the Markdown documentation for your AI-ingest project, ensuring links and indexes stay fresh."
+    },
+    {
+      "title": "Show HN: CloudPostOffice – Send messages between apps and agents in 4 lines",
+      "url": "https://cloudpostoffice.com/",
+      "source": "hn",
+      "why_it_matters": "This indie-shipped service provides simple, real-time messaging between apps, scripts, and AI agents, which could be a practical way to connect different components of your projects without complex infrastructure. Sign up for CloudPostOffice and try integrating its messaging into a small test script or a feature of your AI-ingest project to enable real-time communication."
+    },
+    {
+      "title": "ContextVault – Local-First AI Conversation Recorder for ChatGPT, Claude, Gemini",
+      "url": "https://context-vault-two.vercel.app/",
+      "source": "hn",
+      "why_it_matters": "This local-first tool helps record and manage your AI conversations with Claude, which can be useful for reviewing your prompts and Claude's responses to improve your 'direction' skills. Try installing ContextVault and using it to record your interactions with Claude Code on your current project to see if it helps you analyze your prompting strategy."
+    },
+    {
+      "title": "What ClickHouse learned from a year of coding with AI agents",
+      "url": "https://thenewstack.io/clickhouse-ai-coding-agents/",
+      "source": "thenewstack.io",
+      "why_it_matters": "This article from ClickHouse provides insights into the practical challenges and benefits of using AI agents in a professional setting, which can inform your own agent development and understanding of in-demand skills. Read the article to identify 1-2 key takeaways about effective AI agent usage or common pitfalls and consider how these insights apply to your own projects or future agent ideas."
+    },
+    {
+      "title": "Argus – multi‑agent AI coding assistant that never gets stuc",
+      "url": "https://github.com/argustek/Argus",
+      "source": "hn",
+      "why_it_matters": "This multi-agent AI coding assistant claims to be more robust and less prone to getting stuck, which could potentially improve your efficiency and reduce frustration when directing AI for coding tasks. Check if Argus has a quick-start guide or a simple API that could be integrated into a small coding task to evaluate its 'never gets stuck' claim."
+    },
+    {
+      "title": "Mnemosyne – Memory for AI Hermes Agents, Sub-Millisecond Recalls, Local First",
+      "url": "https://mnemosyne.site/",
+      "source": "hn",
+      "why_it_matters": "This local-first memory solution for AI agents could improve the performance and privacy of any agentic features you might build into your projects, offering a way to give your AI tools better recall. Explore the Mnemosyne site to understand how its local-first memory works and consider if it could be a valuable component for adding persistent memory to a future AI agent feature in your AI-ingest tool."
+    },
+    {
+      "title": "DAAF: Rigorous+responsible data analysis/research with Claude Code (open-source)",
+      "url": "https://daaf.openaugments.org/",
+      "source": "hn",
+      "why_it_matters": "This open-source project demonstrates a specific application of Claude Code for data analysis, showing how your preferred AI tool can be used for structured tasks beyond just code generation. Explore the DAAF repo to understand how Claude Code is integrated for data analysis and consider if any of its methods could be adapted for data processing within your AI-ingest tool."
+    },
+    {
+      "title": "Show HN: IA-SQL – Postgres compiles your documents into a wiki with an LLM",
+      "url": "https://github.com/feers77/iasql",
+      "source": "hn",
+      "why_it_matters": "This indie-shipped project demonstrates how an LLM can be integrated with Postgres to create a document-driven wiki, offering a potential approach for managing and querying content in your own projects, especially if you're dealing with a lot of text data. Explore the IA-SQL GitHub repo to understand how it uses an LLM with Postgres and consider if a similar document-to-wiki approach could enhance the content management of your AI-ingest tool."
+    }
+  ]
+}
