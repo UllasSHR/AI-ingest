@@ -1,5 +1,6 @@
 import brief from "../brief.json";
-import BriefList from "./brief-list";
+import opportunities from "../opportunities.json";
+import DashboardTabs from "./dashboard-tabs";
 
 function formatDate(iso) {
   const d = new Date(iso + "T00:00:00");
@@ -12,6 +13,15 @@ function formatDate(iso) {
 }
 
 export default function Home() {
+  const safeBrief = {
+    date: brief.date,
+    items: Array.isArray(brief.items) ? brief.items : [],
+  };
+  const safeOpportunities = {
+    date: opportunities.date || brief.date,
+    items: Array.isArray(opportunities.items) ? opportunities.items : [],
+  };
+
   return (
     <div className="relative min-h-full">
       {/* soft gold glow behind the masthead for warmth */}
@@ -26,21 +36,22 @@ export default function Home() {
 
       <main className="relative mx-auto w-full max-w-3xl px-6 py-16 sm:py-24">
         <header className="mb-14">
-          <div className="flex items-center gap-3">
-            <span className="h-px w-10 bg-gold/70" />
-            <p className="text-xs font-medium uppercase tracking-[0.35em] text-gold">
-              AI&middot;Ingest
-            </p>
-          </div>
-          <h1 className="mt-5 font-display text-5xl font-light leading-[1.05] tracking-tight text-ink sm:text-6xl">
+          <p
+            className="text-sm lowercase text-muted"
+            style={{ fontFamily: "var(--font-geist-mono), ui-monospace, monospace" }}
+          >
+            ai-ingest
+          </p>
+          <h1 className="mt-4 font-display text-5xl font-light leading-[1.05] tracking-tight text-ink sm:text-6xl">
             Your morning brief
           </h1>
           <p className="mt-4 text-sm tracking-wide text-muted">
-            {formatDate(brief.date)} &middot; {brief.items.length} things worth your attention
+            {formatDate(safeBrief.date)} &middot; {safeBrief.items.length} brief items &middot;{" "}
+            {safeOpportunities.items.length} opportunity leads
           </p>
         </header>
 
-        <BriefList items={brief.items} date={brief.date} />
+        <DashboardTabs brief={safeBrief} opportunities={safeOpportunities} />
 
         <footer className="mt-20 border-t border-line pt-8">
           <p className="font-display text-lg italic text-muted">

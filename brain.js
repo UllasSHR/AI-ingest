@@ -31,7 +31,7 @@ if (!API_KEY || API_KEY.startsWith('PASTE_')) {
 
 // Model fallback chain — if a name is retired, fall through to the next.
 // (Straight from the "model deprecation" landmine in CLAUDE.md.)
-const MODELS = ['gemini-2.5-flash', 'gemini-2.0-flash', 'gemini-1.5-flash'];
+const MODELS = ['gemini-2.5-flash', 'gemini-flash-latest', 'gemini-2.5-flash-lite', 'gemini-2.0-flash'];
 
 // Call Gemini's REST API, trying each model until one answers.
 async function callGemini(prompt) {
