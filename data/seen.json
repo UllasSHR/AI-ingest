@@ -1,12 +1,4 @@
 {
-  "https://www.zoril.la/": "2026-05-28",
-  "https://github.com/noah-chelednik/llm-export-analytics": "2026-05-28",
-  "https://github.com/sofumel/claude-handoff-revive": "2026-05-28",
-  "https://arps18.github.io/posts/claude-code-mastery/": "2026-05-28",
-  "https://github.com/Coral-Bricks-AI/coral-ai/tree/main/claude-code-token-xray": "2026-05-28",
-  "https://botscope.org/": "2026-05-28",
-  "https://thenewstack.io/aikido-ai-agents-security/": "2026-05-28",
-  "https://tokenadvisor.dev/": "2026-05-28",
   "https://claude.com/blog/introducing-dynamic-workflows-in-claude-code": "2026-05-29",
   "https://www.anthropic.com/news/claude-opus-4-8": "2026-05-29",
   "https://twitter.com/kevinsays/status/2059724146221662339": "2026-05-29",
@@ -54,5 +46,10 @@
   "https://github.com/milisp/codexia/": "2026-06-03",
   "https://github.com/Farfield-Dev/deep-review": "2026-06-03",
   "https://github.com/MobileReality/mdma": "2026-06-03",
-  "http://blog.merrilin.ai/engineering/2026/reining-in-ai-with-precommit/": "2026-06-03"
+  "http://blog.merrilin.ai/engineering/2026/reining-in-ai-with-precommit/": "2026-06-03",
+  "https://github.com/winchxyz/idea-to-build": "2026-06-04",
+  "https://github.com/jpajak/ai-gauge": "2026-06-04",
+  "https://aisignals.heyneo.com/": "2026-06-04",
+  "https://github.com/mnifzied-create/agentloop": "2026-06-04",
+  "https://github.com/mr-beaver/tokencost": "2026-06-04"
 }
