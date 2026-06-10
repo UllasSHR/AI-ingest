@@ -1,14 +1,4 @@
 {
-  "https://waitspot.io": "2026-06-03",
-  "https://www.claudinho.xyz/": "2026-06-03",
-  "https://claude.com/blog/a-harness-for-every-task-dynamic-workflows-in-claude-code": "2026-06-03",
-  "https://developers.openai.com/codex/sdk": "2026-06-03",
-  "https://github.com/ferrislucas/Circus-Chief": "2026-06-03",
-  "https://github.com/getpaseo/paseo": "2026-06-03",
-  "https://github.com/milisp/codexia/": "2026-06-03",
-  "https://github.com/Farfield-Dev/deep-review": "2026-06-03",
-  "https://github.com/MobileReality/mdma": "2026-06-03",
-  "http://blog.merrilin.ai/engineering/2026/reining-in-ai-with-precommit/": "2026-06-03",
   "https://github.com/winchxyz/idea-to-build": "2026-06-04",
   "https://github.com/jpajak/ai-gauge": "2026-06-04",
   "https://aisignals.heyneo.com/": "2026-06-04",
@@ -35,5 +25,9 @@
   "https://rayline.ai/": "2026-06-09",
   "https://github.com/ashp15205/guardian-runtime": "2026-06-09",
   "https://botverse.cloud": "2026-06-09",
-  "https://github.com/wiztek-llc/context-ledger/tree/main": "2026-06-09"
+  "https://github.com/wiztek-llc/context-ledger/tree/main": "2026-06-09",
+  "https://www.anthropic.com/news/claude-fable-5-mythos-5": "2026-06-10",
+  "https://github.com/hashwnath/KMCP": "2026-06-10",
+  "https://vercel.com/blog/ai-gateway-production-index-june-2026": "2026-06-10",
+  "https://github.com/varmabudharaju/agent-pd/blob/master/README.md": "2026-06-10"
 }
