@@ -1,9 +1,4 @@
 {
-  "https://github.com/winchxyz/idea-to-build": "2026-06-04",
-  "https://github.com/jpajak/ai-gauge": "2026-06-04",
-  "https://aisignals.heyneo.com/": "2026-06-04",
-  "https://github.com/mnifzied-create/agentloop": "2026-06-04",
-  "https://github.com/mr-beaver/tokencost": "2026-06-04",
   "https://boxes.dev": "2026-06-05",
   "https://cost.dev/": "2026-06-05",
   "https://chatcode.dev/": "2026-06-05",
@@ -29,5 +24,9 @@
   "https://www.anthropic.com/news/claude-fable-5-mythos-5": "2026-06-10",
   "https://github.com/hashwnath/KMCP": "2026-06-10",
   "https://vercel.com/blog/ai-gateway-production-index-june-2026": "2026-06-10",
-  "https://github.com/varmabudharaju/agent-pd/blob/master/README.md": "2026-06-10"
+  "https://github.com/varmabudharaju/agent-pd/blob/master/README.md": "2026-06-10",
+  "https://github.com/jianzhichun/permafrost": "2026-06-11",
+  "https://github.com/grzegorz-raczek-unit8/claude-quota": "2026-06-11",
+  "https://github.com/responsiblparty/claude-dmg-skill": "2026-06-11",
+  "https://news.ycombinator.com/item?id=48477708": "2026-06-11"
 }
