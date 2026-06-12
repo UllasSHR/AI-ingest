@@ -1,9 +1,4 @@
 {
-  "https://boxes.dev": "2026-06-05",
-  "https://cost.dev/": "2026-06-05",
-  "https://chatcode.dev/": "2026-06-05",
-  "https://github.com/alibaba/open-code-review": "2026-06-05",
-  "https://pennyroyaltea.github.io/resume/": "2026-06-05",
   "https://github.com/zdk/lowfat": "2026-06-06",
   "https://github.com/Foxfire1st/agents-remember-md": "2026-06-06",
   "https://code.claude.com/docs/en/keybindings": "2026-06-06",
@@ -28,5 +23,12 @@
   "https://github.com/jianzhichun/permafrost": "2026-06-11",
   "https://github.com/grzegorz-raczek-unit8/claude-quota": "2026-06-11",
   "https://github.com/responsiblparty/claude-dmg-skill": "2026-06-11",
-  "https://news.ycombinator.com/item?id=48477708": "2026-06-11"
+  "https://news.ycombinator.com/item?id=48477708": "2026-06-11",
+  "https://www.phoronix.com/news/YSERVER-Rust-X11-Server": "2026-06-12",
+  "https://github.com/APIANT/shellshot": "2026-06-12",
+  "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/": "2026-06-12",
+  "https://har-ki.github.io/claude-code-sre-handbook/handbook/06-air-gapped/": "2026-06-12",
+  "https://github.com/altmbr/teahose-mcp": "2026-06-12",
+  "https://github.com/eidentic/eidentic": "2026-06-12",
+  "https://buildy.so/": "2026-06-12"
 }
