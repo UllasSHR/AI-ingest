@@ -1,8 +1,4 @@
 {
-  "https://github.com/zdk/lowfat": "2026-06-06",
-  "https://github.com/Foxfire1st/agents-remember-md": "2026-06-06",
-  "https://code.claude.com/docs/en/keybindings": "2026-06-06",
-  "https://safedep.io/miasma-worm-ai-coding-agent-config-injection/": "2026-06-06",
   "https://byacommonthread.com/blog/what-should-i-eat": "2026-06-07",
   "https://github.com/ingram-technologies/claude-git-sessions": "2026-06-07",
   "https://old.reddit.com/r/ClaudeAI/comments/1tbaq2d/psa_if_your_project_has_an_anthropic_api_key_in/": "2026-06-07",
@@ -30,5 +26,12 @@
   "https://har-ki.github.io/claude-code-sre-handbook/handbook/06-air-gapped/": "2026-06-12",
   "https://github.com/altmbr/teahose-mcp": "2026-06-12",
   "https://github.com/eidentic/eidentic": "2026-06-12",
-  "https://buildy.so/": "2026-06-12"
+  "https://buildy.so/": "2026-06-12",
+  "https://worldofclaudecraft.com/": "2026-06-13",
+  "https://squishy.franzai.com/": "2026-06-13",
+  "https://envs.net/~volpe/blog/posts/reduce-slop.html": "2026-06-13",
+  "https://llmrender.com/": "2026-06-13",
+  "https://pypi.org/project/guardian-runtime/": "2026-06-13",
+  "https://illuminatedcomputing.com/posts/2026/06/my-claude-code-setup/": "2026-06-13",
+  "https://catalins.tech/codex-vs-claude-code-desktop-apps/": "2026-06-13"
 }
