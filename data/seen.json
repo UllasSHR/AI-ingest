@@ -1,8 +1,4 @@
 {
-  "https://www.anthropic.com/news/claude-fable-5-mythos-5": "2026-06-10",
-  "https://github.com/hashwnath/KMCP": "2026-06-10",
-  "https://vercel.com/blog/ai-gateway-production-index-june-2026": "2026-06-10",
-  "https://github.com/varmabudharaju/agent-pd/blob/master/README.md": "2026-06-10",
   "https://github.com/jianzhichun/permafrost": "2026-06-11",
   "https://github.com/grzegorz-raczek-unit8/claude-quota": "2026-06-11",
   "https://github.com/responsiblparty/claude-dmg-skill": "2026-06-11",
@@ -33,5 +29,12 @@
   "https://claude.com/blog/building-with-claude-managed-agents": "2026-06-15",
   "https://news.ycombinator.com/item?id=48537722": "2026-06-16",
   "https://news.ycombinator.com/item?id=48546618": "2026-06-16",
-  "https://grassdx.com/": "2026-06-16"
+  "https://grassdx.com/": "2026-06-16",
+  "https://arstechnica.com/ai/2026/06/anthropic-pauses-token-based-billing-for-its-claude-agent-sdk/": "2026-06-17",
+  "https://github.com/Helmus101/weave": "2026-06-17",
+  "https://github.com/hvardhan878/kevin": "2026-06-17",
+  "https://wattfare.com/": "2026-06-17",
+  "https://github.com/HexmosTech/git-lrc": "2026-06-17",
+  "https://blog.firetiger.com/migrating-from-claude-to-deepseek-without-breaking-everything/": "2026-06-17",
+  "https://festudio.net/agentpace/": "2026-06-17"
 }
