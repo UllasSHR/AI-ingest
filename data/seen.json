@@ -1,11 +1,4 @@
 {
-  "https://www.phoronix.com/news/YSERVER-Rust-X11-Server": "2026-06-12",
-  "https://github.com/APIANT/shellshot": "2026-06-12",
-  "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/": "2026-06-12",
-  "https://har-ki.github.io/claude-code-sre-handbook/handbook/06-air-gapped/": "2026-06-12",
-  "https://github.com/altmbr/teahose-mcp": "2026-06-12",
-  "https://github.com/eidentic/eidentic": "2026-06-12",
-  "https://buildy.so/": "2026-06-12",
   "https://worldofclaudecraft.com/": "2026-06-13",
   "https://squishy.franzai.com/": "2026-06-13",
   "https://envs.net/~volpe/blog/posts/reduce-slop.html": "2026-06-13",
@@ -47,5 +40,20 @@
   "https://medium.com/zerogpu/how-to-reduce-ai-compute-costs-with-our-claude-code-plugin-routing-lightweight-ai-tasks-to-small-2a265e19c699": "2026-06-18",
   "https://thrivez.io/": "2026-06-18",
   "https://github.com/mupt-ai/relaymux": "2026-06-18",
-  "https://github.com/omnigent-ai/omnigent": "2026-06-18"
+  "https://github.com/omnigent-ai/omnigent": "2026-06-18",
+  "https://tester.army": "2026-06-19",
+  "https://claude.com/blog/artifacts-in-claude-code": "2026-06-19",
+  "https://github.com/davidpv/opsx-spec-driven-development-toolkit": "2026-06-19",
+  "https://github.com/sathish316/pi-omniagent-extensions/": "2026-06-19",
+  "https://github.com/vukkt/token-warden": "2026-06-19",
+  "https://github.com/moorcheh-ai/memanto": "2026-06-19",
+  "https://gitlawb.com/node": "2026-06-19",
+  "https://llm-wiki.net/": "2026-06-19",
+  "https://github.com/layr-hq/layr": "2026-06-19",
+  "https://news.ycombinator.com/item?id=48588022": "2026-06-19",
+  "https://github.com/emiliolugo/clawmark": "2026-06-19",
+  "https://github.com/patriceckhart/zot-sdk-javascript": "2026-06-19",
+  "https://github.com/andreisilva1/OSymandias": "2026-06-19",
+  "https://github.com/BanyanOutcomes/well-actually": "2026-06-19",
+  "https://iamspeed.dev/": "2026-06-19"
 }
