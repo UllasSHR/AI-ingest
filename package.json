@@ -6,7 +6,10 @@
   "main": "scraper.js",
   "scripts": {
     "scrape": "node scraper.js",
-    "brief": "node brain.js"
+    "brief": "node brain.js",
+    "opportunity:scrape": "node opportunity-scraper.js",
+    "opportunity:brief": "node opportunity-brain.js",
+    "opportunities": "npm run opportunity:scrape && npm run opportunity:brief"
   },
   "author": "Ullas",
   "license": "ISC",
