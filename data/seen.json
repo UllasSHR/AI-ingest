@@ -1,11 +1,4 @@
 {
-  "https://claudenews.online": "2026-06-23",
-  "https://oak.space/oak/oak": "2026-06-23",
-  "https://github.com/0xroylee/ponytrail": "2026-06-23",
-  "https://github.com/oleksiijko/pmb/blob/main/README.md": "2026-06-23",
-  "https://autoclaw.sh/blog/agent-minimalism/": "2026-06-23",
-  "https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/": "2026-06-23",
-  "https://thenewstack.io/agentjacking-sentry-mcp-attack/": "2026-06-23",
   "https://thrivez.io/how-i-hit-10000-users-on-my-creator-platform-using-claude-as-my-coworker/": "2026-06-24",
   "https://www.anthropic.com/news/introducing-claude-tag": "2026-06-24",
   "https://blog.rduffy.uk/posts/the-speedometer-i-made-up/": "2026-06-24",
@@ -82,5 +75,10 @@
   "https://fuckui.com": "2026-06-29",
   "https://antoine.fi/mri-analysis-using-claude-code-opus": "2026-06-29",
   "https://github.com/kamaludu/bash4llm/": "2026-06-29",
-  "https://medium.com/@sharvanath/effective-software-engineering-with-claude-codex-bf39f296b233": "2026-06-29"
+  "https://medium.com/@sharvanath/effective-software-engineering-with-claude-codex-bf39f296b233": "2026-06-29",
+  "https://github.com/kuberwastaken/reference": "2026-06-30",
+  "https://github.com/botcircuits-ai/botcircuits-argus": "2026-06-30",
+  "https://junueno.dev/en/retry-storm-rebilled-llm-cost/": "2026-06-30",
+  "https://github.com/joanseg/specmanager": "2026-06-30",
+  "https://home.robusta.dev/blog/you-really-shouldnt-copy-paste-errors-into-claude-code": "2026-06-30"
 }
