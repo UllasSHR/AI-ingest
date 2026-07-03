@@ -2,7 +2,9 @@ import brief from "../brief.json";
 import BriefList from "./brief-list";
 
 function formatDate(iso) {
+  if (!iso) return '';
   const d = new Date(iso + "T00:00:00");
+  if (isNaN(d.getTime())) return '';
   return d.toLocaleDateString("en-US", {
     weekday: "long",
     month: "long",
@@ -12,6 +14,9 @@ function formatDate(iso) {
 }
 
 export default function Home() {
+  const items = brief.items ?? [];
+  const dateStr = formatDate(brief.date);
+
   return (
     <div className="relative min-h-full">
       {/* soft gold glow behind the masthead for warmth */}
@@ -36,11 +41,12 @@ export default function Home() {
             Your morning brief
           </h1>
           <p className="mt-4 text-sm tracking-wide text-muted">
-            {formatDate(brief.date)} &middot; {brief.items.length} things worth your attention
+            {dateStr && <>{dateStr} &middot; </>}
+            {items.length} things worth your attention
           </p>
         </header>
 
-        <BriefList items={brief.items} date={brief.date} />
+        <BriefList items={items} date={brief.date} />
 
         <footer className="mt-20 border-t border-line pt-8">
           <p className="font-display text-lg italic text-muted">

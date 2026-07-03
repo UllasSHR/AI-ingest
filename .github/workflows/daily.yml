@@ -29,18 +29,22 @@ jobs:
 
       - name: Scrape today's sources
         run: npm run scrape
+        env:
+          REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
+          REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
 
       - name: Write the brief
         run: npm run brief
         env:
-          # The key never lives in this file — it comes from a repo secret.
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
 
       - name: Commit the fresh brief
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/*.brief.json data/seen.json web/brief.json
+          git add data/*.json web/brief.json
           # Only commit if something actually changed (a quiet day = no commit).
           git diff --staged --quiet || git commit -m "chore: daily brief for $(date -u +%F)"
+          # Pull first in case the user pushed around the same time (avoids non-fast-forward).
+          git pull --rebase origin main
           git push

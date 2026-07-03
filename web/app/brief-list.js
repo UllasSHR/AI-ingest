@@ -37,8 +37,6 @@ function Stars({ value, onRate }) {
 }
 
 // ---------- the "Read" space ----------
-// Items you've marked Done don't vanish — they collect here, collapsed by
-// default, so you can reopen any of them or pull one back to the active list.
 function ReadSection({ read, onUnread }) {
   const [open, setOpen] = useState(false);
 
@@ -92,19 +90,49 @@ function ReadSection({ read, onUnread }) {
 // ---------- the brief list ----------
 export default function BriefList({ items, date }) {
   const readKey = `ai-ingest-read-${date}`;
-  const ratingsKey = `ai-ingest-ratings`; // global — feedback accumulates across days
+  const ratingsKey = `ai-ingest-ratings`;
 
   const [readUrls, setReadUrls] = useState([]);
   const [ratings, setRatings] = useState({});
+  const [stalenessDays, setStalenessDays] = useState(0);
 
   useEffect(() => {
     try {
       setReadUrls(JSON.parse(localStorage.getItem(readKey) || "[]"));
       setRatings(JSON.parse(localStorage.getItem(ratingsKey) || "{}"));
+
+      // Delete ai-ingest-read-YYYY-MM-DD keys older than 7 days so localStorage
+      // doesn't accumulate indefinitely.
+      const sevenDaysAgo = Date.now() - 7 * 24 * 60 * 60 * 1000;
+      for (const key of Object.keys(localStorage)) {
+        const m = key.match(/^ai-ingest-read-(\d{4}-\d{2}-\d{2})$/);
+        if (m && new Date(m[1] + "T00:00:00").getTime() < sevenDaysAgo) {
+          localStorage.removeItem(key);
+        }
+      }
     } catch {
       /* ignore corrupt storage */
     }
   }, [readKey]);
+
+  useEffect(() => {
+    // Compute staleness client-side — the page is statically built, so build-time
+    // "today" would itself go stale. We need the user's local clock.
+    if (!date) return;
+    try {
+      const todayStr = new Date().toLocaleDateString("en-CA"); // YYYY-MM-DD
+      const days = Math.round(
+        (new Date(todayStr + "T00:00:00") - new Date(date + "T00:00:00")) /
+          (1000 * 60 * 60 * 24)
+      );
+      if (days >= 2) setStalenessDays(days);
+    } catch {
+      /* ignore date parse errors */
+    }
+  }, [date]);
+
+  // De-duplicate items by URL in case of a pipeline hiccup.
+  const dedupedItems = Array.from(new Map((items || []).map((it) => [it.url, it])).values());
 
   function markRead(url) {
     const next = [...new Set([...readUrls, url])];
@@ -123,8 +151,6 @@ export default function BriefList({ items, date }) {
     setRatings(next);
     localStorage.setItem(ratingsKey, JSON.stringify(next));
 
-    // Persist to disk so brain.js can learn from it. Fire-and-forget:
-    // localStorage is the source of truth for the UI either way.
     fetch("/api/rate", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
@@ -138,20 +164,26 @@ export default function BriefList({ items, date }) {
     }).catch(() => {});
   }
 
-  const unread = items.filter((it) => !readUrls.includes(it.url));
-  const readCount = items.length - unread.length;
-  const pct = items.length ? (readCount / items.length) * 100 : 0;
+  const unread = dedupedItems.filter((it) => !readUrls.includes(it.url));
+  const readCount = dedupedItems.length - unread.length;
+  const pct = dedupedItems.length ? (readCount / dedupedItems.length) * 100 : 0;
 
-  // Show only the next 5 unread at a time. As you mark them done, the next-best
-  // 5 slide in — go as deep as you like, but it stays finite and ranked.
   const BATCH = 5;
   const visible = unread.slice(0, BATCH);
   const moreAfter = unread.length - visible.length;
-  const read = items.filter((it) => readUrls.includes(it.url));
+  const read = dedupedItems.filter((it) => readUrls.includes(it.url));
+
+  const stalenessWarning = stalenessDays >= 2 ? (
+    <p className="mb-8 text-sm text-muted">
+      This brief is {stalenessDays} {stalenessDays === 1 ? "day" : "days"} old — the
+      daily pipeline may be stuck (check GitHub Actions).
+    </p>
+  ) : null;
 
   if (unread.length === 0) {
     return (
       <div>
+        {stalenessWarning}
         <div className="rounded-2xl border border-dashed border-line py-24 text-center">
           <p className="font-display text-3xl font-light text-ink">All caught up.</p>
           <p className="mt-3 text-sm text-muted">
@@ -165,10 +197,12 @@ export default function BriefList({ items, date }) {
 
   return (
     <div>
+      {stalenessWarning}
+
       {/* read progress */}
       <div className="mb-8 flex items-center gap-4 text-[11px] uppercase tracking-[0.2em] text-faint">
         <span className="shrink-0">
-          {readCount} / {items.length} read
+          {readCount} / {dedupedItems.length} read
         </span>
         <div className="relative h-px flex-1 bg-line">
           <div
