@@ -6,18 +6,19 @@
   "main": "scraper.js",
   "scripts": {
     "scrape": "node scraper.js",
-    "brief": "node brain.js"
+    "brief": "node brain.js",
+    "test": "node --test test/date.test.js test/brain.test.js test/rate-validate.test.js"
   },
   "author": "Ullas",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/greatullas0-sketch/AI-ingest.git"
+    "url": "git+https://github.com/UllasSHR/AI-ingest.git"
   },
   "bugs": {
-    "url": "https://github.com/greatullas0-sketch/AI-ingest/issues"
+    "url": "https://github.com/UllasSHR/AI-ingest/issues"
   },
-  "homepage": "https://github.com/greatullas0-sketch/AI-ingest#readme",
+  "homepage": "https://github.com/UllasSHR/AI-ingest#readme",
   "dependencies": {
     "rss-parser": "^3.13.0"
   }
