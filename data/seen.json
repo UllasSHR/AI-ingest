@@ -1,18 +1,4 @@
 {
-  "https://github.com/inkeep/open-knowledge": "2026-06-26",
-  "https://puremint.co.uk/blog/stop-your-ai-memory-file-rotting/": "2026-06-26",
-  "https://www.rtrvr.ai/blog/code-as-plan-deepseek-flash-text-only-browser-agent": "2026-06-26",
-  "https://github.com/rondoflow/rondoflow": "2026-06-26",
-  "https://www.prototyper.co": "2026-06-26",
-  "https://github.com/JCodesMore/ai-website-cloner-template": "2026-06-26",
-  "https://www.fernandoi.cl/posts/hackmyclaw/": "2026-06-26",
-  "https://medium.com/@stefan.berkner/from-developer-to-product-owner-how-building-tilores-studio-changed-my-mind-about-llms-0921153fb702": "2026-06-26",
-  "https://www.simple-agent-manager.org/": "2026-06-26",
-  "https://github.com/adatarwa/operator-skills": "2026-06-26",
-  "https://flama.dev/blog/serving_llms_with_flama_cli/": "2026-06-26",
-  "https://www.vibesolve.ai/": "2026-06-26",
-  "https://github.com/l-zhi/pith-wiki": "2026-06-26",
-  "https://trypolygraph.com/": "2026-06-26",
   "https://github.com/insightitsGit/prismlib": "2026-06-27",
   "https://verity.md": "2026-06-27",
   "https://www.agent-kits.com": "2026-06-27",
@@ -63,5 +49,10 @@
   "https://github.com/samchon/ttsc/tree/master/packages/graph": "2026-07-02",
   "https://news.ycombinator.com/item?id=48743419": "2026-07-02",
   "https://simonwillison.net/2026/Jun/30/claude-sonnet-5/": "2026-07-02",
-  "https://news.ycombinator.com/item?id=48746066": "2026-07-02"
+  "https://news.ycombinator.com/item?id=48746066": "2026-07-02",
+  "https://github.com/DangerousYams/muxer": "2026-07-03",
+  "https://news.ycombinator.com/item?id=48762112": "2026-07-03",
+  "https://github.com/ctxrs/ctx": "2026-07-03",
+  "https://github.com/adamyasingh-12/Piggy-": "2026-07-03",
+  "https://github.com/opral/flashtype": "2026-07-03"
 }
