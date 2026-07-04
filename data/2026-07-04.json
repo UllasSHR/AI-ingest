@@ -1,0 +1,769 @@
+{
+  "date": "2026-07-04",
+  "fetched_at": "2026-07-04T04:21:08.033Z",
+  "summary": [
+    "  ✓ hn               77 items",
+    "  ✗ reddit           FAILED: all Reddit subreddit fetches failed",
+    "  ✓ simonwillison    7 items",
+    "  ✓ hf               0 items"
+  ],
+  "item_count": 84,
+  "items": [
+    {
+      "title": "Please stop the AI confidence theater",
+      "url": "https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater",
+      "source": "hn",
+      "score": 227,
+      "content": "",
+      "published_at": "2026-07-03T12:51:17Z",
+      "fetched_at": "2026-07-04T04:21:05.663Z"
+    },
+    {
+      "title": "AI saves about 3% of your hours, and almost none of it reaches the money",
+      "url": "https://okaneland.com/study/ai-productivity-roi-at-work/",
+      "source": "hn",
+      "score": 71,
+      "content": "",
+      "published_at": "2026-07-03T17:03:22Z",
+      "fetched_at": "2026-07-04T04:21:05.663Z"
+    },
+    {
+      "title": "Instead of banning AI, I made a classroom contract with my students",
+      "url": "https://www.science.org/content/article/instead-banning-ai-i-made-classroom-contract-my-students",
+      "source": "hn",
+      "score": 71,
+      "content": "",
+      "published_at": "2026-07-03T14:28:33Z",
+      "fetched_at": "2026-07-04T04:21:05.664Z"
+    },
+    {
+      "title": "Kagi Changelog (July 2): Heads, tails, and an AI toggle",
+      "url": "https://kagi.com/changelog#10959",
+      "source": "hn",
+      "score": 57,
+      "content": "",
+      "published_at": "2026-07-03T20:08:01Z",
+      "fetched_at": "2026-07-04T04:21:05.664Z"
+    },
+    {
+      "title": "AI Data Centers Use More Water Than Most Tech Giants Report",
+      "url": "https://www.wsj.com/tech/ai/ai-data-centers-water-use-901e2902",
+      "source": "hn",
+      "score": 55,
+      "content": "",
+      "published_at": "2026-07-03T12:33:20Z",
+      "fetched_at": "2026-07-04T04:21:05.664Z"
+    },
+    {
+      "title": "AI coding is addictive. Engineers are paying the price",
+      "url": "https://leaddev.com/ai/ai-coding-is-addictive-engineers-are-paying-the-price",
+      "source": "hn",
+      "score": 45,
+      "content": "",
+      "published_at": "2026-07-03T14:54:33Z",
+      "fetched_at": "2026-07-04T04:21:05.664Z"
+    },
+    {
+      "title": "AI First: How the Federal Government Is Prioritizing AI over People and Planet",
+      "url": "https://stopgreedbuildgreen.climateandcommunity.org/posts/ai-first",
+      "source": "hn",
+      "score": 29,
+      "content": "",
+      "published_at": "2026-07-03T21:21:08Z",
+      "fetched_at": "2026-07-04T04:21:05.664Z"
+    },
+    {
+      "title": "Coding without AI: a revolutionary new way to work",
+      "url": "https://isaaclyman.com/blog/posts/coding-without-ai/",
+      "source": "hn",
+      "score": 22,
+      "content": "",
+      "published_at": "2026-07-03T22:26:47Z",
+      "fetched_at": "2026-07-04T04:21:05.664Z"
+    },
+    {
+      "title": "AI's $2.2T deficit fix is already half fake, economists say",
+      "url": "https://fortune.com/2026/07/02/ai-productivity-deficit-national-debt-brookings-fed-study/",
+      "source": "hn",
+      "score": 13,
+      "content": "",
+      "published_at": "2026-07-03T17:21:59Z",
+      "fetched_at": "2026-07-04T04:21:05.664Z"
+    },
+    {
+      "title": "Meta AI chief says their coming LLM has caught up with OpenAI's flagship model",
+      "url": "https://www.businessinsider.com/meta-ai-model-catches-up-openai-gpt-5-says-2026-7",
+      "source": "hn",
+      "score": 13,
+      "content": "",
+      "published_at": "2026-07-03T21:00:18Z",
+      "fetched_at": "2026-07-04T04:21:05.664Z"
+    },
+    {
+      "title": "AI inference is obviously profitable",
+      "url": "https://www.seangoedecke.com/ai-inference-is-obviously-profitable/",
+      "source": "hn",
+      "score": 11,
+      "content": "",
+      "published_at": "2026-07-03T21:14:33Z",
+      "fetched_at": "2026-07-04T04:21:05.664Z"
+    },
+    {
+      "title": "Show HN: I built a website showing the likelihood of the AI bubble to pop",
+      "url": "https://laurentiugabriel.github.io/is-ai-hype-cooling-down/",
+      "source": "hn",
+      "score": 11,
+      "content": "I built a web page that aggregates data about data center buildup, sovereign fund investments into AI and bottlenecks. The objective is to predict AI race cooldown by looking at a potential decrease of activity involving these elements. \nThe website looks at the quarterly forms from the 5 biggest hyperscalers and adds their CapEx into the mix, calculating a composite index in the end showing how likely it is for the AI race to slow down. \nEnjoy!",
+      "published_at": "2026-07-03T12:55:34Z",
+      "fetched_at": "2026-07-04T04:21:05.664Z"
+    },
+    {
+      "title": "The AI Superforecasters Are Here",
+      "url": "https://www.astralcodexten.com/p/the-ai-superforecasters-are-here",
+      "source": "hn",
+      "score": 9,
+      "content": "",
+      "published_at": "2026-07-03T08:52:00Z",
+      "fetched_at": "2026-07-04T04:21:05.664Z"
+    },
+    {
+      "title": "Google's AI buildout drove 37% increase in electricity use in 2025",
+      "url": "https://arstechnica.com/ai/2026/07/googles-ai-buildout-drove-37-increase-in-electricity-use-in-2025/",
+      "source": "hn",
+      "score": 9,
+      "content": "",
+      "published_at": "2026-07-03T06:36:59Z",
+      "fetched_at": "2026-07-04T04:21:05.664Z"
+    },
+    {
+      "title": "Token prices collapsing, regulation rising, AI's pricing power looks fragile",
+      "url": "https://www.latimes.com/business/story/2026-07-03/with-token-prices-collapsing-regulation-rising-ais-pricing-power-looks-fragile",
+      "source": "hn",
+      "score": 9,
+      "content": "",
+      "published_at": "2026-07-03T17:37:05Z",
+      "fetched_at": "2026-07-04T04:21:05.664Z"
+    },
+    {
+      "title": "Show HN: Kontext – Move an AI chat's full context to another AI in one click",
+      "url": "https://github.com/anuragmerndev/kontext-ai",
+      "source": "hn",
+      "score": 8,
+      "content": "",
+      "published_at": "2026-07-03T19:27:04Z",
+      "fetched_at": "2026-07-04T04:21:05.664Z"
+    },
+    {
+      "title": "Show HN: TaskPeace – a task queue my AI coding agents pull work from over MCP",
+      "url": "https://taskpeace.com/",
+      "source": "hn",
+      "score": 7,
+      "content": "",
+      "published_at": "2026-07-03T14:27:26Z",
+      "fetched_at": "2026-07-04T04:21:05.664Z"
+    },
+    {
+      "title": "The future of AI is Dumb and Dirty",
+      "url": "https://sal4rkhn.substack.com/p/why-the-future-of-ai-is-dumb-and",
+      "source": "hn",
+      "score": 7,
+      "content": "",
+      "published_at": "2026-07-03T16:56:42Z",
+      "fetched_at": "2026-07-04T04:21:05.664Z"
+    },
+    {
+      "title": "Economists Are Sounding the Alarm on AI",
+      "url": "https://www.wsj.com/tech/ai/the-worlds-top-economists-are-sounding-the-alarm-on-ai-d99055b6",
+      "source": "hn",
+      "score": 7,
+      "content": "",
+      "published_at": "2026-07-03T15:40:50Z",
+      "fetched_at": "2026-07-04T04:21:05.664Z"
+    },
+    {
+      "title": "AI agents are not your \"coworkers\"",
+      "url": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
+      "source": "hn",
+      "score": 6,
+      "content": "",
+      "published_at": "2026-07-03T19:27:09Z",
+      "fetched_at": "2026-07-04T04:21:05.664Z"
+    },
+    {
+      "title": "Jamesob's guide to running SOTA LLMs locally",
+      "url": "https://github.com/jamesob/local-llm",
+      "source": "hn",
+      "score": 301,
+      "content": "",
+      "published_at": "2026-07-03T15:03:43Z",
+      "fetched_at": "2026-07-04T04:21:06.149Z"
+    },
+    {
+      "title": "Ask HN: Is anyone experimenting with different ways of using LLMs for coding?",
+      "url": "https://news.ycombinator.com/item?id=48771515",
+      "source": "hn",
+      "score": 142,
+      "content": "I&#x27;m a bit annoyed by the feeling that we&#x27;re kind of stuck when it comes to using LLMs for programming.<p>I use Claude Code and Codex, but I haven&#x27;t been able to enter flow state like I can when I hand write code.<p>This is kind of ironic to me since AI should be a bicycle for the mind, but right now it feels like a bicycle that just brakes abruptly every couple minutes. I stop, wait, review, prompt again.<p>Is there anyone exploring something fundamentally different than the prompt response loop we have today?<p>I actually think the idea of a tab model is directionally better than prompt response.<p>Would love to hear about any startups, personal experiments, etc.",
+      "published_at": "2026-07-03T06:21:44Z",
+      "fetched_at": "2026-07-04T04:21:06.149Z"
+    },
+    {
+      "title": "Lenny the LLM – You will learn how LLMs work from this fun short story",
+      "url": "https://www.ivokund.com/lenny-the-llm-life-as-a-language-model/",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-07-03T12:17:55Z",
+      "fetched_at": "2026-07-04T04:21:06.149Z"
+    },
+    {
+      "title": "Collabora Office Update with Choose Your Own LLM Adventure",
+      "url": "https://www.heise.de/en/news/Collabora-Office-26-04-Desktop-suite-with-self-selected-AI-11351930.html",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-07-03T18:19:39Z",
+      "fetched_at": "2026-07-04T04:21:06.149Z"
+    },
+    {
+      "title": "A Deterministic Replacement for LLM-as-Judge in Stateful Agent Evaluation",
+      "url": "https://arxiv.org/abs/2606.22737",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-07-03T04:51:43Z",
+      "fetched_at": "2026-07-04T04:21:06.149Z"
+    },
+    {
+      "title": "LLMs adopt the social biases of human if assigned different professional roles",
+      "url": "https://www.psypost.org/artificial-intelligence-chatbots-adopt-human-power-dynamics-and-social-biases-in-conversations/",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-07-03T09:43:55Z",
+      "fetched_at": "2026-07-04T04:21:06.149Z"
+    },
+    {
+      "title": "Show HN: Gavio: open-source interceptor pipeline for production LLM applications",
+      "url": "https://github.com/manojmallick/gavio",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-07-04T00:04:06Z",
+      "fetched_at": "2026-07-04T04:21:06.149Z"
+    },
+    {
+      "title": "Trip LLM safety refusals so that LLM-based code scanning wont see the malware",
+      "url": "https://indieweb.social/@laurenshof/116720287681995824",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-03T22:26:37Z",
+      "fetched_at": "2026-07-04T04:21:06.149Z"
+    },
+    {
+      "title": "Show HN: Mlx-serve – LLM inference server for Apple Silicon, written in Zig",
+      "url": "https://mlxserve.com/",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-03T21:06:11Z",
+      "fetched_at": "2026-07-04T04:21:06.149Z"
+    },
+    {
+      "title": "Show HN: Sharing LLM Artifacts with your team",
+      "url": "https://github.com/danielpang/dropway",
+      "source": "hn",
+      "score": 2,
+      "content": "A common challenge we found as our non technical team began to work with Claude Cowork was the ability to share HTML&#x2F;markdown files with the rest of the team.<p>With LLMs building is easy but sharing artifacts is still difficult. Getting a prototype or report meant using a technical platform like Cloudflare or Vercel to host simple web pages. Setting up these pages was too complex for non-technical folks and a waste of engineering time. While Claude and ChatGPT have recently added the ability to share artifacts, they lack flexibility with access control and lock your files into their platform.<p>Dropway is a simple fix: drag your files into the dashboard (or deploy via CLI or MCP) and get a shareable URL in seconds. Access control is set per site: private email allowlist, org-only, or public. Every deploy is immutable and content-addressed, so versioning is automatic and rollback is one click.<p>We added CLI and MCP integration so Claude, Codex, and Cursor can deploy directly to a site. You can create, share, iterate without leaving your LLM of choice.<p>Source-available under FSL and self-hostable at <a href=\"https:&#x2F;&#x2F;github.com&#x2F;danielpang&#x2F;dropway\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;danielpang&#x2F;dropway</a>. Or use our hosted option at <a href=\"https:&#x2F;&#x2F;dropway.dev\" rel=\"nofollow\">https:&#x2F;&#x2F;dropway.dev</a><p>Happy to answer questions about the architecture or the MCP integration, and would love feedback from anyone who has run into this same friction.<p>Thank you in advance!",
+      "published_at": "2026-07-03T20:26:42Z",
+      "fetched_at": "2026-07-04T04:21:06.149Z"
+    },
+    {
+      "title": "Does a URL just sitting in a prompt steer an LLM's output toward its content?",
+      "url": "https://aifoc.us/influencing-model-output-with-urls/",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-03T20:23:02Z",
+      "fetched_at": "2026-07-04T04:21:06.149Z"
+    },
+    {
+      "title": "PrivAiTe: Self-hosted proxy that redacts PII from LLM calls, incl. tool-calls",
+      "url": "https://github.com/crp4222/PrivAiTe",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-03T15:12:39Z",
+      "fetched_at": "2026-07-04T04:21:06.149Z"
+    },
+    {
+      "title": "Dropway: Share LLM artifacts with your team",
+      "url": "https://www.hugedomains.com/domain_profile.cfm?d=dropway.com",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-03T14:58:40Z",
+      "fetched_at": "2026-07-04T04:21:06.149Z"
+    },
+    {
+      "title": "Running 26B and 35B LLMs at Full Speed on €990 of Used Hardware – No Cloud",
+      "url": "https://medium.com/ai-advances/running-26b-and-35b-llms-at-full-speed-on-990-of-used-hardware-no-cloud-required-381cb801cb23",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-03T07:00:39Z",
+      "fetched_at": "2026-07-04T04:21:06.149Z"
+    },
+    {
+      "title": "Action Preflight: consequence-aware admission for LLM agent actions",
+      "url": "https://github.com/gfernandf/agent-skills/blob/main/docs/ACTION_PREFLIGHT_FORECAST_QUICKSTART.md",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-07-03T08:11:49Z",
+      "fetched_at": "2026-07-04T04:21:06.149Z"
+    },
+    {
+      "title": "Show HN: Void test: 6 frontier LLMs go silent on \"Be silence.\" Live proof",
+      "url": "https://getswiftapi.com/void-test",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-07-04T03:43:37Z",
+      "fetched_at": "2026-07-04T04:21:06.149Z"
+    },
+    {
+      "title": "Seismograph – open-source early warning for silent LLM API drift",
+      "url": "https://github.com/Tania-coder/SEISMOGRAPH",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-07-03T11:57:06Z",
+      "fetched_at": "2026-07-04T04:21:06.149Z"
+    },
+    {
+      "title": "Show HN: Mycli 2.0",
+      "url": "https://github.com/dbcli/mycli",
+      "source": "hn",
+      "score": 3,
+      "content": "Mycli is a (fancy) alternative REPL for MySQL.<p>Features added in recent months:<p>* fuzzy history search with fzf<p>* integrated LLMs with an &#x2F;llm command<p>* shell-like query-result redirection with $| and $&gt; operators<p>* system keyring support for saving passwords<p>* checkpoint&#x2F;resume and progress&#x2F;eta for batch execution<p>* fuzzy completion&#x2F;correction with RapidFuzz",
+      "published_at": "2026-07-03T18:38:32Z",
+      "fetched_at": "2026-07-04T04:21:06.149Z"
+    },
+    {
+      "title": "Show HN: I ran 400 hours of interviews, so I built the tool I wished existed",
+      "url": "https://news.ycombinator.com/item?id=48778853",
+      "source": "hn",
+      "score": 2,
+      "content": "I&#x27;ve spent almost a decade at one of the FAANG companies, and I&#x27;ve conducted over 400 hours of software engineering interviews. The frustration led me to build ScreenStack.<p>You see, the interviewing stack today is fragmented. To conduct an interview, you&#x27;ll have to schedule a conference call on Zoom&#x2F;Google Meet&#x2F;MS Teams, then have a CoderPad session, and, most recently, connect your AI note-taker to capture notes. After the interview, it is an open secret that a lot of people paste the transcripts into ChatGPT and sometimes the code too and from there try to generate post-interview notes to send to the hiring manager or debrief team.<p>You can already see how crazy this looks. I strongly believe that everything you need to conduct an interview should be in one place: the transcript, the code, and&#x2F;or the diagram (for system design interviews). So that when you want to extract valuable insights using an LLM, you have enough context about what they said, at what time and what code they produced. This is not to say the LLM makes the decision, but it helps you analyse and get a clearer picture of how the interview went so you are making hiring decisions not based on vibes but actual data.<p>I built ScreenStack, an MVP as a proof of concept, and now I&#x27;m looking for design partners. If you are currently conducting coding interviews or any interview at all and would like to try it out, please shoot me an email at screenstackhq [at] gmail dot com. I&#x27;ll be happy to walk you through how it works, and hopefully you use it to conduct some interviews entirely for free; my only ask is that you give me feedback.<p>Thank you in advance.",
+      "published_at": "2026-07-03T19:17:10Z",
+      "fetched_at": "2026-07-04T04:21:06.149Z"
+    },
+    {
+      "title": "Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
+      "url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/",
+      "source": "hn",
+      "score": 318,
+      "content": "",
+      "published_at": "2026-07-03T08:31:37Z",
+      "fetched_at": "2026-07-04T04:21:06.688Z"
+    },
+    {
+      "title": "New serious vulnerabilities spiked around release of Claude Mythos Preview",
+      "url": "https://epoch.ai/data-insights/cve-severity-spike",
+      "source": "hn",
+      "score": 68,
+      "content": "",
+      "published_at": "2026-07-03T21:16:16Z",
+      "fetched_at": "2026-07-04T04:21:06.688Z"
+    },
+    {
+      "title": "Claude's Criminally Bad Electron Mac App Is an Inside Job",
+      "url": "https://daringfireball.net/2026/07/claudes_criminally_bad_mac_app_is_an_inside_job",
+      "source": "hn",
+      "score": 13,
+      "content": "",
+      "published_at": "2026-07-04T00:01:23Z",
+      "fetched_at": "2026-07-04T04:21:06.688Z"
+    },
+    {
+      "title": "Save Claude Code Tokens with Smart Routing",
+      "url": "https://github.com/regolo-ai/brick-SR1",
+      "source": "hn",
+      "score": 9,
+      "content": "",
+      "published_at": "2026-07-03T22:39:24Z",
+      "fetched_at": "2026-07-04T04:21:06.688Z"
+    },
+    {
+      "title": "Show HN: Pull Claude Code transcripts into your Codex session, and vice versa",
+      "url": "https://contextify.sh/",
+      "source": "hn",
+      "score": 6,
+      "content": "Hi HN, I&#x27;m Rob. Contextify indexes every Claude Code and Codex session on your machine into one local, searchable database. The current session, in either tool, can search all of it: &#x2F;total-recall in Claude Code, $total-recall in Codex.<p>Demo: <a href=\"https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=FvrvRGp4C9M\" rel=\"nofollow\">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=FvrvRGp4C9M</a> | Mac app: <a href=\"https:&#x2F;&#x2F;contextify.sh\" rel=\"nofollow\">https:&#x2F;&#x2F;contextify.sh</a> (App Store or DMG) | Linux: CLI with a one-line installer, same search. No signup.<p>I split my work between Claude Code and Codex. When I burn through rate limits on one, I switch to the other, and new models keep leapfrogging each other, so the switching is not going away.<p>But each tool keeps its own history, in its own format, in its own directory structure, and Claude Code deletes local transcripts after 30 days by default.<p>Piecing together work I had done across Claude Code and Codex on one machine is the problem Contextify started as.<p>How it works: the Mac app (or a systemd timer on Linux) watches ~&#x2F;.claude&#x2F;projects&#x2F; and ~&#x2F;.codex&#x2F;sessions&#x2F;, parses each tool&#x27;s transcript format, and ingests every turn into SQLite with full-text search.<p>My DB is currently at 366,734 entries across 13,920 sessions, pooled from two Macs. An entry is one turn: a message, tool call, or subagent step.<p>A CLI (contextify search &#x2F; context &#x2F; activity) sits on top, and bundled skills (&#x2F;total-recall, &#x2F;live-recall) teach each agent to use it on demand mid-session. There is also an MCP server (contextify serve-mcp) if you&#x27;d rather use that.<p>On macOS, summaries are generated on-device by Apple Intelligence. By default your transcripts and entry database stay on your machine.<p>I use more than one laptop, and found I would often want to reference prior work that I did on one computer that I did not have in my local database.<p",
+      "published_at": "2026-07-03T17:50:59Z",
+      "fetched_at": "2026-07-04T04:21:06.688Z"
+    },
+    {
+      "title": "Anthropic moves to close loopholes that allow Chinese access to Claude",
+      "url": "https://www.ft.com/content/ad033063-60f9-4c0c-8d8a-9193a83e6f60",
+      "source": "hn",
+      "score": 5,
+      "content": "",
+      "published_at": "2026-07-03T05:29:59Z",
+      "fetched_at": "2026-07-04T04:21:06.688Z"
+    },
+    {
+      "title": "Claude Fable is useless for bioinformaticians",
+      "url": "https://news.ycombinator.com/item?id=48778446",
+      "source": "hn",
+      "score": 5,
+      "content": "It’s infuriating any simple request related to common bioinformatics work and computational biology is flagged. Like we are we are trying to weaponize viruses or create anthrax!<p>Life science users, what’s been your experience?",
+      "published_at": "2026-07-03T18:44:10Z",
+      "fetched_at": "2026-07-04T04:21:06.688Z"
+    },
+    {
+      "title": "Alibaba bans staff from using Claude Code over Anthropic spyware concerns",
+      "url": "https://www.scmp.com/tech/big-tech/article/3359375/alibaba-bans-staff-using-claude-code-over-anthropic-spyware-concerns",
+      "source": "hn",
+      "score": 5,
+      "content": "",
+      "published_at": "2026-07-03T16:26:27Z",
+      "fetched_at": "2026-07-04T04:21:06.688Z"
+    },
+    {
+      "title": "GPT 5.5 (high) is as good at coding as Claude Fable (medium) at a lower cost",
+      "url": "https://deepswe.datacurve.ai/",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-07-03T19:18:42Z",
+      "fetched_at": "2026-07-04T04:21:06.688Z"
+    },
+    {
+      "title": "Claude Fable relaunch disappoints users with nerfed performance",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-relaunch-disappoints-users-with-nerfed-performance/",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-07-03T10:02:09Z",
+      "fetched_at": "2026-07-04T04:21:06.688Z"
+    },
+    {
+      "title": "Fable will return to Claude subscriptions as soon as capacity allows",
+      "url": "https://twitter.com/trq212/status/2072814903170408784",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-07-03T05:21:44Z",
+      "fetched_at": "2026-07-04T04:21:06.688Z"
+    },
+    {
+      "title": "Claude Code Dynamic Island on macOS",
+      "url": "https://pookify.vercel.app/",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-07-03T13:12:13Z",
+      "fetched_at": "2026-07-04T04:21:06.688Z"
+    },
+    {
+      "title": "Show HN: Make your terminal pulse orange when Claude Code needs input",
+      "url": "https://github.com/rickardstureborg/claude-needs-input",
+      "source": "hn",
+      "score": 3,
+      "content": "It&#x27;s not always obvious if Claude Code finished because it&#x27;s done or needs an answer to a question.. Now the tab color will tell you.<p><pre><code>   pulsing orange – blocked on you (question or permission prompt)\n   solid green    – finished the turn\n  ⬜ no tint        – working\n </code></pre>\nNot obvious to me when I started:<p>- Telling a BLOCKING turn (&quot;Which file?&quot;) from a CLOSING one (&quot;Anything else?&quot;)\n  isn&#x27;t a regex job (if &#x27;?&#x27; in answer return BLOCKING). I used a mixed method,\n  with Haiku and rules to optimize for both speed and accuracy.<p>- The pulsing works even if Claude doesn&#x27;t use a AskUserQuestion prompt.<p>- Using this made the recent very annoying 60 second timeout (<a href=\"https:&#x2F;&#x2F;github.com&#x2F;anthropics&#x2F;claude-code&#x2F;issues&#x2F;73125\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;anthropics&#x2F;claude-code&#x2F;issues&#x2F;73125</a>) for such prompts less disruptive. I simply run `claude --disallowed-tools AskUserQuestion` and still get prompted by my tab color.<p>macOS + iTerm2 + Claude Code only. MIT.\n<a href=\"https:&#x2F;&#x2F;github.com&#x2F;rickardstureborg&#x2F;claude-needs-input\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;rickardstureborg&#x2F;claude-needs-input</a>",
+      "published_at": "2026-07-03T19:04:49Z",
+      "fetched_at": "2026-07-04T04:21:06.688Z"
+    },
+    {
+      "title": "Show HN: Ultracodex – Run Claude Ultracode Dynamic Workflows with Codex Agents",
+      "url": "https://github.com/YuanpingSong/ultracodex",
+      "source": "hn",
+      "score": 3,
+      "content": "Claude Fable has been incredible, however the plan usage runs out too fast, especially if you use ultracode mode (Claude Code&#x27;s workflow feature, where the model writes small JavaScript programs that orchestrate subagents) and let the agents go brrr.<p>I want Fable to focus on high-value tasks such as planning or verification, and not burn tokens on mundane implementation work. So I built ultracodex, an engine that spawns codex agents to complete the same ultracode workflows and hand off seamlessly to and from Claude. It runs the same workflow scripts that Claude writes. I designed this tool for anyone owning both Claude and Codex subscriptions or anyone who enjoys Fable and wants to make the quota last.<p>This tool is in early days but I am very excited about the potential. I think it’s also a great “loop engineering” starter pack for us because 1) Claude is great at writing loops and 2) ultracodex runs the loops with Codex agents - given their generous limits, you don’t have to worry about usage much. So “loop engineering” is no longer a mysterious thing but a tool you can throw at any task. I have some examples of “loops” in my repo as well.<p>Project is completely open-source. Apache-2.0, npm i -g ultracodex, demo video in the README.<p>Please check it out!",
+      "published_at": "2026-07-03T15:45:01Z",
+      "fetched_at": "2026-07-04T04:21:06.688Z"
+    },
+    {
+      "title": "Mistral vs. Claude on our onboarding: 4× faster, 30% cheaper",
+      "url": "https://squidler.io/blog/eu-models-1-discovery-mistral",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-07-03T14:51:57Z",
+      "fetched_at": "2026-07-04T04:21:06.688Z"
+    },
+    {
+      "title": "Claude Code Settings That Made Me a Faster Software Architect",
+      "url": "https://jsdev.space/claude-code-settings-software-architect/",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-07-03T04:52:09Z",
+      "fetched_at": "2026-07-04T04:21:06.688Z"
+    },
+    {
+      "title": "Show HN: LimitBar, a macOS menu bar app showing your Claude usage limits",
+      "url": "https://mikaweiss6.gumroad.com/l/limitbar",
+      "source": "hn",
+      "score": 2,
+      "content": "I use Claude Code on a Max plan, and the usage limits, like for all of us (and esp. with dedicated Fable limits now) dictate how I will plan my day&#x2F;sessions. It was super goddamn annoying clicking the usage wheel (perhaps this frustration is shared with &#x2F;usage in terminal or CLI but I only use the desktop app), so I built this to poll Anthropic endpoint every 60 seconds and stay in my menu bar so I can always just glance up to see where I&#x27;m at.<p>build stuff: native Swift&#x2F;AppKit, a single binary under 1 MB, no Electron or Node, negligible CPU&#x2F;RAM. It reads the same usage metadata endpoint the usage wheel and &#x2F;usage use, so it never invokes a model and spends zero tokens, observing the budget doesn&#x27;t consume it. No telemetry, no analytics, no network calls except to Anthropic&#x27;s own endpoints. The source is included in the download and the installer compiles it locally, so you can read exactly what runs. Auth reuses your existing Claude Code CLI login from the Keychain and refreshes via Anthropic&#x27;s official OAuth refresh flow, the same thing Claude Code itself does, that step is opt-in, and there is a long-lived-token-file alternative that never involcves Keychain.<p>ofc this is unofficial and not affiliated with Anthropic, so if they change the usage endpoint it needs an update (the parser is defensive, updates are free). macOS 13+ only. Needs a Pro or Max subscription and the Claude Code CLI logged in, it does not work with raw API keys, Bedrock, or Vertex.<p>It is €2.99 one-time on Gumroad with a 30-day refund. First thing I have ever shipped for sale, so I would really appreciate feedback, especially on the auth handling. Considering open sourcing and then just selling the installer and updates&#x2F;support etc but as I said I&#x27;m new to this!",
+      "published_at": "2026-07-03T14:48:01Z",
+      "fetched_at": "2026-07-04T04:21:06.688Z"
+    },
+    {
+      "title": "Make Claude Fix the Claude VS Code Extension",
+      "url": "https://github.com/Pomax/Claude-VS-Code-Extension-patches",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-03T18:39:30Z",
+      "fetched_at": "2026-07-04T04:21:06.688Z"
+    },
+    {
+      "title": "Testing Claude Sonnet 5's agentic claims",
+      "url": "https://developer.puter.com/blog/claude-sonnet-5-puter-js/",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-03T15:22:38Z",
+      "fetched_at": "2026-07-04T04:21:06.688Z"
+    },
+    {
+      "title": "My Side-Project, a Multitool Harness for Unreal Engine and Claude Code",
+      "url": "https://github.com/oliver-io/unreal-harness",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-03T19:38:29Z",
+      "fetched_at": "2026-07-04T04:21:06.688Z"
+    },
+    {
+      "title": "Anthropic wants to develop its own drugs",
+      "url": "https://theguptalog.blogspot.com/2026/07/anthropic-wants-to-develop-its-own-drugs.html",
+      "source": "hn",
+      "score": 5,
+      "content": "",
+      "published_at": "2026-07-03T15:37:13Z",
+      "fetched_at": "2026-07-04T04:21:07.418Z"
+    },
+    {
+      "title": "Oak: Git for Agents",
+      "url": "https://oak.space/",
+      "source": "hn",
+      "score": 21,
+      "content": "",
+      "published_at": "2026-07-03T20:05:27Z",
+      "fetched_at": "2026-07-04T04:21:08.032Z"
+    },
+    {
+      "title": "CueBench for Developers is live: score how well you drive coding agents",
+      "url": "https://app.cuebench.dev",
+      "source": "hn",
+      "score": 9,
+      "content": "",
+      "published_at": "2026-07-04T01:30:49Z",
+      "fetched_at": "2026-07-04T04:21:08.032Z"
+    },
+    {
+      "title": "Show HN: Fortress – open-source Chromium that keeps browser agents unblocked",
+      "url": "https://github.com/tiliondev/fortress",
+      "source": "hn",
+      "score": 7,
+      "content": "",
+      "published_at": "2026-07-04T00:36:35Z",
+      "fetched_at": "2026-07-04T04:21:08.032Z"
+    },
+    {
+      "title": "Show HN: Plasma Wiki – a CLI for maintaining agent-edited Markdown wikis",
+      "url": "https://github.com/plasma-ai/wiki",
+      "source": "hn",
+      "score": 7,
+      "content": "",
+      "published_at": "2026-07-03T16:34:17Z",
+      "fetched_at": "2026-07-04T04:21:08.032Z"
+    },
+    {
+      "title": "Cache Merging as a Convergent Replicated State for Multi-Agent Latent Reasoning",
+      "url": "https://arxiv.org/abs/2607.01308",
+      "source": "hn",
+      "score": 5,
+      "content": "",
+      "published_at": "2026-07-03T14:12:38Z",
+      "fetched_at": "2026-07-04T04:21:08.032Z"
+    },
+    {
+      "title": "Show HN: Scout.kids – Agents that find activies for families",
+      "url": "https://scout.kids",
+      "source": "hn",
+      "score": 4,
+      "content": "Scout is the best tool for finding activities for your child.<p>I built this to solve my personal pain point.<p>Currently the best solutions are wordpress blogs where people manually aggregate this information. But human-run blogs can&#x27;t possibly find every event, they don&#x27;t know what my child&#x27;s interests are or what&#x27;s near my home, so my wife &amp; I would spend hours just learning what we can do with our child.<p>Scout is totally different. Our Agents intelligently crawl the web and find everything in a specific geographic region. We&#x27;re staring with Seattle, where I live.<p>Scout event has an &quot;inclusivity&quot; filter which lets you find events that are sensory friendly, ASL&#x2F;assistive listening&#x2F;captioning, LGBTQ+ &amp; trans affirming, wheelchair accessible, etc.<p>My favorite feature is the daily email with a curated list of events for you. This week I&#x27;ve gone to 2 events based on those emails alone.<p>Please take a look and give me your feedback!<p>demo: <a href=\"https:&#x2F;&#x2F;youtu.be&#x2F;6wEVtp7-wV4\" rel=\"nofollow\">https:&#x2F;&#x2F;youtu.be&#x2F;6wEVtp7-wV4</a><p>The link above is the web version, we&#x27;ve also got mobile&#x2F;tablet apps:\niOS: <a href=\"https:&#x2F;&#x2F;apps.apple.com&#x2F;us&#x2F;app&#x2F;scout-family-activities&#x2F;id6759711333\">https:&#x2F;&#x2F;apps.apple.com&#x2F;us&#x2F;app&#x2F;scout-family-activities&#x2F;id6759...</a>\nAndroid: <a href=\"https:&#x2F;&#x2F;play.google.com&#x2F;store&#x2F;apps&#x2F;details?id=com.enjoyable.goscout&amp;hl=en_US\">https:&#x2F;&#x2F;play.google.com&#x2F;store&#x2F;apps&#x2F;details?id=com.enjoyable....</a>",
+      "published_at": "2026-07-03T22:32:14Z",
+      "fetched_at": "2026-07-04T04:21:08.032Z"
+    },
+    {
+      "title": "Show HN: Durable AI agents without the workflow engine",
+      "url": "https://www.noworkflows.dev/",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-07-03T21:47:10Z",
+      "fetched_at": "2026-07-04T04:21:08.032Z"
+    },
+    {
+      "title": "A minimal browser agent built on the accessibility tree",
+      "url": "https://github.com/josharsh/pixelpi",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-07-03T20:13:12Z",
+      "fetched_at": "2026-07-04T04:21:08.032Z"
+    },
+    {
+      "title": "SVGFarm – SVG icons for coding agents",
+      "url": "https://svg.farm/",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-07-03T14:20:30Z",
+      "fetched_at": "2026-07-04T04:21:08.032Z"
+    },
+    {
+      "title": "The Termi Protocol: Watch AI Coding Agents Build in 3D",
+      "url": "https://termiprotocol.com/",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-07-03T21:47:53Z",
+      "fetched_at": "2026-07-04T04:21:08.032Z"
+    },
+    {
+      "title": "We run sandboxes for agents at scale",
+      "url": "https://adapt.com/blog/orchestrating-agent-sandboxes",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-07-03T19:29:59Z",
+      "fetched_at": "2026-07-04T04:21:08.032Z"
+    },
+    {
+      "title": "Meta's Zuckerberg says AI agent tech progressing slower than expected",
+      "url": "https://finance.yahoo.com/technology/ai/articles/exclusive-zuckerberg-says-ai-agent-201123441.html",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-07-03T13:13:09Z",
+      "fetched_at": "2026-07-04T04:21:08.032Z"
+    },
+    {
+      "title": "Context graphs: how AI agents remember why decisions were made",
+      "url": "https://nanonets.com/blog/what-is-a-context-graph/",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-07-04T00:30:11Z",
+      "fetched_at": "2026-07-04T04:21:08.032Z"
+    },
+    {
+      "title": "Securing Agentic Identity",
+      "url": "https://codon.org.uk/~mjg59/blog/p/securing-agentic-identity/",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-07-03T23:38:15Z",
+      "fetched_at": "2026-07-04T04:21:08.032Z"
+    },
+    {
+      "title": "Skillsaw: Lints the files that steer your AI coding agents",
+      "url": "https://skillsaw.org/",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-07-03T16:13:25Z",
+      "fetched_at": "2026-07-04T04:21:08.032Z"
+    },
+    {
+      "title": "Codex Agents Built and Operate My Weapons Research",
+      "url": "https://weaponsofconflict.com/blog/codex-agents-weaponsofconflict-experiment",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-07-03T16:09:15Z",
+      "fetched_at": "2026-07-04T04:21:08.032Z"
+    },
+    {
+      "title": "AI Agent ransomware attack through Langflow instance by exploiting CVE-2025-3248",
+      "url": "https://www.sysdig.com/blog/jadepuffer-agentic-ransomware-for-automated-database-extortion",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-07-03T15:46:56Z",
+      "fetched_at": "2026-07-04T04:21:08.032Z"
+    },
+    {
+      "title": "Open Source AI Gap Map",
+      "url": "https://simonwillison.net/2026/Jul/3/open-source-ai-gap-map/#atom-everything",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-07-03T22:04:31.000Z",
+      "fetched_at": "2026-07-04T04:21:05.263Z"
+    },
+    {
+      "title": "Quoting Josh W. Comeau",
+      "url": "https://simonwillison.net/2026/Jul/3/josh-w-comeau/#atom-everything",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-07-03T21:25:52.000Z",
+      "fetched_at": "2026-07-04T04:21:05.263Z"
+    },
+    {
+      "title": "Fable's judgement",
+      "url": "https://simonwillison.net/2026/Jul/3/judgement/#atom-everything",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-07-03T18:51:06.000Z",
+      "fetched_at": "2026-07-04T04:21:05.263Z"
+    },
+    {
+      "title": "June 2026 newsletter",
+      "url": "https://simonwillison.net/2026/Jul/3/june-newsletter/#atom-everything",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-07-03T14:50:50.000Z",
+      "fetched_at": "2026-07-04T04:21:05.263Z"
+    },
+    {
+      "title": "llm-coding-agent 0.1a0",
+      "url": "https://simonwillison.net/2026/Jul/2/llm-coding-agent/#atom-everything",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-07-02T19:33:12.000Z",
+      "fetched_at": "2026-07-04T04:21:05.263Z"
+    },
+    {
+      "title": "Using DSPy to evaluate and improve Datasette Agent's SQL system prompts",
+      "url": "https://simonwillison.net/2026/Jul/2/dspy-datasette-agent-prompts/#atom-everything",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-07-02T18:25:00.000Z",
+      "fetched_at": "2026-07-04T04:21:05.263Z"
+    },
+    {
+      "title": "Understand to participate",
+      "url": "https://simonwillison.net/2026/Jul/2/understand-to-participate/#atom-everything",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-07-02T17:07:14.000Z",
+      "fetched_at": "2026-07-04T04:21:05.263Z"
+    }
+  ]
+}
