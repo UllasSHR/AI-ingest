@@ -1,9 +1,4 @@
 {
-  "https://github.com/kuberwastaken/reference": "2026-06-30",
-  "https://github.com/botcircuits-ai/botcircuits-argus": "2026-06-30",
-  "https://junueno.dev/en/retry-storm-rebilled-llm-cost/": "2026-06-30",
-  "https://github.com/joanseg/specmanager": "2026-06-30",
-  "https://home.robusta.dev/blog/you-really-shouldnt-copy-paste-errors-into-claude-code": "2026-06-30",
   "https://www.anthropic.com/news/claude-sonnet-5": "2026-07-01",
   "https://www.vincentschmalbach.com/claude-code-quietly-looks-5x-more-expensive/": "2026-07-01",
   "https://ai-policy-gen.pages.dev": "2026-07-01",
@@ -38,5 +33,9 @@
   "https://yolo-auto.com/": "2026-07-06",
   "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/": "2026-07-06",
   "https://github.com/Trystan-SA/claude-design-system-prompt": "2026-07-06",
-  "https://github.com/Priyanshu-byte-coder/contextrot": "2026-07-06"
+  "https://github.com/Priyanshu-byte-coder/contextrot": "2026-07-06",
+  "https://github.com/Latand/live-log-viewer-next": "2026-07-07",
+  "https://github.com/shofer-dev/claude-code-live-memory": "2026-07-07",
+  "https://jpthecat.com": "2026-07-07",
+  "https://news.ycombinator.com/item?id=48803415": "2026-07-07"
 }
