@@ -1,8 +1,4 @@
 {
-  "https://www.anthropic.com/news/claude-sonnet-5": "2026-07-01",
-  "https://www.vincentschmalbach.com/claude-code-quietly-looks-5x-more-expensive/": "2026-07-01",
-  "https://ai-policy-gen.pages.dev": "2026-07-01",
-  "https://github.com/Kuberwastaken/VPSmaxxing": "2026-07-01",
   "https://github.com/samchon/ttsc/tree/master/packages/graph": "2026-07-02",
   "https://news.ycombinator.com/item?id=48743419": "2026-07-02",
   "https://simonwillison.net/2026/Jun/30/claude-sonnet-5/": "2026-07-02",
@@ -37,5 +33,10 @@
   "https://github.com/Latand/live-log-viewer-next": "2026-07-07",
   "https://github.com/shofer-dev/claude-code-live-memory": "2026-07-07",
   "https://jpthecat.com": "2026-07-07",
-  "https://news.ycombinator.com/item?id=48803415": "2026-07-07"
+  "https://news.ycombinator.com/item?id=48803415": "2026-07-07",
+  "https://github.com/ulinycoin/shadow-web": "2026-07-08",
+  "https://claude.com/blog/claude-model-and-effort-level-in-claude-code": "2026-07-08",
+  "https://github.com/mazen160/backlog": "2026-07-08",
+  "https://github.com/tiliondev/fortress": "2026-07-08",
+  "https://github.com/rowboatlabs/rowboat": "2026-07-08"
 }
