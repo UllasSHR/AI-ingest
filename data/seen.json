@@ -1,8 +1,4 @@
 {
-  "https://github.com/samchon/ttsc/tree/master/packages/graph": "2026-07-02",
-  "https://news.ycombinator.com/item?id=48743419": "2026-07-02",
-  "https://simonwillison.net/2026/Jun/30/claude-sonnet-5/": "2026-07-02",
-  "https://news.ycombinator.com/item?id=48746066": "2026-07-02",
   "https://github.com/DangerousYams/muxer": "2026-07-03",
   "https://news.ycombinator.com/item?id=48762112": "2026-07-03",
   "https://github.com/ctxrs/ctx": "2026-07-03",
@@ -38,5 +34,10 @@
   "https://claude.com/blog/claude-model-and-effort-level-in-claude-code": "2026-07-08",
   "https://github.com/mazen160/backlog": "2026-07-08",
   "https://github.com/tiliondev/fortress": "2026-07-08",
-  "https://github.com/rowboatlabs/rowboat": "2026-07-08"
+  "https://github.com/rowboatlabs/rowboat": "2026-07-08",
+  "https://github.com/atelier-ws/atelier": "2026-07-09",
+  "https://github.com/Northwood-Systems/foreman": "2026-07-09",
+  "https://abralo.com/": "2026-07-09",
+  "https://zernie.com/blog/stop-writing-claude-md-rules/": "2026-07-09",
+  "https://github.com/tiliondev/fortress/tree/main/mcp": "2026-07-09"
 }
