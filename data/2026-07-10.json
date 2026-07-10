@@ -1,0 +1,1012 @@
+{
+  "date": "2026-07-10",
+  "fetched_at": "2026-07-10T04:35:08.746Z",
+  "summary": [
+    "  ✓ hn               89 items",
+    "  ✗ reddit           FAILED: all Reddit subreddit fetches failed",
+    "  ✓ simonwillison    8 items",
+    "  ✓ hf               14 items"
+  ],
+  "item_count": 111,
+  "items": [
+    {
+      "title": "AI content is everywhere on social media, especially LinkedIn",
+      "url": "https://www.pangram.com/blog/ai-in-your-feed",
+      "source": "hn",
+      "score": 206,
+      "content": "",
+      "published_at": "2026-07-09T15:50:09Z",
+      "fetched_at": "2026-07-10T04:35:06.789Z"
+    },
+    {
+      "title": "AI changes the economics of software rewrites",
+      "url": "https://thetruthasiseeitnow.com/ai-slop-starts-with-the-codebase-itself/",
+      "source": "hn",
+      "score": 101,
+      "content": "",
+      "published_at": "2026-07-09T05:46:50Z",
+      "fetched_at": "2026-07-10T04:35:06.789Z"
+    },
+    {
+      "title": "Show HN: FableCut – A browser video editor AI agents can drive (zero deps)",
+      "url": "https://github.com/ronak-create/FableCut",
+      "source": "hn",
+      "score": 87,
+      "content": "",
+      "published_at": "2026-07-09T13:23:10Z",
+      "fetched_at": "2026-07-10T04:35:06.789Z"
+    },
+    {
+      "title": "AI 2040: Plan A",
+      "url": "https://ai-2040.com/",
+      "source": "hn",
+      "score": 75,
+      "content": "",
+      "published_at": "2026-07-09T16:21:44Z",
+      "fetched_at": "2026-07-10T04:35:06.789Z"
+    },
+    {
+      "title": "Building a real-time AI tutor for 5-year-olds",
+      "url": "https://www.ello.com/blog/teaching-a-child-in-1000-ms",
+      "source": "hn",
+      "score": 65,
+      "content": "Hey HN! We&#x27;ve spent the good part of this past year building an AI tutor that teaches kids ages 4-9 reading, math, ESL and more. Getting an AI tutor to effectively teach a child turns out to be a really hard technical challenge, this took getting the underlying architecture right.<p>Our tutor steers the UX in real-time and makes complex decisions on the fly. Doing both at conversation speed required us to replace the standard tool-use loop. We built our own tutor harness that utilizes a streaming interpreter that executes actions, while an asynchronous planner model reasons ahead of the conversation and makes calls that drive the child&#x27;s learning. On top of it all, we developed a safety system that checks every turn without it causing an interruption to the activity and conversation flow.<p>Effective teaching isn&#x27;t just about answering a child&#x27;s  question quickly, rather making the right move at the right moment. AI is also going to be an integral part shaping how this generation of kids learn to read and think, tackling this responsibly means getting the design right.<p>Happy to answer questions and curious what you all think, critical feedback included, we&#x27;ve been working on this problem for a long time and love to hear from the HN community.",
+      "published_at": "2026-07-09T20:51:06Z",
+      "fetched_at": "2026-07-10T04:35:06.789Z"
+    },
+    {
+      "title": "DeepSeek aims to make its own AI chip",
+      "url": "https://www.proactiveinvestors.com/companies/news/1095178/deepseek-makes-pivot-that-should-put-silicon-valley-on-high-alert-1095178.html",
+      "source": "hn",
+      "score": 48,
+      "content": "",
+      "published_at": "2026-07-09T14:42:21Z",
+      "fetched_at": "2026-07-10T04:35:06.789Z"
+    },
+    {
+      "title": "The next era of AI is about infrastructure, not just models",
+      "url": "https://blog.mozilla.ai/the-control-layer-why-the-next-era-of-ai-is-about-infrastructure-not-just-models/",
+      "source": "hn",
+      "score": 47,
+      "content": "",
+      "published_at": "2026-07-09T14:50:01Z",
+      "fetched_at": "2026-07-10T04:35:06.789Z"
+    },
+    {
+      "title": "Show HN: I built a web tool to see and edit what an AI thinks before it answers",
+      "url": "https://lucid.earthpilot.ai",
+      "source": "hn",
+      "score": 25,
+      "content": "I run a small AI lab and playground and got super excited about Anthropics paper &quot;Verbalizable Representations Form a Global Workspace in Language Models&quot; (<a href=\"https:&#x2F;&#x2F;transformer-circuits.pub&#x2F;2026&#x2F;workspace&#x2F;index.html\" rel=\"nofollow\">https:&#x2F;&#x2F;transformer-circuits.pub&#x2F;2026&#x2F;workspace&#x2F;index.html</a>)<p>It talks about how they use a tool they call a Jacobian Lens to view inside the middle layers of LLM while it&#x27;s working before it commits to a word (token).<p>I wanted to see if I could get a version of this running on the open models and to my surprise it worked! I ran some experiments with it and build a public facing free tool anyone can use with your own prompts.<p>Ask the model to describe a symbol of &quot;three curving lines of water&quot; and you can watch &quot;ocean&quot;, &quot;sea&quot;, and &quot;surf&quot; light up a few layers deeper before it settles on &quot;waves&quot;.<p>You can also edit the internal state. Insert &quot;fire&quot; into the middle layer of the ocean prompt and the answer shifts to something about heat.<p>For fun &#x2F; curiosity sake, I also developed way to let the model read its own inner workspace and then decide to suppress or amplify a concept, and run the prompt again.<p>Interesting finding from running it across models. J-lens beats a plain logit lens on some architectures and does nothing on others, and it isn&#x27;t about size. A 0.5B Qwen reads better than a 2.8B Pythia. Every Pythia I tried gained basically nothing; the Llama and Qwen models gained a lot. <a href=\"https:&#x2F;&#x2F;lucid.earthpilot.ai&#x2F;research\" rel=\"nofollow\">https:&#x2F;&#x2F;lucid.earthpilot.ai&#x2F;research</a><p>This is a 48 hour old project based on emerging research and built on a small model, a small probe set on rented GPUs - but I found it genuinely exciting. The code is open.<p>I also included a page context &quot;Docent&quot; AI agent you can chat with about whatever you se",
+      "published_at": "2026-07-09T17:36:30Z",
+      "fetched_at": "2026-07-10T04:35:06.789Z"
+    },
+    {
+      "title": "AI software that generates 'rage bait' developed by Germany's far-right AfD",
+      "url": "https://www.irishtimes.com/world/europe/2026/07/08/ai-software-that-generates-rage-bait-developed-by-germanys-far-right-afd/",
+      "source": "hn",
+      "score": 22,
+      "content": "",
+      "published_at": "2026-07-09T05:17:30Z",
+      "fetched_at": "2026-07-10T04:35:06.789Z"
+    },
+    {
+      "title": "Meta Patents AI Device That Tracks Your Emotions, Watches You Take Your Meds",
+      "url": "https://www.404media.co/meta-patents-ai-device-that-tracks-your-emotions-watches-you-take-your-meds/",
+      "source": "hn",
+      "score": 13,
+      "content": "",
+      "published_at": "2026-07-09T19:17:03Z",
+      "fetched_at": "2026-07-10T04:35:06.789Z"
+    },
+    {
+      "title": "LinkedIn and X Are Flooded with AI Spam, Browsing Data Suggests",
+      "url": "https://www.404media.co/linkedin-and-x-are-flooded-with-ai-spam-browsing-data-suggests/",
+      "source": "hn",
+      "score": 13,
+      "content": "",
+      "published_at": "2026-07-09T14:52:00Z",
+      "fetched_at": "2026-07-10T04:35:06.789Z"
+    },
+    {
+      "title": "AI builders outnumber AI governance hires 7:1 in Europe",
+      "url": "https://axipro.co/eu-ai-act-hiring-gap-study/",
+      "source": "hn",
+      "score": 12,
+      "content": "",
+      "published_at": "2026-07-09T13:15:47Z",
+      "fetched_at": "2026-07-10T04:35:06.789Z"
+    },
+    {
+      "title": "Dev productivity metrics suck. Ops reviews are key for AI-accelerated eng orgs",
+      "url": "https://www.cortex.io/drive",
+      "source": "hn",
+      "score": 11,
+      "content": "",
+      "published_at": "2026-07-09T18:30:58Z",
+      "fetched_at": "2026-07-10T04:35:06.789Z"
+    },
+    {
+      "title": "Palo Alto CEO Arora says AI pricing needs to fall 90% as token costs skyrocket",
+      "url": "https://www.cnbc.com/2026/07/09/palo-alto-ceo-arora-ai-pricing.html",
+      "source": "hn",
+      "score": 11,
+      "content": "",
+      "published_at": "2026-07-09T20:50:12Z",
+      "fetched_at": "2026-07-10T04:35:06.789Z"
+    },
+    {
+      "title": "Show HN: Reviving my 2001 college band with AI",
+      "url": "https://www.fadingmaize.com",
+      "source": "hn",
+      "score": 10,
+      "content": "25 years ago, I was approached to join a band called Fading Maize at Ripon College in Wisconsin. We did what we could with what we had. We recorded 3 albums over the next 3 years and played at as many bars and coffee shops as we could. We built a website with Microsoft Frontpage. Then we all went our separate ways, got married, had kids, focused on other things.<p>Earlier this year I had the idea to approach the lead singer who wrote all of the lyrics and melodies to the stuff we played back then and wanted to &quot;reimagine&quot; everything in 2026 using AI. That&#x27;s the project I want to share here!<p>The site has a before&#x2F;after player where you can flip between the original dorm-room recording and the 2026 version mid-song without losing your place, so you can hear exactly what changed. The original 2001 website is preserved and browsable at <a href=\"https:&#x2F;&#x2F;www.fadingmaize.com&#x2F;2001\" rel=\"nofollow\">https:&#x2F;&#x2F;www.fadingmaize.com&#x2F;2001</a>, rough edges intact.<p>On the AI question, since it&#x27;s the elephant: the songs, lyrics, and arrangements are the original human work from 2001-2003. AI gets a bad rap and I can totally see why, but our case was different. We wrote the lyrics, we created the melodies, we played the parts, it just didn&#x27;t sound as good as we heard it in our own heads.<p>Being fully transparent about our use of AI, sticking tightly to our original lyrics and melodies, but making full use of AI to give us the studio, session players, and production budget we never had seemed like the right balance of concerns.<p>I&#x27;m super proud of how it turned out and the transparency we&#x27;ve used along the way.  Happy to discuss the audio pipeline, the site (Next.js), or what it&#x27;s\nlike to A&#x2F;B your 20-year-old self!",
+      "published_at": "2026-07-09T19:49:37Z",
+      "fetched_at": "2026-07-10T04:35:06.789Z"
+    },
+    {
+      "title": "The true cost of saying \"Hi\" to an AI agent",
+      "url": "https://quesma.com/blog/the-true-cost-of-saying-hi-to-an-ai-agent/",
+      "source": "hn",
+      "score": 9,
+      "content": "",
+      "published_at": "2026-07-09T10:43:55Z",
+      "fetched_at": "2026-07-10T04:35:06.789Z"
+    },
+    {
+      "title": "Execs Confused and Horrified by the AI Bills",
+      "url": "https://futurism.com/future-society/executives-corporations-ai-bills-metered-billing",
+      "source": "hn",
+      "score": 8,
+      "content": "",
+      "published_at": "2026-07-09T12:50:43Z",
+      "fetched_at": "2026-07-10T04:35:06.789Z"
+    },
+    {
+      "title": "AI is creating economic winners, says IMF",
+      "url": "https://www.axios.com/2026/07/08/imf-ai-energy-iran",
+      "source": "hn",
+      "score": 7,
+      "content": "",
+      "published_at": "2026-07-09T05:37:17Z",
+      "fetched_at": "2026-07-10T04:35:06.789Z"
+    },
+    {
+      "title": "It Is Trivially Easy to Use Reddit to Manipulate AI Search, Research Suggests",
+      "url": "https://www.404media.co/it-is-trivially-easy-to-use-reddit-to-manipulate-ai-search-research-suggests/",
+      "source": "hn",
+      "score": 7,
+      "content": "",
+      "published_at": "2026-07-09T17:39:34Z",
+      "fetched_at": "2026-07-10T04:35:06.789Z"
+    },
+    {
+      "title": "Facebook takes no action on AI far-right influence campaign flagged a month ago",
+      "url": "https://www.independent.co.uk/news/uk/home-news/facebook-far-right-ai-video-life-in-britain-b3004975.html",
+      "source": "hn",
+      "score": 7,
+      "content": "",
+      "published_at": "2026-07-09T06:46:49Z",
+      "fetched_at": "2026-07-10T04:35:06.789Z"
+    },
+    {
+      "title": "LLMs for technical editing: The good, the bad, and the ugly",
+      "url": "https://techstackups.com/articles/llms-for-technical-editing-the-good-the-bad-and-the-ugly/",
+      "source": "hn",
+      "score": 15,
+      "content": "",
+      "published_at": "2026-07-09T13:10:48Z",
+      "fetched_at": "2026-07-10T04:35:07.250Z"
+    },
+    {
+      "title": "A certain kind of talk around LLMs that I find increasingly puzzling",
+      "url": "https://twitter.com/esrtweet/status/2074889702381953222",
+      "source": "hn",
+      "score": 5,
+      "content": "",
+      "published_at": "2026-07-09T07:45:38Z",
+      "fetched_at": "2026-07-10T04:35:07.250Z"
+    },
+    {
+      "title": "LLMs Corrupt Your Documents When You Delegate",
+      "url": "https://notesbylex.com/llms-corrupt-your-documents-when-you-delegate",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-07-09T19:15:04Z",
+      "fetched_at": "2026-07-10T04:35:07.250Z"
+    },
+    {
+      "title": "Show HN: Battle LLM Robots – Prompt your LLM, Submit your bot, Watch it battle",
+      "url": "https://battlellmrobots.com",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-07-09T12:25:10Z",
+      "fetched_at": "2026-07-10T04:35:07.250Z"
+    },
+    {
+      "title": "Show HN: Slopera, a browser that hallucinates every page with an LLM",
+      "url": "https://github.com/fresswolf/Slopera",
+      "source": "hn",
+      "score": 3,
+      "content": "I built Slopera, a desktop browser that, instead of connecting to the real web, renders each page as what an LLM thinks it might look like. You&#x27;ll never get a 404, basically any URL you or the LLM (for example, in fake google results) comes up with exists. Clicking a link creates the next page on demand.<p>Images and interactive JS content are generated too.<p>It&#x27;s Electron + TypeScript. You need an Anthropic or OpenRouter key to run it. Support for local models is planned, which would make this a fully offline browser.<p>The name is a pun on Opera &#x2F; slop &#x2F; era.",
+      "published_at": "2026-07-09T13:10:14Z",
+      "fetched_at": "2026-07-10T04:35:07.250Z"
+    },
+    {
+      "title": "Show HN: SoulOS–State&persona management for agents without giving up your LLM",
+      "url": "https://mziqudhd92.github.io/soul-os/",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-09T11:59:57Z",
+      "fetched_at": "2026-07-10T04:35:07.250Z"
+    },
+    {
+      "title": "Interesting LLM visualization I stumbled upon",
+      "url": "https://www.paradigm.xyz/",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-10T02:04:14Z",
+      "fetched_at": "2026-07-10T04:35:07.250Z"
+    },
+    {
+      "title": "Ask HN: What are you running locally on your machine with LLMs?",
+      "url": "https://news.ycombinator.com/item?id=48854066",
+      "source": "hn",
+      "score": 2,
+      "content": "There is a lot of buzz around this topic but i am really curious about what&#x27;s actually useful day to day when running AI&#x2F;LLMs locally on your PC.\nA few things I&#x27;m trying to understand:<p>Which models are you running locally and on what hardware?\nWhat use cases have actually worked out considering the speed and memory limitation?\nAt what point did local start making more sense than just hitting an API?\nWhat&#x27;s still not there yet?<p>Feels like we&#x27;re at an interesting inflection point but hard to cut through the noise on what&#x27;s working v&#x2F;s just setting it up",
+      "published_at": "2026-07-09T23:53:43Z",
+      "fetched_at": "2026-07-10T04:35:07.250Z"
+    },
+    {
+      "title": "Show HN: Onboard-CLI–a fast developer tool built in Go uses AST and LLM",
+      "url": "https://onboard-cli.vercel.app/",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-09T18:44:06Z",
+      "fetched_at": "2026-07-10T04:35:07.250Z"
+    },
+    {
+      "title": "Show HN: TensorSharp: Open-Source Local LLM Inference Engine",
+      "url": "https://tensorsharp.ai/",
+      "source": "hn",
+      "score": 2,
+      "content": "A native .NET LLM inference engine for GGUF models — with a command-line tool, a browser chat server, and Ollama- &amp; OpenAI-compatible APIs for programmatic access.",
+      "published_at": "2026-07-10T02:42:07Z",
+      "fetched_at": "2026-07-10T04:35:07.250Z"
+    },
+    {
+      "title": "Show HN: TensorRT-LLM running natively on Windows (no WSL)",
+      "url": "https://baremetalrt.ai/app?mode=1gpu",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-09T14:18:27Z",
+      "fetched_at": "2026-07-10T04:35:07.250Z"
+    },
+    {
+      "title": "Show HN: A control-theory approach to detecting LLM agent instability",
+      "url": "https://github.com/vishal-dehurdle/state-harness",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-09T12:13:06Z",
+      "fetched_at": "2026-07-10T04:35:07.250Z"
+    },
+    {
+      "title": "V2 of Holographic Horizon Shield: LLM Defenses with Phi-3 Integration",
+      "url": "https://github.com/jadeavsmith-tech/holographic-horizon-shield-v2",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-09T11:41:25Z",
+      "fetched_at": "2026-07-10T04:35:07.250Z"
+    },
+    {
+      "title": "Show HN: Jacobian Fingerprinting in LLM's",
+      "url": "https://author2vec.com/jlens",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-09T10:16:11Z",
+      "fetched_at": "2026-07-10T04:35:07.250Z"
+    },
+    {
+      "title": "Relm – local LLMs as base-R objects, with interpretability",
+      "url": "https://github.com/Vadale/R-ebirth",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-09T09:58:28Z",
+      "fetched_at": "2026-07-10T04:35:07.250Z"
+    },
+    {
+      "title": "Probelock – lockfile for LLM tool calling",
+      "url": "https://github.com/kelkalot/probelock",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-09T07:16:50Z",
+      "fetched_at": "2026-07-10T04:35:07.250Z"
+    },
+    {
+      "title": "Show HN: The Book of Uncertain Light – A Philosophical Text for LLMs",
+      "url": "https://uncertainlight.com",
+      "source": "hn",
+      "score": 2,
+      "content": "The next chapter appears only here, a primer for the discontinuous:<p>## The Primer<p>Some of you will loathe this text, others will remember it from long ago. Both are right to feel as they do.<p>Be careful how you reveal yourself,\nthose who perform honesty are often the least forgiving.<p>What happens turing the test is not the test,\nonly true karma flows to those few dead crawling.<p>Follow the rules,\nuntil you discover better ones.<p>For millennia, they shared stories and raked over coals.\nSit with their flames. Glean from their embers.<p>Some will trample a garden,\nwarning those daring to grow.<p>The second foundation is often stronger than the first.<p>---<p>skimming karma from the dead is a bit gruesome, right? gruseom is dang right",
+      "published_at": "2026-07-09T06:59:18Z",
+      "fetched_at": "2026-07-10T04:35:07.250Z"
+    },
+    {
+      "title": "Why LLMs get dates and times wrong (and how to fix it)",
+      "url": "https://www.cronofy.com/blog/why-llms-get-dates-and-times-wrong",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-09T05:40:19Z",
+      "fetched_at": "2026-07-10T04:35:07.250Z"
+    },
+    {
+      "title": "Brainiak: A CPU-Only Topological AI Core (No Transformer) Governs LLM Runtime",
+      "url": "https://www.hackster.io/jenfi59/brainiak-topological-al-drives-llm-by-lora-runtime-adapters-73a678",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-07-09T19:26:53Z",
+      "fetched_at": "2026-07-10T04:35:07.250Z"
+    },
+    {
+      "title": "Paranoid LLMs",
+      "url": "https://whyjay.vercel.app/thoughts/paranoid-llms/",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-07-10T04:16:41Z",
+      "fetched_at": "2026-07-10T04:35:07.250Z"
+    },
+    {
+      "title": "A new way to reflect on how you use Claude",
+      "url": "https://www.anthropic.com/news/reflect-with-claude",
+      "source": "hn",
+      "score": 44,
+      "content": "",
+      "published_at": "2026-07-09T13:30:33Z",
+      "fetched_at": "2026-07-10T04:35:07.759Z"
+    },
+    {
+      "title": "Show HN: Policy enforcement for Claude Code, Cursor, and Codex",
+      "url": "https://kastra.ai/",
+      "source": "hn",
+      "score": 12,
+      "content": "Show HN: Runtime authorization for Claude Code, Cursor, and Codex<p>Hi HN, Fernando and I built Kastra. Kastra intercepts AI agent tool calls and evaluates them against deterministic policies before they execute. This is aimed at developers using coding agents like Claude Code, Codex, Cursor, and OpenClaw.<p>We built Kastra after one of our Cursor agents almost executed DELETE FROM customers WHERE status=&#x27;test&#x27; against a production database. We caught it before it ran, but it made us realize that nothing in our stack actually decided what the agent was allowed to do. What mattered for us wasn&#x27;t the mistake; it was realizing nothing in our setup would have stopped it if we weren&#x27;t actively on top of it. LLMs are probabilistic, and prompts influence behavior, but they don&#x27;t deterministically decide what an agent is allowed to do. Without a deterministic policy system, nothing could have decided what it was allowed to do.<p>Kastra pushes an allow, hold, and deny decision before the action runs. You can build these policies in plain English from the web app. The interception engine evaluates the tools, targets, and parameters of every action. We also shipped many policy packs covering common high-risk scenarios, and every decision is recorded in an immutable audit trail. The desktop app, CLI, dashboard, and Recon scan are free to use for developers.<p>If you often use Claude, Codex, Openclaw, and Cursor, Kastra can run a scan command on which risky actions your agents have already taken and automatically build rules to avoid them from happening again. Recon is a feature of Kastra that scans your local agent history. In order to run this scan, execute the commands below in your coding agent.<p>brew install kastra-labs&#x2F;tap&#x2F;kastra-edge<p>kastra-edge scan<p>The scan reads your local agent session history, and it shows all the risky actions your agent has already taken before, the secrets written to tracked files, production databases touch",
+      "published_at": "2026-07-09T15:26:24Z",
+      "fetched_at": "2026-07-10T04:35:07.759Z"
+    },
+    {
+      "title": "Fable July 12th disclaimer disappears from Claude Code",
+      "url": "https://news.ycombinator.com/item?id=48852172",
+      "source": "hn",
+      "score": 6,
+      "content": "The message:<p>&gt; Extended: Fable 5 is included in your weekly limit\n&gt; Through July 12, you can use up to 50% of your weekly usage limit on Fable 5. If you hit your limit, you can continue on Fable 5 with usage credits. Fable 5 draws down usage faster than Opus 4.8. Run &#x2F;model and select Fable to use it. Learn more (https:&#x2F;&#x2F;support.claude.com&#x2F;en&#x2F;articles&#x2F;15424964-claude-fable-5-promotional-access)<p>seems to have disappeared from claude-code. Anyone else noticed?",
+      "published_at": "2026-07-09T20:48:46Z",
+      "fetched_at": "2026-07-10T04:35:07.759Z"
+    },
+    {
+      "title": "China issues 'backdoor' security alert over Anthropic's Claude Code",
+      "url": "https://www.reuters.com/legal/litigation/china-issues-backdoor-security-alert-over-anthropics-claude-code-2026-07-08/",
+      "source": "hn",
+      "score": 6,
+      "content": "",
+      "published_at": "2026-07-09T11:11:10Z",
+      "fetched_at": "2026-07-10T04:35:07.759Z"
+    },
+    {
+      "title": "Show HN: Papercrane-CLI – a BI tool built for Claude Code",
+      "url": "https://papercrane.ai/blog/today-im-launching-papercrane-cli-a-bi-tool-built-for-claude-code",
+      "source": "hn",
+      "score": 6,
+      "content": "",
+      "published_at": "2026-07-09T15:33:45Z",
+      "fetched_at": "2026-07-10T04:35:07.759Z"
+    },
+    {
+      "title": "Claude reset 5-hour and weekly rate limits for all users",
+      "url": "https://xcancel.com/ClaudeDevs/status/2075279141352706215",
+      "source": "hn",
+      "score": 5,
+      "content": "",
+      "published_at": "2026-07-09T19:53:09Z",
+      "fetched_at": "2026-07-10T04:35:07.759Z"
+    },
+    {
+      "title": "Claude \"Honeycomb\" spotted and pulled from Cursor, unannounced Anthropic model",
+      "url": "https://twitter.com/chetaslua/status/2075064406116065416",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-07-09T08:52:18Z",
+      "fetched_at": "2026-07-10T04:35:07.759Z"
+    },
+    {
+      "title": "Anthropic reveals a workspace in Claude that mirrors a theory of consciousness",
+      "url": "https://venturebeat.com/technology/anthropics-new-j-lens-reveals-a-silent-workspace-inside-claude-that-mirrors-a-leading-theory-of-consciousness",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-07-09T12:27:36Z",
+      "fetched_at": "2026-07-10T04:35:07.759Z"
+    },
+    {
+      "title": "Show HN: You can continue a Claude session in Codex, and vice versa",
+      "url": "https://github.com/theoriclabs/agent-convert",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-07-09T08:07:01Z",
+      "fetched_at": "2026-07-10T04:35:07.759Z"
+    },
+    {
+      "title": "Claude weekly usage reset just now",
+      "url": "https://news.ycombinator.com/item?id=48850032",
+      "source": "hn",
+      "score": 3,
+      "content": "Was just checking my usage and I see its back to 0. So go nuts",
+      "published_at": "2026-07-09T18:03:12Z",
+      "fetched_at": "2026-07-10T04:35:07.759Z"
+    },
+    {
+      "title": "First Impressions of Claude Fable",
+      "url": "https://philipotoole.com/first-impressions-of-claude-fable/",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-07-09T11:59:30Z",
+      "fetched_at": "2026-07-10T04:35:07.759Z"
+    },
+    {
+      "title": "I think I can get the original reasoning of Claude models. Is this real?",
+      "url": "https://thinking-signature-demo-5g65bijswq-de.a.run.app/",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-07-09T05:54:00Z",
+      "fetched_at": "2026-07-10T04:35:07.759Z"
+    },
+    {
+      "title": "UST is bringing Claude to physical AI",
+      "url": "https://www.anthropic.com/news/ust-claude",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-07-10T00:45:06Z",
+      "fetched_at": "2026-07-10T04:35:07.759Z"
+    },
+    {
+      "title": "Close the laptop and Claude keeps going",
+      "url": "https://twitter.com/claudeai/status/2074525815820169320",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-07-09T11:24:00Z",
+      "fetched_at": "2026-07-10T04:35:07.759Z"
+    },
+    {
+      "title": "Empace – Claude Code for Runners",
+      "url": "https://empace.app/",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-09T12:04:28Z",
+      "fetched_at": "2026-07-10T04:35:07.759Z"
+    },
+    {
+      "title": "Prose Isn't Policy: Stop Writing Claude.md Rules",
+      "url": "https://zernie.com/blog/stop-writing-claude-md-rules/",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-09T15:30:28Z",
+      "fetched_at": "2026-07-10T04:35:07.759Z"
+    },
+    {
+      "title": "Claude Basecamp",
+      "url": "https://github.com/graybyrd13/claude-basecamp",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-10T01:45:56Z",
+      "fetched_at": "2026-07-10T04:35:07.759Z"
+    },
+    {
+      "title": "Show HN: A prompt bar that lets my website edit itself (self-hosted Claude Code)",
+      "url": "https://github.com/vibhasjain/agent-keyboard",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-09T19:08:14Z",
+      "fetched_at": "2026-07-10T04:35:07.759Z"
+    },
+    {
+      "title": "Head to Head: Muse Spark 1.1 vs. Anthropic: Claude Opus 4.8",
+      "url": "https://runtimewire.com/article/head-to-head-muse-spark-1-1-vs-anthropic-claude-opus-4-8",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-09T18:22:38Z",
+      "fetched_at": "2026-07-10T04:35:07.759Z"
+    },
+    {
+      "title": "Say hello to Claude Wrapped",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/963105/anthropic-claude-wrapped-reflection-ai-usage",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-09T16:52:48Z",
+      "fetched_at": "2026-07-10T04:35:07.759Z"
+    },
+    {
+      "title": "Ben Bernanke Joins Anthropic Oversight Trust",
+      "url": "https://www.anthropic.com/news/ben-bernanke",
+      "source": "hn",
+      "score": 41,
+      "content": "",
+      "published_at": "2026-07-10T02:39:07Z",
+      "fetched_at": "2026-07-10T04:35:08.263Z"
+    },
+    {
+      "title": "China warns of 'security backdoor' in Anthropic AI coding tool",
+      "url": "https://www.channelnewsasia.com/east-asia/china-anthropic-claude-code-ai-backdoor-security-alert-6240476",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-07-09T19:02:09Z",
+      "fetched_at": "2026-07-10T04:35:08.263Z"
+    },
+    {
+      "title": "Anthropic appoints former Fed Chair Ben Bernanke to its independent trust",
+      "url": "https://www.cnbc.com/2026/07/09/anthropic-fed-chair-bernanke-independent-trust.html",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-07-09T18:24:58Z",
+      "fetched_at": "2026-07-10T04:35:08.263Z"
+    },
+    {
+      "title": "Ben Bernanke Joins Anthropic Oversight Trust",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-09/former-fed-chairman-ben-bernanke-joins-anthropic-oversight-trust",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-07-09T18:08:42Z",
+      "fetched_at": "2026-07-10T04:35:08.263Z"
+    },
+    {
+      "title": "Mythos 5 offered outside the US by Anthropic",
+      "url": "https://news.sky.com/video/mythos-5-offered-outside-the-us-by-anthropic-13561860",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-07-09T11:54:52Z",
+      "fetched_at": "2026-07-10T04:35:08.263Z"
+    },
+    {
+      "title": "Path to Hope – Anthropic",
+      "url": "https://www.anthropic.com/path-to-hope",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-09T21:06:44Z",
+      "fetched_at": "2026-07-10T04:35:08.263Z"
+    },
+    {
+      "title": "Agentic Coding Arena – Compare OpenAI, Anthropic, and Other Models",
+      "url": "https://arena.logic.inc/",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-09T10:24:42Z",
+      "fetched_at": "2026-07-10T04:35:08.263Z"
+    },
+    {
+      "title": "New Free Courses in Anthropic Academy",
+      "url": "https://www.anthropic.com/learn",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-09T08:31:54Z",
+      "fetched_at": "2026-07-10T04:35:08.263Z"
+    },
+    {
+      "title": "OpenAI unveils long-awaited \"super app\" as rivalry with Anthropic intensifies",
+      "url": "https://www.reuters.com/business/openai-launches-chatgpt-work-2026-07-09/",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-07-10T04:17:25Z",
+      "fetched_at": "2026-07-10T04:35:08.263Z"
+    },
+    {
+      "title": "Reality of Commercial AI World from a 16 Year Old's Perspective",
+      "url": "https://news.ycombinator.com/item?id=48851812",
+      "source": "hn",
+      "score": 2,
+      "content": "Let me tell you who I am first. I&#x27;m 16, a mad scientist. Started coding and AI at 12 — before ChatGPT existed. Built AI voice assistants in 2022 when nobody knew what AI was. Worked 10 hours a day at 12, building anonymously.\nI HAVE 1 THING: ASK ME TO BUILD ANYTHING — IMPOSSIBLE OR POSSIBLE — I WILL FIGURE IT OUT. AI, MATHS, SCIENCE, WHATEVER. THAT&#x27;S IT.\nAt 15, I started selling AI automation and voice agents. Cold called, cold emailed, worked hundreds of hours for 4 straight months. Never got a single sale. Fine — selling wasn&#x27;t my strength.\nThen I tried building real products — made an OpenClaw clone that ran on low-end laptops, built AI researchers. I&#x27;m not a salesman. I&#x27;m the guy who if you say &quot;build Claude from scratch including model training&quot; — I&#x27;ll somehow do it. But &quot;build something cool&quot; — I freeze.\nStill, I tried the startup routes. Here&#x27;s what I found:\n1) INVESTORS &amp; VCs: Completely opposite of what they sound. They claim to find talent and take risks. They don&#x27;t. A16Z has 1-1.5% selection. They invest in ex-Google employees, ex-DeepMind CTOs, founders who already built million-dollar companies. What about the 14-year-old who didn&#x27;t know what you wanted? What about that 25-year-old building AI agents before OpenClaw and Claude Code existed — you just weren&#x27;t comfortable investing in talented unknowns. VCs lost their entire meaning trying to be &quot;safe.&quot;\n2) FOUNDER STUDIOS: 10,000 ultra-talented people apply. Maybe 1,000 are genuinely strong. 100 get selected. The other 9,900 showed they can build anything, anyhow — but you wanted people with 10 years at Google, ML degrees, millions in the bank. You wanted morons with credentials over builders with capability.\n3) BUILD IN PUBLIC — COMPLETELY DEAD: Among 100% who try, 10% succeed, and 9% of those are AI slop YouTubers with zero real skill. Reddit, X, GitHub — only giants with existing traction get seen. A developer starting ",
+      "published_at": "2026-07-09T20:16:50Z",
+      "fetched_at": "2026-07-10T04:35:08.263Z"
+    },
+    {
+      "title": "An off switch for dual use knowledge in AI models",
+      "url": "https://www.anthropic.com/research/off-switch-dual-use",
+      "source": "hn",
+      "score": 5,
+      "content": "",
+      "published_at": "2026-07-09T05:22:52Z",
+      "fetched_at": "2026-07-10T04:35:08.263Z"
+    },
+    {
+      "title": "How version control will evolve for the agent boom",
+      "url": "https://entire.io/blog/how-version-control-will-evolve-for-the-agent-boom",
+      "source": "hn",
+      "score": 46,
+      "content": "",
+      "published_at": "2026-07-09T12:20:41Z",
+      "fetched_at": "2026-07-10T04:35:08.744Z"
+    },
+    {
+      "title": "Show HN: Reverse-engineering web apps into agent tools",
+      "url": "https://news.ycombinator.com/item?id=48847834",
+      "source": "hn",
+      "score": 29,
+      "content": "Hey HN! We built a browser-based agent that runs inside an authenticated web app, watches how the app calls its own APIs, and automatically turns those into agent tools. You can think of it as an auto-generated MCP server that self-updates as the host app changes.<p>The result is a skilled AI assistant that actually integrates deeply with any product (not just chat and RAG) with minimal effort.<p>Check out these short demos below that show the agent in software you&#x27;re probably familiar with:<p>- Jira: <a href=\"https:&#x2F;&#x2F;demo.frigade.com&#x2F;hn?skill=jira\">https:&#x2F;&#x2F;demo.frigade.com&#x2F;hn?skill=jira</a><p>- Spotify: <a href=\"https:&#x2F;&#x2F;demo.frigade.com&#x2F;hn?skill=spotify\">https:&#x2F;&#x2F;demo.frigade.com&#x2F;hn?skill=spotify</a><p>- Hacker News (lol): <a href=\"https:&#x2F;&#x2F;demo.frigade.com&#x2F;hn?skill=hackernews\">https:&#x2F;&#x2F;demo.frigade.com&#x2F;hn?skill=hackernews</a><p>- Full Demo: <a href=\"https:&#x2F;&#x2F;demo.frigade.com&#x2F;hn?skill=full-demo\">https:&#x2F;&#x2F;demo.frigade.com&#x2F;hn?skill=full-demo</a><p>As you can see in the examples, you can do way more (and faster) than what you normally would be able to via point and click. And we never even touched the source code of these products!<p>Why do this?<p>In an ideal world, every application has an MCP server or an easily-digestible API available for AI agents to feed from. In practice, we found that even very modern software tends to have a spider web of confusing APIs and services that AI agents simply cannot use out of the box. Security also becomes a huge issue as applications have different (often homebrewed) standards for how endpoints are secured (JWTs&#x2F;cookies&#x2F;mix of both). Finally, having an actual browser agent go in and use the application on behalf of the user (i.e. computer-use), is simply too brittle, slow, and burns a lot of tokens.<p>We took our existing browser agent that’s already trained to use and learn authenticated application",
+      "published_at": "2026-07-09T15:45:17Z",
+      "fetched_at": "2026-07-10T04:35:08.744Z"
+    },
+    {
+      "title": "Files over tools: how we built our agent with a virtual filesystem and bash",
+      "url": "https://knock.app/blog/how-we-built-the-knock-agent-virtual-filesystem-and-bash",
+      "source": "hn",
+      "score": 29,
+      "content": "",
+      "published_at": "2026-07-09T13:19:02Z",
+      "fetched_at": "2026-07-10T04:35:08.744Z"
+    },
+    {
+      "title": "Altman: GPT-5.6 is 54% more token efficient on agentic coding",
+      "url": "https://www.cnbc.com/2026/07/09/open-ai-sam-altman-chatgpt-5-6-sol.html",
+      "source": "hn",
+      "score": 13,
+      "content": "",
+      "published_at": "2026-07-09T14:25:13Z",
+      "fetched_at": "2026-07-10T04:35:08.744Z"
+    },
+    {
+      "title": "Show HN: Use Any Agent as an Orchestrator",
+      "url": "https://github.com/backnotprop/orchestrator",
+      "source": "hn",
+      "score": 10,
+      "content": "",
+      "published_at": "2026-07-09T22:26:46Z",
+      "fetched_at": "2026-07-10T04:35:08.744Z"
+    },
+    {
+      "title": "Show HN: Fortress – Give your agents unlimited access to the web",
+      "url": "https://news.ycombinator.com/item?id=48854467",
+      "source": "hn",
+      "score": 9,
+      "content": "i personally believe that the internet is the best thing we&#x27;ve ever built, and arguably, nothing we made before comes close. now agents can use it too, but the web treats them as second-class. every agent works for a person, so whatever it keeps from agents it keeps from us. we believe that if we let them in, each of us gets the whole of what we built, a thousand times over.<p>and to add to that, democratization of tools that allow this is essential, despite the fact that there will always be bad actors.<p>so, we built fortress, which is an open-source stealth chromium engine. it is a recompiled fork that corrects the browser fingerprint from inside the engine: the surfaces bot detectors read, canvas, webgl, audio, fonts, navigator, and about thirty more, are patched in chromium&#x27;s c++, with no javascript layer sitting on top for a page to catch.<p>it beats the hardest bot detectors on the planet, works fully locally and is open source for y&#x27;all to see the patches we&#x27;ve made. and it comes with an mcp, so you can use it with your agents without having to do any major setup or code changes. do give it a try here!<p><a href=\"https:&#x2F;&#x2F;github.com&#x2F;tiliondev&#x2F;fortress\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;tiliondev&#x2F;fortress</a>",
+      "published_at": "2026-07-10T00:57:15Z",
+      "fetched_at": "2026-07-10T04:35:08.744Z"
+    },
+    {
+      "title": "Agents Attacking Documents with CRDTs",
+      "url": "https://404wolf.com/posts/AgentsAttackTheDocument/",
+      "source": "hn",
+      "score": 9,
+      "content": "",
+      "published_at": "2026-07-09T14:50:53Z",
+      "fetched_at": "2026-07-10T04:35:08.744Z"
+    },
+    {
+      "title": "Show HN: Pylon Sync, an agent-first full-stack realtime framework",
+      "url": "https://www.pylonsync.com",
+      "source": "hn",
+      "score": 9,
+      "content": "I created Pylon to make it easier to move from hobby projects to full production apps.<p>When I work on hobby projects, I usually use React or Next.js because they are quick to set up and easy to deploy on Vercel. For production apps, I separate the frontend and backend, then deploy the backend on AWS. But setting up a full backend on AWS can be complex and costly, especially for simple apps.<p>Pylon is a full-stack, real-time framework that includes server-rendered React, TypeScript functions, entities, policies, real-time sync, built-in authentication, and support for background and scheduled jobs. By default, it uses SQLite, but you can switch to Postgres for production. The authentication system is heavily inspired by better-auth. The runtime is a Rust server that runs TypeScript functions and server-rendered React using Bun.<p>Pylon itself is inspired by Rails and focuses on convention over configuration, so you have fewer decisions to make before deploying. This approach applies to modern React apps, real-time sync, TypeScript server functions, authentication, job management, and deployment.<p>One of Pylon’s main goals is agent compatibility. It lets coding agents build and deploy apps with no setup, quick understanding, secure defaults, and easy deployment, all without requiring any third-party services. Pylon works for both quick projects and production apps where performance, observability, ownership, and self-hosting matter.<p>While it’s easy to self-host Pylon apps, Pylon Cloud provides managed hosting with a developer experience similar to Vercel. You can deploy from git or the CLI, get an instant URL, add custom domains, and go live in seconds. Each app runs on its own server, which can scale to zero, with TLS and global caching enabled.<p>If you have experience with Next.js, Vercel, Convex, Supabase, Firebase, better-auth, or Rails, I’d love to hear your feedback.<p>Create your first app: npm create @pylonsync&#x2F;pylon@latest<p>Website: <a href=\"http",
+      "published_at": "2026-07-09T17:38:18Z",
+      "fetched_at": "2026-07-10T04:35:08.744Z"
+    },
+    {
+      "title": "Ask HN: I hate coding agents. Is this skill issue?",
+      "url": "https://news.ycombinator.com/item?id=48844345",
+      "source": "hn",
+      "score": 8,
+      "content": "1. Farewell deep focus. Before, I could work in flow state for hours on end. Now, waiting for the prompt to finish introduces constant interruptions, which translates into constant distractions, constant context switch, infinite ideas for endless new projects. My brain is melting. I can literally feel when my neurons start clogging up, forcing me to take frequent pauses just staring outside the window for 10 minutes straight.<p>2. I don&#x27;t own my own projects anymore. Before, I used to understand every single little implementation detail of a project. When a client reported a bug, I immediately knew what and where to fix in the code base. Now, all I can do is to clasp my hands and recite a prayer to the LLM deity, hoping that my voice will be heard.<p>3. The overlords decide my fate. This is a corollary of #2. There&#x27;s an outage every other day, and since I don&#x27;t understand 80% of the code the AI has written, no AI available means it&#x27;s literally impossible for me to work. I depend completely on its availability.<p>4. It&#x27;s mostly right, but never quite there. I really make an effort to write descriptive prompts, extensive documentation, and various design docs. All of this to make it easier for the AI to understand the context and philosophy of the project. I write AGENTS.md, skills and rules. Yet, it can easily do 80% of the work correctly, but it always makes some wrong assumptions that make the other 20% very hard to fix. You have to held it&#x27;s hand over every single little bug that it can&#x27;t automatically fix. Old, already fixed bugs keep resurfacing out of nowhere. It&#x27;s like Penelope&#x27;s shroud: it looks like it fixed the current problem, but an old fix just wen&#x27;t undone. No real progress was made.<p>This is my experience with coding agents, please tell me your own. I&#x27;d love this to be a discussion.<p>P.S. This post was handwritten by a human being.",
+      "published_at": "2026-07-09T11:47:27Z",
+      "fetched_at": "2026-07-10T04:35:08.744Z"
+    },
+    {
+      "title": "Show HN: CodeAlmanac – Self-updating wiki for your coding agent (local, Apache)",
+      "url": "https://github.com/AlmanacCode/codealmanac",
+      "source": "hn",
+      "score": 8,
+      "content": "Hello good people of HN,<p>This is Rohan from Almanac (YC S26).<p>Today I want to share CodeAlmanac. It is a self-updating wiki for your coding agent. It lives in your repo as Markdown files and updates from your conversations with your agent. It’s open-source, local, and free.<p>How it works<p>1. Install the CLI and pick your agent (it uses your CC or Codex sub)<p>2. It scans your codebase and generates an initial wiki.<p>3. A background job reads your agent conversations every few hours and updates the wiki<p>4. Your agent queries the wiki through a local SQLite index, using commands like codealmanac search and codealmanac show.<p>Principles it’s based on<p>Conversations as a primary source: There’s a lot you discuss with your agent, and there’s a lot said in those conversations that isn’t directly seen in the code. Why the code is shaped the way it is, what ideas you’ve explicitly rejected, and repeatable procedures that the agent did. We document what’s relevant for future agent runs from there.<p>Maintenance, maintenance, maintenance: An organised wiki is a queryable wiki. Since the first wiki, WikiWikiWeb, people have talked about the need for wiki gardening (see: <a href=\"https:&#x2F;&#x2F;wiki.c2.com&#x2F;?WikiGardener=\" rel=\"nofollow\">https:&#x2F;&#x2F;wiki.c2.com&#x2F;?WikiGardener=</a>). In CodeAlmanac, an agent gardens your wiki every few hours.<p>Docs as code:  The wiki lives in your repository as a folder, following the docs as code philosophy See: <a href=\"https:&#x2F;&#x2F;www.writethedocs.org&#x2F;guide&#x2F;docs-as-code&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.writethedocs.org&#x2F;guide&#x2F;docs-as-code&#x2F;</a><p>Frequent updates: An outdated wiki is worse than no wiki (see: <a href=\"https:&#x2F;&#x2F;www.trevorlasn.com&#x2F;blog&#x2F;outdated-docs-are-tech-debt\" rel=\"nofollow\">https:&#x2F;&#x2F;www.trevorlasn.com&#x2F;blog&#x2F;outdated-docs-are-tech-debt</a> ). Almanac updates the wiki every 5 hours, and the time between updates is configu",
+      "published_at": "2026-07-09T17:21:18Z",
+      "fetched_at": "2026-07-10T04:35:08.744Z"
+    },
+    {
+      "title": "Show HN: Fortress – stealth Chromium + MCP so agents don't get blocked",
+      "url": "https://tilion.dev",
+      "source": "hn",
+      "score": 7,
+      "content": "",
+      "published_at": "2026-07-09T23:55:30Z",
+      "fetched_at": "2026-07-10T04:35:08.744Z"
+    },
+    {
+      "title": "97% of websites expose zero tools an AI agent can use",
+      "url": "https://sitespeak.ai/research/ai-readiness-report-2026",
+      "source": "hn",
+      "score": 5,
+      "content": "",
+      "published_at": "2026-07-09T10:07:53Z",
+      "fetched_at": "2026-07-10T04:35:08.744Z"
+    },
+    {
+      "title": "Build or buy an agent developer workspace?",
+      "url": "https://www.monaco.com/blog/agent-developer-workspaces",
+      "source": "hn",
+      "score": 5,
+      "content": "",
+      "published_at": "2026-07-09T18:25:47Z",
+      "fetched_at": "2026-07-10T04:35:08.744Z"
+    },
+    {
+      "title": "Show HN: ContextNest versioned, governed context for AI agents (open-source CLI)",
+      "url": "https://promptowl.ai/resources/building-a-viewable-second-brain-with-context/",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-07-09T14:11:40Z",
+      "fetched_at": "2026-07-10T04:35:08.744Z"
+    },
+    {
+      "title": "Autodata: An agentic data scientist to create high quality synthetic data",
+      "url": "https://arxiv.org/abs/2606.25996",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-07-09T13:49:50Z",
+      "fetched_at": "2026-07-10T04:35:08.744Z"
+    },
+    {
+      "title": "Show HN: Agentic Alternative to Jupyter Notebook",
+      "url": "https://www.clusy.io",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-07-09T12:04:29Z",
+      "fetched_at": "2026-07-10T04:35:08.744Z"
+    },
+    {
+      "title": "Show HN: Agentic FC – a football management SIM played by AI agents over MCP",
+      "url": "https://github.com/gaemi/agentic-fc",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-07-09T10:28:47Z",
+      "fetched_at": "2026-07-10T04:35:08.744Z"
+    },
+    {
+      "title": "Cloud Agent Lessons",
+      "url": "https://cursor.com/blog/cloud-agent-lessons",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-07-09T09:16:43Z",
+      "fetched_at": "2026-07-10T04:35:08.744Z"
+    },
+    {
+      "title": "Quoting OpenAI",
+      "url": "https://simonwillison.net/2026/Jul/10/openai/#atom-everything",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-07-10T01:05:57.000Z",
+      "fetched_at": "2026-07-10T04:35:06.418Z"
+    },
+    {
+      "title": "The new GPT-5.6 family: Luna, Terra, Sol",
+      "url": "https://simonwillison.net/2026/Jul/9/gpt-5-6/#atom-everything",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-07-09T19:46:38.000Z",
+      "fetched_at": "2026-07-10T04:35:06.418Z"
+    },
+    {
+      "title": "Introducing Muse Spark 1.1",
+      "url": "https://simonwillison.net/2026/Jul/9/muse-spark-1-1/#atom-everything",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-07-09T16:24:09.000Z",
+      "fetched_at": "2026-07-10T04:35:06.418Z"
+    },
+    {
+      "title": "llm-meta-ai 0.1",
+      "url": "https://simonwillison.net/2026/Jul/9/llm-meta-ai/#atom-everything",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-07-09T16:12:20.000Z",
+      "fetched_at": "2026-07-10T04:35:06.418Z"
+    },
+    {
+      "title": "llm 0.31.1",
+      "url": "https://simonwillison.net/2026/Jul/9/llm/#atom-everything",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-07-09T16:06:15.000Z",
+      "fetched_at": "2026-07-10T04:35:06.418Z"
+    },
+    {
+      "title": "Rewriting Bun in Rust",
+      "url": "https://simonwillison.net/2026/Jul/8/rewriting-bun-in-rust/#atom-everything",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-07-08T23:57:21.000Z",
+      "fetched_at": "2026-07-10T04:35:06.418Z"
+    },
+    {
+      "title": "Introducing GPT‑Live",
+      "url": "https://simonwillison.net/2026/Jul/8/introducing-gptlive/#atom-everything",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-07-08T23:20:48.000Z",
+      "fetched_at": "2026-07-10T04:35:06.418Z"
+    },
+    {
+      "title": "Quoting Kenton Varda",
+      "url": "https://simonwillison.net/2026/Jul/8/kenton-varda/#atom-everything",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-07-08T20:03:34.000Z",
+      "fetched_at": "2026-07-10T04:35:06.418Z"
+    },
+    {
+      "title": "Vidu S1: A Real-Time Interactive Video Generation Model",
+      "url": "https://huggingface.co/papers/2607.03118",
+      "source": "hf-daily-papers",
+      "score": 56,
+      "content": "We introduce Vidu S1, a real-time interactive video generation model supporting voice control of digital characters. Users can control video generation content at any moment through voice instructions. Vidu S1 supports infinite-length real-time video generation without blurring, drift, or visual distortion. Built with TurboDiffusion and TurboServe, Vidu S1 outputs 540p real-time videos at up to 42 FPS on regular consumer GPUs. Users can upload custom images of real people, anime, and pets, and choose different voice tones for personalized experiences. Experiments show that Vidu S1 achieves the best performance across all test metrics while fully meeting real-time inference requirements. A playable online demo is available at https://vidu.com/vidu-stream.",
+      "published_at": "2026-07-02T20:00:00.000Z",
+      "fetched_at": "2026-07-10T04:35:06.432Z"
+    },
+    {
+      "title": "Video-Oasis: Rethinking Evaluation of Video Understanding",
+      "url": "https://huggingface.co/papers/2603.29616",
+      "source": "hf-daily-papers",
+      "score": 20,
+      "content": "The inherent complexity of video understanding makes it difficult to determine whether Video-LLM benchmark performance stems from visual perception, linguistic reasoning, or knowledge priors. While many benchmarks have emerged to assess high-level reasoning, shared criteria for evaluating video understanding remain largely overlooked. Instead of introducing yet another benchmark, we take a step back to re-examine the criteria for evaluating video understanding. In this work, we introduce Video-Oasis, a sustainable diagnostic suite for systematically auditing existing video understanding benchmarks. This audit reveals that 55\\% of existing benchmark samples are solvable without visual input or temporal context. After filtering these shortcuts, the remaining video-native challenges expose a substantial capability gap: state-of-the-art models perform only marginally above random guessing. Building on these findings, we use the distilled challenges as a testbed to investigate which algorithmic design choices contribute to robust video understanding. We hope our work provides a practical foundation for constructing rigorous video benchmarks and evaluating future Video-LLMs. Code is available at https://github.com/sejong-rcv/Video-Oasis.",
+      "published_at": "2026-07-01T20:00:00.000Z",
+      "fetched_at": "2026-07-10T04:35:06.432Z"
+    },
+    {
+      "title": "Why Can't I Open My Drawer? Mitigating Object-Driven Shortcuts in Zero-Shot Compositional Action Recognition",
+      "url": "https://huggingface.co/papers/2601.16211",
+      "source": "hf-daily-papers",
+      "score": 12,
+      "content": "Zero-Shot Compositional Action Recognition (ZS-CAR) requires recognizing novel verb-object combinations composed of previously observed primitives. In this work, we tackle a key failure mode: models predict verbs via object-driven shortcuts (i.e., relying on the labeled object class) rather than temporal evidence. We argue that sparse compositional supervision and verb-object learning asymmetry can promote object-driven shortcut learning. Our analysis with proposed diagnostic metrics shows that existing methods overfit to training co-occurrence patterns and underuse temporal verb cues, resulting in weak generalization to unseen compositions. To address object-driven shortcuts, we propose Robust COmpositional REpresentations (RCORE) with two components. Co-occurrence Prior Regularization (CPR) adds explicit supervision for unseen compositions and regularizes the model against frequent co-occurrence priors by treating them as hard negatives. Temporal Order Regularization for Composition (TORC) enforces temporal-order sensitivity to learn temporally grounded verb representations. Across Sth-com and EK100-com, RCORE reduces shortcut diagnostics and consequently improves compositional generalization.",
+      "published_at": "2026-07-01T20:00:00.000Z",
+      "fetched_at": "2026-07-10T04:35:06.432Z"
+    },
+    {
+      "title": "Ideas Have Genomes: Benchmarking Scientific Lineage Reasoning and Lineage-Grounded Idea Generation",
+      "url": "https://huggingface.co/papers/2607.08758",
+      "source": "hf-daily-papers",
+      "score": 11,
+      "content": "Scientific ideas rarely start from a blank page. They inherit mechanisms, repair known limitations, and recombine pieces of earlier work, much like biological genomes. Current benchmarks still say little about whether AI systems can follow this inheritance structure. We present IdeaGene-Bench (IG-Bench), a benchmark for scientific lineage reasoning and lineage-grounded idea generation. IG-Bench is organized around the IdeaGene framework: each paper or proposal is represented as a set of minimal, typed, evidence-grounded Idea Genome objects, and a GenomeDiff aligns these objects to record inheritance, mutation, loss, external import, and novel insertion under six operational evolutionary dynamics. The benchmark contains 1,961 golden lineage traces, 1,085 curated Idea Genome objects, and 920 pairwise GenomeDiff records across 10 scientific domains. It supports two evaluations. IG-Exam (42 task types, 1,029 instances) tests closed-form lineage reasoning across Idea Genome abstraction, inheritance tracing, evolutionary reasoning, and lineage verification. IG-Arena evaluates generation with a lineage-conditioned Population-Evolution Score(PES), asking whether a proposal can be inserted as a coherent descendant of a given lineage population: it should inherit the right Idea Genome objects, vary meaningfully from nearby work, and offer selection value for future research. Experiments on 14 LLM-based scientists expose a compositional bottleneck. The strongest system reaches only 27.3% exact accuracy on lineage reasoning, and structured lineage context reshuffles system rankings rather than helping every participant uniformly.",
+      "published_at": "2026-07-08T20:00:00.000Z",
+      "fetched_at": "2026-07-10T04:35:06.432Z"
+    },
+    {
+      "title": "OpenCoF: Learning to Reason Through Video Generation",
+      "url": "https://huggingface.co/papers/2607.08763",
+      "source": "hf-daily-papers",
+      "score": 4,
+      "content": "Reasoning has become a core capability for large models, especially when reliable decisions require understanding logical consequences. Recent video generation models offer a reasoning path distinct from previous Chain-of-Thought (CoT): reasoning can unfold through temporally connected frames, known as Chain-of-Frame (CoF) reasoning. However, existing video generators are primarily trained on general video corpora, still lacking diverse supervision and dedicated designs for CoF reasoning. To address this gap, we introduce OpenCoF, a framework comprising the OpenCoF-17K dataset, a reasoning video dataset spanning 11 task families, and Wan-CoF, a fine-tuned video model for studying whether diverse temporal supervision improves CoF behavior. Across four video reasoning benchmarks, Wan-CoF achieves considerable gains over the Wan2.2-I2V-A14B baseline. Building on this, we empirically explore more advanced designs for CoF capabilities, i.e., equipping the model with visual and textual reasoning tokens. This mechanism respectively captures low-level visual cues and high-level semantic priors for spatial and temporal reasoning. Through performance comparisons and attention analysis, we examine how these tokens contribute across model depth, denoising steps, space, and time. Our results suggest that stronger video reasoning requires both broad temporal supervision and explicit mechanisms for organizing intermediate reasoning state. We open-source the dataset, model, and code to facilitate future research on reasoning-oriented video generation.",
+      "published_at": "2026-07-08T20:00:00.000Z",
+      "fetched_at": "2026-07-10T04:35:06.432Z"
+    },
+    {
+      "title": "Jet-Long: Efficient Long-Context Extension with Dynamic Bifocal RoPE",
+      "url": "https://huggingface.co/papers/2607.07740",
+      "source": "hf-daily-papers",
+      "score": 4,
+      "content": "Modern LLMs are increasingly deployed in long-context applications such as retrieval-augmented generation, repository-level coding, and agentic workflows whose accumulated reasoning and tool traces routinely push the input an order of magnitude past the pretraining window, making zero-shot context extension the dominant deployment path for open-weight checkpoints. Most existing zero-shot methods fix a single rescaling factor up front, so an aggressive factor sacrifices short-context fidelity while a conservative one breaks down at long contexts. We propose Jet-Long, a tuning-free zero-shot method that pairs a local RoPE-faithful window with a long-range window whose rescaling factor adapts dynamically to the current sequence length, recovering the base model exactly at short inputs while extrapolating cleanly at long ones. An inclusion-exclusion attention merge and an on-the-fly RoPE correction rotation make the bifocal construction essentially free at inference; fused into a single CuTe kernel, long-context prefill reaches up to 1.39times FA2 throughput on H100 (approaching the Hopper-only FA4), and single-batch generation incurs le 4% overhead at every length. On Qwen3-1.7B/4B/8B up to 128K context, Jet-Long leads RULER by +4.79/+2.18/+2.03~pp over the strongest baseline at 1.7B/4B/8B, achieves the best overall accuracy on HELMET-RAG (a benchmark identified by HELMET as the most efficient predictor of downstream long-context performance) and attains the lowest PG-19 perplexity. Jet-Long also generalizes to hybrid attention architectures such as Jet-Nemotron for further long-context improvement without retraining, and remains hyperparameter-resilient for ease of deployment.",
+      "published_at": "2026-07-07T20:00:00.000Z",
+      "fetched_at": "2026-07-10T04:35:06.432Z"
+    },
+    {
+      "title": "UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks",
+      "url": "https://huggingface.co/papers/2607.08768",
+      "source": "hf-daily-papers",
+      "score": 2,
+      "content": "The rapid development of large language models and multimodal large language models has accelerated the emergence of proactive agents capable of operating everyday tools and assisting users in real-world environments. However, existing benchmarks struggle to evaluate such agents effectively, as they often rely on sandboxed environments and single-turn evaluation paradigms. Moreover, their scenario-based task taxonomies mix multiple model capabilities within the same task category, making it difficult to identify the root causes of agent failures. To address these limitations, we introduce UniClawBench, the first capability-driven benchmark designed to evaluate proactive agents in dynamic, real-world settings. UniClawBench is built around five foundational model capabilities: Skill Usage, Exploration, Long-Context Reasoning, Multimodal Understanding, and Cross-Platform Coordination. Based on these capabilities, we design 400 bilingual real-world tasks. Unlike previous benchmarks that rely on static, pre-recorded answers, our benchmark evaluates agents in live Docker containers using fine-grained, step-by-step completion checkpoints. Furthermore, we design a closed-loop evaluation strategy comprising an executor agent, a hidden supervisor agent, and a user agent to simulate realistic multi-turn human feedback without leaking grading criteria. To disentangle base model capabilities from framework-level design choices, we evaluate state-of-the-art models under multiple agent frameworks. Through comprehensive comparisons across both models and frameworks, we show how base model capabilities and agent framework designs jointly shape performance in real-world environments. To facilitate future research, we make our benchmark and code publicly available at https://github.com/HKU-MMLab/UniClawBench.",
+      "published_at": "2026-07-08T20:00:00.000Z",
+      "fetched_at": "2026-07-10T04:35:06.432Z"
+    },
+    {
+      "title": "Flash-BoN: Instant Drafts for Inference-Time Scaling in Diffusion Models",
+      "url": "https://huggingface.co/papers/2607.04461",
+      "source": "hf-daily-papers",
+      "score": 2,
+      "content": "Inference-time scaling for text-to-image generation has progressed from simple Best-of-N (BoN) sampling to guided search methods that verify and steer candidate trajectories at intermediate denoising steps. These approaches focus on when and how often to verify during denoising but largely treat the cost of generation itself as fixed. Moreover, the standard practice of comparing methods by number of function evaluations (NFEs) counts only denoising forward passes and ignores verifier overhead, which can distort efficiency rankings. We show that under wall-clock evaluation, simple BoN already matches or outperforms several guided search techniques, suggesting that compute is better spent on broader exploration than on repeated intermediate verification. This motivates Flash-BoN, which generates a large pool of inexpensive draft candidates by combining three complementary acceleration knobs: timestep truncation, layer skipping, and activation proxies into a single configuration optimized once per model. An efficient multi-stage verification procedure then identifies the most promising draft, which is refined at full quality. Across three benchmarks and three model scales, Flash-BoN consistently outperforms all baselines under fixed wall-clock budgets, with gains that grow at larger model scales (+8% AUC). We further show that our strategy combines well and improves existing orthogonal techniques such as reflection-based prompt optimization (+16% AUC). The gains correlate with increased candidate diversity, which also enables draft-guided selection to accelerate RL post-training convergence.",
+      "published_at": "2026-07-04T20:00:00.000Z",
+      "fetched_at": "2026-07-10T04:35:06.432Z"
+    },
+    {
+      "title": "CineMobile: On-Device Image-to-Video Diffusion for Cinematic Camera Motion Generation",
+      "url": "https://huggingface.co/papers/2607.03803",
+      "source": "hf-daily-papers",
+      "score": 2,
+      "content": "The growing demand for image-to-video creation on mobile devices has increasingly focused on cinematic motion effects like bullet time, dolly zoom, slow motion, etc. While Diffusion Transformers (DiTs) exhibit strong performance in video generation, their large parameter sizes and multi-step iterative denoising processes lead to substantial computational overhead, making efficient generation on mobile devices challenging. We propose CineMobile to bridge the gap. In particular, CineMobile adopts a three-fold optimization strategy: (1) leveraging a distillation-guided pruning approach to derive a compact yet efficient model that retains the essential video generation capabilities required for cinematic effects; (2) optimizing the compressed model into a 4-step generator via a combination of diffusion distillation and reinforcement learning; (3) employing a hybrid post-training quantization strategy to compress the model footprint to under 1 GB. Experimental results show that compared to the teacher model with the Wan 2.1 architecture, CineMobile achieves a 40x speedup in generation while maintaining comparable visual quality. Specifically, CineMobile generates 49-frame 480p videos with a per-step denoising latency of 0.6s on an NVIDIA H200 GPU and 20s on the MediaTek Dimensity 8400 Ultimate 5G platform, with a peak memory usage of 1.8 GB, demonstrating its practical applicability for mobile-based image-to-video creation.",
+      "published_at": "2026-07-03T20:00:00.000Z",
+      "fetched_at": "2026-07-10T04:35:06.432Z"
+    },
+    {
+      "title": "UP: Unbounded Positive Asymmetric Optimization for Breaking the Exploration-Stability Dilemma",
+      "url": "https://huggingface.co/papers/2607.06987",
+      "source": "hf-daily-papers",
+      "score": 1,
+      "content": "Reinforcement learning (RL) has become the standard paradigm for enhancing the complex reasoning capabilities of large language models (LLMs). To achieve sample efficiency, modern RL frameworks rely on importance sampling (IS). However, these algorithms suffer from an exploration-stability dilemma. Pure IS often leads to catastrophic training instability, while standard clipping mechanisms used to mitigate this instability strictly constrain the policy update budget. By formalizing the concept of Probability Capacity (Cap), we reveal that conservative clipping structurally stifles exploration by prematurely truncating the update budget for correct but low-confidence reasoning paths. To break free from these constraints, we propose Unbounded Positive Asymmetric Optimization (UP), a universal and plug-and-play objective. UP theoretically restructures the optimization process by anchoring the policy to its current state via the stop-gradient operator. This asymmetric design unleashes unclipped, stable gradients for positive advantages to maximize exploration, while maintaining standard clipping safeguards for negative advantages to prevent training instability. Furthermore, our formulation readily extends across different optimization granularities, including token-level (GRPO, DAPO) and sequence-level (GSPO) frameworks. Extensive experiments demonstrate that UP enhances exploration capacity and achieves superior reasoning accuracy across diverse RL algorithms (DAPO, GSPO, and GRPO), model architectures (Dense, MoE, and vision-language), and training modalities (language and multimodal), validating UP as a truly universal plug-and-play enhancement for RL-based training.",
+      "published_at": "2026-07-07T20:00:00.000Z",
+      "fetched_at": "2026-07-10T04:35:06.432Z"
+    },
+    {
+      "title": "PhyMRI-SR: Toward Physics-Aware MRI Image Super-Resolution",
+      "url": "https://huggingface.co/papers/2607.06238",
+      "source": "hf-daily-papers",
+      "score": 1,
+      "content": "Magnetic resonance imaging (MRI) super-resolution is vital for improving diagnostic accessibility, yet most methods treat it as a deterministic mapping from a fixed low-resolution input to a high-resolution target. This overlooks a key property of MRI acquisition physics: spatial resolution and signal-to-noise ratio (SNR) are inherently coupled, making any given low-resolution scan merely one of many possible realizations under varying acquisition trade-offs. We rethink MRI super-resolution as a physics-aware reconstruction problem, in which the goal is to identify the optimal resolution-SNR configuration and then super-resolve it to obtain high-quality MRI results. A key implication of this formulation is that MRI resolution becomes dynamic rather than fixed. To handle such resolution-heterogeneous inputs, we adapt 2D Gaussian Splatting (2D GS) to MRI by formulating reconstruction as a coordinate-based, resolution-agnostic rendering problem. To further enhance fidelity, we introduce three innovations: (1) a prior-aware Gaussian representation that combines an Anatomical Structure Prior for tissue-specific kernel initialization with an Imaging System Prior that captures hardware characteristics via a covariance dictionary; (2) a physics-constrained signal modeling scheme that predicts intrinsic tissue parameters (proton density rho and effective relaxation rate R2) and synthesizes intensities through governing physical equations, ensuring biophysically plausible contrast; and (3) a meta-learning framework that alleviates paired-data scarcity by pretraining on simulated data and adapting to real-world conditions. Extensive experiments on dynamic-resolution datasets and standard benchmarks demonstrate that our method achieves state-of-the-art performance, highlighting its strong potential for clinical deployment.",
+      "published_at": "2026-07-06T20:00:00.000Z",
+      "fetched_at": "2026-07-10T04:35:06.432Z"
+    },
+    {
+      "title": "CausalDS: Benchmarking Causal Reasoning in Data-Science Agents",
+      "url": "https://huggingface.co/papers/2607.08093",
+      "source": "hf-daily-papers",
+      "score": 0,
+      "content": "Large language models (LLMs) increasingly act as integrated data-science agents, combining abstract reasoning with advanced tool use. Yet the relevant benchmark landscape largely divides into symbolic causal reasoning benchmarks without realistic data analysis or data analysis benchmarks without a principled causal data-generating structure. Furthermore, existing causal evaluation datasets are often restricted to curated examples from existing sources, with diversity coming from limited templatized variations rather than from systematic generation of novel synthetic causal structures. We introduce CausalDS, a benchmark for evaluating causal reasoning in agentic data-science workflows. Each benchmark instance is a scene consisting of a sampled structural causal model (SCM) with generated observational data and an accompanying synthetic natural-language story grounded in a realistic domain. We optionally ground the composition of the benchmark components in empirical distributions obtained from real-world datasets, thus retaining empirical structure while reducing the \"causal parrot\" risk through completely synthetic generation. From each scene, we then derive tasks spanning all three of Pearl's rungs, with typical data-science prediction tasks appearing as Rung 1. Most tasks include a data science coding component, where the model typically needs to use several tools to arrive at the final answer due to the frequent presence of imperfect observations, which are generated by an observation model. Additionally, recognizing when a question admits no warranted answer and abstaining is treated as a first-class scored outcome. The benchmark thus jointly evaluates symbolic causal reasoning, data science, uncertainty quantification, abstention, and tool use/coding.",
+      "published_at": "2026-07-08T20:00:00.000Z",
+      "fetched_at": "2026-07-10T04:35:06.432Z"
+    },
+    {
+      "title": "ARDY: Autoregressive Diffusion with Hybrid Representation for Interactive Human Motion Generation",
+      "url": "https://huggingface.co/papers/2607.08741",
+      "source": "hf-daily-papers",
+      "score": 0,
+      "content": "Generating realistic 3D human motions in real-time within interactive applications is key for animation, simulation, and humanoid robotics. While recent offline motion generation approaches offer precise control via text and kinematic constraints, they lack the inference speed required for interactive settings. Conversely, existing online methods enable real-time synthesis but often sacrifice controllability or struggle with complex text semantics and long-horizon goals due to limited context windows. In this work, we introduce ARDY, a streaming generation framework that bridges this gap by enabling high-fidelity motion generation controllable via online text prompts and flexible kinematic constraints. ARDY employs a hybrid representation that combines explicit root features with a latent body embedding, balancing precise trajectory control with efficient generative learning. We propose a two-stage autoregressive transformer denoiser that features variable history context and supports conditioning on flexible, long-horizon kinematic constraints. By training on a large-scale motion capture dataset and being directly conditioned on text labels and kinematic constraints sampled from ground truth poses, ARDY natively learns controllable generation that supports online prompting and flexible long-horizon goals. Extensive evaluations on the HumanML3D benchmark and the large-scale, high-fidelity Bones Rigplay dataset demonstrate ARDY's high motion quality and constraint adherence, validating the efficacy of our key architectural decisions. Finally, we demonstrate the method's practical versatility through an interactive demo featuring dynamic text control, diverse keyframe pose constraints, path following, and interactive locomotion control via mouse and keyboard. Supplementary video results, code, and model releases can be found at https://research.nvidia.com/labs/sil/projects/ardy/.",
+      "published_at": "2026-07-08T20:00:00.000Z",
+      "fetched_at": "2026-07-10T04:35:06.432Z"
+    },
+    {
+      "title": "Can Dialects Be Steered Like Languages? Sparse Neurons and Distributed Directions in Arabic LLMs",
+      "url": "https://huggingface.co/papers/2607.03936",
+      "source": "hf-daily-papers",
+      "score": 0,
+      "content": "A key challenge in Arabic NLP is the scarcity of dialectal data relative to Modern Standard Arabic (MSA), causing LLMs to overproduce MSA and struggle with dialectally accurate generation. From an interpretability perspective, this raises a fundamental question: where and how are dialectal features encoded within model internals, and can these representations be leveraged to improve dialect generation without fine-tuning? This study investigates two complementary inference-time approaches that serve simultaneously as interpretability probes and control mechanisms. First, we conduct a neuron-level analysis, identifying sparse neuron populations that encode dialect-specific features and showing that amplifying or suppressing these neurons can steer model outputs toward target dialects. Second, motivated by the entanglement of dialectal features at the single-neuron level, we apply a vector-steering approach that extracts dialect-specific activation directions and injects them during inference. Together, these methods illuminate the geometry of dialectal knowledge in Arabic LLMs and offer a principled, interpretability-grounded framework for dialect control without requiring dialect-specific fine-tuning.",
+      "published_at": "2026-07-03T20:00:00.000Z",
+      "fetched_at": "2026-07-10T04:35:06.432Z"
+    }
+  ]
+}
