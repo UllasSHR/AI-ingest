@@ -1,0 +1,796 @@
+{
+  "date": "2026-07-11",
+  "fetched_at": "2026-07-11T03:53:51.226Z",
+  "summary": [
+    "  ✓ hn               81 items",
+    "  ✗ reddit           FAILED: all Reddit subreddit fetches failed",
+    "  ✓ simonwillison    6 items",
+    "  ✓ hf               0 items"
+  ],
+  "item_count": 87,
+  "items": [
+    {
+      "title": "AI-generated videos to maximally drive a target brain region",
+      "url": "https://nevo-project.epfl.ch/",
+      "source": "hn",
+      "score": 269,
+      "content": "",
+      "published_at": "2026-07-10T07:39:11Z",
+      "fetched_at": "2026-07-11T03:53:48.744Z"
+    },
+    {
+      "title": "How the terrorist group Boko Haram uses frontier AI",
+      "url": "https://casp.ac/reports/ai-enabled-terrorism",
+      "source": "hn",
+      "score": 192,
+      "content": "",
+      "published_at": "2026-07-10T18:49:26Z",
+      "fetched_at": "2026-07-11T03:53:48.744Z"
+    },
+    {
+      "title": "Hands-On with the AMD Ryzen AI Halo",
+      "url": "https://www.microcenter.com/site/mc-news/article/amd-ryzen-ai-halo-review.aspx",
+      "source": "hn",
+      "score": 42,
+      "content": "",
+      "published_at": "2026-07-10T16:06:38Z",
+      "fetched_at": "2026-07-11T03:53:48.744Z"
+    },
+    {
+      "title": "China may restrict foreign access to Chinese open-source AI models",
+      "url": "https://www.reuters.com/technology/artificial-intelligence/china-weighs-silicon-curtain-around-sought-after-ai-models-2026-07-08/",
+      "source": "hn",
+      "score": 37,
+      "content": "",
+      "published_at": "2026-07-10T06:22:06Z",
+      "fetched_at": "2026-07-11T03:53:48.745Z"
+    },
+    {
+      "title": "Ask HN: How do you use Vim in the era of AI?",
+      "url": "https://news.ycombinator.com/item?id=48859439",
+      "source": "hn",
+      "score": 35,
+      "content": "I&#x27;m a heavy vim user, but now that I look at the code less and less I&#x27;m wondering if it still makes sense.",
+      "published_at": "2026-07-10T13:11:30Z",
+      "fetched_at": "2026-07-11T03:53:48.745Z"
+    },
+    {
+      "title": "Meta pulls new AI image feature after days of backlash",
+      "url": "https://www.bbc.com/news/articles/c2dy6e8klw0o",
+      "source": "hn",
+      "score": 31,
+      "content": "",
+      "published_at": "2026-07-11T00:40:36Z",
+      "fetched_at": "2026-07-11T03:53:48.745Z"
+    },
+    {
+      "title": "Guy is banned by OpenAI for cyber abuse, his AI appeals, another AI approves it",
+      "url": "https://twitter.com/endpointarena/status/2075245286339846145",
+      "source": "hn",
+      "score": 28,
+      "content": "",
+      "published_at": "2026-07-10T19:50:27Z",
+      "fetched_at": "2026-07-11T03:53:48.745Z"
+    },
+    {
+      "title": "AI doesn't know how to forgive and cannot forget",
+      "url": "https://tejassuds.com/blog/ai-cannot-forget",
+      "source": "hn",
+      "score": 21,
+      "content": "",
+      "published_at": "2026-07-10T12:37:40Z",
+      "fetched_at": "2026-07-11T03:53:48.745Z"
+    },
+    {
+      "title": "AI Cameras on Garbage Trucks to Scan Properties for Code Violations",
+      "url": "https://www.gadgetreview.com/cape-coral-eyes-ai-cameras-on-garbage-trucks-to-scan-properties-for-code-violations",
+      "source": "hn",
+      "score": 18,
+      "content": "",
+      "published_at": "2026-07-10T15:09:40Z",
+      "fetched_at": "2026-07-11T03:53:48.745Z"
+    },
+    {
+      "title": "Apple accuses OpenAI of using stolen trade secrets to create its AI gadgets",
+      "url": "https://www.cnn.com/2026/07/10/tech/apple-openai-devices-lawsuit",
+      "source": "hn",
+      "score": 18,
+      "content": "",
+      "published_at": "2026-07-10T21:04:56Z",
+      "fetched_at": "2026-07-11T03:53:48.745Z"
+    },
+    {
+      "title": "China's Open AI Models Are Advancing Its Global Soft Power",
+      "url": "https://www.noemamag.com/chinas-open-ai-models-are-advancing-its-global-soft-power/",
+      "source": "hn",
+      "score": 16,
+      "content": "",
+      "published_at": "2026-07-10T21:45:16Z",
+      "fetched_at": "2026-07-11T03:53:48.745Z"
+    },
+    {
+      "title": "Man nearly sucked out of window mid-air on Ryanair plane",
+      "url": "https://www.bbc.co.uk/news/articles/cgk65knkyzdo",
+      "source": "hn",
+      "score": 15,
+      "content": "",
+      "published_at": "2026-07-10T12:50:42Z",
+      "fetched_at": "2026-07-11T03:53:48.745Z"
+    },
+    {
+      "title": "Turn off this Meta setting before someone generates AI images of you",
+      "url": "https://www.malwarebytes.com/blog/ai/2026/07/turn-off-this-meta-setting-before-someone-generates-ai-images-of-you",
+      "source": "hn",
+      "score": 15,
+      "content": "",
+      "published_at": "2026-07-10T05:54:13Z",
+      "fetched_at": "2026-07-11T03:53:48.745Z"
+    },
+    {
+      "title": "Eight facts about air conditioning amid an overheated global debate",
+      "url": "https://www.carbonbrief.org/eight-facts-about-air-conditioning-amid-an-overheated-global-debate/",
+      "source": "hn",
+      "score": 11,
+      "content": "",
+      "published_at": "2026-07-10T16:50:40Z",
+      "fetched_at": "2026-07-11T03:53:48.745Z"
+    },
+    {
+      "title": "Choosing the Right AI Agent Memory Strategy: A Decision-Tree Approach",
+      "url": "https://machinelearningmastery.com/choosing-the-right-ai-agent-memory-strategy-a-decision-tree-approach/",
+      "source": "hn",
+      "score": 11,
+      "content": "",
+      "published_at": "2026-07-11T00:43:39Z",
+      "fetched_at": "2026-07-11T03:53:48.745Z"
+    },
+    {
+      "title": "Christopher Nolan says younger audiences are utterly rejecting AI-generated slop",
+      "url": "https://twitter.com/DiscussingFilm/status/2075611671243194588",
+      "source": "hn",
+      "score": 9,
+      "content": "",
+      "published_at": "2026-07-10T18:06:39Z",
+      "fetched_at": "2026-07-11T03:53:48.745Z"
+    },
+    {
+      "title": "A staggering class divide now separates how Americans experience AI",
+      "url": "https://www.axios.com/2026/07/10/ai-class-divide-fable-sol-mythos",
+      "source": "hn",
+      "score": 9,
+      "content": "",
+      "published_at": "2026-07-10T11:34:24Z",
+      "fetched_at": "2026-07-11T03:53:48.745Z"
+    },
+    {
+      "title": "Is an air-conditioning revolution coming to Europe?",
+      "url": "https://arstechnica.com/science/2026/07/is-an-air-conditioning-revolution-coming-to-europe/",
+      "source": "hn",
+      "score": 9,
+      "content": "",
+      "published_at": "2026-07-10T15:19:04Z",
+      "fetched_at": "2026-07-11T03:53:48.745Z"
+    },
+    {
+      "title": "Older adults know AI is slop. They just like it",
+      "url": "https://restofworld.org/2026/china-seniors-ai-slop/",
+      "source": "hn",
+      "score": 9,
+      "content": "",
+      "published_at": "2026-07-10T13:41:20Z",
+      "fetched_at": "2026-07-11T03:53:48.745Z"
+    },
+    {
+      "title": "One Wikipedia page costs your AI agent 68,000 tokens",
+      "url": "https://news.ycombinator.com/item?id=48867021",
+      "source": "hn",
+      "score": 8,
+      "content": "i use claude code daily and measured what pages cost it while doing research. an average wikipedia article, for instance, is 68,240 tokens of raw html (tiktoken); nike&#x27;s homepage is 353,000.<p>claude code&#x27;s built-in webfetch handles the easy case well. it summarizes wikipedia to about 950 tokens and clears cloudflare on some sites like indeed and ticketmaster.\nbut, and there&#x27;s always a but, on js-rendered and some anti-bot pages it returns nothing.<p>quotes.toscrape.com&#x2F;js gives &quot;no quotes found&quot;; nike.com gives a 403. your agent then dumps the raw html back into context and still fails. (note: i have also had cases where i read through the chat at the end and saw that it failed and just pulled from either training data or stale caches from other sources)<p>so i worked on building an open-source stealth browser (recompiled chromium) that runs as an mcp for claude code, cursor, and claude desktop. essentially all i have to change form my end is add the mcp, and it returns the cleaned up tokens while also beating detection: the js quotes come back in 285 tokens, nike in about 700 instead of a 403.<p>there is still stuff i am actively working on: there&#x27;s no residential egress yet, and it won&#x27;t beat kasada-style walls. it&#x27;s for agents, qa, and research.<p>repo and the reproducible benchmark: https:&#x2F;&#x2F;github.com&#x2F;tiliondev&#x2F;fortress&#x2F;tree&#x2F;main&#x2F;mcp\ni&#x27;m the author and here for feedback.",
+      "published_at": "2026-07-11T00:12:26Z",
+      "fetched_at": "2026-07-11T03:53:48.745Z"
+    },
+    {
+      "title": "Ask HN: Do we need a support group for developers alienated by LLMs?",
+      "url": "https://news.ycombinator.com/item?id=48857085",
+      "source": "hn",
+      "score": 28,
+      "content": "Surely I must not be the only one developer that doesn&#x27;t recognize this field any more, and would rather do anything else than become a glorified code reviewer for machine generated code.<p>Seeing my career crumble in front of my eyes, seeing my identity as software engineer questioned in the span of a few years has been, to me, traumatic, and utterly alienating because non-tech people are not unaware of how world-shattering this technology is to our niche, and many of our fellow peers either collectively shrug, or are ecstatic not to have to write code any more.<p>I have been trying to reinvent myself, to set out on a path where I&#x27;m no longer a professional software engineer; where I will still enjoy coding software for myself, by hand, but the emotional turmoil at this radical change has not lessened, and I have been wondering if other people are feeling the same kind of alienation, and just feel lost and a bit aimless these days.<p>(Please, this is meant to be a serious post about emotions some of us might be going through, and we could do without comments saying this is just an overreaction and to just embrace the future)",
+      "published_at": "2026-07-10T08:00:24Z",
+      "fetched_at": "2026-07-11T03:53:49.248Z"
+    },
+    {
+      "title": "Truth is not a direction: a Tarski attack on LLM probes",
+      "url": "https://abeljansma.nl/2026/07/10/truth-is-not-a-direction.html",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-07-10T14:57:28Z",
+      "fetched_at": "2026-07-11T03:53:49.248Z"
+    },
+    {
+      "title": "Building intuition about LLM parameter counts",
+      "url": "https://www.gilesthomas.com/2026/07/llm-parameter-counts",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-10T20:37:13Z",
+      "fetched_at": "2026-07-11T03:53:49.248Z"
+    },
+    {
+      "title": "LLMs are bad at novelty, but that is our chance to Singularity",
+      "url": "https://news.ycombinator.com/item?id=48858598",
+      "source": "hn",
+      "score": 1,
+      "content": "There is possibility that AI can automate all there can be automated. But still one area where it is notoriously bad is creation of novel things. What Schopenhauer called genius or ability to have new insights&#x2F;discoveries that were not implicitly present in books.<p>&gt; &quot;In most books, putting out of account those that are thoroughly bad, the author, when their content is not altogether empirical, has certainly thought but not perceived; he has written from reflection, not from intuition, and it is this that makes them commonplace and tedious. For what the author has thought could always have been thought by the reader also, if he had taken the same trouble; indeed it consists simply of intelligent thought, full exposition of what is implicite contained in the theme. But no actually new knowledge comes in this way into the world; this is only created in the moment of perception, of direct comprehension of a new.&quot; - Arthur Schopenhauer<p>I can envision a future where people are freed from doing repeatable jobs and 99% are shifted into enterprises of creating something new.<p>- New life saving medicine\n- New life extension medicine\n- New art work\n- New novel\n- New product on the market\n- New engineering breakthrough\n- New scientific knowledge<p>Event though today only miniscule percentage of people are working in those kind of jobs it will very fast become dominant industry. Because that is the only loophole in LLMs that can not be fixed but is highly valuable and people with money will be ready to pay obscene amounts of money to extend their life. Who knows maybe there will be whole new big companies with sole purpose of trying to extend the life of Elon Musk or Jeff Bezos.<p>&gt; I work for Musk foundation and my job is to extend the life of Elon Musk - anonymous employee<p>Jokes aside, imagine the gigantic potential we can unlock if we transfer billions of people on a quest to unlock novelty. For millions of years people were working on repeatable j",
+      "published_at": "2026-07-10T11:43:07Z",
+      "fetched_at": "2026-07-11T03:53:49.248Z"
+    },
+    {
+      "title": "Agentic test processes, LLM benchmarks, notes on agentic coding from Galapagos",
+      "url": "https://danluu.com/ai-coding/",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-07-10T21:01:28Z",
+      "fetched_at": "2026-07-11T03:53:49.248Z"
+    },
+    {
+      "title": "Show HN: Local Motion – Use Cursor Agents and Chat with a Local LLM",
+      "url": "https://github.com/mattmireles/local-motion",
+      "source": "hn",
+      "score": 1,
+      "content": "Using a local LLM for coding agents is complicated, so I built a Cursor + VS Code plugin that makes it easy.<p>It automatically profiles your machine, picks a model that works for your machine, then runs a local server, sets up a Cloudflare Quick Tunnel and walks you through connecting it to Cursor.<p>In the end, you work like you normally do in Cursor and just choose &quot;Local Motion&quot; as your model in the model picker dropdown.",
+      "published_at": "2026-07-10T18:50:24Z",
+      "fetched_at": "2026-07-11T03:53:49.248Z"
+    },
+    {
+      "title": "Generalizing LLMs to PLTs: Probabilistic Language Tries",
+      "url": "https://arxiv.org/abs/2604.06228",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-07-10T16:07:47Z",
+      "fetched_at": "2026-07-11T03:53:49.248Z"
+    },
+    {
+      "title": "I made an LLM think in latent space. The model never read a single thought",
+      "url": "https://github.com/Oli-26/LatentReasoningNoDecode/blob/main/BLOG.md",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-07-10T15:50:34Z",
+      "fetched_at": "2026-07-11T03:53:49.248Z"
+    },
+    {
+      "title": "Show HN: Token Governor – The cheapest LLM token is the one you never send",
+      "url": "https://github.com/shipitamit/llm-token-governor",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-07-10T15:35:55Z",
+      "fetched_at": "2026-07-11T03:53:49.248Z"
+    },
+    {
+      "title": "Crawl4AI: Open-source web crawler and scraper for LLMs",
+      "url": "https://github.com/unclecode/crawl4ai",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-07-10T07:51:37Z",
+      "fetched_at": "2026-07-11T03:53:49.248Z"
+    },
+    {
+      "title": "Why LLMs get dates and times wrong (and how to fix it)",
+      "url": "https://www.cronofy.com/blog/why-llms-get-dates-and-times-wrong",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-07-10T06:51:01Z",
+      "fetched_at": "2026-07-11T03:53:49.248Z"
+    },
+    {
+      "title": "Ask HN: Recommend a Local LLM Setup (M2 Max, 9GB)",
+      "url": "https://news.ycombinator.com/item?id=48855960",
+      "source": "hn",
+      "score": 1,
+      "content": "I’m going out to sea for a week and was wondering what people might recommend for a local LLM setup?<p>I have a MacBook Pro M2 Max with 96GB (12‑core CPU, 38‑core GPU, 16‑core NE)<p>I’m hoping to redesign and rebuild our very customized Shopify store on a new base template, cleanup all the meta-information for all our SKUs, and create a utility script or desktop app to streamline our photography workflow.<p>Also, please recommend useful resources to further my own education on this front. TIA.",
+      "published_at": "2026-07-10T05:11:14Z",
+      "fetched_at": "2026-07-11T03:53:49.248Z"
+    },
+    {
+      "title": "Paranoid LLMs",
+      "url": "https://whyjay.vercel.app/thoughts/paranoid-llms/",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-07-10T04:16:41Z",
+      "fetched_at": "2026-07-11T03:53:49.248Z"
+    },
+    {
+      "title": "Ask HN: Burned Tokens scented candle ideas",
+      "url": "https://news.ycombinator.com/item?id=48859873",
+      "source": "hn",
+      "score": 4,
+      "content": "The other day my relative, who is a data engineer, floated the idea of a scented candle that would smell like burned LLM tokens. His birthday is coming up, so I was thinking of turning this into reality.<p>Problem is, neither me nor my immediate social circle have a good idea which scents would best convey this, so I figured I would reach out here.<p>Some initial propositions include:<p>-Burned toast<p>-Diesel fuel<p>-Gold (no discernible scent though)<p>-Fresh water<p>-Rainforest (that&#x27;s being destroyed?)",
+      "published_at": "2026-07-10T13:47:16Z",
+      "fetched_at": "2026-07-11T03:53:49.248Z"
+    },
+    {
+      "title": "Ask HN: Do you still trace new codebases manually?",
+      "url": "https://news.ycombinator.com/item?id=48861113",
+      "source": "hn",
+      "score": 2,
+      "content": "How do you navigate an unknown codebase before making a change?<p>When you drop into a large, unfamiliar repository, what is your process for understanding what components play a role and how?<p>Do you rely on specific tools, mental mapping techniques, or do you just start dropping breakpoints and print statements? I&#x27;d love to hear about your workflow for building a mental model of a new system.<p>I usually ask an LLM to map out a feature and give me a tour, but they are very bids eye view and I want to know things down to the detail, so I find the entry point and follow calls through the IDE, jump between definitions, search for usages, etc. I try to build the execution flow in my head but end up a bit overwhelmed if there are too many layers. Also asking LLMs is a bit cumbersome because I have to reference what I’m talking about, they give me a 10 paragraph answer and by paragraph 2 I already have a follow up question, so it’s a bit messy.<p>Are there any tools for this?",
+      "published_at": "2026-07-10T15:16:48Z",
+      "fetched_at": "2026-07-11T03:53:49.248Z"
+    },
+    {
+      "title": "Show HN: chwire – Native-Format ClickHouse JavaScript Client over HTTP/TCP",
+      "url": "https://github.com/maxjustus/chwire",
+      "source": "hn",
+      "score": 2,
+      "content": "chwire is a ClickHouse client for JS that speaks the Native (columnar binary) format over HTTP and TCP. For 1M-row payloads, encoding is mostly 2–6x faster than JSONEachRow and decoding 2–8x faster. Once you add compression Native almost always wins, since the smaller payload is cheaper to compress.<p>I’ve been working on this project for the last year for use at <a href=\"https:&#x2F;&#x2F;www.hockeystack.com&#x2F;\">https:&#x2F;&#x2F;www.hockeystack.com&#x2F;</a>.\nIt started out of frustration with how CPU-heavy gzip&#x2F;deflate are in the official ClickHouse JS client once you start scaling up inserts. From there it evolved into a completionist desire to make the best ClickHouse client implementation I possibly could.<p>Highlights:<p>* ZSTD&#x2F;LZ4 support in browsers over HTTP and in Node&#x2F;Bun&#x2F;Deno over HTTP or TCP<p>* An aggressively fuzzed Native-format implementation<p><pre><code>  * Supports all types + container types at arbitrary levels of nesting, including Variant, Dynamic, JSON, Nested, and Tuple\n\n  * CI round-trips ClickHouse’s own generateRandom and generateRandomStructure and I’ve got a separate fuzzing implementation which includes JSON, Variant and Dynamic\n\n  * The parser is synchronous and resumable internally. The async wrapper buffers blocks and fetches more data whenever there isn’t enough available to parse a column.\n</code></pre>\n* A fully functional TCP client for Node&#x2F;Bun&#x2F;Deno<p><pre><code>  * Supports ProfileEvents, logs, progress, and the other protocol packet types\n</code></pre>\n* Supports external tables (<a href=\"https:&#x2F;&#x2F;clickhouse.com&#x2F;docs&#x2F;engines&#x2F;table-engines&#x2F;special&#x2F;external-data\" rel=\"nofollow\">https:&#x2F;&#x2F;clickhouse.com&#x2F;docs&#x2F;engines&#x2F;table-engines&#x2F;special&#x2F;ex...</a>)<p>* Supports native query params (<a href=\"https:&#x2F;&#x2F;clickhouse.com&#x2F;docs&#x2F;sql-reference&#x2F;syntax#defining-and-using-query-parameters\" rel=\"nofollow\">https:&#x2F;&#x",
+      "published_at": "2026-07-10T19:51:27Z",
+      "fetched_at": "2026-07-11T03:53:49.248Z"
+    },
+    {
+      "title": "Show HN: 9lives – Self-healing test runner that refuses to mask real bugs",
+      "url": "https://github.com/Quality-Max/9lives",
+      "source": "hn",
+      "score": 2,
+      "content": "I built 9lives because coding agents kept breaking my Playwright tests in the dumbest way: rename a button, the test goes red, and the agent — or I — rewrites a perfectly good test.<p>9l heal login.spec.ts runs the test, classifies the failure, and heals it in tiers:<p>Tier 1 is offline and deterministic. When a selector stops matching, 9lives re-finds the element in the page snapshot Playwright captures at failure (data-testid &gt; id &gt; aria-label &gt; text &gt; class — the most stable surviving anchor wins) and rewrites the locator. No LLM, no network, no account. Most selector drift heals in seconds, for free. Unlike Healenium-style tools, it needs no baseline DOM from previous green runs — it works from the failure itself.<p>Tier 2 uses the subscription you already pay for. For structural changes it shells out to your installed claude &#x2F; codex &#x2F; opencode CLI in headless mode, so the fix rides your existing coding-agent plan. No new API key to mint. (Raw ANTHROPIC_API_KEY &#x2F; OPENAI_API_KEY work too.)<p>Everything lands as a unified diff you approve (or --yes in CI).<p>The design decision I care most about: it refuses to heal failing assertions. A failing assertion means behavior changed — possibly a real bug — and auto-rewriting it to force green is exactly how “self-healing” tools mask regressions. 9lives flags those needs-human and stops. Selector drift gets healed; behavior changes get surfaced.<p>Also in the box: Cypress and Selenium&#x2F;pytest support (same loop, auto-detected); 9l mcp, a zero-dependency MCP server so Claude Code &#x2F; Cursor can call heal_test when they break a test mid-session; 9l watch (heal on save) and a pre-commit hook; a GitHub Action that posts the heal diff on PRs; and 9l report, which reads the local heal history and tells you which selectors keep rotting and what to pin instead.<p>MIT, Python, no account, no telemetry, ~2.5k lines you can read in a sitting. The README demo is fully offline and reproducible. Insta",
+      "published_at": "2026-07-10T18:01:00Z",
+      "fetched_at": "2026-07-11T03:53:49.248Z"
+    },
+    {
+      "title": "Show HN: Vuci – make the spoken word searchable",
+      "url": "https://vuci.ai/feed/",
+      "source": "hn",
+      "score": 2,
+      "content": "hi, I&#x27;m Reuben  Over the past few months I&#x27;ve been building a platform where all the information is sourced from spoken conversations, and I wanted to make this content searchable, savable, and shareable. Presented in a well-designed format, similar to Yahoo but with higher IQ content.<p>Like most, I listen to a lot of podcasts, but I wanted to connect the dots on different topics and read the parts which are interesting more deeply. Sharing bits and pieces with friends was also a motivating factor, as well as alerts which feed into my other pipelines.<p>That said, I&#x27;m not sure which parts of the platform will resonate with users or not, so it&#x27;s an experiment in progress.<p>Technicals: I love my craft (both design, and code), so I took ample time to think about UX and design it in Figma. It&#x27;s cookiecut from ample projects I have in Django and HTMX, and scaffolded my way through. Hosted on Digitalocean, and AI agnostic from an LLM perspective. I can go deeper into these, but they probably deserve their own posts. Hope you like!",
+      "published_at": "2026-07-10T09:10:11Z",
+      "fetched_at": "2026-07-11T03:53:49.248Z"
+    },
+    {
+      "title": "Memory is needed for more than just weights",
+      "url": "https://www.lttlabs.com/articles/2026/07/10/llm-quantization-part-2-youre-gonna-need-a-bigger-vram",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-10T16:39:06Z",
+      "fetched_at": "2026-07-11T03:53:49.248Z"
+    },
+    {
+      "title": "Promising inference software, written in Zig",
+      "url": "https://zml.ai/posts/llmd/",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-10T05:56:47Z",
+      "fetched_at": "2026-07-11T03:53:49.248Z"
+    },
+    {
+      "title": "GPT-5.6, Grok 4.5, Claude, and Muse Spark build the same 4 apps",
+      "url": "https://www.tryai.dev/blog/gpt-5.6-build-off-12-models",
+      "source": "hn",
+      "score": 138,
+      "content": "",
+      "published_at": "2026-07-10T20:52:28Z",
+      "fetched_at": "2026-07-11T03:53:50.256Z"
+    },
+    {
+      "title": "Sol 5.6 on $20 Codex did 2.2x more average tasks than Fable 5 on $20 ClaudeCode",
+      "url": "https://devforth.io/agents-for-code/",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-07-10T14:17:31Z",
+      "fetched_at": "2026-07-11T03:53:50.256Z"
+    },
+    {
+      "title": "Claude Savings with context caching awareness",
+      "url": "https://github.com/regolo-ai/brick-SR1",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-10T21:55:43Z",
+      "fetched_at": "2026-07-11T03:53:50.256Z"
+    },
+    {
+      "title": "Anthropic found a hidden space where Claude puzzles over concepts",
+      "url": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-10T14:03:21Z",
+      "fetched_at": "2026-07-11T03:53:50.256Z"
+    },
+    {
+      "title": "Show HN: Persistent Claude Code sessions you drive as a terminal or a chat",
+      "url": "https://github.com/thrinz/agentpeek",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-07-11T02:07:42Z",
+      "fetched_at": "2026-07-11T03:53:50.256Z"
+    },
+    {
+      "title": "Show HN: I made Claude explain like I'm 5, and AI fatigue disappeared",
+      "url": "https://github.com/amebahead/explain-like-iam-five-rules",
+      "source": "hn",
+      "score": 1,
+      "content": "I was burning out reading AI output.\nSo I created the ELI5 Rule, ELI5 Rule is &quot;explain-like-iam-five&quot;<p>It&#x27;s simple. Try it.<p><a href=\"https:&#x2F;&#x2F;github.com&#x2F;amebahead&#x2F;explain-like-iam-five-rules\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;amebahead&#x2F;explain-like-iam-five-rules</a>",
+      "published_at": "2026-07-11T01:51:48Z",
+      "fetched_at": "2026-07-11T03:53:50.256Z"
+    },
+    {
+      "title": "The Download: Claude's inner workings and OpenAI's \"super app\"",
+      "url": "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-07-10T17:02:04Z",
+      "fetched_at": "2026-07-11T03:53:50.256Z"
+    },
+    {
+      "title": "I just made $25K USD with my capybara game built with Claude Code",
+      "url": "https://old.reddit.com/r/ClaudeAI/comments/1urzr1q/i_just_made_25k_usd_with_my_capybara_game_built/",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-07-10T14:49:52Z",
+      "fetched_at": "2026-07-11T03:53:50.256Z"
+    },
+    {
+      "title": "Record before and after clips for pull request using Claude Code",
+      "url": "https://www.pr-preview.com",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-07-10T14:21:46Z",
+      "fetched_at": "2026-07-11T03:53:50.256Z"
+    },
+    {
+      "title": "Managed Claude, but for Any Harness",
+      "url": "https://asteroidbelt.ai/",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-07-10T08:58:33Z",
+      "fetched_at": "2026-07-11T03:53:50.256Z"
+    },
+    {
+      "title": "Show HN: Makoto the Claude Code plugin that keeps the AI honest",
+      "url": "https://github.com/Clear-Sights/Makoto",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-07-10T06:31:37Z",
+      "fetched_at": "2026-07-11T03:53:50.256Z"
+    },
+    {
+      "title": "Show HN: Banana Battle – DOS Gorillas rebuilt as a web game",
+      "url": "https://michael480th.github.io/Banana-Battle/",
+      "source": "hn",
+      "score": 2,
+      "content": "As a kid, I loved to play the DOS Gorillas game where you would throw bananas at your opponent, smashing cities as you go.<p>I wanted to play it, so I rebuilt the classic QBasic&#x2F;DOS &quot;Gorillas&quot; game from scratch as a mobile web app. It is playable in the browser and installable to your iPhone home screen.<p>It&#x27;s all vanilla HTML&#x2F;Canvas&#x2F;JavaScript. No frameworks, no build step, no\ndependencies, no tracking. A single static page served from GitHub Pages.<p>A few bits that were fun to build:\n- Destructible terrain: buildings are painted to an offscreen canvas and explosions erase pixels\n- Ballistic physics with wind, sub-stepped so a fast banana can&#x27;t tunnel through a thin building between frames.\n- Native share sheet (Web Share API) so you can text a friend your result with a &quot;beat my score&quot; challenge link<p>It&#x27;s hot-seat two-player (pass the phone, or share a keyboard: arrows to aim, space to throw).<p>No original Microsoft code or assets — the code and pixel art are all my own (with some help from Claude :) ).<p>Feedback welcome!",
+      "published_at": "2026-07-10T06:14:48Z",
+      "fetched_at": "2026-07-11T03:53:50.256Z"
+    },
+    {
+      "title": "Replit is the best coding agent",
+      "url": "https://news.ycombinator.com/item?id=48858177",
+      "source": "hn",
+      "score": 2,
+      "content": "I have used multiple AI for coding including gpt, gemini, claude and a few more but after experiencing them all I can say replit has a best coding agent which understands every prompt way better than these big shot AIs and build better then these.",
+      "published_at": "2026-07-10T10:41:18Z",
+      "fetched_at": "2026-07-11T03:53:50.256Z"
+    },
+    {
+      "title": "Show HN: An MCP server that lets AI agents request disability insurance quotes",
+      "url": "https://github.com/seaworthy-io/seaworthy-mcp",
+      "source": "hn",
+      "score": 2,
+      "content": "Hi HN. I own an online insurance agency, a painfully old-school industry. I am not a developer. I vibe-coded it all in Claude Code, then reviewed and tested before anything shipped. Which is part of the story I guess, that a small firm with curious and reasonably capable people can now operate agent infrastructure that would have required a contractor two years ago.<p>I&#x27;m trying this because a growing share of our prospects start by asking their AI of choice what coverage to buy and who to get it from. Assistants can read my site, so like everyone else I&#x27;m trying to get recommendations via content. But the next natural step is agents actually taking actions on sites rather than just reading them, so I created seven tools, six read-only (a verified-facts knowledge base, carrier comparison, specialty and education guides, benefit-cap math, rider definitions) and one action, &quot;quote request,&quot; which writes a lead straight into our CRM through the same Salesforce web-to-lead path that our web form uses. Then it switches back to the &quot;normal&quot; process and a licensed broker follows up through traditional means. This is the best use case I could figure out at this point, but expect to find others as the space matures. To my knowledge it is the first agent-callable quote action in my corner of insurance.<p>I had originally built it with an OAuth flow, but there was friction that kept killing the test interactions so I made it open, no auth. Unless there is something I&#x27;m missing the worst case scenario is junk leads and not a data leak since the read tools only contain published information and the quote request collects normal lead stuff like name, DOB, etc. According to Claude, spam &quot;gets handled in layers with strict input validation including a DNS-over-HTTPS check that the email domain can receive mail, per-IP rate limiting in Workers KV, and short-window duplicate suppression.&quot; Either way every agent-originated lead is tagged in",
+      "published_at": "2026-07-10T21:56:00Z",
+      "fetched_at": "2026-07-11T03:53:50.256Z"
+    },
+    {
+      "title": "Show HN: Cactus v2 – On-device AI with cloud fallback",
+      "url": "https://news.ycombinator.com/item?id=48864459",
+      "source": "hn",
+      "score": 1,
+      "content": "Hi HN, Roman and Henry here from Cactus (<a href=\"https:&#x2F;&#x2F;github.com&#x2F;cactus-compute&#x2F;cactus\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;cactus-compute&#x2F;cactus</a>).<p>We just shipped the biggest upgrade to our on-device inference platform:<p>- Built-in model confidence-based routing to hand off inference runs to the cloud\n- Converter for any PyTorch model\n- Lossless 4-bit quantization (evals on our GitHub README)\n- GPU acceleration on compatible devices (starting with Apple Metal)\n- Minimal RAM footprint\n- Runs on any Arm device: iOS, Android, Mac, DGX Spark, Raspberry Pi, and more<p>All in, a Gemma 4 E2B class model runs at 169 tok&#x2F;sec on M5 Max, takes 2.7GB disk space with no accuracy degradation from FP16, uses 1.3GB of RAM, and requests help from cloud models when needed.<p>The problem we started with eighteen months ago: inference engines are built for datacenters, but consumer hardware has different physics: you share RAM with the OS, you get thermally throttled, and the same model behaves differently on different hardware.<p>So we wrote a runtime from scratch for resource-constrained devices. Since then, Cactus has grown to process millions of weekly inference runs, and tens of thousands of monthly active developers.<p>Our biggest learning from deploying Cactus in production apps is that while local models can handle 90% of workloads, that 10% gap means they&#x27;re still not production-ready. Our users&#x27; fix was to build custom cloud fallback logic.<p>Cactus v2 fixes that:<p>Our approach to cloud fallback is to post-train a probe into the model&#x27;s weights that reads its internal activations and emits a confidence signal. This way, the routing happens inside the model rather than in a prompt classifier sitting in front of it. We believe this is critical for multi-turn agentic work, where the model should know which turns are easy enough to be handled locally, and which are hard - and get handed off to the cloud. What ",
+      "published_at": "2026-07-10T19:57:18Z",
+      "fetched_at": "2026-07-11T03:53:50.256Z"
+    },
+    {
+      "title": "Show HN: Bunrun – agent-configured local dashboard to start/stop dev apps",
+      "url": "https://github.com/jokkebk/bunrun",
+      "source": "hn",
+      "score": 1,
+      "content": "Agentic era has left me with already half a dozen vibe coded helper apps, most run with ´bun run dev´ or the npm equivalents, occasionally Python.<p>Instead of zooming around terminal, I decided to vibe code one more thing: A local dashboard to start and stop all the projects and view the ouput. Finessing the configuration yaml is delegated to a SKILL.md so I can just ask Claude or Codex to set the stuff up. Works and saves time!<p>It&#x27;s Bun + Svelte, MIT licensed, binds to localhost with no auth (it runs shell commands from your config as your own user, so it&#x27;s meant for trusted local use only, not exposed to a network).<p>Happy to answer questions about the agent-config approach or the process management side.",
+      "published_at": "2026-07-10T19:31:37Z",
+      "fetched_at": "2026-07-11T03:53:50.256Z"
+    },
+    {
+      "title": "I made a Pirate MMO with Fable and the game is only 5MB",
+      "url": "https://www.reddit.com/r/ClaudeAI/s/Iw8gUeuk96",
+      "source": "hn",
+      "score": 16,
+      "content": "",
+      "published_at": "2026-07-10T21:40:11Z",
+      "fetched_at": "2026-07-11T03:53:50.256Z"
+    },
+    {
+      "title": "AI subscriptions cut quotas and raised prices in early 2026",
+      "url": "https://wellstsai.com/en/post/ai-subscription-shakeout-2026-claude/",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-07-10T05:51:42Z",
+      "fetched_at": "2026-07-11T03:53:50.256Z"
+    },
+    {
+      "title": "OpenAI, Anthropic Employees Could Buy ~1/3 of All Homes in SF with IPO Earnings",
+      "url": "https://www.redfin.com/news/openai-anthropic-housing-wealth/",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-07-10T07:50:24Z",
+      "fetched_at": "2026-07-11T03:53:50.745Z"
+    },
+    {
+      "title": "Gilbert Strang Joins Anthropic",
+      "url": "https://twitter.com/GilStrangMIT/status/2075666580990464489",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-07-11T01:43:53Z",
+      "fetched_at": "2026-07-11T03:53:50.745Z"
+    },
+    {
+      "title": "OpenAI unveils long-awaited \"super app\" as rivalry with Anthropic intensifies",
+      "url": "https://www.reuters.com/business/openai-launches-chatgpt-work-2026-07-09/",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-10T04:17:25Z",
+      "fetched_at": "2026-07-11T03:53:50.745Z"
+    },
+    {
+      "title": "Show HN: Inferock-bench – per-call billing receipts for OpenAI and Anthropic",
+      "url": "https://github.com/inferock/inferock-bench",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-07-11T03:14:23Z",
+      "fetched_at": "2026-07-11T03:53:50.745Z"
+    },
+    {
+      "title": "Mythos 5 offered outside the US by Anthropic",
+      "url": "https://news.sky.com/video/mythos-5-offered-outside-the-us-by-anthropic-13561860",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-07-10T14:26:20Z",
+      "fetched_at": "2026-07-11T03:53:50.745Z"
+    },
+    {
+      "title": "Where Is Karpathy?",
+      "url": "https://news.ycombinator.com/item?id=48862249",
+      "source": "hn",
+      "score": 2,
+      "content": "And probably most importantly: is this out of radar situation good or bad for AI?<p>He joined Anthropic almost two months ago now, and he practically disappeared (just have a look at his GitHub!) His latest tweet was about a Slack integration...<p>However, anything he used to say was definitely generating a lot hype everytime, so I wonder if it might be net good?",
+      "published_at": "2026-07-10T16:37:42Z",
+      "fetched_at": "2026-07-11T03:53:50.745Z"
+    },
+    {
+      "title": "Inviting Hard Questions",
+      "url": "https://www.anthropic.com/news/hard-questions",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-07-10T19:00:30Z",
+      "fetched_at": "2026-07-11T03:53:50.745Z"
+    },
+    {
+      "title": "Show HN: SubjectiveZero, an open-source agentic node editor for creative coding",
+      "url": "https://sxp.studio/apps/subz",
+      "source": "hn",
+      "score": 15,
+      "content": "Hey there,<p>My name is Clem, I&#x27;ve been a solo indie dev for a couple years now, exploring frontier tech like XR and agentic workflows in the context of creative &#x2F; interactive work.<p>I&#x27;ve been building creation tools for a while and some common design challenge is to figure out the right level of abstraction for your tool. You can always make it super advanced and complex with low level concepts (shader composition, actual code etc.) but then you get something with a high complexity &#x2F; learning curve. On the other hand, if you make your tool too high level, it might be easier to use at first, but people will most likely hit a wall eventually and start fighting with your tool to get their edge case done (you see that on mobile a lot actually).<p>With this prototype (called SubjectiveZero), I&#x27;d like to imagine that we can kind of move the &quot;slider&quot; on the abstraction layer, meaning that you can actually start with prompts that describe the goal, and you can go as high level (stay with abstract prompts) or low level as you&#x27;d like (more specific prompts, or even edit the generated code directly)! \nThe agent orchestration actually understand your context and work along side with you to figure out what could be the best node graph structure for your project (that and some fun little procedural UI done at the node level).<p>If i had to pitch it in 30 seconds, I&#x27;d say &quot;Think TouchDesigner and friends but with agent orchestration&quot;.<p>When you use it, it will generate real native code (Swift&#x2F;Metal for now) that you can actually hot reload and iterate on either manually or through agents. It&#x27;s still an early prototype and macOS only for now, but I&#x27;d love to get genuine feedback that could help me drive where this project should go next (or not).<p>Lastly, I&#x27;m absolutely open and upfront on the fact that I used agentic coding for this, but as people say: &quot;kept on a short leash&quot;. The architecture",
+      "published_at": "2026-07-10T15:23:50Z",
+      "fetched_at": "2026-07-11T03:53:51.224Z"
+    },
+    {
+      "title": "Prismata: Confining cross-site prompt injection in web agents",
+      "url": "https://arxiv.org/abs/2607.08147",
+      "source": "hn",
+      "score": 13,
+      "content": "",
+      "published_at": "2026-07-10T21:03:38Z",
+      "fetched_at": "2026-07-11T03:53:51.224Z"
+    },
+    {
+      "title": "Migrating a production AI agent to GPT 5.6",
+      "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
+      "source": "hn",
+      "score": 7,
+      "content": "",
+      "published_at": "2026-07-10T20:40:34Z",
+      "fetched_at": "2026-07-11T03:53:51.224Z"
+    },
+    {
+      "title": "Show HN: R3 – A Local Code Review Tool for You and Your AI Agent",
+      "url": "https://github.com/hyperlogue/r3",
+      "source": "hn",
+      "score": 4,
+      "content": "I built r3 to scratch my own itch when reviewing long design doc and planning doc from AI. The chat interface is inherently bad at tracking multiple pieces of feedback across different parts of a document, so I created a lightweight local web UI to organize the review process.<p>I have been using it on my own projects for one week, and it has made giving structured feedback to AI much easier. I thought others working with AI coding agents might find it useful too.<p>I&#x27;d love to hear what you think and any feedback you have!",
+      "published_at": "2026-07-10T04:13:39Z",
+      "fetched_at": "2026-07-11T03:53:51.224Z"
+    },
+    {
+      "title": "AI2Web: Open protocol to make any website work with every AI agent",
+      "url": "https://ai2web.dev/",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-07-11T00:15:13Z",
+      "fetched_at": "2026-07-11T03:53:51.224Z"
+    },
+    {
+      "title": "UN digital tech agency launches initiative to improve trust in AI agents",
+      "url": "https://www.reuters.com/legal/litigation/un-digital-tech-agency-launches-initiative-improve-trust-ai-agents-2026-07-09/",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-07-10T04:57:57Z",
+      "fetched_at": "2026-07-11T03:53:51.224Z"
+    },
+    {
+      "title": "How to Build a Coding Agent",
+      "url": "https://github.com/nicolaygerold/howtobuildacodingagent",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-07-10T16:16:35Z",
+      "fetched_at": "2026-07-11T03:53:51.224Z"
+    },
+    {
+      "title": "Looma – turn coding-agent history into resumable project context",
+      "url": "https://github.com/devYRPauli/looma",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-07-10T13:59:40Z",
+      "fetched_at": "2026-07-11T03:53:51.224Z"
+    },
+    {
+      "title": "Show HN: Snitch – Deterministic prose claim verifier for coding agents. (OSS)",
+      "url": "https://github.com/fristovic/snitch",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-07-10T13:44:08Z",
+      "fetched_at": "2026-07-11T03:53:51.224Z"
+    },
+    {
+      "title": "I run my agency's 10 AI agents from launchd, no n8n, 0 dependencies",
+      "url": "https://github.com/Botfather90/digiton-agent-fleet",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-10T22:59:18Z",
+      "fetched_at": "2026-07-11T03:53:51.224Z"
+    },
+    {
+      "title": "How to get agents into prod at an enterprise",
+      "url": "https://www.tredence.com/blog/95-of-enterprise-ai-agents-never-make-it-to-production-5-ways-to-ensure-yours-does",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-10T15:00:07Z",
+      "fetched_at": "2026-07-11T03:53:51.224Z"
+    },
+    {
+      "title": "Show HN: My AI agent has 1 hour to earn €10 – it shipped this page itself",
+      "url": "https://1h-money.vercel.app",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-10T13:27:01Z",
+      "fetched_at": "2026-07-11T03:53:51.224Z"
+    },
+    {
+      "title": "Show HN: Schedule tasks for your AI agents from Google Calendar",
+      "url": "https://agentcaly.com/",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-11T01:37:51Z",
+      "fetched_at": "2026-07-11T03:53:51.224Z"
+    },
+    {
+      "title": "Agents of Our Own Illiteracy",
+      "url": "https://royalicing.com/2026/agents-of-our-own-illiteracy",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-10T23:33:03Z",
+      "fetched_at": "2026-07-11T03:53:51.224Z"
+    },
+    {
+      "title": "The zero-cost fallacy: open-source software in the agentic era",
+      "url": "https://www.thoughtworks.com/insights/blog/open-source/zero-cost-fallacy-open-source-agentic-era",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-10T20:45:43Z",
+      "fetched_at": "2026-07-11T03:53:51.224Z"
+    },
+    {
+      "title": "Trace: Stripe Radar for autonomous AI agents (Sybil fraud reduced by 86%)",
+      "url": "https://trace-api-ixv6o.ondigitalocean.app/api/portal/webhook",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-10T19:00:58Z",
+      "fetched_at": "2026-07-11T03:53:51.224Z"
+    },
+    {
+      "title": "Quoting Nilay Patel",
+      "url": "https://simonwillison.net/2026/Jul/10/nilay-patel/#atom-everything",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-07-10T17:05:26.000Z",
+      "fetched_at": "2026-07-11T03:53:48.182Z"
+    },
+    {
+      "title": "Quoting OpenAI",
+      "url": "https://simonwillison.net/2026/Jul/10/openai/#atom-everything",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-07-10T01:05:57.000Z",
+      "fetched_at": "2026-07-11T03:53:48.182Z"
+    },
+    {
+      "title": "The new GPT-5.6 family: Luna, Terra, Sol",
+      "url": "https://simonwillison.net/2026/Jul/9/gpt-5-6/#atom-everything",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-07-09T19:46:38.000Z",
+      "fetched_at": "2026-07-11T03:53:48.182Z"
+    },
+    {
+      "title": "Introducing Muse Spark 1.1",
+      "url": "https://simonwillison.net/2026/Jul/9/muse-spark-1-1/#atom-everything",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-07-09T16:24:09.000Z",
+      "fetched_at": "2026-07-11T03:53:48.182Z"
+    },
+    {
+      "title": "llm-meta-ai 0.1",
+      "url": "https://simonwillison.net/2026/Jul/9/llm-meta-ai/#atom-everything",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-07-09T16:12:20.000Z",
+      "fetched_at": "2026-07-11T03:53:48.182Z"
+    },
+    {
+      "title": "llm 0.31.1",
+      "url": "https://simonwillison.net/2026/Jul/9/llm/#atom-everything",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-07-09T16:06:15.000Z",
+      "fetched_at": "2026-07-11T03:53:48.182Z"
+    }
+  ]
+}
