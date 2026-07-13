@@ -1,16 +1,6 @@
 {
   "https://github.com/regolo-ai/brick-SR1": "2026-07-11",
-  "https://github.com/ostikwhy-blip/claude-code-handoff-skill": "2026-07-06",
-  "https://verity.md": "2026-07-06",
-  "https://github.com/yuliang615/claude-cache-guard": "2026-07-06",
-  "https://github.com/puffinsoft/peek-cli": "2026-07-06",
-  "https://github.com/rbsriram/heckle": "2026-07-06",
-  "https://github.com/bharadwaj-pendyala/sidenote": "2026-07-06",
-  "https://sigmap.io/": "2026-07-06",
-  "https://yolo-auto.com/": "2026-07-06",
-  "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/": "2026-07-06",
-  "https://github.com/Trystan-SA/claude-design-system-prompt": "2026-07-06",
-  "https://github.com/Priyanshu-byte-coder/contextrot": "2026-07-06",
+  "https://github.com/puffinsoft/peek-cli": "2026-07-13",
   "https://github.com/Latand/live-log-viewer-next": "2026-07-07",
   "https://github.com/shofer-dev/claude-code-live-memory": "2026-07-07",
   "https://jpthecat.com": "2026-07-07",
@@ -52,5 +42,12 @@
   "https://github.com/raine/claude-code-proxy": "2026-07-12",
   "https://www.runaether.dev/": "2026-07-12",
   "https://github.com/ninjahawk/Confessor": "2026-07-12",
-  "https://tokentime.bar": "2026-07-12"
+  "https://tokentime.bar": "2026-07-12",
+  "https://github.com/dotbrt/dejaview": "2026-07-13",
+  "https://github.com/jaurakunal/isitsecure": "2026-07-13",
+  "https://github.com/pedroaugusto04/Kote": "2026-07-13",
+  "https://systima.ai/blog/claude-code-vs-opencode-token-overhead": "2026-07-13",
+  "https://support.claude.com/en/articles/15910845-claude-code-may-july-2026-weekly-limits-promotion": "2026-07-13",
+  "https://github.com/cyrusNuevoDia/capn-hook": "2026-07-13",
+  "https://www.adaptiverecall.com/": "2026-07-13"
 }
