@@ -1,10 +1,6 @@
 {
   "https://github.com/regolo-ai/brick-SR1": "2026-07-11",
   "https://github.com/puffinsoft/peek-cli": "2026-07-13",
-  "https://github.com/Latand/live-log-viewer-next": "2026-07-07",
-  "https://github.com/shofer-dev/claude-code-live-memory": "2026-07-07",
-  "https://jpthecat.com": "2026-07-07",
-  "https://news.ycombinator.com/item?id=48803415": "2026-07-07",
   "https://github.com/ulinycoin/shadow-web": "2026-07-08",
   "https://claude.com/blog/claude-model-and-effort-level-in-claude-code": "2026-07-08",
   "https://github.com/mazen160/backlog": "2026-07-08",
@@ -49,5 +45,7 @@
   "https://systima.ai/blog/claude-code-vs-opencode-token-overhead": "2026-07-13",
   "https://support.claude.com/en/articles/15910845-claude-code-may-july-2026-weekly-limits-promotion": "2026-07-13",
   "https://github.com/cyrusNuevoDia/capn-hook": "2026-07-13",
-  "https://www.adaptiverecall.com/": "2026-07-13"
+  "https://www.adaptiverecall.com/": "2026-07-13",
+  "https://github.com/clawkwork/clawk": "2026-07-14",
+  "https://github.com/thephw/claude-meseeks": "2026-07-14"
 }
