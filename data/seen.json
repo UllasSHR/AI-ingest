@@ -1,11 +1,6 @@
 {
   "https://github.com/regolo-ai/brick-SR1": "2026-07-11",
   "https://github.com/puffinsoft/peek-cli": "2026-07-13",
-  "https://github.com/ulinycoin/shadow-web": "2026-07-08",
-  "https://claude.com/blog/claude-model-and-effort-level-in-claude-code": "2026-07-08",
-  "https://github.com/mazen160/backlog": "2026-07-08",
-  "https://github.com/tiliondev/fortress": "2026-07-08",
-  "https://github.com/rowboatlabs/rowboat": "2026-07-08",
   "https://github.com/atelier-ws/atelier": "2026-07-09",
   "https://github.com/Northwood-Systems/foreman": "2026-07-09",
   "https://abralo.com/": "2026-07-09",
@@ -47,5 +42,10 @@
   "https://github.com/cyrusNuevoDia/capn-hook": "2026-07-13",
   "https://www.adaptiverecall.com/": "2026-07-13",
   "https://github.com/clawkwork/clawk": "2026-07-14",
-  "https://github.com/thephw/claude-meseeks": "2026-07-14"
+  "https://github.com/thephw/claude-meseeks": "2026-07-14",
+  "https://gamevibe.us/93-rock-paper-scissors-lizard-spock": "2026-07-15",
+  "https://github.com/TexasBedouin/vibe-check": "2026-07-15",
+  "https://github.com/BechsteinDigital/claude-shiploop": "2026-07-15",
+  "https://github.com/dylanp12/alluvia": "2026-07-15",
+  "https://github.com/OyaAIProd/oya": "2026-07-15"
 }
