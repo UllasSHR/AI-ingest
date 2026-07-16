@@ -1,11 +1,6 @@
 {
   "https://github.com/regolo-ai/brick-SR1": "2026-07-11",
   "https://github.com/puffinsoft/peek-cli": "2026-07-13",
-  "https://github.com/atelier-ws/atelier": "2026-07-09",
-  "https://github.com/Northwood-Systems/foreman": "2026-07-09",
-  "https://abralo.com/": "2026-07-09",
-  "https://zernie.com/blog/stop-writing-claude-md-rules/": "2026-07-09",
-  "https://github.com/tiliondev/fortress/tree/main/mcp": "2026-07-09",
   "https://news.ycombinator.com/item?id=48851812": "2026-07-10",
   "https://github.com/vibhasjain/agent-keyboard": "2026-07-10",
   "https://github.com/theoriclabs/agent-convert": "2026-07-10",
@@ -47,5 +42,12 @@
   "https://github.com/TexasBedouin/vibe-check": "2026-07-15",
   "https://github.com/BechsteinDigital/claude-shiploop": "2026-07-15",
   "https://github.com/dylanp12/alluvia": "2026-07-15",
-  "https://github.com/OyaAIProd/oya": "2026-07-15"
+  "https://github.com/OyaAIProd/oya": "2026-07-15",
+  "https://github.com/adityaarunsinghal/cc-hindsight": "2026-07-16",
+  "https://github.com/sashamitrovich/milepost": "2026-07-16",
+  "https://agents-design.com": "2026-07-16",
+  "https://github.com/bitjaru/styleseed": "2026-07-16",
+  "https://brainless.swerdlow.dev": "2026-07-16",
+  "https://github.com/softcane/cc-session-recover": "2026-07-16",
+  "https://uptimemonitoring.com/": "2026-07-16"
 }
