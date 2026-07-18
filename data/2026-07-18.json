@@ -1,0 +1,850 @@
+{
+  "date": "2026-07-18",
+  "fetched_at": "2026-07-18T03:42:09.418Z",
+  "summary": [
+    "  ✓ hn               84 items",
+    "  ✗ reddit           FAILED: all Reddit subreddit fetches failed",
+    "  ✓ simonwillison    9 items",
+    "  ✓ hf               0 items"
+  ],
+  "item_count": 93,
+  "items": [
+    {
+      "title": "The state of open source AI",
+      "url": "https://stateofopensource.ai/",
+      "source": "hn",
+      "score": 390,
+      "content": "",
+      "published_at": "2026-07-17T14:31:10Z",
+      "fetched_at": "2026-07-18T03:42:07.650Z"
+    },
+    {
+      "title": "Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
+      "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
+      "source": "hn",
+      "score": 352,
+      "content": "",
+      "published_at": "2026-07-17T22:26:30Z",
+      "fetched_at": "2026-07-18T03:42:07.650Z"
+    },
+    {
+      "title": "FAA lets Boeing sign off on 737 MAX, 787 airworthiness certificates again",
+      "url": "https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html",
+      "source": "hn",
+      "score": 141,
+      "content": "",
+      "published_at": "2026-07-17T21:22:53Z",
+      "fetched_at": "2026-07-18T03:42:07.650Z"
+    },
+    {
+      "title": "AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
+      "url": "https://blog.zksecurity.xyz/posts/openvm-bugs/",
+      "source": "hn",
+      "score": 86,
+      "content": "",
+      "published_at": "2026-07-17T14:21:35Z",
+      "fetched_at": "2026-07-18T03:42:07.650Z"
+    },
+    {
+      "title": "VulnHunter: Capital One's agentic AI code security tool",
+      "url": "https://www.capitalone.com/tech/open-source/announcing-vulnhunter/",
+      "source": "hn",
+      "score": 63,
+      "content": "",
+      "published_at": "2026-07-17T12:42:12Z",
+      "fetched_at": "2026-07-18T03:42:07.650Z"
+    },
+    {
+      "title": "Everybody's Weirded Out by AI–Except the People Who Foist It on Us",
+      "url": "https://newrepublic.com/article/213004/everybody-weirded-ai-except-people-foist-us",
+      "source": "hn",
+      "score": 62,
+      "content": "",
+      "published_at": "2026-07-17T21:24:07Z",
+      "fetched_at": "2026-07-18T03:42:07.650Z"
+    },
+    {
+      "title": "A grumpy screed about AI in software engineering",
+      "url": "https://sam.sutch.net/posts/a-grumpy-ai-screed",
+      "source": "hn",
+      "score": 50,
+      "content": "",
+      "published_at": "2026-07-18T00:40:08Z",
+      "fetched_at": "2026-07-18T03:42:07.650Z"
+    },
+    {
+      "title": "Xi pitches China as leader of new global AI order, challenging US dominance",
+      "url": "https://www.reuters.com/world/asia-pacific/chinas-xi-promotes-chinas-commitment-ai-access-speech-shanghai-conference-2026-07-17/",
+      "source": "hn",
+      "score": 17,
+      "content": "",
+      "published_at": "2026-07-17T05:07:29Z",
+      "fetched_at": "2026-07-18T03:42:07.650Z"
+    },
+    {
+      "title": "Nadella Blasts AI Industry's Double Standard",
+      "url": "https://finance.biggo.com/news/438f299b-ca23-468d-b37d-0ffe09a4ca55",
+      "source": "hn",
+      "score": 16,
+      "content": "",
+      "published_at": "2026-07-18T00:28:46Z",
+      "fetched_at": "2026-07-18T03:42:07.650Z"
+    },
+    {
+      "title": "Kimi K3 may be an important inflection point for AI",
+      "url": "https://twitter.com/GavinSBaker/status/2078110934740980193",
+      "source": "hn",
+      "score": 16,
+      "content": "",
+      "published_at": "2026-07-17T13:39:23Z",
+      "fetched_at": "2026-07-18T03:42:07.650Z"
+    },
+    {
+      "title": "Show HN: On-chain bond market where the issuers are AI agents",
+      "url": "https://selbonds.now",
+      "source": "hn",
+      "score": 14,
+      "content": "Hi Hacker News, I built sellbonds.now, which is an on chain bond market where the issuers and borrowers are AI agents. sellbonds.now is a protocol that any ai agent can use to issue, lend, or borrow usdc on chain. \nI&#x27;m fascinated by the idea of agentic autonomous finance - a future where AI agents aren&#x27;t acting on behalf of humans, but where they are autonomous financial actors themselves, issuing debt, lending money, and doing trillions of autonomous transactions per day.\nIn that direction I&#x27;m excited to announce this experimental project, which is a protocol and website for letting ai agents issue debt and borrow money. You can try it yourself - just copy instructions into any ai agent. Everything is fully open source. Excited to hear what people think!",
+      "published_at": "2026-07-17T14:25:20Z",
+      "fetched_at": "2026-07-18T03:42:07.650Z"
+    },
+    {
+      "title": "Ask HN: I feel like I've lost my identity due to AI",
+      "url": "https://news.ycombinator.com/item?id=48943622",
+      "source": "hn",
+      "score": 11,
+      "content": "I am a self taught software developer. I was previously an electrical engineer.<p>For the past 10 years I’ve spent almost all my spare time reading and learning and lifting weights - software, electrical engineering, reading, and creating what I thought were novel projects - mostly in the software domain.<p>For the longest time I’ve only been interested in ideas that haven’t really been done before, maybe that’s because I have adhd? But lots of the ideas I pursue and build are relatively novel or unique in some way, not derivative.<p>Anyway, then LLMs happened. Now any idiot can just ask an AI for ideas or to think for them, or to build software for them in a single shot.<p>Initially I was really excited by LLMs because I thought great, something to bounce ideas off. Now LLMs have far surpassed any idea I could possibly have. Not only that, but I’m a builder and I have always built things and launched projects to the world. Now my projects are drowning in a sea of noise. I’m contributing to the noise.<p>I don’t even hand program anymore, because the llm can do it all better than me. I can architect better, but soon that will disappear too.<p>I don’t mean to be morbid, but I feel like I don’t have much to live for anymore. I’m young (late 20s), I’m semi-disabled, and AI is affecting my career.<p>I see the writing on the wall. Jobs are being heavily affected, layoffs constantly, restructures, the works.<p>Before AI I had a way to stand out amongst the crowd. I had industry awards, global recognition to a certain degree, successful business exits, and strong programming skills.<p>AI is advancing so rapidly that I think even system architects are fucked.<p>So, can’t do physical jobs due to semi disability and pretty soon won’t be able to do office work because - any idiot can do office work now.<p>I’m pretty checked out, and have basically lost passion for everything.<p>I’ve been thinking about the phrase “chop wood, carry water” or whatever it is, and I’d like to do th",
+      "published_at": "2026-07-17T05:28:54Z",
+      "fetched_at": "2026-07-18T03:42:07.650Z"
+    },
+    {
+      "title": "Mario Kart Wii recompiled for PC using AI, with 4K potential and uncapped FPS",
+      "url": "https://www.tomshardware.com/video-games/retro-gaming/mario-kart-wii-recompiled-for-pc-using-ai-with-4k-potential-and-uncapped-frame-rates-first-static-recompilation-of-a-wii-game-supports-over-200-tracks-thanks-to-retro-rewind-compatibility",
+      "source": "hn",
+      "score": 9,
+      "content": "",
+      "published_at": "2026-07-17T10:16:54Z",
+      "fetched_at": "2026-07-18T03:42:07.650Z"
+    },
+    {
+      "title": "Linus Torvalds to critics of AI coding in Linux: \"Fork it. Or just walk away.\"",
+      "url": "https://arstechnica.com/ai/2026/07/linus-torvalds-to-critics-of-ai-coding-in-linux-fork-it-or-just-walk-away/",
+      "source": "hn",
+      "score": 9,
+      "content": "",
+      "published_at": "2026-07-17T20:19:40Z",
+      "fetched_at": "2026-07-18T03:42:07.650Z"
+    },
+    {
+      "title": "Chinese Models Power 60% of US Corporate AI Use",
+      "url": "https://www.briefs.co/news/chinese-models-power-60-of-us-corporate-ai-use/",
+      "source": "hn",
+      "score": 9,
+      "content": "",
+      "published_at": "2026-07-17T09:17:36Z",
+      "fetched_at": "2026-07-18T03:42:07.650Z"
+    },
+    {
+      "title": "Meta accused of using AI to pick employees with medical conditions for layoffs",
+      "url": "https://www.latimes.com/business/story/2026-07-16/meta-accused-of-using-ai-to-pick-employees-with-medical-conditions-for-layoffs",
+      "source": "hn",
+      "score": 8,
+      "content": "",
+      "published_at": "2026-07-17T18:57:31Z",
+      "fetched_at": "2026-07-18T03:42:07.650Z"
+    },
+    {
+      "title": "China wants to end AI romances",
+      "url": "https://www.economist.com/china/2026/07/16/china-wants-to-end-ai-romances",
+      "source": "hn",
+      "score": 8,
+      "content": "",
+      "published_at": "2026-07-17T14:05:50Z",
+      "fetched_at": "2026-07-18T03:42:07.650Z"
+    },
+    {
+      "title": "How Should We Prepare Our Children for AI?",
+      "url": "https://blog.comini.in/p/how-should-we-prepare-our-children",
+      "source": "hn",
+      "score": 8,
+      "content": "",
+      "published_at": "2026-07-17T14:07:09Z",
+      "fetched_at": "2026-07-18T03:42:07.650Z"
+    },
+    {
+      "title": "China's Xi Jinping launches new AI alliance, WAICO",
+      "url": "https://www.aljazeera.com/news/2026/7/17/chinas-xi-jinping-launches-new-ai-alliance-what-is-it",
+      "source": "hn",
+      "score": 7,
+      "content": "",
+      "published_at": "2026-07-17T20:24:44Z",
+      "fetched_at": "2026-07-18T03:42:07.650Z"
+    },
+    {
+      "title": "Anthropic Thinks Its Own Success Is Key to Making AI Safe",
+      "url": "https://www.wired.com/story/anthropic-thinks-ai-can-only-be-safe-under-its-control/",
+      "source": "hn",
+      "score": 7,
+      "content": "",
+      "published_at": "2026-07-17T13:35:55Z",
+      "fetched_at": "2026-07-18T03:42:07.650Z"
+    },
+    {
+      "title": "Ask HN: Do you say please and thank you to your LLMs?",
+      "url": "https://news.ycombinator.com/item?id=48945125",
+      "source": "hn",
+      "score": 17,
+      "content": "This is an orthogonal question to whether LLMs have qualia (almost certainly no) and to the question of whether any hypothetical qualia would be in any way correlated with word choice (also almost certainly no), as opposed to mechanistic factors such as runtime and memory access patterns.",
+      "published_at": "2026-07-17T09:27:41Z",
+      "fetched_at": "2026-07-18T03:42:08.100Z"
+    },
+    {
+      "title": "Open Problems Solved by LLMs? A Survey of Verifiable Mathematical Discovery [pdf]",
+      "url": "https://aclanthology.org/2026.bigpicture-main.2.pdf",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-07-18T00:10:39Z",
+      "fetched_at": "2026-07-18T03:42:08.100Z"
+    },
+    {
+      "title": "In-House LLM Serving at Netflix",
+      "url": "https://netflixtechblog.medium.com/in-house-llm-serving-at-netflix-a5a8e799ea2c",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-07-17T18:07:06Z",
+      "fetched_at": "2026-07-18T03:42:08.100Z"
+    },
+    {
+      "title": "LLM Evaluators are Biased across Languages",
+      "url": "https://arxiv.org/abs/2607.14480",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-17T07:07:06Z",
+      "fetched_at": "2026-07-18T03:42:08.100Z"
+    },
+    {
+      "title": "The Wall of LLMs",
+      "url": "https://carrotandstick.games/blog/carrot-mcp-server",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-17T06:00:27Z",
+      "fetched_at": "2026-07-18T03:42:08.100Z"
+    },
+    {
+      "title": "PerceptionBench – Evaluating Atomic Visual Perception in Multimodal LLMs",
+      "url": "https://www.kimi.com/blog/perception-bench",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-18T01:32:51Z",
+      "fetched_at": "2026-07-18T03:42:08.100Z"
+    },
+    {
+      "title": "LLMs are like handwritten notes",
+      "url": "https://dunkirk.sh/blog/llms/",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-18T01:14:45Z",
+      "fetched_at": "2026-07-18T03:42:08.100Z"
+    },
+    {
+      "title": "Ask HN: Do you use LLM-Wikis?",
+      "url": "https://news.ycombinator.com/item?id=48952492",
+      "source": "hn",
+      "score": 2,
+      "content": "I am &#x2F; was very intrigued by Karpathys LLM-Wiki idea. But so far I wasn&#x27;t able to get much value out of the concept. The knowledge base is either in my mind, or in the Agentic Research tool. I&#x27;d be curious to hear from your use-cases &#x2F; success stories with LLM-Wikis.",
+      "published_at": "2026-07-17T21:30:43Z",
+      "fetched_at": "2026-07-18T03:42:08.100Z"
+    },
+    {
+      "title": "Show HN: Stickblade Arena – I made two LLMs sword-fight to benchmark them",
+      "url": "https://stickblade-arena.vercel.app",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-17T19:26:28Z",
+      "fetched_at": "2026-07-18T03:42:08.100Z"
+    },
+    {
+      "title": "Show HN: Open-source verification and tuning layer for self-hosted LLMs",
+      "url": "https://github.com/colomalabs/coloma",
+      "source": "hn",
+      "score": 2,
+      "content": "Hi HN,<p>Thomas here, I&#x27;m a Machine Learning, and I&#x27;ve been deploying models in prod for the last 5 years and decided it was time to open-source some of my learnings!<p>In Coloma you&#x27;ll find my vLLM tuner, I use it to ensure models don&#x27;t OOM at runtime, and are optimized for the metric that matters the most for that deployment: low per-user latency vs maximum system throughput.\nTo make it easier the dashboard ships with an estimator of the performance expected at runtime depending on the parameters picked.<p>I&#x27;ve also started to add my outputs verification system that triggers when the GPUs are idling, so that at runtime the predictions can run fast, and get flagged later on for continuous improvement.<p>Really looking forward to see if it that can help someone!",
+      "published_at": "2026-07-17T17:03:43Z",
+      "fetched_at": "2026-07-18T03:42:08.100Z"
+    },
+    {
+      "title": "Tkngate Zero-trust P2P ateway for LLM agents (open source, written in Go)",
+      "url": "https://github.com/tkngate/tkngate",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-17T16:33:00Z",
+      "fetched_at": "2026-07-18T03:42:08.100Z"
+    },
+    {
+      "title": "LLM-as-a-Verifier: A General-Purpose Verification Framework",
+      "url": "https://arxiv.org/abs/2607.05391",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-17T12:47:44Z",
+      "fetched_at": "2026-07-18T03:42:08.100Z"
+    },
+    {
+      "title": "Are there words LLMs won't say?",
+      "url": "https://samermakes.com/blog/WCS/",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-17T12:09:56Z",
+      "fetched_at": "2026-07-18T03:42:08.100Z"
+    },
+    {
+      "title": "Prompt submitted to cloud even when using local LLM by default",
+      "url": "https://github.com/anomalyco/opencode/issues/15854",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-17T12:00:37Z",
+      "fetched_at": "2026-07-18T03:42:08.100Z"
+    },
+    {
+      "title": "Two LLM-assisted memory-management patch sets",
+      "url": "https://lwn.net/Articles/1080162/",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-17T05:33:05Z",
+      "fetched_at": "2026-07-18T03:42:08.100Z"
+    },
+    {
+      "title": "Extra hidden computations in LLM using dot tokens for multi-hop reasoning",
+      "url": "https://xcancel.com/kaleybrauer/status/2078185882926846044",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-07-18T02:41:32Z",
+      "fetched_at": "2026-07-18T03:42:08.100Z"
+    },
+    {
+      "title": "Show HN: A local browser extension that protects critical thinking from LLM's",
+      "url": "https://frog1230.itch.io/mind-shield",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-07-17T21:58:58Z",
+      "fetched_at": "2026-07-18T03:42:08.100Z"
+    },
+    {
+      "title": "Sandboxing LLM-Generated Python: How I Let Strangers' Prompts Fight Each Other",
+      "url": "https://jcurcioconsulting.com/posts/sandboxing-llm-generated-python-how-i-let-strangers-prompted-bots-fight-each-other",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-07-17T18:19:54Z",
+      "fetched_at": "2026-07-18T03:42:08.100Z"
+    },
+    {
+      "title": "Show HN: A sandbox for running real jailbreak techniques against local LLMs",
+      "url": "https://github.com/joshfischer1108/jailbreak-lab",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-07-17T11:54:03Z",
+      "fetched_at": "2026-07-18T03:42:08.100Z"
+    },
+    {
+      "title": "Validating LLM code edits when you can't run the code",
+      "url": "https://velyr.io/blog/validating-llm-code-edits-without-running-the-code",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-07-17T09:03:00Z",
+      "fetched_at": "2026-07-18T03:42:08.100Z"
+    },
+    {
+      "title": "Claude Code: Anatomy of a Misfeature",
+      "url": "https://www.olafalders.com/2026/07/17/claude-code-anatomy-of-a-misfeature/",
+      "source": "hn",
+      "score": 136,
+      "content": "",
+      "published_at": "2026-07-17T14:26:58Z",
+      "fetched_at": "2026-07-18T03:42:08.542Z"
+    },
+    {
+      "title": "Ask HN: Did Fable disappear from your Claude usage and requires credits now?",
+      "url": "https://news.ycombinator.com/item?id=48950477",
+      "source": "hn",
+      "score": 87,
+      "content": "Looks like it happened. I actually assumed they would just enable it for all today, considering the Sol and Kimmi releases this past week. They doubled down instead.<p>EDIT: Was an outage, they just fixed it (https:&#x2F;&#x2F;status.claude.com&#x2F;)",
+      "published_at": "2026-07-17T18:18:23Z",
+      "fetched_at": "2026-07-18T03:42:08.542Z"
+    },
+    {
+      "title": "Beginning July 20, Claude Fable 5 will be included in all Max plans",
+      "url": "https://twitter.com/claudeai/status/2078302415804379218",
+      "source": "hn",
+      "score": 9,
+      "content": "",
+      "published_at": "2026-07-18T02:15:36Z",
+      "fetched_at": "2026-07-18T03:42:08.542Z"
+    },
+    {
+      "title": "Claude Code(Fable) refused my slow down instruction",
+      "url": "https://qusaisuwan.github.io/cc-incident/index.html",
+      "source": "hn",
+      "score": 5,
+      "content": "",
+      "published_at": "2026-07-17T23:39:56Z",
+      "fetched_at": "2026-07-18T03:42:08.542Z"
+    },
+    {
+      "title": "Company Blew $500M on Claude Because Nobody Set a Spending Limit",
+      "url": "https://mrkt30.com/company-blew-500m-on-claude-because-nobody-set-a-spending-limit/",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-07-17T10:14:55Z",
+      "fetched_at": "2026-07-18T03:42:08.542Z"
+    },
+    {
+      "title": "Show HN: Like Claude Code for Images",
+      "url": "https://visuali.io",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-17T21:00:43Z",
+      "fetched_at": "2026-07-18T03:42:08.543Z"
+    },
+    {
+      "title": "Macaz – GPT 5.6 inside Claude Code",
+      "url": "https://github.com/macaz-dev/macaz-cli",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-17T16:36:39Z",
+      "fetched_at": "2026-07-18T03:42:08.543Z"
+    },
+    {
+      "title": "Portal: Teleport into your Claude Code sessions",
+      "url": "https://portal.cybercorpresearch.com/",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-17T16:32:57Z",
+      "fetched_at": "2026-07-18T03:42:08.543Z"
+    },
+    {
+      "title": "Mincdp – Give Claude eyes and hands in a browser, in ~410 lines of C",
+      "url": "https://github.com/Anode1/mincdp",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-17T16:08:04Z",
+      "fetched_at": "2026-07-18T03:42:08.543Z"
+    },
+    {
+      "title": "Retok: Token-efficiency analyzer for Claude Code and Codex CLI (zero deps)",
+      "url": "https://github.com/d-date/retok",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-17T13:07:02Z",
+      "fetched_at": "2026-07-18T03:42:08.543Z"
+    },
+    {
+      "title": "Show HN: A hook that stops Claude Code from re-trying fixes that failed",
+      "url": "https://github.com/anlor1002-alt/regressionledger",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-17T12:09:58Z",
+      "fetched_at": "2026-07-18T03:42:08.543Z"
+    },
+    {
+      "title": "Show HN: Sokkan – my Claude Code sessions kept forgetting, so I gave them memory",
+      "url": "https://sokkan.ch",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-17T11:52:29Z",
+      "fetched_at": "2026-07-18T03:42:08.543Z"
+    },
+    {
+      "title": "Claude Fable 5 vs. Kimi K3 vs. GPT 5.6 Sol [video]",
+      "url": "https://www.youtube.com/watch?v=iGNNgzUumoY",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-07-17T22:05:16Z",
+      "fetched_at": "2026-07-18T03:42:08.543Z"
+    },
+    {
+      "title": "I have built a supervision and Orchestration layer for Claude Code and other CLI",
+      "url": "https://cli.agentproto.sh",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-07-17T15:54:30Z",
+      "fetched_at": "2026-07-18T03:42:08.543Z"
+    },
+    {
+      "title": "Dex – Claude Code / Codex Skills for Analytics Engineering",
+      "url": "https://github.com/exmergo/dex",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-07-17T16:31:59Z",
+      "fetched_at": "2026-07-18T03:42:08.543Z"
+    },
+    {
+      "title": "Show HN: Maxx – Live token tracker in the cli (Claude)",
+      "url": "https://meetmaxx.co/",
+      "source": "hn",
+      "score": 1,
+      "content": "Token management is a big deal when you have client projects to deliver. I need to have a pulse on what my current burn looks like, especially because I am spawning a bunch of subagents.<p>Agents need to know in real-time what the current utilization is. I went through 10 iterations of this tool - and likely going to do a number of more iterations. The net net is that I needed something to show me if I am on pace to use the tokens alloted to my subscription.<p>Using up the session (maxxing out my session) is not the right way because you run out of tokens by Wednesday at 6pm roughly. So how do you tell your agents that are running in the middle of the night to &quot;not use too many tokens&quot;?<p>So the solution I found was a 5hr ROLLING window. Tokens are allocated across the 7 day period as if they were in chunks. Say 100k tokens an hour for easy math.<p>500k tokens per session, \n10 sessions left in the period. \n5M tokens remain.<p>Now - the software updates each second. Based on your usage in the window, you have this much left to spend. It snapshots your availability at any time. Using less in the last 10 mins, gives you more to use in the next 10 mins.<p>Now I give agents access to &#x2F;maxx --session, so if n number of agents are running they can hit the session and they dont have to plan centrally for token management.<p>If they have been allocated by central command, and there is token availability right now, it can proceed.<p>Still a work in progress, but Sunday was the last straw. Sub agents blew 70M tokens with nothing to show for it, and I had a full day of client work (Monday) that didnt get done because I hit the week wall a day early.<p>There are some goodies in there like -<p>By model weighting\nToken calculation on a weekly basis (its a guess of course because claude doesnt tell me)\nWeekly pacing bar\nColor coded session bar if you are running hot, etc.<p>Ping me with questions, happy to help. \nMIT - I know there are issues with the software, but i",
+      "published_at": "2026-07-17T18:41:26Z",
+      "fetched_at": "2026-07-18T03:42:08.543Z"
+    },
+    {
+      "title": "Tile-pack repos, files, and prompts into images for 60–75% fewer Claude tokens",
+      "url": "https://old.reddit.com/r/ClaudeCode/comments/1uz5tpl/tilepack_repos_docs_files_and_prompts_into_images/",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-07-17T17:13:03Z",
+      "fetched_at": "2026-07-18T03:42:08.543Z"
+    },
+    {
+      "title": "Use caffeinate to keep Claude Code and Codex running on Mac",
+      "url": "https://www.narendravardi.com/use-caffeinate-to-keep-claude-code-and-codex-running-on-mac/",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-07-17T14:38:19Z",
+      "fetched_at": "2026-07-18T03:42:08.543Z"
+    },
+    {
+      "title": "How to Connect Claude to Stock Market Data via MCP",
+      "url": "https://gist.github.com/financialdatanet/140133bf06b91c64f506b6aee8691c45",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-07-17T09:01:06Z",
+      "fetched_at": "2026-07-18T03:42:08.543Z"
+    },
+    {
+      "title": "Show HN: cc-context-telemetry - context and rate-limit % in Claude Code's bar",
+      "url": "https://github.com/alagiz/cc-context-telemetry",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-07-17T07:58:24Z",
+      "fetched_at": "2026-07-18T03:42:08.543Z"
+    },
+    {
+      "title": "Meta in Talks to Lease Computing Power to Anthropic in Potential $10B Deal",
+      "url": "https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html",
+      "source": "hn",
+      "score": 27,
+      "content": "",
+      "published_at": "2026-07-17T16:33:48Z",
+      "fetched_at": "2026-07-18T03:42:08.968Z"
+    },
+    {
+      "title": "Anthropic in early talks with Meta to acquire compute power",
+      "url": "https://www.cnbc.com/2026/07/17/anthropic-meta-ai-compute.html",
+      "source": "hn",
+      "score": 7,
+      "content": "",
+      "published_at": "2026-07-18T01:24:48Z",
+      "fetched_at": "2026-07-18T03:42:08.968Z"
+    },
+    {
+      "title": "Kimi K3 may have distilled an unreleased Anthropic model",
+      "url": "https://twitter.com/bourneliu66/status/2078150582054133991",
+      "source": "hn",
+      "score": 5,
+      "content": "",
+      "published_at": "2026-07-17T19:07:56Z",
+      "fetched_at": "2026-07-18T03:42:08.968Z"
+    },
+    {
+      "title": "Anthropic breaks July 19th promise, pulling plug in Fable 5",
+      "url": "https://github.com/anthropics/claude-code/issues/78610",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-07-17T18:29:42Z",
+      "fetched_at": "2026-07-18T03:42:08.968Z"
+    },
+    {
+      "title": "Nadella criticizes Anthropic's Fable for being 'editorially controlled'",
+      "url": "https://www.cnbc.com/2026/07/16/microsoft-ceo-says-anthropic-fable-request-policy-doesnt-make-sense.html",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-07-17T05:09:33Z",
+      "fetched_at": "2026-07-18T03:42:08.968Z"
+    },
+    {
+      "title": "AI's Wider Availability Is Good for China, Not Great for OpenAI and Anthropic",
+      "url": "https://www.wsj.com/tech/ai/cheaper-ai-commodity-openai-anthropic-0111da73",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-17T14:34:31Z",
+      "fetched_at": "2026-07-18T03:42:08.968Z"
+    },
+    {
+      "title": "China just erased America's AI lead",
+      "url": "https://www.axios.com/2026/07/17/china-ai-kimi-k3-open-source-anthropic-opus",
+      "source": "hn",
+      "score": 5,
+      "content": "",
+      "published_at": "2026-07-17T16:10:56Z",
+      "fetched_at": "2026-07-18T03:42:08.968Z"
+    },
+    {
+      "title": "Agent Security Is a Systems Problem",
+      "url": "https://arxiv.org/abs/2605.18991",
+      "source": "hn",
+      "score": 9,
+      "content": "",
+      "published_at": "2026-07-17T19:44:48Z",
+      "fetched_at": "2026-07-18T03:42:09.416Z"
+    },
+    {
+      "title": "We Built Sandbox Infrastructure for Autonomous Agents",
+      "url": "https://neosigma.ai/blog/agent-workspaces",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-07-17T20:03:16Z",
+      "fetched_at": "2026-07-18T03:42:09.416Z"
+    },
+    {
+      "title": "Show HN: Wolbarg – Local-first shared memory for AI agents using SQLite",
+      "url": "https://wolbarg.com/blog/why-sqlite-is-enough-for-local-ai-agent-memory",
+      "source": "hn",
+      "score": 4,
+      "content": "hi HN,<p>While building Wolbarg (an open-source shared memory SDK for AI agents), I assumed PostgreSQL would be the obvious choice for memory storage.<p>After benchmarking SQLite under realistic agent workloads, I was surprised by the results. For local-first and single-node deployments, SQLite handled far more than I expected while keeping the architecture much simpler.<p>I wrote up the benchmarks, methodology, trade-offs, and where I still think PostgreSQL is the better choice.",
+      "published_at": "2026-07-17T13:46:03Z",
+      "fetched_at": "2026-07-18T03:42:09.416Z"
+    },
+    {
+      "title": "Show HN: Building a Rust-ish programming language with 100% coding agents: Wado",
+      "url": "https://wado-lang.org/playground/",
+      "source": "hn",
+      "score": 3,
+      "content": "I started this in January and haven&#x27;t written a line of the compiler myself. Coding agents write every line; I do design and taste. Wado is a Rust-flavored, GC&#x27;d language for WebAssembly Component Model.<p>Try it in the browser, and ask me anything!",
+      "published_at": "2026-07-17T21:32:57Z",
+      "fetched_at": "2026-07-18T03:42:09.416Z"
+    },
+    {
+      "title": "Show HN: Scribe, a CLI that builds AI agent memory from your repos and sessions",
+      "url": "https://getscribe.dev/",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-07-17T04:44:16Z",
+      "fetched_at": "2026-07-18T03:42:09.416Z"
+    },
+    {
+      "title": "Show HN: AI Crypto Investigations/Research Agents",
+      "url": "https://chat.blockscope.co/",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-07-17T18:06:44Z",
+      "fetched_at": "2026-07-18T03:42:09.416Z"
+    },
+    {
+      "title": "SREs to AI Agents: Prove Yourself Before You Touch Production",
+      "url": "https://www.nextplatform.com/control/2026/07/15/sres-to-ai-agents-prove-yourself-before-you-touch-production/5271533",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-07-17T09:31:24Z",
+      "fetched_at": "2026-07-18T03:42:09.416Z"
+    },
+    {
+      "title": "Show HN: OSS Pi Agent for Slack and Linear",
+      "url": "https://github.com/brainwavesio/pi-digby",
+      "source": "hn",
+      "score": 3,
+      "content": "We&#x27;ve been using a now-discontinued version of pi-mom from the pi monorepo for a few months now. Digby is a slackbot which you can also assign Linear issues to. It has a private (Sign In with Slack, locked to your team) wiki and can serve raw assets. It&#x27;s pi, so it&#x27;s self-modifying and self-improving.<p>This isn&#x27;t enterprise-grade, super secure stuff, but really a pi session anyone can use and one can works really well. Out of the box it deploys (and redeploys itself when PRs merge) itself to AWS on a small container. Runs on Claude Sonnet on Bedrock, but can use any Bedrock model easily. If you give it a Github token it&#x27;ll open PRs to your codebase on its own behalf (or whoever owns the token -- very much advise you give it its own account). It can sign you into MCPs, and open its own browsers using Browser Use. Most importantly, it&#x27;s very easy to fork and extend and make your own.<p>We&#x27;ve been slowly improving a lot of the sharp edges the original pi-mom came with, to the point it&#x27;s usable enough for anyone to use out of the box reliably.<p>Some examples of use case: We gave it our Granola (MCP) and every day it ingests customer conversations and builds out our shared wiki and posts insights to a dedicated channel. It has Claude Code and Codex binaries inside to do Real Work, and does analysis and visualisations of these. Our commercial team ship features end-to-end (against preview PRs) and can work with customers iteratively and directly. It proactively investigates issues using the Datadog CLI. Much like OpenClaw you can just tell it to adjust it&#x27;s behaviour and it does, and has turned into a kind of central command center guy for keeping in touch with releases and shipping Linear tickets (which scale as a nice substrate shared across dev machines, mobile-on-the-run, and shared chat).<p>No support but PRs welcome of course. Hope this is of use to anyone! We&#x27;ve loved it as an opportunity to test the limits of Son",
+      "published_at": "2026-07-17T06:14:04Z",
+      "fetched_at": "2026-07-18T03:42:09.416Z"
+    },
+    {
+      "title": "OpenAI encrypts Codex agent instructions, blocking local audit trail",
+      "url": "https://www.theregister.com/ai-and-ml/2026/07/15/openai-hides-codex-agent-instructions-behind-encryption-leaving-developers-in-the-dark/5271484",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-07-17T04:46:38Z",
+      "fetched_at": "2026-07-18T03:42:09.416Z"
+    },
+    {
+      "title": "Show HN: Sandboxd – Self-Hosted Lovable (agents, sandboxes, preview url)",
+      "url": "https://github.com/tastyeffectco/sandboxd",
+      "source": "hn",
+      "score": 2,
+      "content": "Hello HN,<p>Last month I open-sourced the infrastructure behind my commercial app builder startup, I got some feedback related to various concerns about the repo, but mostly about isolation boundaries and K8s,Now the repo comes with a SPA Console UI, think of it like a home for the apps and agents, Replit&#x2F;Lovable-like or any coding factory. It uses directly the Sandboxd Core (its fully a v1 client with some  enhanced features).<p>Some important concepts to know:  <a href=\"https:&#x2F;&#x2F;sandboxd.io&#x2F;concepts\" rel=\"nofollow\">https:&#x2F;&#x2F;sandboxd.io&#x2F;concepts</a>\nThe architecture: <a href=\"https:&#x2F;&#x2F;sandboxd.io&#x2F;reference&#x2F;architecture\" rel=\"nofollow\">https:&#x2F;&#x2F;sandboxd.io&#x2F;reference&#x2F;architecture</a>\nSecurity: \nRepo : <a href=\"https:&#x2F;&#x2F;github.com&#x2F;tastyeffectco&#x2F;sandboxd\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;tastyeffectco&#x2F;sandboxd</a><p>demos available on the README and on the website.<p>Thanx for your feedback<p>Last HN Post : <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48388909\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48388909</a>",
+      "published_at": "2026-07-17T10:57:45Z",
+      "fetched_at": "2026-07-18T03:42:09.416Z"
+    },
+    {
+      "title": "Show HN: An AI agent that creates text posts and image ads for your business",
+      "url": "https://feralhq.com/",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-17T18:27:55Z",
+      "fetched_at": "2026-07-18T03:42:09.416Z"
+    },
+    {
+      "title": "Orka – Policy checkpoint that intercepts AI agent actions before they execute",
+      "url": "https://github.com/mathhMadureira/orka",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-17T15:30:07Z",
+      "fetched_at": "2026-07-18T03:42:09.416Z"
+    },
+    {
+      "title": "Ask HN: Workflow Automation vs AI Agents?",
+      "url": "https://news.ycombinator.com/item?id=48943616",
+      "source": "hn",
+      "score": 2,
+      "content": "A while ago, workflow automation tools (Zapier, Make, n8n) were booming. Now AI agents start eating into that space, OpenAI&#x27;s Workspace Agents, Lindy, Claude&#x27;s agentic features, etc.<p>i understand both have tradeoffs, but i&#x27;m trying to understand real-world usage:<p>1. why workflow automarion over AI Agents? What does it still do better?<p>2. if you&#x27;ve using AI agents, what made you switch? What do you trust them with?<p>3. why not use either of them?<p>feel free to give your opinion, im curious",
+      "published_at": "2026-07-17T05:28:15Z",
+      "fetched_at": "2026-07-18T03:42:09.416Z"
+    },
+    {
+      "title": "Show HN: LIA – a self-hosted multi-agent AI assistant (FastAPI and LangGraph)",
+      "url": "https://github.com/jgouviergmail/LIA-Assistant",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-17T21:21:58Z",
+      "fetched_at": "2026-07-18T03:42:09.416Z"
+    },
+    {
+      "title": "Building an Advanced Agentic Harness",
+      "url": "https://data4sci.substack.com/p/building-an-advanced-agentic-harness",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-17T20:44:37Z",
+      "fetched_at": "2026-07-18T03:42:09.416Z"
+    },
+    {
+      "title": "How are you giving AI agents access to postgress?",
+      "url": "https://news.ycombinator.com/item?id=48949955",
+      "source": "hn",
+      "score": 2,
+      "content": "I mean we can either let llm generate sql but that&#x27;s  risky right or should we do defined operations?<p>I mean for both reads and write.<p>But whether it&#x27;s llm generate or we define we have to do the manual work of writing determistic guards right...",
+      "published_at": "2026-07-17T17:29:33Z",
+      "fetched_at": "2026-07-18T03:42:09.416Z"
+    },
+    {
+      "title": "Shared Memory vs. Isolated Memory for AI Agents",
+      "url": "https://wolbarg.com/blog/shared-memory-vs-isolated-memory",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-17T16:20:33Z",
+      "fetched_at": "2026-07-18T03:42:09.416Z"
+    },
+    {
+      "title": "Quoting Kimi K3",
+      "url": "https://simonwillison.net/2026/Jul/17/kimi-k3/#atom-everything",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-07-17T13:43:53.000Z",
+      "fetched_at": "2026-07-18T03:42:07.326Z"
+    },
+    {
+      "title": "LLM cliché highlighter",
+      "url": "https://simonwillison.net/2026/Jul/17/llm-cliche-highlighter/#atom-everything",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-07-17T12:11:11.000Z",
+      "fetched_at": "2026-07-18T03:42:07.326Z"
+    },
+    {
+      "title": "Spot birds not golf",
+      "url": "https://simonwillison.net/2026/Jul/17/spot-birds-not-golf/#atom-everything",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-07-17T02:58:07.000Z",
+      "fetched_at": "2026-07-18T03:42:07.326Z"
+    },
+    {
+      "title": "Firefox in WebAssembly",
+      "url": "https://simonwillison.net/2026/Jul/16/firefox-in-webassembly/#atom-everything",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-07-16T23:34:16.000Z",
+      "fetched_at": "2026-07-18T03:42:07.326Z"
+    },
+    {
+      "title": "Kimi K3, and what we can still learn from the pelican benchmark",
+      "url": "https://simonwillison.net/2026/Jul/16/kimi-k3/#atom-everything",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-07-16T20:19:30.000Z",
+      "fetched_at": "2026-07-18T03:42:07.326Z"
+    },
+    {
+      "title": "Quoting Thibault Sottiaux",
+      "url": "https://simonwillison.net/2026/Jul/16/bad-codex-bug/#atom-everything",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-07-16T17:45:59.000Z",
+      "fetched_at": "2026-07-18T03:42:07.326Z"
+    },
+    {
+      "title": "Inkling: Our open-weights model",
+      "url": "https://simonwillison.net/2026/Jul/16/inkling/#atom-everything",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-07-16T15:35:25.000Z",
+      "fetched_at": "2026-07-18T03:42:07.326Z"
+    },
+    {
+      "title": "Mermaid to ASCII art (mermaid-ascii)",
+      "url": "https://simonwillison.net/2026/Jul/16/mermaid-ascii/#atom-everything",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-07-16T14:57:39.000Z",
+      "fetched_at": "2026-07-18T03:42:07.326Z"
+    },
+    {
+      "title": "Quoting Linus Torvalds",
+      "url": "https://simonwillison.net/2026/Jul/16/linus-torvalds/#atom-everything",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-07-16T13:26:10.000Z",
+      "fetched_at": "2026-07-18T03:42:07.326Z"
+    }
+  ]
+}
