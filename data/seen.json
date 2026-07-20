@@ -1,12 +1,4 @@
 {
-  "https://github.com/puffinsoft/peek-cli": "2026-07-13",
-  "https://github.com/dotbrt/dejaview": "2026-07-13",
-  "https://github.com/jaurakunal/isitsecure": "2026-07-13",
-  "https://github.com/pedroaugusto04/Kote": "2026-07-13",
-  "https://systima.ai/blog/claude-code-vs-opencode-token-overhead": "2026-07-13",
-  "https://support.claude.com/en/articles/15910845-claude-code-may-july-2026-weekly-limits-promotion": "2026-07-13",
-  "https://github.com/cyrusNuevoDia/capn-hook": "2026-07-13",
-  "https://www.adaptiverecall.com/": "2026-07-13",
   "https://github.com/clawkwork/clawk": "2026-07-14",
   "https://github.com/thephw/claude-meseeks": "2026-07-14",
   "https://gamevibe.us/93-rock-paper-scissors-lizard-spock": "2026-07-15",
@@ -42,5 +34,12 @@
   "https://github.com/korishnn/orgframework": "2026-07-19",
   "https://marketplace.visualstudio.com/items?itemName=sync-md.sync-md": "2026-07-19",
   "https://yapp.page/": "2026-07-19",
-  "https://news.ycombinator.com/item?id=48958157": "2026-07-19"
+  "https://news.ycombinator.com/item?id=48958157": "2026-07-19",
+  "https://shikigami.dev/": "2026-07-20",
+  "https://www.kloofstreet.online/": "2026-07-20",
+  "https://www.crumpledpaper.tech/2026-07-19-oss-code-review/": "2026-07-20",
+  "https://twitter.com/ClaudeDevs/status/2078511173759324328": "2026-07-20",
+  "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/": "2026-07-20",
+  "https://sairc.vercel.app/resources": "2026-07-20",
+  "https://github.com/cyrusNuevoDia/gpt-workflow": "2026-07-20"
 }
