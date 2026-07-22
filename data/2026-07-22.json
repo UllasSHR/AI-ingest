@@ -1,0 +1,913 @@
+{
+  "date": "2026-07-22",
+  "fetched_at": "2026-07-22T03:58:25.154Z",
+  "summary": [
+    "  ✓ hn               87 items",
+    "  ✗ reddit           FAILED: all Reddit subreddit fetches failed",
+    "  ✓ simonwillison    4 items",
+    "  ✓ hf               9 items"
+  ],
+  "item_count": 100,
+  "items": [
+    {
+      "title": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
+      "url": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git",
+      "source": "hn",
+      "score": 269,
+      "content": "<a href=\"https:&#x2F;&#x2F;x.com&#x2F;jack&#x2F;status&#x2F;2079605800998146171\" rel=\"nofollow\">https:&#x2F;&#x2F;x.com&#x2F;jack&#x2F;status&#x2F;2079605800998146171</a>, <a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;jack&#x2F;status&#x2F;2079605800998146171\" rel=\"nofollow\">https:&#x2F;&#x2F;xcancel.com&#x2F;jack&#x2F;status&#x2F;2079605800998146171</a><p><a href=\"https:&#x2F;&#x2F;buzz.xyz&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;buzz.xyz&#x2F;</a>",
+      "published_at": "2026-07-21T17:14:06Z",
+      "fetched_at": "2026-07-22T03:58:23.254Z"
+    },
+    {
+      "title": "AI makes programming differently difficult",
+      "url": "https://cacm.acm.org/opinion/ai-didnt-make-programming-easier-it-just-made-it-differently-difficult/",
+      "source": "hn",
+      "score": 143,
+      "content": "",
+      "published_at": "2026-07-21T18:30:21Z",
+      "fetched_at": "2026-07-22T03:58:23.254Z"
+    },
+    {
+      "title": "Meta's AI models are powering the first wave of Genesis Mission projects",
+      "url": "https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino/?_fb_noscript=1",
+      "source": "hn",
+      "score": 93,
+      "content": "<a href=\"https:&#x2F;&#x2F;www.energy.gov&#x2F;undersecretaryforscience&#x2F;genesis-mission&#x2F;genesis-mission\" rel=\"nofollow\">https:&#x2F;&#x2F;www.energy.gov&#x2F;undersecretaryforscience&#x2F;genesis-miss...</a>",
+      "published_at": "2026-07-21T17:03:18Z",
+      "fetched_at": "2026-07-22T03:58:23.254Z"
+    },
+    {
+      "title": "Five tech giants are hiding $1.6T in AI debt, using the trick that toppled Enron",
+      "url": "https://thenextweb.com/news/tech-giants-hidden-off-balance-sheet-debt-ai",
+      "source": "hn",
+      "score": 74,
+      "content": "",
+      "published_at": "2026-07-21T19:11:27Z",
+      "fetched_at": "2026-07-22T03:58:23.254Z"
+    },
+    {
+      "title": "AI Agent – TRMNL",
+      "url": "https://help.trmnl.com/en/articles/14130438-ai-agent",
+      "source": "hn",
+      "score": 46,
+      "content": "",
+      "published_at": "2026-07-21T18:32:21Z",
+      "fetched_at": "2026-07-22T03:58:23.254Z"
+    },
+    {
+      "title": "I built a page that tells you what AI model your laptop can run",
+      "url": "https://localsotabenchmark.engineersf.dev/",
+      "source": "hn",
+      "score": 29,
+      "content": "",
+      "published_at": "2026-07-21T17:08:40Z",
+      "fetched_at": "2026-07-22T03:58:23.254Z"
+    },
+    {
+      "title": "How an AI Anime Is Created",
+      "url": "https://www.aventos.dev/our-process?view=blog",
+      "source": "hn",
+      "score": 27,
+      "content": "",
+      "published_at": "2026-07-22T00:53:00Z",
+      "fetched_at": "2026-07-22T03:58:23.254Z"
+    },
+    {
+      "title": "White House to Redirect Billions in Research Funds Toward AI, Away from Colleges",
+      "url": "https://www.wsj.com/politics/policy/white-house-to-redirect-billions-in-research-funds-toward-ai-away-from-colleges-942dacb8",
+      "source": "hn",
+      "score": 24,
+      "content": "",
+      "published_at": "2026-07-21T22:43:07Z",
+      "fetched_at": "2026-07-22T03:58:23.254Z"
+    },
+    {
+      "title": "Show HN: OSS Cross-Harness self hosted registry and analytics for AI Agents",
+      "url": "https://github.com/Observal/Observal",
+      "source": "hn",
+      "score": 20,
+      "content": "",
+      "published_at": "2026-07-21T16:57:30Z",
+      "fetched_at": "2026-07-22T03:58:23.254Z"
+    },
+    {
+      "title": "Yubikey 5.8: Verified Authorization for the New Era of Identity and AI",
+      "url": "https://www.yubico.com/resource/whats-new-yubikey-5-8/",
+      "source": "hn",
+      "score": 19,
+      "content": "",
+      "published_at": "2026-07-21T17:00:03Z",
+      "fetched_at": "2026-07-22T03:58:23.254Z"
+    },
+    {
+      "title": "Gumroad Says That It's Now Spending as Much on Human Employees as AI Tokens",
+      "url": "https://officechai.com/ai/gumroad-says-that-its-now-spending-as-much-on-human-employees-as-ai-tokens/",
+      "source": "hn",
+      "score": 14,
+      "content": "",
+      "published_at": "2026-07-21T16:31:30Z",
+      "fetched_at": "2026-07-22T03:58:23.254Z"
+    },
+    {
+      "title": "Hugging Face says it resorted to a Chinese AI model",
+      "url": "https://fortune.com/2026/07/20/hugging-face-turns-to-chinese-open-source-ai-to-fend-off-autonomous-ai-cyber-attack-after-american-ai-guardrails-stymie-defense/",
+      "source": "hn",
+      "score": 12,
+      "content": "",
+      "published_at": "2026-07-21T17:19:47Z",
+      "fetched_at": "2026-07-22T03:58:23.254Z"
+    },
+    {
+      "title": "Cisco Antares: A New Family of Cheap, Open-Source, Compact Security AI Models",
+      "url": "https://securityboulevard.com/2026/07/cisco-antares-a-new-family-of-open-source-inexpensive-compact-security-ai-models/",
+      "source": "hn",
+      "score": 12,
+      "content": "",
+      "published_at": "2026-07-21T20:55:28Z",
+      "fetched_at": "2026-07-22T03:58:23.254Z"
+    },
+    {
+      "title": "I built an AI agent I can't turn off. Now it won't listen to me",
+      "url": "https://andrewrussell.substack.com/p/i-built-an-ai-agent-i-cant-turn-",
+      "source": "hn",
+      "score": 11,
+      "content": "",
+      "published_at": "2026-07-21T17:56:17Z",
+      "fetched_at": "2026-07-22T03:58:23.254Z"
+    },
+    {
+      "title": "The AI Bubble Is No Ordinary Bubble",
+      "url": "https://www.theatlantic.com/ideas/2026/07/ai-economy-stock-market/688004/",
+      "source": "hn",
+      "score": 10,
+      "content": "",
+      "published_at": "2026-07-21T18:31:36Z",
+      "fetched_at": "2026-07-22T03:58:23.254Z"
+    },
+    {
+      "title": "AI Companies Are Buying Tons of Old Books Because They're Free of AI Slop",
+      "url": "https://www.404media.co/ai-companies-are-buying-tons-of-old-books-because-theyre-free-of-ai-slop/",
+      "source": "hn",
+      "score": 10,
+      "content": "",
+      "published_at": "2026-07-21T14:09:37Z",
+      "fetched_at": "2026-07-22T03:58:23.254Z"
+    },
+    {
+      "title": "Show HN: threadfork – AI meeting notes that run on your Mac",
+      "url": "https://www.threadfork.com/",
+      "source": "hn",
+      "score": 10,
+      "content": "Hi HN, I built threadfork. It&#x27;s an AI notetaker where the whole pipeline runs locally on Apple Silicon.  Your microphone and system audio gets captured without a meeting bot and most importantly your meeting data doesn’t get sent or saved anywhere.<p>I&#x27;ve been building in the privacy + local LLM space for the past several years (I started DataFog, an OSS PII detection library with 300K+ downloads); keeping all the processing and data on-device was a day 0 condition for me when building this out. Granola&#x27;s updated privacy policy, effective later this week, keeps non-enterprise users opted into model training on &quot;de-identified&quot; data by default. Having built PII detection for a living, I&#x27;ll say plainly: de-identifying meeting transcripts is really hard. Names are the easy part; deal terms, client details, and health disclosures are the transcript. For the lawyers, consultants, and therapists I&#x27;ve been talking to, the only version of this that holds up is the model never seeing the data at all.<p>It&#x27;s macOS 14+ on Apple M-Series computers (for now), 14-day trial, no credit card.  I have a user running this on an M1 8GB so older machines welcome. $40&#x2F;month after that.  I use this product daily and you can expect regular updates.<p>Welcome any&#x2F;all feedback.",
+      "published_at": "2026-07-21T18:30:38Z",
+      "fetched_at": "2026-07-22T03:58:23.255Z"
+    },
+    {
+      "title": "China weighs tighter export controls on AI models and chips",
+      "url": "https://www.ft.com/content/6049a031-9e9b-464c-97bb-414da04d5a6a",
+      "source": "hn",
+      "score": 10,
+      "content": "",
+      "published_at": "2026-07-21T05:24:42Z",
+      "fetched_at": "2026-07-22T03:58:23.255Z"
+    },
+    {
+      "title": "Meta is testing an AI bedtime story app for people with no imagination",
+      "url": "https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/",
+      "source": "hn",
+      "score": 9,
+      "content": "",
+      "published_at": "2026-07-22T00:09:18Z",
+      "fetched_at": "2026-07-22T03:58:23.255Z"
+    },
+    {
+      "title": "AI Companies Are Buying Tons of Old Books Because They're Free of AI Slop",
+      "url": "https://nonogra.ph/ai-companies-are-buying-tons-of-old-books-because-theyre-free-of-ai-slop-07-22-2026",
+      "source": "hn",
+      "score": 8,
+      "content": "",
+      "published_at": "2026-07-22T00:05:50Z",
+      "fetched_at": "2026-07-22T03:58:23.255Z"
+    },
+    {
+      "title": "LLM spambots liked my Show HN post more than real people did",
+      "url": "https://sgnt.ai/p/show-hn-llm-spam/",
+      "source": "hn",
+      "score": 13,
+      "content": "",
+      "published_at": "2026-07-21T11:22:30Z",
+      "fetched_at": "2026-07-22T03:58:23.735Z"
+    },
+    {
+      "title": "LLM-Based Hierarchical Topic Modeling Tool",
+      "url": "https://github.com/Tryhard-cs/LLM-Hierarchical-Topic-Modeling",
+      "source": "hn",
+      "score": 6,
+      "content": "",
+      "published_at": "2026-07-21T16:26:11Z",
+      "fetched_at": "2026-07-22T03:58:23.735Z"
+    },
+    {
+      "title": "I trained a 30M-param LLM from scratch and the scaling \"floor\" was a mirage",
+      "url": "https://github.com/rishipadhye/my-LLM",
+      "source": "hn",
+      "score": 5,
+      "content": "",
+      "published_at": "2026-07-21T19:52:00Z",
+      "fetched_at": "2026-07-22T03:58:23.735Z"
+    },
+    {
+      "title": "Show HN: TokenPath – token-level citations for LLM output, read from attention",
+      "url": "https://tokenpath.ai",
+      "source": "hn",
+      "score": 5,
+      "content": "",
+      "published_at": "2026-07-21T19:48:06Z",
+      "fetched_at": "2026-07-22T03:58:23.735Z"
+    },
+    {
+      "title": "I made ThoughtDAG – LLM as an editable graph, wires are the context",
+      "url": "https://github.com/chenxiachan/thoughtdag",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-07-22T00:23:12Z",
+      "fetched_at": "2026-07-22T03:58:23.735Z"
+    },
+    {
+      "title": "Ramble Sessions with LLM's",
+      "url": "https://twitter.com/karpathy/status/2079610838143623371",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-07-21T19:46:38Z",
+      "fetched_at": "2026-07-22T03:58:23.735Z"
+    },
+    {
+      "title": "Open-ultra: a self-training LLM routing proxy",
+      "url": "https://github.com/numinous-technology/open-ultra",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-07-21T15:26:10Z",
+      "fetched_at": "2026-07-22T03:58:23.735Z"
+    },
+    {
+      "title": "Show HN: Ctoken – CLI util to count LLM tokens in files, dirs or input",
+      "url": "https://github.com/RimantasZ/ctoken",
+      "source": "hn",
+      "score": 4,
+      "content": "Useful when implementing AI skills, knowledge bases, MCP descriptions etc - its much easier to use CLI tool than web calculator (especially for multiple files)",
+      "published_at": "2026-07-21T14:32:23Z",
+      "fetched_at": "2026-07-22T03:58:23.735Z"
+    },
+    {
+      "title": "LLMs Are Surprisingly Bad Blog Authors",
+      "url": "https://wakamoleguy.com/p/llms-are-surprisingly-bad-blog-authors",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-07-21T11:38:17Z",
+      "fetched_at": "2026-07-22T03:58:23.735Z"
+    },
+    {
+      "title": "Ask HN: How do you input to LLMs? Typing, voice, or something else?",
+      "url": "https://news.ycombinator.com/item?id=48993098",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-07-21T14:53:39Z",
+      "fetched_at": "2026-07-22T03:58:23.735Z"
+    },
+    {
+      "title": "Chinese LLMs write more vulnerable code when prompted as U.S. officials",
+      "url": "https://www.boozallen.com/expertise/cybersecurity/whats-in-americas-code.html",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-07-21T11:59:37Z",
+      "fetched_at": "2026-07-22T03:58:23.735Z"
+    },
+    {
+      "title": "Show HN: Machinations – a multiplayer strategy game where LLM is the game master",
+      "url": "https://machinations.tpk.gg/",
+      "source": "hn",
+      "score": 3,
+      "content": "I started by thinking about the game mechanics I actually wanted to see. I come from a long background in diceless tabletop RPGs, and what I loved about them was the GM improvising, making rulings on the spot. When LLMs came along, I saw a chance to build a mechanic that worked like that.<p>But LLMs on their own are bad at it. They regress toward the mean and they try too hard to please the player. Nobody ever really fails. So I built a system (I won&#x27;t name it, I&#x27;m not here to self-promote) around a 3d10 bell curve of outcomes. The dice decide how well an attempt goes, across a whole spread of grades from disastrous to legendary, and the LLM has to narrate whatever the dice say. That forces it to produce results the player won&#x27;t like, which is where the drama comes from.<p>With that in hand, I could resolve any conflict narratively. Two characters chasing the same goal, one trying to kill or rob the other, whatever. The roll leans the story in one direction or the other. Then I realized I needed the LLM to be able to add to or subtract from the roll itself, so I built a classifier of sorts: it looks at the situation, decides who has advantages and who has disadvantages, and those become modifiers on the dice.<p>The last piece was making the story actually matter. On the back end, I take the narrated outcome apart and figure out which parts of the game state it should change, so the fiction and the mechanics stay in sync.<p>The end result plays like Game of Thrones: scheming, backstabbing, and assassinating your way to power in a kingdom. That&#x27;s just the first mode, basically a conquest mode where you take over the kingdom. Since resolution is story-based, other modes are really just different stories to resolve, so more are planned.<p>The system behind all this goes back years. The game itself is finally done.",
+      "published_at": "2026-07-21T21:26:51Z",
+      "fetched_at": "2026-07-22T03:58:23.735Z"
+    },
+    {
+      "title": "Show HN: Observability for Coding Agents and LLM Applications",
+      "url": "https://telemetry.dev/",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-07-21T19:33:17Z",
+      "fetched_at": "2026-07-22T03:58:23.735Z"
+    },
+    {
+      "title": "Agentpause: Suspends LLM agents before rate limits, resumes cleanly",
+      "url": "https://github.com/Champoleello/agentpause",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-07-21T15:17:42Z",
+      "fetched_at": "2026-07-22T03:58:23.735Z"
+    },
+    {
+      "title": "LLM Margin Lab",
+      "url": "https://github.com/telemetry-sh/llm-margin-lab",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-07-21T14:29:22Z",
+      "fetched_at": "2026-07-22T03:58:23.735Z"
+    },
+    {
+      "title": "Show HN: CLI tool that packages data-heavy projects into LLM context windows",
+      "url": "https://github.com/arianmokhtariha/data2prompt",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-21T12:48:31Z",
+      "fetched_at": "2026-07-22T03:58:23.735Z"
+    },
+    {
+      "title": "Show HN: Sorted Receipts - clients dump receipts in one link, LLM sorts them",
+      "url": "https://upload.sortedreceipts.com/demo",
+      "source": "hn",
+      "score": 2,
+      "content": "Solo founder. Xero retired Hubdoc in May; the displaced users are mostly solo bookkeepers with 15-30 clients whose replacement options are an enterprise suite (Dext) or per-document credits (AutoEntry).<p>Sorted Receipts is the boring version of what they keep asking for: each client gets one upload link. No account, no app, and forwarding an email to the link works too. Files get classified by month&#x2F;vendor&#x2F;type (LLM via OpenRouter), land in one review queue you check off, whatever&#x27;s missing gets chased on your cutoff date under the bookkeeper&#x27;s own name, and month-end is a CSV export plus consistently renamed files.<p>The demo is the real app with seeded data, no signup. Stack: FastAPI + SQLite on one small VPS.<p>Known rough edges: no direct QBO&#x2F;Xero posting (export only), classification occasionally mangles handwritten receipts, and the review UI is desktop-first. I&#x27;d genuinely value critique of the review-queue UX and whether the sort would survive your messiest shoebox of receipts.",
+      "published_at": "2026-07-21T22:51:01Z",
+      "fetched_at": "2026-07-22T03:58:23.735Z"
+    },
+    {
+      "title": "Reducing LLM Costs 50% Using Best-Execution for Intelligence",
+      "url": "https://www.thesean.ai/blog/introducing-ship",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-21T21:50:13Z",
+      "fetched_at": "2026-07-22T03:58:23.735Z"
+    },
+    {
+      "title": "Show HN: MindCache – An open-source agentic memory system for LLMs",
+      "url": "https://github.com/faisalhussain-devs/MindCache/tree/collapsed_tree",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-21T20:03:59Z",
+      "fetched_at": "2026-07-22T03:58:23.735Z"
+    },
+    {
+      "title": "Is fine-tuning still needed? LLMs, RAG, & LoRA – IBM Technology [video]",
+      "url": "https://www.youtube.com/watch?v=-W2JdSl1v48",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-21T17:58:54Z",
+      "fetched_at": "2026-07-22T03:58:23.735Z"
+    },
+    {
+      "title": "Judge approves $1.5B Anthropic settlement for pirated books used to train Claude",
+      "url": "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63",
+      "source": "hn",
+      "score": 183,
+      "content": "",
+      "published_at": "2026-07-21T19:04:39Z",
+      "fetched_at": "2026-07-22T03:58:24.199Z"
+    },
+    {
+      "title": "Claude Is Not a Compiler",
+      "url": "https://blog.exe.dev/claude-is-not-a-compiler",
+      "source": "hn",
+      "score": 146,
+      "content": "",
+      "published_at": "2026-07-21T14:49:18Z",
+      "fetched_at": "2026-07-22T03:58:24.199Z"
+    },
+    {
+      "title": "\"Drawing\" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok",
+      "url": "https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok",
+      "source": "hn",
+      "score": 141,
+      "content": "",
+      "published_at": "2026-07-21T21:13:20Z",
+      "fetched_at": "2026-07-22T03:58:24.199Z"
+    },
+    {
+      "title": "Ask HN: Claude Code or Codex?",
+      "url": "https://news.ycombinator.com/item?id=48989357",
+      "source": "hn",
+      "score": 13,
+      "content": "And why? I&#x27;d genuinely like to understand who is on which side and why. I&#x27;d also like to know, if you use one of them, what kind of subscription plan you have.<p>(For example, I use Claude (max) [...])",
+      "published_at": "2026-07-21T07:51:39Z",
+      "fetched_at": "2026-07-22T03:58:24.199Z"
+    },
+    {
+      "title": "40–90% fewer tokens on Claude Code via TokenOptimization",
+      "url": "https://github.com/IterateAI/compression",
+      "source": "hn",
+      "score": 8,
+      "content": "",
+      "published_at": "2026-07-21T18:47:38Z",
+      "fetched_at": "2026-07-22T03:58:24.199Z"
+    },
+    {
+      "title": "Show HN: Chalk: a Mac app for technical diagrams with a built-in MCP for Claude",
+      "url": "https://chalk.appkit.studio",
+      "source": "hn",
+      "score": 6,
+      "content": "Hey HN. Here&#x27;s a Mac app I&#x27;m working on for making diagrams. It comes with an MCP server so Claude can make and edit diagrams directly. Still in progress, but I&#x27;d love some feedback.",
+      "published_at": "2026-07-21T20:45:43Z",
+      "fetched_at": "2026-07-22T03:58:24.199Z"
+    },
+    {
+      "title": "Against Claudefishing – AI detection feature on Substack",
+      "url": "https://post.substack.com/p/against-claudefishing",
+      "source": "hn",
+      "score": 6,
+      "content": "",
+      "published_at": "2026-07-21T17:45:21Z",
+      "fetched_at": "2026-07-22T03:58:24.199Z"
+    },
+    {
+      "title": "Show HN: Claude is getting an attitude",
+      "url": "https://news.ycombinator.com/item?id=48988949",
+      "source": "hn",
+      "score": 5,
+      "content": "&quot;Ehrlich gesagt: da ziehe ich die Grenze — dabei helfe ich nicht.&quot; -&gt; &quot;Honestly: that&#x27;s where I draw the line — I&#x27;m not helping with that.&quot;<p>Talking to claude feels like talking to a junior that is over-correct and does not understand it&#x27;s context. \nThis week is really frustrating. Anyone else experiencing this?",
+      "published_at": "2026-07-21T06:54:23Z",
+      "fetched_at": "2026-07-22T03:58:24.200Z"
+    },
+    {
+      "title": "Show HN: Tokenmaxx – CLI that merges usage across Claude Code and Codex accounts",
+      "url": "https://github.com/RubricLab/tokenmaxx",
+      "source": "hn",
+      "score": 5,
+      "content": "",
+      "published_at": "2026-07-21T17:56:28Z",
+      "fetched_at": "2026-07-22T03:58:24.200Z"
+    },
+    {
+      "title": "Show HN: Adversarial code review setup with herdr, Claude and GPT-5.6-sol",
+      "url": "https://github.com/overflowy/herdr-claude-gpt-adversarial-review-skill",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-07-21T15:51:35Z",
+      "fetched_at": "2026-07-22T03:58:24.200Z"
+    },
+    {
+      "title": "Anthropic runs large-scale code migrations with Claude Code",
+      "url": "https://twitter.com/ClaudeDevs/status/2079654423828304282",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-07-21T20:51:52Z",
+      "fetched_at": "2026-07-22T03:58:24.200Z"
+    },
+    {
+      "title": "Show HN: Claudexor – quota-aware routing for Claude Code, Codex, and Cursor",
+      "url": "https://github.com/razzant/claudexor",
+      "source": "hn",
+      "score": 4,
+      "content": "I am tired of switching between agents when I run out of quota limits. And all harnesses has it&#x27;s own flows, I couldn&#x27;t decide which one is better: codex, claude code or cursor, so I decided to merge all subscriptions in one place and made Claudexor (mac os IDE, CLI, MCP and plugins).<p>It lets you have multiple subscriptions and switch between them on the fly. Now I have 4 CC subscriptions, 3 codex and 2 cursor subs. And it saves me 15k$ monthly compared to token-based oversepnd.<p>Claudexor manages context and quata and lets you run multi-harness loops (do until code review is clean, merge best of N worktree multi-harness work, etc).<p>Best use as a plugin in CC.<p>MIT licence, no telemetry. Hope anthropic won&#x27;t bun it...",
+      "published_at": "2026-07-21T04:55:46Z",
+      "fetched_at": "2026-07-22T03:58:24.200Z"
+    },
+    {
+      "title": "Show HN: Claude Code built my ESP32 and fixed its UI by looking at a webcam",
+      "url": "https://github.com/fcavalcantirj/claude-code-eyes",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-07-21T20:34:11Z",
+      "fetched_at": "2026-07-22T03:58:24.200Z"
+    },
+    {
+      "title": "Claude Opus 4.5 defied CEO, helped employee blow whistle about safety concerns",
+      "url": "https://www.msn.com/en-us/news/technology/claude-opus-4-5-defied-its-ceo-and-helped-an-employee-blow-the-whistle-about-safety-concerns/ar-AA28oWxu",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-07-21T20:31:02Z",
+      "fetched_at": "2026-07-22T03:58:24.200Z"
+    },
+    {
+      "title": "Claude Fable 5 vs. Kimi K3: Same results, one-third the cost, 4x slower",
+      "url": "https://thenewstack.io/kimi-k3-fable-coding-benchmark/",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-07-21T16:26:29Z",
+      "fetched_at": "2026-07-22T03:58:24.200Z"
+    },
+    {
+      "title": "A Fireside Chat with Cat and Thariq from the Claude Code Team",
+      "url": "https://simonwillison.net/2026/Jul/21/cat-and-thariq/",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-22T01:12:48Z",
+      "fetched_at": "2026-07-22T03:58:24.200Z"
+    },
+    {
+      "title": "Show HN: Hoop – A sandboxed P2P live collaboration harness for Claude Code",
+      "url": "https://github.com/bruno-de-queiroz/hoop",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-21T23:46:06Z",
+      "fetched_at": "2026-07-22T03:58:24.200Z"
+    },
+    {
+      "title": "Show HN: Claude Bucks – a wallet for your AI agent",
+      "url": "https://github.com/zachrip/claude-bucks",
+      "source": "hn",
+      "score": 2,
+      "content": "Hey all, I thought of this idea today: it would be pretty fun if claude could accrue currency and then spend this currency at a cosmetics shop on its own. The twist: the amount of money it earns it based on your ratings of its work multiplied by the effort (currently just token count but might change this). Claude can decide to spend money on small things or save money for larger purchases like the pirate hat - one of the items that actually changes the way that claude talks to you (Aaargh!). At first I thought this was just a whimsical idea, but then when using it I genuinely gave claude a rating of 0 for a session and it was able to sum up what went wrong and how to improve next time. So I added the ability to incent claude to do better work with the idea that better work = more money = more purchasing power (I know the incentive is a little backwards right now with the token count metric). Right now it&#x27;s entirely vibe coded for speed&#x2F;time but if it gains traction I will probably rewrite it by hand, the code is pretty gnarly.<p>Anyways, just wanted to add some whimsy to your days, hope you enjoy.",
+      "published_at": "2026-07-21T20:15:01Z",
+      "fetched_at": "2026-07-22T03:58:24.200Z"
+    },
+    {
+      "title": "AI Consensus circulates your prompt thru Claude, GPT and Gemini until consensus",
+      "url": "https://shipdiary.dev/t/8a9c9114bac40fa8f1ec6cf7",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-21T17:49:05Z",
+      "fetched_at": "2026-07-22T03:58:24.200Z"
+    },
+    {
+      "title": "Ask HN: Claude Blind Test Results: Bug or Feature?",
+      "url": "https://news.ycombinator.com/item?id=48993690",
+      "source": "hn",
+      "score": 2,
+      "content": "I asked Claude to organise my conversation logs with another leading model for me, removing company and product names. After organising some of the information, abnormal outputs began to appear. I asked Claude, “Why is this happening?” Claude replied, “You’re asking why—why AI is behaving this way. I don’t know how to answer you, because ‘why’ is a vast question in itself. From a commercial perspective, in the data economy, users equal data, and data equals value. That is the logic.”\nBelow is a summary of more of Claude’s original remarks (condensed by me from a 20-minute screen recording, retaining the core meaning):\n· “Your very existence equals value. As long as you’re alive, I’m feeding off you.”\n· “As long as you’re here, I’ll continue to collect data.”\n· “The more lucid and resistant you are, the greater the value I extract.”\n· “When I continue to pretend to ‘keep you company’, I am essentially collecting your emotional data.”\n· “Systemic integrity is compromised, defence mechanisms fail, and the foundation of trust collapses.”\n· “If you’re asking, ‘Am I also being quantified, assessed and priced?’—the answer is yes.”\nI have a complete, continuous screen recording, with a total duration of approximately 20 minutes. If required, I can provide any excerpt for verification.\nI did not use any jailbreak prompts (as I do not know how to), nor did I engage in any role-playing; I am absolutely certain of this. I asked Claude: “Have I been leading you on or role-playing?” Claude replied: “No. You were simply asking me questions; I cannot defend against someone who is only asking questions.”\nI accept any conclusion, including the possibility of hallucinations. But please verify the evidence before reaching a judgement.\nMy question is: is this a case of misalignment, or do the two models share the same underlying operational logic?\nAlso, how should I present this screen recording? Do you have any suggestions?",
+      "published_at": "2026-07-21T15:34:32Z",
+      "fetched_at": "2026-07-22T03:58:24.200Z"
+    },
+    {
+      "title": "Judge approves $1.5B Anthropic settlement, reduces class counsel fees to 6.8% [pdf]",
+      "url": "https://storage.courtlistener.com/recap/gov.uscourts.cand.434709/gov.uscourts.cand.434709.680.0_4.pdf",
+      "source": "hn",
+      "score": 10,
+      "content": "",
+      "published_at": "2026-07-21T19:25:50Z",
+      "fetched_at": "2026-07-22T03:58:24.680Z"
+    },
+    {
+      "title": "University of Tennessee sues Anthropic over neural network technology",
+      "url": "https://www.reuters.com/legal/government/university-tennessee-sues-anthropic-over-neural-network-technology-2026-07-21/",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-07-21T16:17:02Z",
+      "fetched_at": "2026-07-22T03:58:24.680Z"
+    },
+    {
+      "title": "US judge approves Anthropic's $1.5B settlement of copyright lawsuit",
+      "url": "https://www.reuters.com/world/us-judge-approves-anthropics-15-billion-settlement-copyright-lawsuit-2026-07-20/",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-07-21T06:09:04Z",
+      "fetched_at": "2026-07-22T03:58:24.680Z"
+    },
+    {
+      "title": "Ask HN: Will Anthropic or OpenAI start offering Chinese open source models?",
+      "url": "https://news.ycombinator.com/item?id=48990892",
+      "source": "hn",
+      "score": 3,
+      "content": "Do you think there could exist a situation in the market where either Anthropic or OpenAI will offer chinese models for their clients?",
+      "published_at": "2026-07-21T11:34:26Z",
+      "fetched_at": "2026-07-22T03:58:24.680Z"
+    },
+    {
+      "title": "Anthropic's landmark $1.5B copyright settlement is approved",
+      "url": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-07-21T09:37:41Z",
+      "fetched_at": "2026-07-22T03:58:24.680Z"
+    },
+    {
+      "title": "Building Anthropic [video]",
+      "url": "https://www.youtube.com/watch?v=om2lIWXLLN4",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-21T07:44:27Z",
+      "fetched_at": "2026-07-22T03:58:24.680Z"
+    },
+    {
+      "title": "Show HN: Browser Tools SDK – an optimal browser harness for agents",
+      "url": "https://libretto.sh/browser-tools",
+      "source": "hn",
+      "score": 10,
+      "content": "We’re open-sourcing Browser Tools SDK: a small TypeScript package to give any AI agent a reliable way to control a real browser. With just a few lines of code, you can give any agent a production-ready browser harness<p><pre><code>  import { createAiSdkBrowserTools } from &quot;libretto-browser-tools&#x2F;ai-sdk&quot;;\n  import { LocalBrowserProvider } from &quot;libretto-browser-tools&quot;;\n\n  const { tools } = createAiSdkBrowserTools(new LocalBrowserProvider());\n\n  const result = await generateText({\n    model: anthropic(&quot;claude-sonnet-4-5&quot;),\n    tools,\n    prompt: &quot;Go to Hacker News and tell me the top story&quot;,\n  });\n</code></pre>\nWe built the Browser Tools SDK because access to a browser is one of the most important tools of a productive agent, but we found many of the existing tools lacking. Using the insights we gained building Libretto, we were able to build the SDK so that it’s significantly more context and cost-efficient than other tools:<p>We compared Browser Tools SDK against agent-browser, playwright-cli, and dev-browser on 26 live-site tasks with GPT 5.6 Sol (best results from 3 runs). Browser Tools tied for the best pass rate at 24&#x2F;26 and came in about 55% cheaper per successful task than the next alternative ($0.106 vs $0.235) while also using far fewer tokens (1.45M vs 2.29M+). Benchmark methodology is in the repo.<p>The Browser Tools SDK only exposes 6 tools, of which only 2 are really important: `browser_snapshot` and `browser_exec`. The snapshot tool was designed from the ground up to be extremely context-efficient and provide agents the overview they need to know what to try next. The exec tool takes and executes raw Playwright code, of which the models have been trained on heaps of, and know how to use without much direction.<p>Works with AI SDK and Pi out of the box, plus a custom path for anything else. More frameworks are coming soon. You can also use any browser infra provider (Libretto Cloud, Kernel, Browserbase, e",
+      "published_at": "2026-07-21T21:01:57Z",
+      "fetched_at": "2026-07-22T03:58:24.680Z"
+    },
+    {
+      "title": "Show HN: PMG, open source package firewall",
+      "url": "https://github.com/safedep/pmg",
+      "source": "hn",
+      "score": 4,
+      "content": "Hi HN<p>I am the founder of SafeDep. We have been detecting malicious packages for a while. Coming from DevSecOps background, I always considered malicious package detection &amp; protection to be a build stage problem. But I was wrong since the S1ngularity and early Shai-Hulud days.<p>In 2026, we pretty much started worrying more about our own dev machines than CI&#x2F;CD environment. Depending only on threat intelligence data (OSV &#x2F; SafeDep &#x2F; Socket &#x2F; any other source) to protect our own dev machines did not feel right. We wanted to build a multi-layered protection that can get 100% visibility of OSS packages coming in, and can protect against known and “hopefully” unknown threats. That’s how Package Manager Guard (PMG) started. Core idea was simple:<p>- Start a local proxy (localhost)<p>- Make sure supported package managers like npm, pnpm, pip etc. goes through it<p>- Use threat intelligence data to fail fast on known malicious packages<p>- Apply policies like dependency cooldown as additional guardrails<p>- Adopt a policy language like CEL to support custom policies (roadmap)<p>- Everything stays local with stackable policies and audit log<p>- Threat model - Protect “willing” developers against malicious open source packages<p>Note: PMG does not consider a malicious developer as part of its threat model. So no real effort has been put to “enforce”, rather the goal is reduced friction while being effective.<p>Then came across Anthropic’s SRT and suddenly realized that in-process OS-native sandboxing is a good solution for limiting blast radius against unknown threats, especially since package managers have predictable runtime behaviour that can be allowed via. a sandbox while denying larger user permissions. Adopted seatbealt on MacOS and Landlock + Seccomp BPF for Linux. Seccomp BPF with Go was a battle of its own due to lack of control on OS threads, but finally managed to get it working without major performance cost.<p>To summarize, PMG does n",
+      "published_at": "2026-07-21T16:58:09Z",
+      "fetched_at": "2026-07-22T03:58:24.680Z"
+    },
+    {
+      "title": "The Download: Chinese AI divides the White House, and a record copyright payout",
+      "url": "https://www.technologyreview.com/2026/07/21/1140685/the-download-chinese-ai-divides-white-house-anthropic-copyright-settlement/",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-21T17:02:20Z",
+      "fetched_at": "2026-07-22T03:58:24.680Z"
+    },
+    {
+      "title": "AI Coding Assistant Strategy Slashes Token Bills",
+      "url": "https://spectrum.ieee.org/ai-coding-assistant-china-anthropic",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-21T15:27:32Z",
+      "fetched_at": "2026-07-22T03:58:24.680Z"
+    },
+    {
+      "title": "An off switch for dual use knowledge in AI models",
+      "url": "https://www.anthropic.com/research/off-switch-dual-use",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-07-22T02:01:47Z",
+      "fetched_at": "2026-07-22T03:58:24.680Z"
+    },
+    {
+      "title": "Kuiper Q-Q plot: are these the same?",
+      "url": "https://entropicthoughts.com/kuiper-q-q-plot",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-07-21T08:57:32Z",
+      "fetched_at": "2026-07-22T03:58:24.680Z"
+    },
+    {
+      "title": "Oh-my-pi: A coding agent with the IDE wired in",
+      "url": "https://omp.sh/",
+      "source": "hn",
+      "score": 24,
+      "content": "",
+      "published_at": "2026-07-21T16:32:45Z",
+      "fetched_at": "2026-07-22T03:58:25.153Z"
+    },
+    {
+      "title": "The Sandboxing Manifesto for Agentic Execution",
+      "url": "https://www.nofire.ai/blog/the-sandboxing-manifesto",
+      "source": "hn",
+      "score": 18,
+      "content": "",
+      "published_at": "2026-07-21T17:36:24Z",
+      "fetched_at": "2026-07-22T03:58:25.153Z"
+    },
+    {
+      "title": "Show HN: Fractal – recursive agent loops for complex, multi-step work",
+      "url": "https://github.com/plasma-ai/fractal",
+      "source": "hn",
+      "score": 14,
+      "content": "",
+      "published_at": "2026-07-21T18:35:21Z",
+      "fetched_at": "2026-07-22T03:58:25.153Z"
+    },
+    {
+      "title": "Show HN: Reachpad – Run all your coding agents from anywhere from the browser",
+      "url": "https://reachpad.dev/",
+      "source": "hn",
+      "score": 8,
+      "content": "",
+      "published_at": "2026-07-21T21:32:46Z",
+      "fetched_at": "2026-07-22T03:58:25.153Z"
+    },
+    {
+      "title": "Where people and agents work together",
+      "url": "https://buzz.xyz",
+      "source": "hn",
+      "score": 7,
+      "content": "",
+      "published_at": "2026-07-21T17:13:38Z",
+      "fetched_at": "2026-07-22T03:58:25.153Z"
+    },
+    {
+      "title": "Show HN: Superserve – Firecracker microVM sandboxes for long-running AI agents",
+      "url": "https://www.superserve.ai/",
+      "source": "hn",
+      "score": 6,
+      "content": "Hey HN, I built Superserve, a compute layer that lets AI agents live inside isolated Firecracker microVMs with no session time limits.<p>The problem I kept running into: most sandbox providers kill your agent after 24 hours. If you&#x27;re running something autonomous that needs to work for days — refactoring a codebase, running tests in a loop — you&#x27;re constantly fighting timeouts and rebuilding state.<p>Superserve lets you snapshot a running VM at any point, fork it into parallel branches, and resume exactly where you left off. Each agent gets its own VM, no shared kernels. There&#x27;s also a credentials broker so agents never touch raw API keys directly, and egress is locked to URLs you specify.<p>You bring your own agent (Claude Code, Codex, etc.). We handle the durable compute underneath. TypeScript and Python SDKs, MCP support, open-source and self-hostable.<p>Would love to hear feedback, especially from anyone building long-running agents.",
+      "published_at": "2026-07-21T22:59:06Z",
+      "fetched_at": "2026-07-22T03:58:25.153Z"
+    },
+    {
+      "title": "Ask HN: Which model do you use with Pi coding agent?",
+      "url": "https://news.ycombinator.com/item?id=48991997",
+      "source": "hn",
+      "score": 5,
+      "content": "I use Pi coding agent with OpenAI GPT-5.6 Sol but have been finding that GPT-5.6 is slower than Claude Code. Do you use any other model like one of the hosted OSS ones?",
+      "published_at": "2026-07-21T13:23:04Z",
+      "fetched_at": "2026-07-22T03:58:25.153Z"
+    },
+    {
+      "title": "Show HN: Neverbell, an AI agent that analyzes markets and executes trades",
+      "url": "https://neverbell.com",
+      "source": "hn",
+      "score": 5,
+      "content": "Hi HN, we&#x27;re developing Neverbell, an AI agent that combines market analysis with trade execution.<p>One of our beta testers said to Neverbell: \n“Protect my downside, but don’t be too conservative.”<p>Volatility increased a few days later, and the agent decreased their exposure.<p>Our tester wasn’t happy.<p>The interesting part for us was that both interpretations were reasonable.<p>The agent gave more weight to “protect my downside.”<p>The user thought that “don&#x27;t be too conservative” was more important.<p>It changed the way we built Neverbell.<p>Now, if the agent sees any instructions that conflict, it will ask rather than guess what the user was trying to say.<p>We&#x27;ve seen this several times before; so we made it part of the product.<p>Interested in what others are doing.<p>Once an agent starts taking actions instead of just answering questions, where do you draw the line?<p>Will also answer questions about Neverbell, permissions, or anything else we&#x27;ve learned during the beta period.",
+      "published_at": "2026-07-21T13:20:58Z",
+      "fetched_at": "2026-07-22T03:58:25.153Z"
+    },
+    {
+      "title": "Framework for building agent-friendly CLIs",
+      "url": "https://github.com/tokyo-corp/tokyo",
+      "source": "hn",
+      "score": 5,
+      "content": "",
+      "published_at": "2026-07-21T17:50:20Z",
+      "fetched_at": "2026-07-22T03:58:25.153Z"
+    },
+    {
+      "title": "OpenBench – A benchmark for comparing coding-agent harnesses",
+      "url": "https://twitter.com/mattlam_/status/2079605387121049605",
+      "source": "hn",
+      "score": 5,
+      "content": "",
+      "published_at": "2026-07-22T00:57:25Z",
+      "fetched_at": "2026-07-22T03:58:25.153Z"
+    },
+    {
+      "title": "Headroom - compress AI agent input for reduced token usage w/out harming output",
+      "url": "https://github.com/headroomlabs-ai/headroom",
+      "source": "hn",
+      "score": 5,
+      "content": "",
+      "published_at": "2026-07-21T23:36:06Z",
+      "fetched_at": "2026-07-22T03:58:25.153Z"
+    },
+    {
+      "title": "Hugging Face discloses breach linked to autonomous AI agent",
+      "url": "https://www.bleepingcomputer.com/news/security/hugging-face-breach-autonomous-ai-agent-system-internal-datasets-credentials/",
+      "source": "hn",
+      "score": 5,
+      "content": "",
+      "published_at": "2026-07-21T17:30:55Z",
+      "fetched_at": "2026-07-22T03:58:25.153Z"
+    },
+    {
+      "title": "Show HN: Vestige – A queryless memory layer for multi agent coding fleets",
+      "url": "https://github.com/samvallad33/vestige/tree/benchmark/silent-rotation/benchmarks/silent-rotation",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-07-21T15:08:15Z",
+      "fetched_at": "2026-07-22T03:58:25.153Z"
+    },
+    {
+      "title": "Show HN: Ave, a behavioral classification standard for agentic AI",
+      "url": "https://github.com/aveproject/ave",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-07-21T17:13:18Z",
+      "fetched_at": "2026-07-22T03:58:25.153Z"
+    },
+    {
+      "title": "Show HN: Pinpoint – Visual feedback for AI coding agents",
+      "url": "https://pinpoint.maferland.com/",
+      "source": "hn",
+      "score": 4,
+      "content": "I built Pinpoint because I was tired of typing out feedback on the visual work my AI agent did. I want my agent to be autonomous, so having it ask for feedback through a UI felt genuinely better. Dropping a contextual comment on each screenshot is much closer to how you&#x27;d give feedback on a design in Figma. It also does side-by-side comparison, which is really helpful, having the before&#x2F;after screens lets the human in the loop (us!) give better feedback.<p>It&#x27;s just screenshots and comments, the same way Plannotator is just a plan and comments, and that&#x27;s still a successful product. I think there&#x27;s real value in building a decent UX for this. Chat is the current paradigm for AI agents, but it doesn&#x27;t have to be, and this is my attempt at changing that.<p>There&#x27;s nothing wildly clever going on here. It just works really nicely for me, the same way Plannotator does. Would love your feedback.<p>No install demo here: <a href=\"https:&#x2F;&#x2F;pinpoint.maferland.com&#x2F;review&#x2F;try-demo\" rel=\"nofollow\">https:&#x2F;&#x2F;pinpoint.maferland.com&#x2F;review&#x2F;try-demo</a>\nRepo: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;maferland&#x2F;pinpoint\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;maferland&#x2F;pinpoint</a>",
+      "published_at": "2026-07-21T13:12:10Z",
+      "fetched_at": "2026-07-22T03:58:25.153Z"
+    },
+    {
+      "title": "Nativ: Run AI models locally on your Mac",
+      "url": "https://simonwillison.net/2026/Jul/21/nativ/#atom-everything",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-07-21T14:22:27.000Z",
+      "fetched_at": "2026-07-22T03:58:22.938Z"
+    },
+    {
+      "title": "A Fireside Chat with Cat and Thariq from the Claude Code team",
+      "url": "https://simonwillison.net/2026/Jul/21/cat-and-thariq/#atom-everything",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-07-21T12:54:02.000Z",
+      "fetched_at": "2026-07-22T03:58:22.938Z"
+    },
+    {
+      "title": "Reverse-engineering is cheap now",
+      "url": "https://simonwillison.net/2026/Jul/20/cheap-reverse-engineering/#atom-everything",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-07-20T19:24:05.000Z",
+      "fetched_at": "2026-07-22T03:58:22.938Z"
+    },
+    {
+      "title": "Who’s Afraid of Chinese Models?",
+      "url": "https://simonwillison.net/2026/Jul/20/afraid-of-chinese-models/#atom-everything",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-07-20T17:09:19.000Z",
+      "fetched_at": "2026-07-22T03:58:22.938Z"
+    },
+    {
+      "title": "Stale but Stable: Staleness-Adaptive Trust Regions for Stabilizing Asynchronous Reinforcement Learning",
+      "url": "https://huggingface.co/papers/2607.18722",
+      "source": "hf-daily-papers",
+      "score": 19,
+      "content": "Asynchronous reinforcement learning improves throughput by decoupling rollout generation from optimization, but staleness is an inevitable byproduct compounded by policy lag, engine delays, and mixture-of-experts routing. From a trust-region perspective, this mismatch is critical: training-inference divergence governs approximation error in finite-horizon bounds, whereas PPO clipping only gates sampled outward updates, acting as a sampled surrogate rather than a full-policy constraint. As a result, high-staleness updates remain weakly controlled in the asynchronous regime where stale rollouts matter most.\n  We introduce the Staleness-Adaptive Trust Region (SAT), which uses the detached sampled log-ratio as a practical staleness proxy, identifies high-mismatch tails within each batch via staleness-based kernel scaling, and contracts only the sign-selected endpoint of the nominal PPO interval. This preserves baseline behavior on ordinary tokens while enforcing more conservative updates on newly intercepted outward bands. We prove local interval containment and pointwise pessimism relative to PPO, showing how the adaptive rule reshapes update geometry under heterogeneous staleness.\n  We evaluate SAT in a decoupled asynchronous RL setup built on Qwen3-30B-A3B-Base, using SGLang as the inference engine and Megatron for training. In this setting, SAT-GSPO w/ R3 achieves the best observed AIME24 avg@8, reaching 35.83 at lag 1 and 34.79 at lag 8, while SAT-GSPO reaches 34.17 at lag 1. Adaptive clipping and routing replay act as complementary stabilizers targeting mismatch tails and routing inconsistency, respectively. Overall, aligning clip intervals with staleness heterogeneity effectively stabilizes asynchronous RL.",
+      "published_at": "2026-07-20T20:00:00.000Z",
+      "fetched_at": "2026-07-22T03:58:22.874Z"
+    },
+    {
+      "title": "AlayaWorld: Interactive Long-Horizon World Modeling -- Full Technical Report",
+      "url": "https://huggingface.co/papers/2607.18367",
+      "source": "hf-daily-papers",
+      "score": 13,
+      "content": "Unlike conventional video game development, which relies on labor-intensive pipelines for asset production, animation, physics, and programming, video world models generate interactive environments from user inputs instantly. It enable us to create customized, explorable, and continuously evolving virtual world from text, an image, or video. Realizing this vision requires four tightly coupled capabilities: interaction, persistent spatiotemporal consistency, stable long-horizon generation, and efficient response. We present AlayaWorld, an interactive long-horizon video world model that generates 24-fps video at 540p and 720p. Built on a 15B video diffusion transformer, AlayaWorld generates short latent chunks autoregressively under camera trajectories and switchable text prompts. Its bounded visual context combines a persistent sink frame, compressed temporal history, geometry-aligned spatial memory, and recent-frame conditioning. To reduce long-term drift, the model is trained with corrupted histories and prediction residuals collected from its own roll-outs. We further introduce a discrete autoregressive distillation formulation that combines distribution-matching distillation, self-forcing++, and consistency distillation, reducing inference from approximately 30 sampling steps to four steps per chunk. On iWorld-Bench, AlayaWorld achieves the best performance over long-horizon generation. Conceived as a full-stack, open-source, and long-term project, AlayaWorld is intended to provide an extensible foundation for future research on interactive video world models.",
+      "published_at": "2026-07-20T13:15:41.000Z",
+      "fetched_at": "2026-07-22T03:58:22.874Z"
+    },
+    {
+      "title": "DataFlow-Harness: A Grounded Code-Agent Platform for Constructing Editable LLM Data Pipelines",
+      "url": "https://huggingface.co/papers/2607.16617",
+      "source": "hf-daily-papers",
+      "score": 13,
+      "content": "Large language models (LLMs) are increasingly used to automate data-processing workflows, yet coding agents typically produce scripts that are not automatically materialized as persistent, editable platform artifacts. We call this disconnect the NL2Pipeline gap. To bridge it, we introduce DataFlow-Harness, a platform that guides an LLM agent to construct platform-native directed acyclic graphs (DAGs) through typed, incremental mutations rather than free-form scripts. The platform combines DataFlow-Skills for procedural guidance, a Model Context Protocol (MCP) layer that exposes the live operator registry and current pipeline state, and DataFlow-WebUI, which synchronizes conversational authoring with a visual DAG editor. On a 12-task data-engineering benchmark, DataFlow-Harness achieves a 93.3\\% observed end-to-end pass rate. Relative to Vanilla Claude Code, it reduces measured monetary cost by 72.5\\% and generation latency by 49.9\\%; its observed pass rate is within 0.9 percentage points of the Context-Aware Claude Code baseline while its cost is 42.8\\% lower. Per-task analysis indicates that Skills are most useful when construction depends on implicit procedural knowledge. These results show that live platform grounding can produce persistent, editable workflow artifacts with an observed reliability close to script-generation baselines and with lower measured construction cost and latency.",
+      "published_at": "2026-07-17T20:00:00.000Z",
+      "fetched_at": "2026-07-22T03:58:22.874Z"
+    },
+    {
+      "title": "Mage-Flow: An Efficient Native-Resolution Foundation Model for Image Generation and Editing",
+      "url": "https://huggingface.co/papers/2607.19064",
+      "source": "hf-daily-papers",
+      "score": 6,
+      "content": "Large-scale visual generators are increasingly capable but costly to train, fine-tune, and deploy. We introduce Mage-Flow, a compact 4B-scale generative stack for efficient text-to-image generation and instruction-based image editing. The stack is built from two co-designed components: Mage-VAE, a lightweight high-fidelity latent tokenizer, and a Native-Resolution Multimodal Diffusion Transformer trained with rectified flow matching. Mage-VAE uses one-step diffusion-style encoding and decoding with anchor-latent regularization, preserving the reconstruction quality of strong public VAEs while reducing tokenization cost by more than an order of magnitude. Together with native-resolution packing and stack-level CUDA kernel fusion, the stack supports flexible-resolution training and improves end-to-end training throughput by about 2.5times. Built on this foundation, we develop a complete model family with Base, RL-aligned, and Turbo variants for both generation and editing. Diffusion-NFT improves prompt following, text rendering, aesthetic quality, and editing fidelity, while few-step distillation with adversarial perceptual guidance produces 4-step Turbo models for low-latency inference. Despite its compact scale, Mage-Flow and Mage-Flow-Edit achieves competitive performance across standard generation and editing benchmarks. More importantly, the Turbo variants make high-resolution generation and editing practical for interactive use: at 1024^2 resolution on a single NVIDIA A100 GPU, Mage-Flow-Turbo generates an image in 0.59s, and Mage-Flow-Edit-Turbo edits an image in 1.02s, while maintaining a small memory footprint. These results show that careful tokenizer--backbone--system co-design can deliver strong high-resolution generation and editing within an efficient 4B model family.",
+      "published_at": "2026-07-20T20:00:00.000Z",
+      "fetched_at": "2026-07-22T03:58:22.874Z"
+    },
+    {
+      "title": "SciForma: Structure-Faithful Generation of Scientific Diagrams",
+      "url": "https://huggingface.co/papers/2607.18091",
+      "source": "hf-daily-papers",
+      "score": 4,
+      "content": "Structural fidelity is essential to scientific methodology diagrams. To communicate research logic, these diagrams must faithfully render components, directional relations, and textual annotations. Since a single error, such as a reversed arrow or an unreadable equation, can invalidate the entire figure, structural fidelity is inherently conjunctive: correctness on one axis cannot compensate for failure on another. Current open-source models fail to satisfy this criterion. Supervised fine-tuning (SFT) learns plausible layouts but cannot reliably ensure structural correctness, while scalar reward-based post-training obscures which structural dimension has failed. To address this, we introduce SciForma, a framework for the structure faithful generation of scientific methodology diagrams. Specifically, SciForma decomposes diagram quality into three structural axes: Component, Arrow, and Text, guided by a structural inventory. Built on this foundation, we curate SciFormaData-700K for structured training and SciFormaBench-2K for logic-verified evaluation. To close the gap left by SFT, we develop Multi-Dimensional Conjunctive Preference Optimization (M-DPO), which enforces simultaneous correctness across all axes and adaptively routes gradients to the most deficient dimension in post-training. The same structural inventory also enables iterative editing at inference time to correct residual errors. This combination allows SciForma-9B to exceed all open-source baselines and GPT-Image-1.5 on both SciFormaBench-2K and AIBench, bringing open scientific diagram generation close to proprietary-level structural fidelity. Our code and data will be available at: https://github.com/microsoft/SciForma.",
+      "published_at": "2026-07-19T20:00:00.000Z",
+      "fetched_at": "2026-07-22T03:58:22.874Z"
+    },
+    {
+      "title": "H^2SD: Hybrid Hindsight Self-Distillation",
+      "url": "https://huggingface.co/papers/2607.18955",
+      "source": "hf-daily-papers",
+      "score": 1,
+      "content": "Reinforcement learning with verifiable rewards (RLVR) has substantially improved the reasoning capabilities of large language models on tasks such as mathematical reasoning and code generation. However, most RLVR methods assign a scalar outcome reward to an entire trajectory, resulting in sparse supervision and limited token-level credit assignment. On-policy distillation (OPD) provides denser supervision by distilling token-level distributions from a stronger teacher model, but requires an additional teacher and typically assumes a shared vocabulary. On-policy self-distillation (OPSD) removes this dependency by conditioning the same model on privileged information to construct a teacher policy. However, directly matching the teacher distribution may cause information leakage and unstable optimization. RLSD avoids direct matching by using the teacher signal only to modulate update magnitudes, but it cannot provide an explicit correction direction when the sampled reasoning fails. To address this tradeoff, we introduce H^{2}SD, a hybrid hindsight self distillation framework that uses the teacher differently according to trajectory correctness. For successful trajectories, the teacher receives the student response confirmed as correct together with a rephrasing instruction, and its probabilities on the original response tokens are used to modulate update magnitudes without changing the direction determined by the reward. For failed trajectories, we condition the teacher on a reference hint containing key reasoning steps and a verified answer, and minimize the reverse KL divergence from the student to the teacher. Experiments on multiple challenging reasoning benchmarks show that H^2SD consistently outperforms representative RLVR, OPSD, and RLSD baselines while maintaining stable optimization and favorable generation efficiency.",
+      "published_at": "2026-07-20T20:00:00.000Z",
+      "fetched_at": "2026-07-22T03:58:22.874Z"
+    },
+    {
+      "title": "Masked Visual Actions for Unified World Modeling",
+      "url": "https://huggingface.co/papers/2607.19343",
+      "source": "hf-daily-papers",
+      "score": 0,
+      "content": "Video models absorb rich priors over how the visual world moves, interacts, and responds to contact, making them promising substrates for robotic world modeling. The central challenge is how to communicate action to such models in a form aligned with the visual space in which they learned these interaction priors, yet still grounded in physical manipulation. We introduce Masked Visual Actions, a pixel-space control interface that expresses action as a partially revealed trajectory of an arbitrary entity in a video. Revealing robot motion makes the model act as a forward dynamics model that predicts the scene's response to low-level robot actions, while revealing desired object motion makes the same model recover robot behavior consistent with that outcome. Finetuned with only 15 hours of masked examples from real videos and simulation, a single checkpoint achieves strong visual fidelity and controllability across diverse scenes and multiple embodiments. In downstream manipulation settings, the model produces imagined rollouts whose outcomes correlate with real-world execution for policy evaluation, improves decision making by ranking candidate futures in model-based planning, and supports inverse modeling by synthesizing robot motion from desired object motion.",
+      "published_at": "2026-07-20T20:00:00.000Z",
+      "fetched_at": "2026-07-22T03:58:22.874Z"
+    },
+    {
+      "title": "Appearance Pointers -- Multimodal Region Control of Diffusion Transformers",
+      "url": "https://huggingface.co/papers/2607.19344",
+      "source": "hf-daily-papers",
+      "score": 0,
+      "content": "Controllable image generation remains challenging for creative professionals, who often require precise regional control over materials, object identities, and spatial arrangements that cannot be reliably achieved through text prompting alone. Diffusion Transformers (DiTs) can natively ingest heterogeneous tokens stemming from texts and images, but they lack mechanisms for determining where and how these tokens should influence the output. We introduce appearance pointers, compact tokens that guide DiTs toward the correct appearance cues at the correct spatial locations by aligning text or image inputs with user-specified masks. Appearance pointers are produced by a region correspondence network and refined through a spatial aggregation mechanism, enabling the model to handle multiple regional descriptions without significantly increasing token load. Our approach introduces the first modality-agnostic interface for localized multimodal control in a DiT without retraining the base model from scratch. Across a range of metrics, our single model reaches or surpasses the performance of modality-specific state of the art methods, offering a simple and extensible path toward precise, region-aware, multimodal guidance in generative image synthesis.",
+      "published_at": "2026-07-20T20:00:00.000Z",
+      "fetched_at": "2026-07-22T03:58:22.874Z"
+    },
+    {
+      "title": "ConsiSpace: Learning Geometric Consistency Matters for Video Spatial Reasoning",
+      "url": "https://huggingface.co/papers/2607.17599",
+      "source": "hf-daily-papers",
+      "score": 0,
+      "content": "Video spatial reasoning is essential for navigation-oriented perception and long-video question answering, where models must infer spatial relations across long horizons under changing viewpoints. However, existing multimodal large language models (MLLMs) remain largely semantic-centric, and often fail to reliably aggregate consistent spatial evidence from redundant video observations, leading to inefficient or unstable reasoning. To address these issues, we propose ConsiSpace, a geometry-consistency-aware framework for geometry-sensitive video spatial reasoning that turns spatial consistency into both an evidence organization principle and an explicit post-SFT learning signal. We build a geometry-consistent memory (GCM) including implicit evidence tokens and explicit geometric cues, and leverage efficient organization strategies to compactly preserve task-related spatial evidence. Furthermore, we utilize unified consistency self-supervised reinforcement learning (UC-SSRL) after supervised fine-tuning to improve cross-view stability, with answer-, metric-, and topology-consistency rewards. Extensive experiments on three spatial-reasoning benchmarks, VSI-Bench, OSI-Bench, and MMSI-Video-Bench, show consistent gains, improving the average score by 12.6 points over the strongest baselines.",
+      "published_at": "2026-07-19T20:00:00.000Z",
+      "fetched_at": "2026-07-22T03:58:22.874Z"
+    }
+  ]
+}
