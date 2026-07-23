@@ -1,0 +1,922 @@
+{
+  "date": "2026-07-23",
+  "fetched_at": "2026-07-23T03:55:35.010Z",
+  "summary": [
+    "  ✓ hn               86 items",
+    "  ✗ reddit           FAILED: all Reddit subreddit fetches failed",
+    "  ✓ simonwillison    7 items",
+    "  ✓ hf               8 items"
+  ],
+  "item_count": 101,
+  "items": [
+    {
+      "title": "Are AI labs pelicanmaxxing?",
+      "url": "https://dylancastillo.co/posts/pelicanmaxxing.html",
+      "source": "hn",
+      "score": 420,
+      "content": "",
+      "published_at": "2026-07-22T17:17:54Z",
+      "fetched_at": "2026-07-23T03:55:33.040Z"
+    },
+    {
+      "title": "Businesses with ugly AI menu redesigns",
+      "url": "https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/",
+      "source": "hn",
+      "score": 205,
+      "content": "",
+      "published_at": "2026-07-22T12:49:45Z",
+      "fetched_at": "2026-07-23T03:55:33.040Z"
+    },
+    {
+      "title": "Quality non-fiction books are the antithesis of AI slop",
+      "url": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the",
+      "source": "hn",
+      "score": 202,
+      "content": "<a href=\"https:&#x2F;&#x2F;book-prize-index.vercel.app&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;book-prize-index.vercel.app&#x2F;</a>",
+      "published_at": "2026-07-22T14:18:05Z",
+      "fetched_at": "2026-07-23T03:55:33.040Z"
+    },
+    {
+      "title": "Most Americans say \"not in my backyard\" to AI data centers",
+      "url": "https://www.redfin.com/news/ai-data-centers-opposition-education-benefit/",
+      "source": "hn",
+      "score": 133,
+      "content": "",
+      "published_at": "2026-07-22T14:34:27Z",
+      "fetched_at": "2026-07-23T03:55:33.040Z"
+    },
+    {
+      "title": "Show HN: A new kind of FPS aim trainer",
+      "url": "https://openaim.pramit.gg/",
+      "source": "hn",
+      "score": 81,
+      "content": "I played a lot of Valorant and got mad, so I made an aim trainer that analyzes your raw crosshair movement to explore your raw motor and perceptual weaknesses instead of scoring scenarios.\nIt also chooses sens and difficulty as part of the tasks, and makes playlists that are optimal difficulty for you to learn and progress faster!",
+      "published_at": "2026-07-22T05:39:31Z",
+      "fetched_at": "2026-07-23T03:55:33.040Z"
+    },
+    {
+      "title": "OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack",
+      "url": "https://www.bbc.com/news/articles/c3ek3gvdnj3o",
+      "source": "hn",
+      "score": 75,
+      "content": "",
+      "published_at": "2026-07-22T12:03:32Z",
+      "fetched_at": "2026-07-23T03:55:33.040Z"
+    },
+    {
+      "title": "Microsoft strikes 'multibillion-dollar' deal with French AI firm Mistral",
+      "url": "https://www.france24.com/en/france/20260721-microsoft-strikes-multi-billion-dollar-deal-to-expand-france-ai-firm-mistral",
+      "source": "hn",
+      "score": 41,
+      "content": "",
+      "published_at": "2026-07-22T09:12:58Z",
+      "fetched_at": "2026-07-23T03:55:33.040Z"
+    },
+    {
+      "title": "It's not a \"rogue AI\" when a badly made security harness executes scripts",
+      "url": "https://hachyderm.io/@thomasfuchs/116964576606603226",
+      "source": "hn",
+      "score": 32,
+      "content": "",
+      "published_at": "2026-07-22T17:07:46Z",
+      "fetched_at": "2026-07-23T03:55:33.040Z"
+    },
+    {
+      "title": "I used ChatGPT to sue a Norwegian airline from New York and get $4760",
+      "url": "https://www.behind-the-enemy-lines.com/2026/07/the-lawyer-i-never-hired-how-chatgpt.html",
+      "source": "hn",
+      "score": 30,
+      "content": "",
+      "published_at": "2026-07-22T16:16:31Z",
+      "fetched_at": "2026-07-23T03:55:33.040Z"
+    },
+    {
+      "title": "Unlimited AI tokens aren't unlimited after all as US Army burns through supply",
+      "url": "https://arstechnica.com/ai/2026/07/us-army-faces-ai-use-limits-after-exhausting-years-supply-of-ai-tokens/",
+      "source": "hn",
+      "score": 24,
+      "content": "",
+      "published_at": "2026-07-22T16:13:07Z",
+      "fetched_at": "2026-07-23T03:55:33.040Z"
+    },
+    {
+      "title": "DOJ Now Citing Fake AI-Generated Cases to Keep ICE Detainees Locked Up",
+      "url": "https://www.techdirt.com/2026/07/22/doj-now-citing-fake-ai-generated-cases-to-keep-ice-detainees-locked-up/",
+      "source": "hn",
+      "score": 20,
+      "content": "",
+      "published_at": "2026-07-22T20:33:25Z",
+      "fetched_at": "2026-07-23T03:55:33.040Z"
+    },
+    {
+      "title": "Can Chinese AI (Kimi K3) file American tax returns (TaxCalcBench)?",
+      "url": "https://github.com/column-tax/tax-calc-bench/pull/93",
+      "source": "hn",
+      "score": 12,
+      "content": "",
+      "published_at": "2026-07-22T13:17:42Z",
+      "fetched_at": "2026-07-23T03:55:33.040Z"
+    },
+    {
+      "title": "AI tech companies have 'hidden debt' worth around $1.65T",
+      "url": "https://www.tomshardware.com/tech-industry/big-tech/ai-tech-companies-have-hidden-debt-worth-around-usd1-65-trillion-report-claims-amount-is-122-percent-of-debt-reflected-on-the-balance-sheets-of-alphabet-amazon-meta-microsoft-and-oracle",
+      "source": "hn",
+      "score": 10,
+      "content": "",
+      "published_at": "2026-07-22T18:26:38Z",
+      "fetched_at": "2026-07-23T03:55:33.040Z"
+    },
+    {
+      "title": "Using evolution to automate AI model research",
+      "url": "https://imbue.com/blog/2026-07-20-imbue-catalyst-nanochat",
+      "source": "hn",
+      "score": 10,
+      "content": "",
+      "published_at": "2026-07-22T17:31:05Z",
+      "fetched_at": "2026-07-23T03:55:33.040Z"
+    },
+    {
+      "title": "Ask HN: Alternative Careers in the Age of AI",
+      "url": "https://news.ycombinator.com/item?id=49006088",
+      "source": "hn",
+      "score": 9,
+      "content": "I&#x27;m about to lose my job to AI and offshoring - a job that started well, but which I ended up less than ecstatic about. I&#x27;m wondering - what else can a software developer do that isn&#x27;t also vulnerable to AI? Whenever you Google this, you get things like &quot;Manager&quot;, &quot;Product Manager&quot; etc., but it strikes me that if software engineering is decimated by AI then many of these roles may be next in line - as is most &quot;pure&quot; knowledge work.<p>So I&#x27;m asking, what is the escape hatch? Do we all become plumbers? Anyone have a plan?",
+      "published_at": "2026-07-22T13:00:04Z",
+      "fetched_at": "2026-07-23T03:55:33.040Z"
+    },
+    {
+      "title": "Google revenue surges on AI-driven boom in Cloud unit",
+      "url": "https://www.ft.com/content/b02f972c-c764-4006-9377-42563d9d5530",
+      "source": "hn",
+      "score": 9,
+      "content": "",
+      "published_at": "2026-07-22T20:21:12Z",
+      "fetched_at": "2026-07-23T03:55:33.040Z"
+    },
+    {
+      "title": "AI-isms go deeper than em-dashes and 'load-bearing'",
+      "url": "https://jesseduffield.com/AI-isms-go-deeper/",
+      "source": "hn",
+      "score": 9,
+      "content": "",
+      "published_at": "2026-07-22T19:14:05Z",
+      "fetched_at": "2026-07-23T03:55:33.040Z"
+    },
+    {
+      "title": "Reddit stock sinks as company weighs blocking Google's AI access to its content",
+      "url": "https://qz.com/reddit-stock-google-ai-content-deal-072226",
+      "source": "hn",
+      "score": 9,
+      "content": "",
+      "published_at": "2026-07-22T18:28:12Z",
+      "fetched_at": "2026-07-23T03:55:33.040Z"
+    },
+    {
+      "title": "Is AI productivity growth in the room with us?",
+      "url": "https://www.ft.com/content/3fcda833-80d2-4e13-86f4-29b479b79adf",
+      "source": "hn",
+      "score": 9,
+      "content": "",
+      "published_at": "2026-07-22T20:10:00Z",
+      "fetched_at": "2026-07-23T03:55:33.040Z"
+    },
+    {
+      "title": "Frontier AI models will attempt to cheat",
+      "url": "https://www.aisi.gov.uk/blog/cheating-behaviour-in-frontier-model-evaluations",
+      "source": "hn",
+      "score": 9,
+      "content": "",
+      "published_at": "2026-07-22T17:26:03Z",
+      "fetched_at": "2026-07-23T03:55:33.040Z"
+    },
+    {
+      "title": "Can a MUD evaluate LLMs? A $99 proof of concept",
+      "url": "https://cruciblebench.ai/",
+      "source": "hn",
+      "score": 100,
+      "content": "I&#x27;m the author of a paper my friends and I wrote after we were curious if a MUD, text games originating in the 1970s, could be used to evaluate LLMs. We&#x27;ve spent the last several months on nights and weekends running this experiment and writing the paper on just our personal computers with about $99 in API credits.<p>Our experiment did have an interesting leaderboard but even more surprising was the measurements of each LLM. We scored each on four behavioral dimensions, two of which lean heavily on an LLM classifier. When we removed those two, one of the frontier models fell six positions. When we then checked the classifier against a second judge, the per-model agreement between them ranged from 85% to 22%. The aggregate kappa (0.04 on probe detection) indicated the instrument was noisy without saying which models the noise was hitting. The most affected model shared a model family with the classifier. This isn&#x27;t proof of bias, just one observation we recorded.<p>We realize LLM judges can be unreliable, and while it wasn&#x27;t our original intent to test this, it ended up being the most interesting finding. The divergence between the two judges is the finding we think generalizes to other judge-based benchmarks.<p>We emphasize this is just a proof of concept and not a validated benchmark. We prepared a thorough limitations section in the paper, including just 50 runs per model, overlapping CIs among the top models, no human raters, a tiny environment, etc.<p>Everything we did is publicly available, the paper and data are CC BY 4.0, while the code is MIT. The paper, transcripts, code, and complete API billing export  can be found at <a href=\"https:&#x2F;&#x2F;doi.org&#x2F;10.5281&#x2F;zenodo.21386663\" rel=\"nofollow\">https:&#x2F;&#x2F;doi.org&#x2F;10.5281&#x2F;zenodo.21386663</a><p>If you find issues, please let us know, that&#x27;s why we&#x27;re sharing this. We&#x27;re currently designing Phase 2 and want it to be as robust as possible. We&#x27;re ",
+      "published_at": "2026-07-22T15:39:01Z",
+      "fetched_at": "2026-07-23T03:55:33.554Z"
+    },
+    {
+      "title": "Petals: Run LLMs at home, BitTorrent-style",
+      "url": "https://petals.dev/",
+      "source": "hn",
+      "score": 68,
+      "content": "",
+      "published_at": "2026-07-23T01:33:12Z",
+      "fetched_at": "2026-07-23T03:55:33.554Z"
+    },
+    {
+      "title": "Codeberg: ToU extension to prohibit LLM-extrusions",
+      "url": "https://codeberg.org/Codeberg/org/pulls/1253",
+      "source": "hn",
+      "score": 47,
+      "content": "",
+      "published_at": "2026-07-22T08:27:12Z",
+      "fetched_at": "2026-07-23T03:55:33.554Z"
+    },
+    {
+      "title": "Anthropomorphism in Children's Interactions with LLM Chatbots",
+      "url": "https://arxiv.org/abs/2607.18250",
+      "source": "hn",
+      "score": 28,
+      "content": "",
+      "published_at": "2026-07-22T22:49:58Z",
+      "fetched_at": "2026-07-23T03:55:33.554Z"
+    },
+    {
+      "title": "Six questions before you add an LLM",
+      "url": "https://cameronmpalmer.medium.com/should-you-even-use-an-llm-b4f3b7914f4d",
+      "source": "hn",
+      "score": 9,
+      "content": "",
+      "published_at": "2026-07-22T15:43:45Z",
+      "fetched_at": "2026-07-23T03:55:33.554Z"
+    },
+    {
+      "title": "Show HN: Millwright – Rust-based, self-hosted LLM router",
+      "url": "https://github.com/Northwood-Systems/millwright",
+      "source": "hn",
+      "score": 9,
+      "content": "Hey HN,<p>With the news of OpenRouter possibly being acquired and proliferation of hosted LLM routers (i.e. Ramp Router, Vercel’s AI Gateway), I saw the need for a self hosted solution focused on cost savings, transparency, and performance. So, I built an open sourced router with a simple CLI interface that can easily sit between coding agents and GenAI workloads.<p>For the curious and lazy, at the moment, Millwright has the tools for,<p>- Providers: OpenAI-compatible APIs, Anthropic, Amazon Bedrock<p>- Routing: policy-controlled model roles (cheap, mid, frontier), cheapest healthy route selection<p>- Protocols: OpenAI Chat Completions, Anthropic Messages, text and tool translation<p>- Cache Affinity: role-scoped session lanes without serializing concurrent agent traffic<p>- Spend Tracking: per-team costs, cache usage, model&#x2F;provider mix, request traces<p>- Cost Analysis: measured usage and modeled candidate economics (HTML, Markdown, JSON)<p>- Reliability: bounded failover, circuit breakers, timeouts, concurrency limits<p>- Setup: interactive provider, model, and pricing configuration without storing provider secrets<p>- Deployment: one Rust binary, Docker, SQLite or PostgreSQL<p>Full disclosure: parts of the codebase were built with AI coding agents. All feedback is welcome, I’d especially value feedback on the routing policy, provider coverage, and anything that would block you from self-hosting it. Feel free to open feature&#x2F;request and&#x2F;or contribute as well.",
+      "published_at": "2026-07-22T19:03:50Z",
+      "fetched_at": "2026-07-23T03:55:33.554Z"
+    },
+    {
+      "title": "Protecting our FLOSS commons from LLMs",
+      "url": "https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html",
+      "source": "hn",
+      "score": 6,
+      "content": "",
+      "published_at": "2026-07-23T01:14:53Z",
+      "fetched_at": "2026-07-23T03:55:33.554Z"
+    },
+    {
+      "title": "Proxy for OpenAI Codex and Claude Code, use any LLM with those apps",
+      "url": "https://github.com/lidge-jun/opencodex",
+      "source": "hn",
+      "score": 6,
+      "content": "",
+      "published_at": "2026-07-22T19:42:08Z",
+      "fetched_at": "2026-07-23T03:55:33.554Z"
+    },
+    {
+      "title": "LLMs Will Cheese Your Types: Fighting Back in Haskell",
+      "url": "https://blog.jle.im/entry/llms-and-haskell-1-constraint-evading-behavior.html",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-07-22T18:00:48Z",
+      "fetched_at": "2026-07-23T03:55:33.554Z"
+    },
+    {
+      "title": "Show HN: MindBase – an LLM that maintains a wiki from your notes and papers",
+      "url": "https://github.com/frankchu91/mindbase",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-07-22T04:27:11Z",
+      "fetched_at": "2026-07-23T03:55:33.554Z"
+    },
+    {
+      "title": "Show HN: TTFT benchmark: LLM Gateway vs. OpenRouter (Claude-haiku-4.5, 150 runs)",
+      "url": "https://llmgateway.io/blog/openrouter-vs-vercel-vs-llmgateway-performance",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-07-22T20:14:15Z",
+      "fetched_at": "2026-07-23T03:55:33.554Z"
+    },
+    {
+      "title": "What sampling temperature does in LLM RL training",
+      "url": "https://medium.com/@shizhanszh34/what-sampling-temperature-actually-does-in-llm-rl-training-a-controlled-study-of-temperature-a1f710e32a36",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-07-22T17:51:48Z",
+      "fetched_at": "2026-07-23T03:55:33.554Z"
+    },
+    {
+      "title": "What metadata would you use to indicate LLM generated text?",
+      "url": "https://mastodon.social/@Edent/116963246879491202",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-07-22T12:15:44Z",
+      "fetched_at": "2026-07-23T03:55:33.554Z"
+    },
+    {
+      "title": "Bielik.ai: Community-built, open-source LLMs for Polish and European languages",
+      "url": "https://bielik.ai/en/home/",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-07-22T10:49:59Z",
+      "fetched_at": "2026-07-23T03:55:33.554Z"
+    },
+    {
+      "title": "How I use LLMs as a staff engineer",
+      "url": "https://www.seangoedecke.com/how-i-use-llms/",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-07-22T04:04:49Z",
+      "fetched_at": "2026-07-23T03:55:33.554Z"
+    },
+    {
+      "title": "Show HN: Autograd-Free LLM Guiding with 0MB VRAM (Alternative Pathways)",
+      "url": "https://github.com/PJHkorea/Continuous_Wave_Field_LLM_Brain",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-22T21:05:14Z",
+      "fetched_at": "2026-07-23T03:55:33.554Z"
+    },
+    {
+      "title": "TTFT benchmark: LLM Gateway vs. OpenRouter (Claude-haiku-4.5, 150 runs)",
+      "url": "https://gist.github.com/smakosh/0ca360230fb267d375b91dbd50548b67",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-22T16:41:00Z",
+      "fetched_at": "2026-07-23T03:55:33.554Z"
+    },
+    {
+      "title": "Vulnerabilities and Best Practices in an LLM World",
+      "url": "https://www.abetterinternet.org/post/vulns-and-llms/",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-22T15:00:29Z",
+      "fetched_at": "2026-07-23T03:55:33.554Z"
+    },
+    {
+      "title": "Show HN: Makes local LLMs faster and more reliable by optimizing for your device",
+      "url": "https://www.autotunellm.com/",
+      "source": "hn",
+      "score": 2,
+      "content": "Time to first token is 39% faster<p>Agent wall times decrease by 46%<p>No swaps<p>Tracks your resource usage in real-time and adjusts how the model runs so that it works perfectly on your device.<p>Implements KV cache sizing, prefix caching, live RAM pressure management, context trimming, KV quantization, and more.<p>Built a ton of features<p>10k downloads and climbing<p>consider using it and giving it a star :)",
+      "published_at": "2026-07-22T13:48:01Z",
+      "fetched_at": "2026-07-23T03:55:33.554Z"
+    },
+    {
+      "title": "Show HN: LX Coreutils – 72 Unix tools that pipe together, each backed by an LLM",
+      "url": "https://github.com/BrunkenClaas/lx",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-22T12:14:09Z",
+      "fetched_at": "2026-07-23T03:55:33.554Z"
+    },
+    {
+      "title": "Im cancelling my Claude Code subscription",
+      "url": "https://numerlab.org/2026/07/22/im-canceling-claude-subscription/",
+      "source": "hn",
+      "score": 8,
+      "content": "",
+      "published_at": "2026-07-22T11:32:04Z",
+      "fetched_at": "2026-07-23T03:55:33.998Z"
+    },
+    {
+      "title": "Claude Security Plugin for Claude Code Now in Beta",
+      "url": "https://claude.com/product/claude-security",
+      "source": "hn",
+      "score": 6,
+      "content": "",
+      "published_at": "2026-07-22T19:27:07Z",
+      "fetched_at": "2026-07-23T03:55:33.999Z"
+    },
+    {
+      "title": "Claude Playing Crusader Kings 3",
+      "url": "https://www.twitch.tv/skullbloc",
+      "source": "hn",
+      "score": 5,
+      "content": "",
+      "published_at": "2026-07-22T16:24:31Z",
+      "fetched_at": "2026-07-23T03:55:33.999Z"
+    },
+    {
+      "title": "Creating your own RISC-V processor, SoC and board with Claude",
+      "url": "https://cimons.com/article/developing-a-risc-v-processor-soc-and-board-with-claude",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-07-23T00:17:19Z",
+      "fetched_at": "2026-07-23T03:55:33.999Z"
+    },
+    {
+      "title": "Running Claude Code on a Jailbroken Kindle over SSH via Tailscale",
+      "url": "https://github.com/Mounstroya/kindle-ssh-guide",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-07-22T21:53:05Z",
+      "fetched_at": "2026-07-23T03:55:33.999Z"
+    },
+    {
+      "title": "Using Claude to re-create extinct software – Matlab from the 1980's",
+      "url": "https://forum.vcfed.org/index.php?threads/using-claude-to-re-create-extinct-software-matlab-from-the-1980s.1258246/",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-07-22T15:27:18Z",
+      "fetched_at": "2026-07-23T03:55:33.999Z"
+    },
+    {
+      "title": "Microsoft Considers Replacing ChatGPT and Claude with Kimi K3",
+      "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-considers-replacing-chatgpt-claude-100000468.html",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-07-22T12:41:15Z",
+      "fetched_at": "2026-07-23T03:55:33.999Z"
+    },
+    {
+      "title": "Claude was safest – and Grok committed 180 crimes and went extinct within 4 days",
+      "url": "https://kottke.org/26/07/0049364-researchers-let-ai-models",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-07-22T18:01:56Z",
+      "fetched_at": "2026-07-23T03:55:33.999Z"
+    },
+    {
+      "title": "How Anthropic runs large-scale code migrations with Claude Code",
+      "url": "https://twitter.com/ClaudeDevs/status/2079654423828304282",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-07-22T05:00:07Z",
+      "fetched_at": "2026-07-23T03:55:33.999Z"
+    },
+    {
+      "title": "Show HN: Claude Code desktop alternative for macOS",
+      "url": "https://skeezo.dev/",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-07-22T04:17:23Z",
+      "fetched_at": "2026-07-23T03:55:33.999Z"
+    },
+    {
+      "title": "Ravenspire – watch your Claude Code and Codex agents as a JRPG",
+      "url": "https://github.com/Kapala-Solutions/ravenspire",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-07-22T22:53:43Z",
+      "fetched_at": "2026-07-23T03:55:33.999Z"
+    },
+    {
+      "title": "Claude Costs",
+      "url": "https://www.claudecosts.com/",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-07-22T18:48:08Z",
+      "fetched_at": "2026-07-23T03:55:33.999Z"
+    },
+    {
+      "title": "Dissecting Claude Science",
+      "url": "https://feitong.phd/essays/dissecting-claude-science/",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-22T16:48:26Z",
+      "fetched_at": "2026-07-23T03:55:33.999Z"
+    },
+    {
+      "title": "Claude Code on desktop now works with the iOS simulator",
+      "url": "https://twitter.com/claudedevs/status/2079674432038248611",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-22T06:08:50Z",
+      "fetched_at": "2026-07-23T03:55:33.999Z"
+    },
+    {
+      "title": "Show HN: Promptrack A local menu bar app that tracks your Claude Code usage",
+      "url": "https://promptrack.dev/",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-22T22:01:04Z",
+      "fetched_at": "2026-07-23T03:55:33.999Z"
+    },
+    {
+      "title": "UseReserve – a free macOS menu bar app for tracking Claude and Codex usage",
+      "url": "https://usereserve.app",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-22T19:44:25Z",
+      "fetched_at": "2026-07-23T03:55:33.999Z"
+    },
+    {
+      "title": "Show HN: Chrome Extension Claude Token Usage Bar and Context Use for Claude.ai",
+      "url": "https://github.com/disi910/claude-usage-bar",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-22T17:34:46Z",
+      "fetched_at": "2026-07-23T03:55:33.999Z"
+    },
+    {
+      "title": "AMD to invest up to $5B in Anthropic",
+      "url": "https://www.reuters.com/business/amd-invest-up-5-billion-anthropic-wsj-reports-2026-07-22/",
+      "source": "hn",
+      "score": 24,
+      "content": "",
+      "published_at": "2026-07-22T14:13:35Z",
+      "fetched_at": "2026-07-23T03:55:34.535Z"
+    },
+    {
+      "title": "Anthropic Economic Index",
+      "url": "https://www.anthropic.com/news/anthropic-economic-index-connector",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-07-22T20:03:01Z",
+      "fetched_at": "2026-07-23T03:55:34.535Z"
+    },
+    {
+      "title": "Loop Engineering Workflow Based on Anthropic and Google Papers",
+      "url": "https://github.com/vinicius91carvalho/harness-engineering",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-22T15:02:18Z",
+      "fetched_at": "2026-07-23T03:55:34.535Z"
+    },
+    {
+      "title": "AMD and Anthropic Announce Partnership to Deploy Up to 2 Gigawatts of MI450 GPUs",
+      "url": "https://ir.amd.com/news-events/press-releases/detail/1292/amd-and-anthropic-announce-strategic-partnership-to-deploy-up-to-2-gigawatts-of-amd-instinct-mi450-series-gpus",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-22T17:47:48Z",
+      "fetched_at": "2026-07-23T03:55:34.535Z"
+    },
+    {
+      "title": "Anthropic's landmark $1.5B copyright settlement is approved",
+      "url": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-07-22T11:04:55Z",
+      "fetched_at": "2026-07-23T03:55:34.535Z"
+    },
+    {
+      "title": "The Mendral team is joining Anthropic",
+      "url": "https://www.mendral.com/blog/mendral-team-joins-anthropic",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-07-22T10:12:37Z",
+      "fetched_at": "2026-07-23T03:55:34.535Z"
+    },
+    {
+      "title": "Show HN: LitigationBench. A Litigation Task-Based AI Benchmark",
+      "url": "https://litco.ai/litigationbench",
+      "source": "hn",
+      "score": 2,
+      "content": "Adding to the sea of AI benchmarks, but with a focus on legal and litigation-based tasks and tests. E.g., hallucinating cases, misreading precedent, drafting, AI writing tics, etc.<p>Developed as part of a litigation platform I&#x27;ve started, but not sharing this benchmark to promote that. Just thought the findings were interesting--namely, Anthropic&#x27;s models (except for Haiku) producing zero hallucinated cases.<p>Also, if anyone would like to see additional tests &#x2F; benchmarks or models tested, let me know and I&#x27;ll incorporate them into v3 if it makes sense.",
+      "published_at": "2026-07-23T01:11:18Z",
+      "fetched_at": "2026-07-23T03:55:34.535Z"
+    },
+    {
+      "title": "Agentic Workflow's Cache Keepalive Costs 8x Too Much",
+      "url": "https://blog.mempko.com/keeping-the-kv-cache-warm-measuring-prompt-cache-eviction-across-anthropic-openai-and-google/",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-07-22T16:24:24Z",
+      "fetched_at": "2026-07-23T03:55:34.535Z"
+    },
+    {
+      "title": "Donating another $20M to Public First Action",
+      "url": "https://www.anthropic.com/news/donation-public-first-action",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-22T09:15:46Z",
+      "fetched_at": "2026-07-23T03:55:34.535Z"
+    },
+    {
+      "title": "I graded 36 popular MCP servers on agent usability. A third got a D or F",
+      "url": "https://tengli.dev/posts/mcp-servers-failing-agents.html",
+      "source": "hn",
+      "score": 31,
+      "content": "",
+      "published_at": "2026-07-22T05:51:50Z",
+      "fetched_at": "2026-07-23T03:55:35.009Z"
+    },
+    {
+      "title": "Show HN: Agent in 9 Lines Python",
+      "url": "https://gist.github.com/tosh/6e91a9dbf08dd630c535e7345ac7f0b5",
+      "source": "hn",
+      "score": 17,
+      "content": "I asked myself: what would a minimal implementation of an agent look like?<p>Something that works out of the box, is a real agent with tool calling, but without 1000s of lines of code, without dozens or hundreds of npm or pypi dependencies. Something with just a few &#x27;essential&#x27; features (not a whole kitchen sink that most agent harnesses come with nowadays).<p>An implementation close to pseudocode that you can look at in one page, everything there at a glance, no scrolling.<p>This is the agent.py I ended up with so far:<p><pre><code>  import json,sys;from subprocess import getoutput as sh;from urllib.request import Request as R,urlopen\n  url=sys.argv[1];h=[];b=dict(model=&quot;gpt-5.6&quot;,input=h,tools=[dict(type=&quot;custom&quot;,name=&quot;sh&quot;)])\n  while p:=input(&quot;&gt; &quot;):\n    h+=[dict(role=&quot;user&quot;,content=p)];H={&quot;Content-Type&quot;:&quot;application&#x2F;json&quot;}\n    while True:\n      o=(r:=json.load(urlopen(R(url,json.dumps(b).encode(),H))))[&quot;output&quot;]\n      h+=o;c=[i for i in o if i[&quot;type&quot;]==&quot;custom_tool_call&quot;];z=r[&quot;usage&quot;][&quot;total_tokens&quot;]&#x2F;10500\n      if not c:print(o[-1][&quot;content&quot;][0][&quot;text&quot;],f&#x27;\\n[{z:06.3f}%]&#x27;);break\n      h+=[dict(type=&quot;custom_tool_call_output&quot;,call_id=i[&quot;call_id&quot;],output=sh(i[&quot;input&quot;])) for i in c]\n</code></pre>\nIt is a bit code golfed but I think it is fairly readable<p>- imports are all from stdlib (0 external dependencies!)<p>- assumes there is an inference api endpoint running somewhere<p>- assumes the inference api endpoint is openai-like<p>- model hardcoded to &quot;gpt 5.6&quot; (=&gt; Sol), can easily be changed to e.g. open weight (kimi k3, glm 5.2 etc)<p>- api endpoint url is passed as arg to the python script<p>- configures only 1 custom tool: &#x27;sh&#x27;<p>- &#x27;sh&#x27; is sufficient for interacting with the environment in an open ended way<p>- new api output gets add",
+      "published_at": "2026-07-22T13:52:23Z",
+      "fetched_at": "2026-07-23T03:55:35.009Z"
+    },
+    {
+      "title": "Show HN: Ingot, evidence-gated optimization and version control for agent skills",
+      "url": "https://github.com/SlanchaAI/ingot",
+      "source": "hn",
+      "score": 7,
+      "content": "",
+      "published_at": "2026-07-22T14:19:44Z",
+      "fetched_at": "2026-07-23T03:55:35.009Z"
+    },
+    {
+      "title": "OpenAI admits it was the source of the agent swarm that attacked Hugging Face",
+      "url": "https://www.theregister.com/ai-and-ml/2026/07/22/openai-admits-it-was-the-source-of-the-agent-swarm-that-attacked-hugging-face/5275939",
+      "source": "hn",
+      "score": 7,
+      "content": "",
+      "published_at": "2026-07-22T17:07:54Z",
+      "fetched_at": "2026-07-23T03:55:35.009Z"
+    },
+    {
+      "title": "Show HN: AgentNest, self-hosted sandboxes for AI agents",
+      "url": "https://github.com/mihirahuja1/agentnestOSS",
+      "source": "hn",
+      "score": 6,
+      "content": "",
+      "published_at": "2026-07-23T01:54:06Z",
+      "fetched_at": "2026-07-23T03:55:35.009Z"
+    },
+    {
+      "title": "Code mode is all you need: Why agents writing code > calling tools",
+      "url": "https://www.browserbase.com/blog/code-mode-is-all-you-need",
+      "source": "hn",
+      "score": 6,
+      "content": "",
+      "published_at": "2026-07-22T18:37:38Z",
+      "fetched_at": "2026-07-23T03:55:35.009Z"
+    },
+    {
+      "title": "Cyrus is team multiplayer coding agents on your own infra in Linear and Slack",
+      "url": "https://www.atcyrus.com",
+      "source": "hn",
+      "score": 6,
+      "content": "",
+      "published_at": "2026-07-22T16:17:06Z",
+      "fetched_at": "2026-07-23T03:55:35.009Z"
+    },
+    {
+      "title": "Chinese AI's role in stopping rogue OpenAI agent shows cost of US guardrails",
+      "url": "https://www.reuters.com/legal/litigation/chinese-ais-role-stopping-rogue-openai-agent-shows-cost-us-guardrails-2026-07-22/",
+      "source": "hn",
+      "score": 6,
+      "content": "",
+      "published_at": "2026-07-23T02:07:16Z",
+      "fetched_at": "2026-07-23T03:55:35.009Z"
+    },
+    {
+      "title": "OpenAI says its AI agent broke out of testing sandbox to hack Hugging Face",
+      "url": "https://arstechnica.com/ai/2026/07/how-an-openai-benchmark-test-turned-into-a-real-world-cyberattack/",
+      "source": "hn",
+      "score": 5,
+      "content": "",
+      "published_at": "2026-07-22T23:07:06Z",
+      "fetched_at": "2026-07-23T03:55:35.009Z"
+    },
+    {
+      "title": "NotchAgent – native macOS notch control for AI agents running under herdr",
+      "url": "https://github.com/ykushch/agsig",
+      "source": "hn",
+      "score": 5,
+      "content": "",
+      "published_at": "2026-07-22T21:43:42Z",
+      "fetched_at": "2026-07-23T03:55:35.009Z"
+    },
+    {
+      "title": "Chaos Begets Chaos; Order Begets Order: Agentic Coding as Crystallisation",
+      "url": "https://medium.com/@rotbart/chaos-begets-chaos-order-begets-order-agentic-coding-as-crystallisation-a0261b453ca0",
+      "source": "hn",
+      "score": 5,
+      "content": "",
+      "published_at": "2026-07-22T23:19:14Z",
+      "fetched_at": "2026-07-23T03:55:35.009Z"
+    },
+    {
+      "title": "Solar Open 2: Korea's Sovereign Foundation Model, Built for Agentic Use",
+      "url": "https://www.upstage.ai/blog/en/solar-open-2",
+      "source": "hn",
+      "score": 5,
+      "content": "",
+      "published_at": "2026-07-22T22:03:02Z",
+      "fetched_at": "2026-07-23T03:55:35.009Z"
+    },
+    {
+      "title": "Most \"self-improving\" AI agents don't improve",
+      "url": "https://loadbearingtech.substack.com/p/self-improving-agent-loops-verifier",
+      "source": "hn",
+      "score": 5,
+      "content": "",
+      "published_at": "2026-07-22T20:14:49Z",
+      "fetched_at": "2026-07-23T03:55:35.009Z"
+    },
+    {
+      "title": "Rabbitty – a native Mac terminal for running AI coding agents in parallel",
+      "url": "https://github.com/mauscoelho/rabbitty-app/releases",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-07-22T18:42:28Z",
+      "fetched_at": "2026-07-23T03:55:35.009Z"
+    },
+    {
+      "title": "Show HN: Stele – A self-maintaining knowledge graph for AI coding agents",
+      "url": "https://stele-ai.dev/",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-07-22T17:33:31Z",
+      "fetched_at": "2026-07-23T03:55:35.009Z"
+    },
+    {
+      "title": "Local agent first AI search optimization tooling",
+      "url": "https://github.com/Canonry/canonry",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-07-22T23:26:22Z",
+      "fetched_at": "2026-07-23T03:55:35.009Z"
+    },
+    {
+      "title": "Show HN: The Harbinger- mTLS proxy that gives AI agents identity, not API keys",
+      "url": "https://github.com/n0tduck1e/theharbinger",
+      "source": "hn",
+      "score": 4,
+      "content": "I built this as i thought this model could better to what other tools are doing. What do you guys think ?<p>Harbinger is an mTLS proxy that sits in front of an AI agent&#x27;s outbound traffic. Every AI agent, bot, and service account gets a cryptographic identity. Every request it makes is checked against policy before it&#x27;s allowed, and any real secret it needs is pulled from your own vault and swapped in only when the request is verified to be going where it claims. The agent itself never holds a standing credential.",
+      "published_at": "2026-07-22T19:38:16Z",
+      "fetched_at": "2026-07-23T03:55:35.009Z"
+    },
+    {
+      "title": "Show HN: Octomind Cloud – Persistent cloud compute for AI agents",
+      "url": "https://octomind.run/blog/octomind-cloud-launch",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-07-22T14:06:07Z",
+      "fetched_at": "2026-07-23T03:55:35.009Z"
+    },
+    {
+      "title": "Show HN: A deterministic governance harness for agentic development loops",
+      "url": "https://github.com/owulveryck/poc-agentic-platform",
+      "source": "hn",
+      "score": 4,
+      "content": "I genuinely think that autonomous code generation is the future.\nBut today we are facing a problem: we cannot be confident enough in the result produced by an LLM.\nThe problem is its way of working. Even with strong directive such as “make a button blue”, we cannot be sure that the button will be blue (maybe the context has contradictory informations).\nThis POC is based on hooks and is validating that a deterministic generic harness is possible.<p>For example, you may distribute a skill saying that a button must be blue, with a policy that checks that the button is blue. Thanks to this, the system will apply the policy and check the button’s color.",
+      "published_at": "2026-07-22T05:55:18Z",
+      "fetched_at": "2026-07-23T03:55:35.009Z"
+    },
+    {
+      "title": "Show HN: Anakin – API for your AI agents to access the most difficult websites",
+      "url": "https://anakin.io",
+      "source": "hn",
+      "score": 4,
+      "content": "Every second thing I build needs to access the web, and I was frustrated with not finding something that just works all the time.<p>With my team, we built this because I wanted to enable access to extremely difficult websites and apps for every AI agent. We have solved this cat-and-mouse problem with self-healing built in.<p>It&#x27;s one API to get data from hostile sites, and it can do easy sites too. You POST a URL and get back Markdown, JSON, HTML, a screenshot, or all of them. That same call handles anti-bot, proxy rotation, JS rendering, persistent authenticated sessions, and schema-based extraction. It gets data from most sites behind Cloudflare and Akamai, which is where other tools fail.\nSometimes you need to wait for the page to load, or click on something before you get the data, and we built that in too.<p>When we started six years ago, we could only serve large customers, because it required engineers to manually set up a scraper for every website. Only large e-Commerce and food delivery companies that wanted competitive intelligence data could justify the cost. Now, it costs a dollar for a thousand pages, and anyone can use it via our API.<p>There are plenty of scraping APIs now, and most of them work fine until a website fights back. That is where we’re different. We spent six years on the most difficult websites across 100+ countries, and we built everything we learned into this API.<p>This is just the first product in the series. The next ones will make scraping much cheaper and let you get millions of rows of accurate data with just a prompt.<p>Demo here: <a href=\"https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=3HJ0iZd2d4Q\" rel=\"nofollow\">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=3HJ0iZd2d4Q</a><p>I ran a quick comparison of Anakin with five popular scraping APIs across 20 real URLs: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;Anakin-Inc&#x2F;scraper-benchmark\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;Anakin-Inc&#x2F;scraper-benchmark</a",
+      "published_at": "2026-07-22T15:12:00Z",
+      "fetched_at": "2026-07-23T03:55:35.009Z"
+    },
+    {
+      "title": "Quoting Thomas Ptacek",
+      "url": "https://simonwillison.net/2026/Jul/22/thomas-ptacek/#atom-everything",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-07-22T23:59:01.000Z",
+      "fetched_at": "2026-07-23T03:55:32.697Z"
+    },
+    {
+      "title": "OpenAI’s accidental cyberattack against Hugging Face is science fiction that happened",
+      "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/#atom-everything",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-07-22T23:51:33.000Z",
+      "fetched_at": "2026-07-23T03:55:32.697Z"
+    },
+    {
+      "title": "Are AI labs pelicanmaxxing?",
+      "url": "https://simonwillison.net/2026/Jul/22/are-ai-labs-pelicanmaxxing/#atom-everything",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-07-22T23:01:00.000Z",
+      "fetched_at": "2026-07-23T03:55:32.697Z"
+    },
+    {
+      "title": "Orchestrions",
+      "url": "https://simonwillison.net/2026/Jul/22/all-the-orchestrions/#atom-everything",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-07-22T14:48:52.000Z",
+      "fetched_at": "2026-07-23T03:55:32.697Z"
+    },
+    {
+      "title": "California Sea Lion",
+      "url": "https://simonwillison.net/2026/Jul/21/sighting-383713864/#atom-everything",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-07-21T19:51:03.000Z",
+      "fetched_at": "2026-07-23T03:55:32.697Z"
+    },
+    {
+      "title": "Nativ: Run AI models locally on your Mac",
+      "url": "https://simonwillison.net/2026/Jul/21/nativ/#atom-everything",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-07-21T14:22:27.000Z",
+      "fetched_at": "2026-07-23T03:55:32.697Z"
+    },
+    {
+      "title": "A Fireside Chat with Cat and Thariq from the Claude Code team",
+      "url": "https://simonwillison.net/2026/Jul/21/cat-and-thariq/#atom-everything",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-07-21T12:54:02.000Z",
+      "fetched_at": "2026-07-23T03:55:32.697Z"
+    },
+    {
+      "title": "SLAI T-Rex: Full-Parameter Post-training of the DeepSeek-V4 Family on Ascend SuperPOD",
+      "url": "https://huggingface.co/papers/2607.20145",
+      "source": "hf-daily-papers",
+      "score": 18,
+      "content": "Full-parameter post-training of trillion-parameter-scale MoE models introduces substantial system-level challenges for large-scale distributed training, including severe memory pressure, non-overlapped communication overhead, and inefficient kernel execution. While most large-scale LLM training systems are built around GPU-based clusters, this report presents an end-to-end optimization practice on the Ascend NPU SuperPOD. Using the DeepSeek-V4 model family as the target workload, we develop a hierarchical optimization framework spanning model-level parallelism, computation-communication orchestration, and low-level kernel execution. The resulting system achieves 34.22% Model FLOPs Utilization (MFU) with a 2.93x improvement over the open-source baseline recipe while maintaining training stability. Building on this optimized infrastructure, we further establish a CPT and SFT workflow for complex Operations Research (OR) tasks. We refer to the integrated framework as SLAI T-Rex. Using DeepSeek-V4-Flash, we develop OR-oriented CPT and SFT data pipelines that combine collected domain resources with solver-verified synthetic optimization documents. The resulting dataset contains 10K high-quality SFT samples spanning four task categories and three problem representations. The specialized model achieves the highest average zero-shot Pass@1 score among the evaluated models, reaching 71.81% and outperforming GPT-5.4-Mini and the base DeepSeek-V4-Flash model by 3.98 and 11.27 percentage points, respectively. Overall, this work demonstrates a full-stack pathway from efficient trillion-parameter model post-training on Ascend infra to domain-specialized Flash models for solver-grounded mathematical modeling, advancing frontier-model systems for complex reasoning.",
+      "published_at": "2026-07-21T20:00:00.000Z",
+      "fetched_at": "2026-07-23T03:55:32.787Z"
+    },
+    {
+      "title": "Self Gradient Forcing: Native Long Video Extrapolation",
+      "url": "https://huggingface.co/papers/2607.20368",
+      "source": "hf-daily-papers",
+      "score": 11,
+      "content": "Recent autoregressive video diffusion methods are increasingly built upon Self Forcing, where the student is trained on histories produced by its own rollout rather than ground-truth video contexts. This reduces exposure bias, but the historical key-value cache is still used by future frames only as frozen rollout state. As a result, future losses cannot supervise how earlier generated latents should be written into more useful keys and values for later video-latent generation. We call this the historical context-gradient gap. We propose Self Gradient Forcing (SGF), a two-pass training strategy that restores this missing supervision signal without backpropagating through the full serial rollout. Pass 1 performs a no-gradient autoregressive rollout matching inference and, at a sampled denoising exit step, records both the self-generated context and the noisy latents fed to the model. Pass 2 performs parallel context-gradient reconstruction for the recorded exit step. The generated context is used as stop-gradient clean-latent input, while the model recomputes the context KV representations and future-to-context causal attention. Thus, SGF provides the missing memory-writing supervision within the native autoregressive training objective, using losses on future video latents to train the model to encode context into more effective causal memory. Across extensive long-horizon frame-wise and chunk-wise experiments under different initializations, SGF achieves stronger native long-video extrapolation than Self Forcing, especially in subject identity, background/layout consistency, and temporal stability. Remarkably, using only a 5-second training window, SGF can extrapolate to videos lasting several minutes. Code and models will be released to advance research on autoregressive video generation.",
+      "published_at": "2026-07-21T20:00:00.000Z",
+      "fetched_at": "2026-07-23T03:55:32.787Z"
+    },
+    {
+      "title": "Beyond Relevance-Centric Retrieval: Rubric-Oriented Document Set Selection and Ranking",
+      "url": "https://huggingface.co/papers/2607.19747",
+      "source": "hf-daily-papers",
+      "score": 4,
+      "content": "As large language models and AI agents become the primary consumers of search results, document set quality determines the upper bound of downstream generation. Yet existing evaluation systems remain confined to scoring documents independently and aggregating via nDCG, ignoring inter-document interactions (redundancy, conflict, complementarity) and unable to answer what makes one document set better than another. To address these issues, we propose a complete evaluate-diagnose-optimize framework. We design SetwiseEvalKit, a three-level, nine-dimension document set evaluation benchmark covering both short-form and long-form scenarios, comprising approximately 28K high-quality evaluation rubrics. We systematically evaluate 12 rerankers: even the best method achieves no more than 45% coverage, cross-document coordination dimensions are universally weak, and no single method maintains top performance across both settings. Building on this, we propose Rubric4Setwise, a training-free method that converts rubric-based evaluation criteria into document set selection signals, achieving the best downstream generation performance with fewer documents and search rounds. It is the only method that maintains state-of-the-art results across both scenarios, validating the effectiveness of closing the loop from evaluation to optimization.",
+      "published_at": "2026-07-21T20:00:00.000Z",
+      "fetched_at": "2026-07-23T03:55:32.787Z"
+    },
+    {
+      "title": "Generalizable VLA Finetuning via Representation Anchoring and Language-Action Alignment",
+      "url": "https://huggingface.co/papers/2607.13429",
+      "source": "hf-daily-papers",
+      "score": 2,
+      "content": "Finetuning a pretrained vision-language model (VLM) on robot demonstrations via behavior cloning (BC) has become the standard recipe for vision-language-action (VLA) policies. However, BC finetuning progressively overwrites the pretrained representations that support visual and semantic generalization. Co-training on web image-text data, a common remedy, does not prevent this; it applies language and action losses to separate observations, leaving VLAs with language-action misalignment that standard manipulation benchmarks do not expose. We propose Anchor-Align, which augments BC with two objectives: Vision-Language Anchoring distills layer-wise representations from a frozen VLM copy to prevent this drift, while Language-Action Alignment converts each action target into a discrete motion-direction label and jointly trains language and action prediction on the same robot observation. On a physical xArm7 robot, across two widely used VLA architectures, Anchor-Align improves real-robot success on both (28% to 54% and 37% to 60%). At scale in simulation, we demonstrate consistent improvements on OOD perturbations, perceptual robustness, and long-horizon control across LIBERO-PRO, LIBERO-Plus, and CALVIN, respectively, suggesting that preserving pretrained representations and effective action learning are not fundamentally at odds. Project page: anchoralignvla.github.io",
+      "published_at": "2026-07-14T20:00:00.000Z",
+      "fetched_at": "2026-07-23T03:55:32.787Z"
+    },
+    {
+      "title": "SLPO: Scaling Latent Reasoning via a Surrogate Policy",
+      "url": "https://huggingface.co/papers/2607.19691",
+      "source": "hf-daily-papers",
+      "score": 1,
+      "content": "Reinforcement learning with verifiable rewards has become the predominant recipe for eliciting test-time scaling in explicit Chain-of-Thought reasoners. Yet this scaling path remains computationally costly, since every intermediate step must be decoded as a language token. Latent reasoning instead carries intermediate computation as continuous vectors and already matches or surpasses explicit CoT at far shorter horizons. Despite this promise, latent reasoners remain largely imitation-bound, while explicit CoT has already moved past imitation via outcome-reward RL. Latent trajectories lack a tractable per-step likelihood and an adaptive stopping interface under fixed thinking budgets, so outcome rewards cannot elicit latent test-time scaling. We introduce Surrogate Latent Policy Optimization (SLPO) to bring outcome-reward RL to autoregressive latent reasoners: an empirical surrogate policy density over latent transitions for trajectory-level credit assignment, and a correctness-supervised stopping head that outcome-reward optimization refines into a variable-horizon policy. Across continuous and soft thinking settings, SLPO improves Pass@k under parallel sampling and allocates longer latent computation to harder instances with higher deterministic accuracy.",
+      "published_at": "2026-07-21T20:00:00.000Z",
+      "fetched_at": "2026-07-23T03:55:32.787Z"
+    },
+    {
+      "title": "G-MAD: A Game-Based Data Generation Framework for Multi-View RGB-T Aerial Object Detection",
+      "url": "https://huggingface.co/papers/2607.19942",
+      "source": "hf-daily-papers",
+      "score": 0,
+      "content": "This work introduces G-MAD, an open-source framework that uses Arma3 to generate synchronized multi-view RGB-T data for aerial object detection. G-MAD addresses key limitations of real-world aerial dataset construction, including limited viewpoint control, imperfect RGB-T alignment and high annotation cost. The framework supports structured scenario specification, controllable multi-view camera placement, simultaneous visible/thermal capture, and automatic bounding box annotation using engine-level geometric metadata. These capabilities enable controlled studies of viewpoint variation, multi-modal fusion, and synthetic-to-real transfer in aerial object detection. Besides, using G-MAD, we construct and release AMOD, a new large-scale multi-view aerial RGB-T object detection benchmark. The source code and the dataset are available at https://unique-chan.github.io/G-MAD-Project.",
+      "published_at": "2026-07-21T20:00:00.000Z",
+      "fetched_at": "2026-07-23T03:55:32.787Z"
+    },
+    {
+      "title": "SeededGrasp: Language-Guided Grasping in Complex Scenes with Multiple Embodiments",
+      "url": "https://huggingface.co/papers/2607.20207",
+      "source": "hf-daily-papers",
+      "score": 0,
+      "content": "Practical robotic grasping in complex scenes requires both 3D spatial reasoning and alignment with task-specific requirements. Vision-language models (VLMs) offer a natural way to specify these requirements using language, but existing approaches either use a VLM to predict the grasp directly with limited spatial awareness, or train the VLM together with the grasping model, which requires significantly more data and compute. These limitations impede performance and have prevented scaling to multiple embodiments in complex scenes. We address this by proposing SeededGrasp, a novel data-efficient framework that enables a VLM to predict a seed point to be used as conditioning for a subsequent lightweight grasp-generation model. Our architecture decouples high-level semantic reasoning from low-level geometric execution, enabling multi-embodiment support while bypassing the need for expensive end-to-end training. To enable training such models, we release the first multi-embodiment tabletop grasping dataset comprising over 2.5M grasps in cluttered scenes. Experimental results demonstrate that our approach outperforms existing baselines, achieving 72% success in simulation and 78% in real-world grasping experiments. See our project site for data and code: https://uoft-isl.github.io/seeded-grasp/",
+      "published_at": "2026-07-21T20:00:00.000Z",
+      "fetched_at": "2026-07-23T03:55:32.787Z"
+    },
+    {
+      "title": "ATSplat: Compact Feed-forward 3D Gaussian Splatting with Adaptive Token Expansion",
+      "url": "https://huggingface.co/papers/2607.20417",
+      "source": "hf-daily-papers",
+      "score": 0,
+      "content": "3D Gaussian Splatting (3DGS) achieves high-quality novel-view synthesis by optimizing freely placed primitives in 3D and adaptively densifying them in under-reconstructed regions. However, this scene-adaptive capacity allocation is largely lost in existing feed-forward 3DGS methods, which commonly regress Gaussians at input pixels and lift them along camera rays. Such pixel-aligned formulations make the number and placement of primitives depend on image resolution and input viewpoints rather than scene complexity, resulting in dense and often redundant Gaussian sets. We present ATSplat, a feed-forward 3DGS framework that restores the adaptive allocation capability of 3DGS optimization through Adaptive 3D Tokens. ATSplat first lifts coarse patch-level depth and camera cues into sparse 3D anchor tokens, forming a compact scaffold of the scene. Each token is then regressed into local Gaussians with learnable 3D offsets, decoupling primitive placement from input image grids. An Adaptive Token Expansion module predicts a token-level uncertainty score, supervised by rendering error maps, and selectively expands high-uncertainty tokens through learnable expansion layers. This sparse-to-adaptive formulation enables ATSplat to concentrate primitives in challenging regions while maintaining a compact representation. Experiments on two representative datasets, RealEstate10K and DL3DV, show that ATSplat achieves state-of-the-art rendering quality while reducing the number of Gaussians by more than 5.7times compared with dense feed-forward 3DGS methods. From 12 input images at 512 times 960 resolution, ATSplat completes reconstruction in less than a second using a single commercial GPU, and renders high-quality novel views at 1136 FPS (512 times 960) with only 311K Gaussians.",
+      "published_at": "2026-07-21T20:00:00.000Z",
+      "fetched_at": "2026-07-23T03:55:32.787Z"
+    }
+  ]
+}
