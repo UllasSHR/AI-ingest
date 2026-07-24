@@ -1,10 +1,4 @@
 {
-  "https://nutshotsimulator.com/nutshot/": "2026-07-17",
-  "https://www.blackbook.dk/en/": "2026-07-17",
-  "https://snippai.dev": "2026-07-17",
-  "https://blog.simbastack.com/announcing-sentinel/": "2026-07-17",
-  "https://heimwall.ai/individual": "2026-07-17",
-  "https://1password.com/blog/1password-for-claude": "2026-07-17",
   "https://github.com/d-date/retok": "2026-07-18",
   "https://github.com/anlor1002-alt/regressionledger": "2026-07-18",
   "https://github.com/alagiz/cc-context-telemetry": "2026-07-18",
@@ -42,5 +36,9 @@
   "https://claude.com/product/claude-security": "2026-07-23",
   "https://promptrack.dev/": "2026-07-23",
   "https://github.com/mauscoelho/rabbitty-app/releases": "2026-07-23",
-  "https://skeezo.dev/": "2026-07-23"
+  "https://skeezo.dev/": "2026-07-23",
+  "https://github.com/raine/claude-code-proxy": "2026-07-24",
+  "https://usebdfl.com/": "2026-07-24",
+  "https://github.com/SteveVitali/claude-hibernate": "2026-07-24",
+  "https://firasd.substack.com/p/accidental-data-loss-in-claude-code-openai-codex-ai-agent-harness-file-deletion": "2026-07-24"
 }
