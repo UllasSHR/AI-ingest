@@ -1,11 +1,4 @@
 {
-  "https://shikigami.dev/": "2026-07-20",
-  "https://www.kloofstreet.online/": "2026-07-20",
-  "https://www.crumpledpaper.tech/2026-07-19-oss-code-review/": "2026-07-20",
-  "https://twitter.com/ClaudeDevs/status/2078511173759324328": "2026-07-20",
-  "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/": "2026-07-20",
-  "https://sairc.vercel.app/resources": "2026-07-20",
-  "https://github.com/cyrusNuevoDia/gpt-workflow": "2026-07-20",
   "https://github.com/cfitzgerald-pd/effort-router": "2026-07-21",
   "https://news.ycombinator.com/item?id=48982875": "2026-07-21",
   "https://github.com/tiny-cloud-ventures/amnesia": "2026-07-21",
@@ -36,5 +29,18 @@
   "https://github.com/AjnasNB/qarinah": "2026-07-26",
   "https://simonwillison.net/2026/Jul/24/introducing-claude-opus-5/#atom-everything": "2026-07-26",
   "https://github.com/slash9494/ai-config-sync-manager": "2026-07-26",
-  "https://github.com/gregsramblings/claude-status-bar": "2026-07-26"
+  "https://github.com/gregsramblings/claude-status-bar": "2026-07-26",
+  "https://github.com/hkc5/cursor-bridge": "2026-07-27",
+  "https://termic.dev/": "2026-07-27",
+  "https://terminai.app": "2026-07-27",
+  "https://forkbench.com": "2026-07-27",
+  "https://github.com/kliukovkin/llm-spend": "2026-07-27",
+  "https://github.com/De-Cri/dont-kick-me-out": "2026-07-27",
+  "https://github.com/avenna01-ceo/claude-code-survival-kr/tree/main/guard": "2026-07-27",
+  "https://github.com/Nutlope/hallmark": "2026-07-27",
+  "https://github.com/lenamonj/jeffy-loop": "2026-07-27",
+  "https://aifordevelopers.substack.com/p/designmd-for-design-in-claude-code": "2026-07-27",
+  "https://old.reddit.com/r/ClaudeCode/comments/1v6y5q2/claude_code_has_a_hardcoded_instruction_telling/": "2026-07-27",
+  "https://code.claude.com/docs/en/data-usage": "2026-07-27",
+  "https://old.reddit.com/r/ClaudeAI/comments/1v6fiyj/you_can_view_a_lot_of_shared_conversations_via/": "2026-07-27"
 }
