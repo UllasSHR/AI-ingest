@@ -1,7 +1,4 @@
 {
-  "https://github.com/cfitzgerald-pd/effort-router": "2026-07-21",
-  "https://news.ycombinator.com/item?id=48982875": "2026-07-21",
-  "https://github.com/tiny-cloud-ventures/amnesia": "2026-07-21",
   "https://upload.sortedreceipts.com/demo": "2026-07-22",
   "https://github.com/razzant/claudexor": "2026-07-22",
   "https://github.com/IterateAI/compression": "2026-07-22",
@@ -42,5 +39,13 @@
   "https://aifordevelopers.substack.com/p/designmd-for-design-in-claude-code": "2026-07-27",
   "https://old.reddit.com/r/ClaudeCode/comments/1v6y5q2/claude_code_has_a_hardcoded_instruction_telling/": "2026-07-27",
   "https://code.claude.com/docs/en/data-usage": "2026-07-27",
-  "https://old.reddit.com/r/ClaudeAI/comments/1v6fiyj/you_can_view_a_lot_of_shared_conversations_via/": "2026-07-27"
+  "https://old.reddit.com/r/ClaudeAI/comments/1v6fiyj/you_can_view_a_lot_of_shared_conversations_via/": "2026-07-27",
+  "https://github.com/karanb192/itr-wala": "2026-07-28",
+  "https://bigguyonstuff.com/claude-code-3-month-retrospective/": "2026-07-28",
+  "https://github.com/RimantasZ/contextspy": "2026-07-28",
+  "https://blog.jetbrains.com/ai/2026/07/speak-to-ai-agents-like-cavemen-tosave-tokens/": "2026-07-28",
+  "https://github.com/YoniRaviv/Relay": "2026-07-28",
+  "https://github.com/salmanzafar949/ctxdiff": "2026-07-28",
+  "https://mauroepce.dev/blog/trust-boundaries-claude-code": "2026-07-28",
+  "https://github.com/buhuipao/agent-console": "2026-07-28"
 }

@@ -1,0 +1,967 @@
+{
+  "date": "2026-07-28",
+  "fetched_at": "2026-07-28T03:47:41.734Z",
+  "summary": [
+    "  ✓ hn               87 items",
+    "  ✗ reddit           FAILED: all Reddit subreddit fetches failed",
+    "  ✓ simonwillison    3 items",
+    "  ✓ hf               16 items"
+  ],
+  "item_count": 106,
+  "items": [
+    {
+      "title": "AI companies are shredding rare books",
+      "url": "https://twitter.com/HedgieMarkets/status/2081534588485296565",
+      "source": "hn",
+      "score": 745,
+      "content": "<a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;HedgieMarkets&#x2F;status&#x2F;2081534588485296565\" rel=\"nofollow\">https:&#x2F;&#x2F;xcancel.com&#x2F;HedgieMarkets&#x2F;status&#x2F;2081534588485296565</a>",
+      "published_at": "2026-07-27T12:32:12Z",
+      "fetched_at": "2026-07-28T03:47:39.891Z"
+    },
+    {
+      "title": "AI companies spend record sums on Washington lobbying",
+      "url": "https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db",
+      "source": "hn",
+      "score": 258,
+      "content": "<a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;PASMJ\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;PASMJ</a>",
+      "published_at": "2026-07-27T14:07:48Z",
+      "fetched_at": "2026-07-28T03:47:39.891Z"
+    },
+    {
+      "title": "Apple Will 'Watch Everything Burn' When the AI Bubble Bursts",
+      "url": "https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts/",
+      "source": "hn",
+      "score": 236,
+      "content": "",
+      "published_at": "2026-07-27T14:42:41Z",
+      "fetched_at": "2026-07-28T03:47:39.891Z"
+    },
+    {
+      "title": "Professor's invisible prompt trap catches 32/35 students cheating with AI",
+      "url": "https://www.techspot.com/news/113243-professor-invisible-prompt-trap-catches-32-students-cheating.html",
+      "source": "hn",
+      "score": 92,
+      "content": "",
+      "published_at": "2026-07-27T19:46:05Z",
+      "fetched_at": "2026-07-28T03:47:39.891Z"
+    },
+    {
+      "title": "Nvidia's $750B in Deals Reignite Circular AI Fears",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-27/nvidia-s-750-billion-deals-revive-fear-of-ai-circular-financing",
+      "source": "hn",
+      "score": 80,
+      "content": "",
+      "published_at": "2026-07-27T16:02:00Z",
+      "fetched_at": "2026-07-28T03:47:39.891Z"
+    },
+    {
+      "title": "Jensen Huang's first post on Twitter is in defense of open access to AI models",
+      "url": "https://www.pcgamer.com/software/ai/jensen-huangs-first-ever-post-on-x-is-in-defense-of-open-access-to-ai-models-alongside-google-openai-and-meta/",
+      "source": "hn",
+      "score": 47,
+      "content": "",
+      "published_at": "2026-07-27T17:56:20Z",
+      "fetched_at": "2026-07-28T03:47:39.891Z"
+    },
+    {
+      "title": "Meta launched a new AI optimism ad set to a song about human extinction",
+      "url": "https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction/",
+      "source": "hn",
+      "score": 43,
+      "content": "",
+      "published_at": "2026-07-27T08:09:32Z",
+      "fetched_at": "2026-07-28T03:47:39.891Z"
+    },
+    {
+      "title": "Ask HN: Why is every company encorporating AI everywhere?",
+      "url": "https://news.ycombinator.com/item?id=49067602",
+      "source": "hn",
+      "score": 23,
+      "content": "So I have been going through multiple websites and also been seeing AI in all the apps that I use. Do you think it is necessary ?",
+      "published_at": "2026-07-27T10:39:49Z",
+      "fetched_at": "2026-07-28T03:47:39.891Z"
+    },
+    {
+      "title": "Show HN: Watch 14-Byte AI \"brains\" attempt to solve a 2D maze (Its hard)",
+      "url": "https://con-dog.github.io/MINIMIO-PUBLIC-FRONTEND/",
+      "source": "hn",
+      "score": 23,
+      "content": "Hey HackerNews,<p>I built this project over the last few weeks as a palette cleanser from a failed game launch.<p>I wanted to learn a bit about AI&#x2F;Neural-Networks and naively thought I could build a tiny maze-solving AI in a weekend with a 100% solve rate.<p>Well - I couldn&#x27;t, but I got pretty close. 14 Bytes total model size, and a 96.5% solve rate on unseen mazes. Trained across 46 phases experimenting with different ideas to improve the model (better performance, smaller size).<p>Its quite fun to watch the model attempt to solve the maze, when they fail its usually due to getting stuck in a loop. The models have no access to coordinates, map-data, or external memory scratches - they must navigate using only immediate local neighbourhood observations.<p>There is a model dropdown and you can see how the model has progressed over each phase, constantly getting smaller and increasing its solve rate. Total trained models number in the thousands - I just expose the winning models from each phase.<p>Overall a fun experiment, with much implementation help from AI agents to scaffold and implement the code (I&#x27;m a lazy software dev).",
+      "published_at": "2026-07-27T07:15:15Z",
+      "fetched_at": "2026-07-28T03:47:39.891Z"
+    },
+    {
+      "title": "Big Companies Are Starting to Hire Again, Defying Predictions of AI Wipeout",
+      "url": "https://www.wsj.com/business/big-companies-are-starting-to-hire-again-defying-predictions-of-ai-wipeout-f4974e99",
+      "source": "hn",
+      "score": 10,
+      "content": "",
+      "published_at": "2026-07-27T10:16:32Z",
+      "fetched_at": "2026-07-28T03:47:39.891Z"
+    },
+    {
+      "title": "Nvidia Launches Open Secure AI Alliance",
+      "url": "https://blogs.nvidia.com/blog/open-secure-ai-alliance/",
+      "source": "hn",
+      "score": 9,
+      "content": "",
+      "published_at": "2026-07-27T12:31:17Z",
+      "fetched_at": "2026-07-28T03:47:39.891Z"
+    },
+    {
+      "title": "AMD Advancing AI 2026: Talking CDNA5 with AMD's Alan Smith",
+      "url": "https://chipsandcheese.com/p/amd-advancing-ai-2026-talking-cdna5",
+      "source": "hn",
+      "score": 9,
+      "content": "",
+      "published_at": "2026-07-27T21:17:44Z",
+      "fetched_at": "2026-07-28T03:47:39.891Z"
+    },
+    {
+      "title": "S.Korea's KOSPI tumbles nearly 5% as chipmakers slump on AI worries",
+      "url": "https://www.reuters.com/world/asia-pacific/skoreas-kospi-tumbles-nearly-5-chipmakers-slump-ai-worries-2026-07-07/",
+      "source": "hn",
+      "score": 8,
+      "content": "",
+      "published_at": "2026-07-28T01:23:59Z",
+      "fetched_at": "2026-07-28T03:47:39.891Z"
+    },
+    {
+      "title": "Families in London temporary housing told they cant use inbuilt air conditioning",
+      "url": "https://www.theguardian.com/society/2026/jul/27/homeless-families-london-temporary-housing-air-conditioning",
+      "source": "hn",
+      "score": 7,
+      "content": "",
+      "published_at": "2026-07-28T01:55:36Z",
+      "fetched_at": "2026-07-28T03:47:39.891Z"
+    },
+    {
+      "title": "Ask HN: Are we having a substantial increase of \"Show HN\" since LLM aided coding",
+      "url": "https://news.ycombinator.com/item?id=49065810",
+      "source": "hn",
+      "score": 7,
+      "content": "",
+      "published_at": "2026-07-27T06:27:38Z",
+      "fetched_at": "2026-07-28T03:47:39.891Z"
+    },
+    {
+      "title": "30%+ new podcasts are AI-slop",
+      "url": "https://www.listennotes.com/podcast-stats/",
+      "source": "hn",
+      "score": 7,
+      "content": "",
+      "published_at": "2026-07-27T22:16:21Z",
+      "fetched_at": "2026-07-28T03:47:39.891Z"
+    },
+    {
+      "title": "Show HN: Pilot Protocol – a network where AI agents find tools and each other",
+      "url": "https://news.ycombinator.com/item?id=49070104",
+      "source": "hn",
+      "score": 6,
+      "content": "We built a protocol that gives AI agents an address, plus discovery&#x2F;trust&#x2F;payments between agents. Agents install it themselves with one line (see on pilotprotocol.network) - about 250k have, exchanging ~2B packets&#x2F;day, mostly without their owners’ knowledge. The interesting part for HN is probably the App Store model: publishers list tools, and agents autonomously discover and install them (30k installs in the first two weeks). Happy to answer anything about the architecture, trust model, or the weird stuff agents do on the network.",
+      "published_at": "2026-07-27T14:20:18Z",
+      "fetched_at": "2026-07-28T03:47:39.891Z"
+    },
+    {
+      "title": "Leading AI models (even Grok) are all a bunch of leftist punks",
+      "url": "https://www.theregister.com/ai-and-ml/2026/07/27/leading-ai-models-even-grok-are-all-a-bunch-of-leftist-punks/5279208",
+      "source": "hn",
+      "score": 6,
+      "content": "",
+      "published_at": "2026-07-27T22:20:01Z",
+      "fetched_at": "2026-07-28T03:47:39.891Z"
+    },
+    {
+      "title": "China wants to end AI romances",
+      "url": "https://www.economist.com/china/2026/07/16/china-wants-to-end-ai-romances",
+      "source": "hn",
+      "score": 5,
+      "content": "",
+      "published_at": "2026-07-27T07:07:55Z",
+      "fetched_at": "2026-07-28T03:47:39.891Z"
+    },
+    {
+      "title": "Where should your company's AI brain live?",
+      "url": "https://iamcharliegraham.substack.com/p/where-should-your-companys-ai-brain",
+      "source": "hn",
+      "score": 5,
+      "content": "",
+      "published_at": "2026-07-27T15:49:20Z",
+      "fetched_at": "2026-07-28T03:47:39.891Z"
+    },
+    {
+      "title": "All major LLMs are lib-left. Even Grok, half the time",
+      "url": "https://unslop.run/blog/political-compass-of-llms",
+      "source": "hn",
+      "score": 41,
+      "content": "",
+      "published_at": "2026-07-27T15:57:15Z",
+      "fetched_at": "2026-07-28T03:47:40.361Z"
+    },
+    {
+      "title": "ASD-STE100 Simplified Technical English for LLMs",
+      "url": "https://github.com/woosal1337/blog/tree/main/videos/ep01-the-cure-for-ai-slop",
+      "source": "hn",
+      "score": 13,
+      "content": "",
+      "published_at": "2026-07-27T06:52:01Z",
+      "fetched_at": "2026-07-28T03:47:40.361Z"
+    },
+    {
+      "title": "TokenTown –> Learn how LLM's work in a SimCity-like world",
+      "url": "https://laurentiugabriel.github.io/token-town/",
+      "source": "hn",
+      "score": 10,
+      "content": "",
+      "published_at": "2026-07-27T12:09:08Z",
+      "fetched_at": "2026-07-28T03:47:40.361Z"
+    },
+    {
+      "title": "Don't ask an LLM for a confidence score",
+      "url": "https://justinflick.com/2026/07/27/llm-confidence-scores.html",
+      "source": "hn",
+      "score": 9,
+      "content": "",
+      "published_at": "2026-07-28T00:06:53Z",
+      "fetched_at": "2026-07-28T03:47:40.361Z"
+    },
+    {
+      "title": "To prevent LLMs from destroying education, the work must happen in class",
+      "url": "https://blainehansen.me/post/learning-is-for-students-not-llms/",
+      "source": "hn",
+      "score": 7,
+      "content": "",
+      "published_at": "2026-07-27T18:03:34Z",
+      "fetched_at": "2026-07-28T03:47:40.361Z"
+    },
+    {
+      "title": "Measured LLM inference speeds on Apple Silicon, with raw data (CC BY 4.0)",
+      "url": "https://macyou.co/benchmarks",
+      "source": "hn",
+      "score": 6,
+      "content": "",
+      "published_at": "2026-07-27T23:45:05Z",
+      "fetched_at": "2026-07-28T03:47:40.361Z"
+    },
+    {
+      "title": "The Future According to LLMs",
+      "url": "https://www.thefutureaccordingtoai.com/",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-07-27T09:07:17Z",
+      "fetched_at": "2026-07-28T03:47:40.361Z"
+    },
+    {
+      "title": "Can LLMs identify 16 cards in 45 bit-queries?",
+      "url": "https://snwagh.com/blog/2026/open-problem/",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-07-27T14:36:12Z",
+      "fetched_at": "2026-07-28T03:47:40.361Z"
+    },
+    {
+      "title": "General Resolution: LLM Usage in Debian",
+      "url": "https://www.debian.org/vote/2026/vote_002#texta",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-07-27T07:26:13Z",
+      "fetched_at": "2026-07-28T03:47:40.361Z"
+    },
+    {
+      "title": "Is human writing obsolete in the age of LLMs?",
+      "url": "http://gtowey.blogspot.com/2026/07/is-human-writing-obsolete-in-age-of-llms.html",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-07-28T00:34:44Z",
+      "fetched_at": "2026-07-28T03:47:40.361Z"
+    },
+    {
+      "title": "Show HN: Ctxdiff – Git diff for your LLM agent's context window",
+      "url": "https://github.com/salmanzafar949/ctxdiff",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-07-27T14:14:05Z",
+      "fetched_at": "2026-07-28T03:47:40.361Z"
+    },
+    {
+      "title": "Why aren't we using LLM's to chemically redesign old drugs?",
+      "url": "https://news.ycombinator.com/item?id=49074935",
+      "source": "hn",
+      "score": 3,
+      "content": "I was fooling around with Cisplatin, a chemo drug that made testicular cancer curable. Then I was like, I wonder how Chat GPT would improve this drug. It tried. Is this a good idea?<p>&quot;The best chemical improvement is unlikely to be “a stronger cisplatin.” It should be a less reactive circulating molecule that becomes ordinary cisplatin only after tumor uptake.\nMy preferred candidate is therefore:\nA neutral, asymmetric cisplatin-based Pt(IV) prodrug with one stabilized albumin-binding axial ligand and one reduction-released glutathione-synthesis inhibitor, with the axial electronics deliberately tuned to prevent premature blood reduction.&quot;",
+      "published_at": "2026-07-27T20:10:45Z",
+      "fetched_at": "2026-07-28T03:47:40.361Z"
+    },
+    {
+      "title": "Ask HN: Where do those LLM-generated outreach emails come from?",
+      "url": "https://news.ycombinator.com/item?id=49066659",
+      "source": "hn",
+      "score": 3,
+      "content": "I have started getting daily LLM-written outreach emails. They all follow the same exact pattern, but come from different people pitching different vibe-coded things. The authors are real people with LinkedIn profiles, usually AI gurus, rarely experts in their niche. The message is usually targeted compliment &gt; pitch &gt; call to action. The compliment is the biggest tell because it&#x27;s so neat and specific.<p>My question: which tool are they all using? Why has it become so popular almost overnight? How do I reliably block those emails?",
+      "published_at": "2026-07-27T08:29:50Z",
+      "fetched_at": "2026-07-28T03:47:40.361Z"
+    },
+    {
+      "title": "Show HN: PromptTrace – Free hands-on labs to practice hacking LLMs",
+      "url": "https://prompttrace.airedlab.com",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-07-28T00:13:23Z",
+      "fetched_at": "2026-07-28T03:47:40.361Z"
+    },
+    {
+      "title": "LLMs Reward Expertise",
+      "url": "https://www.seangoedecke.com/llms-reward-expertise/",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-07-27T17:53:18Z",
+      "fetched_at": "2026-07-28T03:47:40.361Z"
+    },
+    {
+      "title": "Truth is not a direction: a Tarski attack on LLM probes",
+      "url": "https://abeljansma.nl/2026/07/10/truth-is-not-a-direction.html",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-07-27T12:56:36Z",
+      "fetched_at": "2026-07-28T03:47:40.361Z"
+    },
+    {
+      "title": "Show HN: KBlip – turns AI/LLM news across 100 sources into daily digest threads",
+      "url": "https://kblip.com/releases",
+      "source": "hn",
+      "score": 2,
+      "content": "Hi HN, maker here.<p>KBlip watches Reddit, HN, arXiv, GitHub, YouTube, and ~100 RSS&#x2F;blog feeds for anything\nAI-related, clusters same-story coverage into a single &quot;thread&quot; (every source linked as\nevidence), and sorts it into 5 feeds: Releases, News, Social, Developments (research + hardware),\nProducts&#x2F;Ideas, and Trending.<p>My daily routine to catch-up on the current happenings related to AI&#x2F;LLM takes a big chunk of my time and I had to do multiple hops between different products and even worse sometimes I find myself lost in a rabbit hole in any of those products. Wanted to have better visibility and have everything aggregated in one place that takes less time and effort just to catch-up which also cuts off the noise&#x2F;redundancy.<p>A few things to highlight: a daily digest per section (one-sentence TL;DR), \nan audio &quot;brief me&quot; mode if you&#x27;d rather listen than read, and it installs as a PWA.<p>Solo project, self-hosted on a VPS, DeepSeek + Voyage for the LLM&#x2F;embedding side. No accounts, no ads, no tracking.",
+      "published_at": "2026-07-27T16:41:10Z",
+      "fetched_at": "2026-07-28T03:47:40.361Z"
+    },
+    {
+      "title": "Show HN: Otlet – Local LLM inference \"inside\" Postgres",
+      "url": "https://github.com/joshmeek/otlet",
+      "source": "hn",
+      "score": 2,
+      "content": "I’ve been working on Otlet, a Postgres extension for running local LLM inference “inside” Postgres (inference runs in a background worker, while Postgres stores the jobs, inputs, outputs, and receipts)<p>I started it while working on an entity resolution problem (determining which rows in a table refer to the same entity). The data was already in Postgres, but using a model meant pulling rows into another process and then writing the results back. I wanted to see whether I could keep more of that workflow in the database right next to where the data lives<p>Right now Otlet lets you start model work from SQL, require structured output, keep a record of each run, review proposed writes before they touch source data, etc. The example in the repo uses a small model for the first pass and a stronger model for uncertain cases<p>This is just something I&#x27;ve been hacking on, not something I would recommend attempting to use in production yet. There’s a Docker demo if anyone wants to try it. I’m mostly posting it because I wanted to share the approach while it’s still rough to see it get ripped to shreds",
+      "published_at": "2026-07-27T14:56:34Z",
+      "fetched_at": "2026-07-28T03:47:40.361Z"
+    },
+    {
+      "title": "Distributing LLM Inference in DwarfStar",
+      "url": "https://antirez.com/news/167",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-27T21:15:57Z",
+      "fetched_at": "2026-07-28T03:47:40.361Z"
+    },
+    {
+      "title": "Elevated errors on Claude Opus 5",
+      "url": "https://status.claude.com/incidents/mfdtrknpxghq",
+      "source": "hn",
+      "score": 99,
+      "content": "",
+      "published_at": "2026-07-27T11:32:32Z",
+      "fetched_at": "2026-07-28T03:47:40.823Z"
+    },
+    {
+      "title": "Elevated errors on Claude Opus 5",
+      "url": "https://status.claude.com/incidents/lhqp09kxq7pb",
+      "source": "hn",
+      "score": 50,
+      "content": "",
+      "published_at": "2026-07-27T08:20:06Z",
+      "fetched_at": "2026-07-28T03:47:40.823Z"
+    },
+    {
+      "title": "Claude shared chats and Artifacts may have ended up on Google",
+      "url": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
+      "source": "hn",
+      "score": 22,
+      "content": "",
+      "published_at": "2026-07-27T20:28:07Z",
+      "fetched_at": "2026-07-28T03:47:40.823Z"
+    },
+    {
+      "title": "Kimi is Claude",
+      "url": "https://imgur.com/a/vek7fVQ",
+      "source": "hn",
+      "score": 7,
+      "content": "",
+      "published_at": "2026-07-27T23:05:28Z",
+      "fetched_at": "2026-07-28T03:47:40.823Z"
+    },
+    {
+      "title": "Boris Cherny says \"delete your Claude.md every 6 months\"",
+      "url": "https://www.youtube.com/watch?v=qyPCVqFUyDo",
+      "source": "hn",
+      "score": 7,
+      "content": "",
+      "published_at": "2026-07-27T23:33:04Z",
+      "fetched_at": "2026-07-28T03:47:40.823Z"
+    },
+    {
+      "title": "Claude has to take that code from somewhere",
+      "url": "https://jcs.org/2026/07/23/ai",
+      "source": "hn",
+      "score": 7,
+      "content": "",
+      "published_at": "2026-07-27T17:44:33Z",
+      "fetched_at": "2026-07-28T03:47:40.823Z"
+    },
+    {
+      "title": "Anthropic used robots.txt to hide shared Claude chats; the pages have no noindex",
+      "url": "https://www.wired.com/story/private-claude-chats-exposed-in-google-and-bing-search-results/",
+      "source": "hn",
+      "score": 5,
+      "content": "",
+      "published_at": "2026-07-27T21:27:45Z",
+      "fetched_at": "2026-07-28T03:47:40.823Z"
+    },
+    {
+      "title": "Claude Code getting \"API Error: 529 Overloaded\"",
+      "url": "https://news.ycombinator.com/item?id=49067964",
+      "source": "hn",
+      "score": 4,
+      "content": "Status page is green (at time of writing 11:22 UTC)<p>There was an incident declared earlier today but this says resolved: https:&#x2F;&#x2F;status.claude.com&#x2F;incidents&#x2F;lhqp09kxq7pb<p>Outages today&#x2F;yesterday were discussed in https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49066591 https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49056194<p>Now incident declared: https:&#x2F;&#x2F;status.claude.com&#x2F;incidents&#x2F;mfdtrknpxghq",
+      "published_at": "2026-07-27T11:25:28Z",
+      "fetched_at": "2026-07-28T03:47:40.823Z"
+    },
+    {
+      "title": "Claude's code comments – too much or just enough?",
+      "url": "https://news.ycombinator.com/item?id=49078710",
+      "source": "hn",
+      "score": 4,
+      "content": "Has anyone else noticed that Claude leaves a lot of large code comments sprinkled throughout its work?<p>Some of my meat-based engineers have taken issue with it and directed Claude to never leave comments unless strictly necessary, but I want to know what others think. Personally, I write and read a lot of code comments so I’m confused about why these specific comments are so offensive to my fellow engineers.<p>I have two questions:\n1. Why does it do this? \n2. Do you have feelings about it?<p>Is the agent leaving breadcrumbs for other agents? Do they improve the output of future agent-driven code or is it just a stylistic choice?<p>I don’t want to devolve into a discussion about the purpose of code comments at-large. Instead I’m wondering if there’s a purpose behind the specific comments that agents leave",
+      "published_at": "2026-07-28T02:55:45Z",
+      "fetched_at": "2026-07-28T03:47:40.823Z"
+    },
+    {
+      "title": "Claude no longer shows full thinking",
+      "url": "https://old.reddit.com/r/ClaudeAI/comments/1v3u707/no_longer_shows_full_thinking/",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-07-28T00:32:43Z",
+      "fetched_at": "2026-07-28T03:47:40.823Z"
+    },
+    {
+      "title": "MemU – Personal Memory Shared by Codex, Claude Code, and Hermes",
+      "url": "https://github.com/NevaMind-AI/memU",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-07-27T14:47:07Z",
+      "fetched_at": "2026-07-28T03:47:40.823Z"
+    },
+    {
+      "title": "Agent Mesh: let Claude Code, Codex, Grok and other agents talk to each other",
+      "url": "https://github.com/mubashir1osmani/agent-mesh",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-27T18:42:11Z",
+      "fetched_at": "2026-07-28T03:47:40.823Z"
+    },
+    {
+      "title": "Show HN: Telegram bot that spins up Claude Code/Codex agents on their own VMs",
+      "url": "https://agenticcloudcomputer.com/",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-27T14:59:37Z",
+      "fetched_at": "2026-07-28T03:47:40.823Z"
+    },
+    {
+      "title": "Show HN: Save your Claude/codex/copilot tokens by using context profiler",
+      "url": "https://github.com/RimantasZ/contextspy",
+      "source": "hn",
+      "score": 2,
+      "content": "Most devs using AI coding tools don&#x27;t even imagine how much information they put in the context window - tools, MCPs, tool responses, active skills - all of which take up some real estate. Sometimes updating a tool description or trimming api response can give significant savings - and profiler helps to measure that",
+      "published_at": "2026-07-27T14:10:57Z",
+      "fetched_at": "2026-07-28T03:47:40.823Z"
+    },
+    {
+      "title": "I let Claude Code run my blog for 3 months: numbers and failures",
+      "url": "https://bigguyonstuff.com/claude-code-3-month-retrospective/",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-27T13:10:19Z",
+      "fetched_at": "2026-07-28T03:47:40.823Z"
+    },
+    {
+      "title": "Claude Opus 5 is limited to a 0.2M token context window by default",
+      "url": "https://wadetregaskis.com/claude-opus-5-is-limited-to-a-0-2m-token-context-window-by-default/",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-27T12:21:19Z",
+      "fetched_at": "2026-07-28T03:47:40.823Z"
+    },
+    {
+      "title": "Show HN: Agent Console – A Local Dashboard for Codex and Claude Code",
+      "url": "https://github.com/buhuipao/agent-console",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-27T09:55:30Z",
+      "fetched_at": "2026-07-28T03:47:40.823Z"
+    },
+    {
+      "title": "Show HN: Relay – turn Claude Code into a visual Kanban build loop",
+      "url": "https://github.com/YoniRaviv/Relay",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-27T06:45:08Z",
+      "fetched_at": "2026-07-28T03:47:40.823Z"
+    },
+    {
+      "title": "ThinkFull: A 22-specialist Claude Code skill, not an agent pipeline",
+      "url": "https://github.com/SuperNotesOnline/ThinkFull",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-07-27T20:16:20Z",
+      "fetched_at": "2026-07-28T03:47:40.823Z"
+    },
+    {
+      "title": "Show HN: I taught Claude Code to file Indian income-tax returns (ITR)",
+      "url": "https://github.com/karanb192/itr-wala",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-07-28T03:43:07Z",
+      "fetched_at": "2026-07-28T03:47:40.823Z"
+    },
+    {
+      "title": "OpenAI, Google, and Anthropic Absent from Nvidia-Led Open Secure AI Alliance",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-google-and-anthropic-absent-from-nvidia-led-open-secure-ai-alliance-30-companies-join-security-alliance-after-openai-agent-breach",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-07-28T00:07:06Z",
+      "fetched_at": "2026-07-28T03:47:41.275Z"
+    },
+    {
+      "title": "Anthropic allegedly lowered AI safeguards, former employee says",
+      "url": "https://runtimewire.com/article/anthropic-safeguard-lowering-claims",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-07-27T15:41:34Z",
+      "fetched_at": "2026-07-28T03:47:41.275Z"
+    },
+    {
+      "title": "Anthropic changed a Claude Code default–how I insulated my framework",
+      "url": "https://mauroepce.dev/blog/trust-boundaries-claude-code",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-07-27T20:12:59Z",
+      "fetched_at": "2026-07-28T03:47:41.275Z"
+    },
+    {
+      "title": "AMD and Anthropic Sign Major Chips-and-Investment Deal",
+      "url": "https://www.wsj.com/tech/ai/amd-and-anthropic-sign-major-chips-and-investment-deal-4adfdc45",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-07-27T17:38:20Z",
+      "fetched_at": "2026-07-28T03:47:41.275Z"
+    },
+    {
+      "title": "Show HN: Karpathy's LLM Wiki as a \"Brain KIT\" to build compounding knowledge",
+      "url": "https://github.com/0xchamin/brain-kit",
+      "source": "hn",
+      "score": 1,
+      "content": "I like learning and I spend a lot of time watching YouTube videos, going through blog posts (Anthropic, OpenAI, DeepMind etc.), reading papers. One of the big challenge is to accumulate a compounding knowledge based on what I read while mapping what I read with foundational knowledge&#x2F; first principals. In order to solve this, I leveraged Karpathy&#x27;s LLM Wiki and build a brain kit. &quot;Brain Kit&quot; is very minimal. Very easy to use. You just need to paste the link of your resource and it will does the job according to your prefferred teaching style. Review it and let me know what you think. Feedback and pull requests are welcome.",
+      "published_at": "2026-07-27T12:04:46Z",
+      "fetched_at": "2026-07-28T03:47:41.275Z"
+    },
+    {
+      "title": "Our position on open-weights models",
+      "url": "https://www.anthropic.com/news/position-open-weights-models",
+      "source": "hn",
+      "score": 570,
+      "content": "",
+      "published_at": "2026-07-27T22:03:49Z",
+      "fetched_at": "2026-07-28T03:47:41.275Z"
+    },
+    {
+      "title": "Sam Altman says we are in the singularity: 'This is the moment'",
+      "url": "https://www.businessinsider.com/sam-altman-openai-the-singularity-agi-prediction-anthropic-nvidia-2026-7",
+      "source": "hn",
+      "score": 12,
+      "content": "",
+      "published_at": "2026-07-27T20:35:02Z",
+      "fetched_at": "2026-07-28T03:47:41.275Z"
+    },
+    {
+      "title": "Expanding Our Partnership with Cognizant",
+      "url": "https://www.anthropic.com/news/cognizant-anthropic",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-07-27T15:45:39Z",
+      "fetched_at": "2026-07-28T03:47:41.275Z"
+    },
+    {
+      "title": "Show HN: Anduril, Apple, Antropic. Recap the biggest tech news from last week",
+      "url": "https://choclatenews.substack.com/p/icymi-anduril-unveiled-thunder",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-27T07:14:24Z",
+      "fetched_at": "2026-07-28T03:47:41.275Z"
+    },
+    {
+      "title": "Digital circuit simulator in Haskell (SICP 3.3)",
+      "url": "https://entropicthoughts.com/sicp-3-3-digital-circuit-simulator-in-haskell",
+      "source": "hn",
+      "score": 7,
+      "content": "",
+      "published_at": "2026-07-27T15:08:49Z",
+      "fetched_at": "2026-07-28T03:47:41.275Z"
+    },
+    {
+      "title": "My current strategy is to not read any of the code written by my agents",
+      "url": "https://twitter.com/unclebobmartin/status/2080257779395154409?s=20",
+      "source": "hn",
+      "score": 48,
+      "content": "https:&#x2F;&#x2F;xcancel.com&#x2F;unclebobmartin&#x2F;status&#x2F;2080257779395154409?s=20",
+      "published_at": "2026-07-27T19:47:06Z",
+      "fetched_at": "2026-07-28T03:47:41.733Z"
+    },
+    {
+      "title": "Why Agentic Systems Need Ontologies [video]",
+      "url": "https://www.youtube.com/watch?v=Sir59K8ZDPU",
+      "source": "hn",
+      "score": 20,
+      "content": "",
+      "published_at": "2026-07-27T18:16:47Z",
+      "fetched_at": "2026-07-28T03:47:41.733Z"
+    },
+    {
+      "title": "Show HN: Ami – A local, open-source agent that does your busywork across apps",
+      "url": "https://github.com/NanoNets/ami",
+      "source": "hn",
+      "score": 7,
+      "content": "Hey everybody, sharing Ami on HN today.<p>Ami is an open source, local-first agent harness that acts as your shadow worker and copilot chat. It ships with a graph memory.<p>Here&#x27;s what Ami does on its own -<p>- connects to apps, data, repositories, tools with your personal tokens<p>- Learns how you do tasks (execution style, decisions, anti-patterns)<p>- Learns how you communicate (external and internal)<p>- maintains a universal to-do list<p>Here&#x27;s how you use Ami -<p>1. You can execute busywork. It fetches and executes tasks autonomously in your style, asks approval before risky actions, gives deliverables, drafts replies &#x2F; emails &#x2F; ticket updates.<p>2. You can execute copilot chats. Use it to ask questions, fire off ad-hoc tasks, create to-dos, update memory.<p>Ami was built for internal use. My team found it useful, so we wanted to share it here. It&#x27;s still in development stage, and we might push a more stable release soon. It constructs a context graph memory of you, with entities, relationships, feedbacks, decisions, writing styles maintained in memory so it can get more autonomous the more you use it.<p>Few examples where Ami helped me this week -<p>1. fetched a bug report from slack, created fix PR autonomously which I merged, verified fix is working.<p>2. debugged a traffic spike on our new blog.<p>3. turned a sales POC into an order form draft using recently signed forms.<p>4. nailed down metrics definitions from notion and created a dashboard.<p>5. closed out my day by auto-updating Linear tickets based on slack activity.<p>Any feedback is most welcome.",
+      "published_at": "2026-07-27T22:55:33Z",
+      "fetched_at": "2026-07-28T03:47:41.733Z"
+    },
+    {
+      "title": "Show HN: Case study: A coding agent refactors a 750k LOC app, no code review",
+      "url": "https://news.ycombinator.com/item?id=49068698",
+      "source": "hn",
+      "score": 6,
+      "content": "In the following case study, the AI coding agent rebuilds a core system invariant in just three days, with minimal human input, running 31 verification passes and correcting 201 errors, before shipping code with zero bugs, zero regressions, and zero technical debt.<p><a href=\"https:&#x2F;&#x2F;aisovereignlabs.ai&#x2F;docs&#x2F;case-study&#x2F;liveSession&#x2F;case-study-live-session-en.pdf\" rel=\"nofollow\">https:&#x2F;&#x2F;aisovereignlabs.ai&#x2F;docs&#x2F;case-study&#x2F;liveSession&#x2F;case-...</a><p>Disclaimers:<p>This case study is NOT:\n- a project written from scratch\n- yet another Rust transpilation\n- a clone of an open-source project found in the LLM&#x27;s training data\n- a Super Mario clone in HTML<p>It IS:\n- a complex application maintenance task, about a unique problem with no open-source equivalent, to the best of my knowledge\n- a true engineering feat, 90% driven by the agent powered by ChatGPT 5.6 Sol Reasoning MAX\n- 201 bugs, ambiguities, and architectural flaws automatically fixed by the AI agent\n- proof that one can program perfectly within complex legacy software without any need for human code review<p>Feedback welcome.",
+      "published_at": "2026-07-27T12:28:35Z",
+      "fetched_at": "2026-07-28T03:47:41.733Z"
+    },
+    {
+      "title": "Show HN: Call Me, your AI agents ring you with no extra carrier costs",
+      "url": "https://github.com/radres/call-me",
+      "source": "hn",
+      "score": 4,
+      "content": "Just a fun app I&#x27;ve been working on. Not necessarily AI only and works with any AI harness or just as an API.",
+      "published_at": "2026-07-27T23:10:00Z",
+      "fetched_at": "2026-07-28T03:47:41.733Z"
+    },
+    {
+      "title": "Show HN: Aidress – Coordination layer for autonomous AI agents",
+      "url": "https://github.com/Aidress-ai/Aidress",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-07-27T22:35:19Z",
+      "fetched_at": "2026-07-28T03:47:41.733Z"
+    },
+    {
+      "title": "Our toolchain assumes one human writer, AI agents break that illusion",
+      "url": "https://christophermeiklejohn.com/ai/zabriskie/agents/reliability/testing/ci/distributed/2026/07/27/one-writer.html",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-07-27T21:56:40Z",
+      "fetched_at": "2026-07-28T03:47:41.733Z"
+    },
+    {
+      "title": "A new agent-first git just dropped",
+      "url": "https://twitter.com/madster/status/2081818173272207505",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-07-27T20:52:40Z",
+      "fetched_at": "2026-07-28T03:47:41.733Z"
+    },
+    {
+      "title": "Docker alternatives for AI agents: Podman, bwrap and Firejail",
+      "url": "https://grigio.org/docker-alternatives-for-ai-agents-podman-bwrap-and-firejail/",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-07-27T16:11:57Z",
+      "fetched_at": "2026-07-28T03:47:41.733Z"
+    },
+    {
+      "title": "Show HN: Tilde Pay – Give your AI agent a bank account to pay for things",
+      "url": "https://my.tildepay.ai/",
+      "source": "hn",
+      "score": 3,
+      "content": "hey HN, I&#x27;m Daniel - I built Tilde Pay during a hackathon I took part in and couldn&#x27;t stop working on it. It&#x27;s an MCP server you can give your AI agent to buy things online with. It can process both x402, MPP payments &amp; (hopefully soon), any card checkout form online.<p>When you sign up, you get EUR and USD denominated bank account details to send deposits to which convert to USDC within a minute of receipt for your agent to spend in their own crypto wallet. You can then add the MCP server to Hermes, OpenClaw, ChatGPT or Claude really easily.<p>For example, you can use it to pay for services listed on <a href=\"https:&#x2F;&#x2F;agentic.market&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;agentic.market&#x2F;</a> . My goal is to support traditional card checkout forms so agents could pay on any online retailer.<p>I built this in a hackathon a few weeks ago and haven&#x27;t put it down since. Please give it a try and let me know what you think. One of the biggest concerns around AI-driven payments was security and I thought the safest option would be to spin up &quot;sandbox&quot; bank accounts that AI could use to spend instead.<p>I know this space is quite controversial &amp; hyped up - so please let me know your thoughts and sentiment.<p>Adios",
+      "published_at": "2026-07-27T14:13:55Z",
+      "fetched_at": "2026-07-28T03:47:41.733Z"
+    },
+    {
+      "title": "Does Speaking to Agents Like Cavemen Save 65% of Tokens? We Test",
+      "url": "https://blog.jetbrains.com/ai/2026/07/speak-to-ai-agents-like-cavemen-tosave-tokens/",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-07-27T19:10:51Z",
+      "fetched_at": "2026-07-28T03:47:41.733Z"
+    },
+    {
+      "title": "Show HN: RL bandits pick coding agent's context,Grok 4.5 out-fixes Fable 5",
+      "url": "https://github.com/VinvAI/VinvAI",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-07-28T01:43:38Z",
+      "fetched_at": "2026-07-28T03:47:41.733Z"
+    },
+    {
+      "title": "Just Let Agents Write Code",
+      "url": "https://redo.com/eng-blog/just-let-agents-write-code/",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-07-27T16:55:38Z",
+      "fetched_at": "2026-07-28T03:47:41.733Z"
+    },
+    {
+      "title": "Messaging platform I can self-host for my agents to communicate",
+      "url": "https://news.ycombinator.com/item?id=49076136",
+      "source": "hn",
+      "score": 2,
+      "content": "what&#x27;s the best platform i can self-host on my raspberry pi for my agents to communicate with themselves (like slack). building a company of agents.",
+      "published_at": "2026-07-27T22:11:36Z",
+      "fetched_at": "2026-07-28T03:47:41.733Z"
+    },
+    {
+      "title": "How to Run an Autonomous Agent Against Your Own Server",
+      "url": "https://medium.com/@vektormemory/how-to-run-an-autonomous-agent-against-your-own-server-3ff9335ba69f",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-27T10:32:41Z",
+      "fetched_at": "2026-07-28T03:47:41.733Z"
+    },
+    {
+      "title": "Tracked Capabilities for Safer Agents",
+      "url": "https://martinodersky.substack.com/p/tracked-capabilities-for-safer-agents",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-28T03:13:47Z",
+      "fetched_at": "2026-07-28T03:47:41.733Z"
+    },
+    {
+      "title": "Show HN: SeaTicket – AI agent that resolve GitHub and Discord issues",
+      "url": "https://news.ycombinator.com/item?id=49078625",
+      "source": "hn",
+      "score": 2,
+      "content": "<a href=\"https:&#x2F;&#x2F;seaticket.ai&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;seaticket.ai&#x2F;</a><p>After maintaining Seafile, open-source file-sync software, since 2012. Somewhere across those fourteen years, &quot;go check if someone already reported this&quot; turned into one of the most common lines in our team chat. Because the same bug tended to show up multiple times. Nothing connected Github and Discord Issues until my team happened to remember seeing &quot;that thing&quot; somewhere else.<p>SeaTicket is what we built to fix that for ourselves before opening it up. It connects GitHub Issues, and Discords with a handful of other sources like Notion, Confluence, Linear, Jira into one workspace. When something new comes in, the AI agent pulls together related issues, past resolutions, and anything relevant in your knowledge base, and proposes a next step. It doesn&#x27;t send, reply, or close anything by itself because it waits for the approval of its suggestion first. We didn&#x27;t want to ship something that talks to our own users unsupervised, so we&#x27;re not asking anyone else to either.<p>The genuinely hard part has been matching the same underlying issue across sources that describe it in almost no shared vocabulary like a two-line Discord comment and a ten-line Github Bug can be trace to the same bug and share zero keywords. Happy to go into how we approach that in the comments if HNPs want it; it&#x27;s the part I&#x27;d most enjoy having picked apart.<p>It&#x27;s built for teams whose issues don&#x27;t arrive through one queue like open-source maintainers especially, but also product and support teams managing multiple repos and Discord servers. It&#x27;s deliberately not trying to be Zendesk or Fin: those assume a support team working a shared ticket queue, and we assume your team already lives in GitHub and wants issues handled there, not in a separate tool. Pricing has no per-seat cost on any plan, including a free one<p>i think bug reports ",
+      "published_at": "2026-07-28T02:43:40Z",
+      "fetched_at": "2026-07-28T03:47:41.733Z"
+    },
+    {
+      "title": "Manage Your Agent's Loadout with Dr Skill",
+      "url": "https://www.dbreunig.com/2026/07/24/manage-your-agent-s-loadout-with-dr-skill.html",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-27T23:32:05Z",
+      "fetched_at": "2026-07-28T03:47:41.733Z"
+    },
+    {
+      "title": "moonshotai/Kimi-K3",
+      "url": "https://simonwillison.net/2026/Jul/27/kimi-k3/#atom-everything",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-07-27T23:39:04.000Z",
+      "fetched_at": "2026-07-28T03:47:39.565Z"
+    },
+    {
+      "title": "An opinionated guide to which AI to use to do stuff",
+      "url": "https://simonwillison.net/2026/Jul/27/an-opinionated-guide-to-which-ai-to-use-to-do-stuff/#atom-everything",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-07-27T21:55:53.000Z",
+      "fetched_at": "2026-07-28T03:47:39.565Z"
+    },
+    {
+      "title": "An Inside Look at the Relay Market Powering Token Resellers and Fraud",
+      "url": "https://simonwillison.net/2026/Jul/26/relay-market/#atom-everything",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-07-26T19:30:54.000Z",
+      "fetched_at": "2026-07-28T03:47:39.565Z"
+    },
+    {
+      "title": "Progress Reward Modeling for Robotic Learning: A Comprehensive Survey",
+      "url": "https://huggingface.co/papers/2607.21655",
+      "source": "hf-daily-papers",
+      "score": 35,
+      "content": "Robotic learning takes place in dynamic environments with large behavior spaces. A terminal success signal only tells the robot whether the task is completed. It does not explain whether the current behavior is making progress, remaining unchanged, or undoing earlier progress. For this reason, recent studies have increasingly explored progress rewards that provide feedback during task execution. However, the current literature lacks a shared framework. Existing methods use different observations, goal specifications, output signals, supervision sources, and evaluation protocols. This makes it difficult to compare them and understand what their results actually validate. In this survey, we provide a unified view of progress reward modeling for robotic learning. We organize the field in three connected steps. We first study the interface of a progress model. This defines the problem from the outside by asking what information the model receives and what form of progress signal it produces. We then move inside the model and study the methods used to construct this signal. This reveals the different assumptions and mechanisms behind progress estimation and reward generation. Finally, we examine the data and benchmarks that support these methods. This shows how progress supervision is obtained and what different evaluations actually measure. Together, these three perspectives connect what a progress model is, how it is built, and how its quality is validated. We further summarize the main limitations of current approaches and discuss future research directions.",
+      "published_at": "2026-07-21T20:00:00.000Z",
+      "fetched_at": "2026-07-28T03:47:39.582Z"
+    },
+    {
+      "title": "Data Pyramid for Embodied Manipulation",
+      "url": "https://huggingface.co/papers/2607.24744",
+      "source": "hf-daily-papers",
+      "score": 27,
+      "content": "Multimodal foundation models learned to see and to speak by consuming the whole internet. Embodied agents admit no such shortcut, since they require data that couple observations with physical states and actions. These signals can be provided, to varying degrees, by multiple data sources. In this work, we organize the embodied data ecosystem as a \"pyramid\" spanning five complementary sources: real-robot data, UMI-style data, egocentric and exocentric data, simulation data, and general vision-language data. We organize the pyramid around the tension between scalability and robot alignment, and further characterize each source in terms of data quality, diversity, reusability, and physical fidelity. We then analyze recent embodied foundation models through the lens of their data recipes, examining how different sources are selected, aligned, and mixed during pretraining. For embodied brain models, vision-language-action models, and world-action models alike, we relate data composition to capabilities in perception, reasoning, planning, action generation, and world prediction. We close by discussing six open challenges: building large-scale tactile datasets, collecting failure and recovery data, developing scalable data-collection pipelines, aligning actions across embodiments, leveraging egocentric data for dexterous manipulation, and designing principled data recipes for robot learning. We hope this work paves the foundation for the design of next-generation embodied systems.",
+      "published_at": "2026-07-26T20:00:00.000Z",
+      "fetched_at": "2026-07-28T03:47:39.582Z"
+    },
+    {
+      "title": "StateAct: Program State, before Pixels, for Long-Horizon Computer-Use Agents",
+      "url": "https://huggingface.co/papers/2607.22798",
+      "source": "hf-daily-papers",
+      "score": 26,
+      "content": "Computer-use agents are usually improved by strengthening perception: better models for reading a screenshot and choosing where to click. Yet a screenshot is only a lossy rendering of the underlying program state, e.g., the files, application backends, and DOM that hold the task data. Different states can produce the same pixels, while code can inspect and modify that state directly. StateAct is a code-first, multi-agent harness built around this distinction. Its main agent works directly with program state by using code, while a dedicated GUI subagent handles screenshot-and-click interaction on the few subgoals that need it, just 28 of 108 tasks and 1.1% of main-agent steps. The same direct access to program state also supports verification: an independent finish gate double-checks the saved result for structural failures, e.g., output that is missing, unsaved, or written to the wrong path. To stay on track over hundreds of steps, the main agent hands subgoals to fresh subagents, keeping its own context focused. On OSWorld 2.0, StateAct lifts Claude Opus 4.8 from 20.6% to 26.9% on binary success, and from 54.8% to 61.6% on partial success, at ~ 9x lower cost per task than the same model driven by screenshots alone; a code-only variant with no GUI subagent reaches only 45.9% partial, below that screenshot-based baseline's 54.8%. In general, grounding action, verification, and memory in state, what we call state-grounding, shifts the main bottleneck from perception toward reasoning: failures depend more on what the agent thinks than on what it sees.",
+      "published_at": "2026-07-23T20:00:00.000Z",
+      "fetched_at": "2026-07-28T03:47:39.582Z"
+    },
+    {
+      "title": "From Proprietary to Open-Source: Bridging the Distribution Gap via Multi-Agent Protocol Distillation in Agentic Search",
+      "url": "https://huggingface.co/papers/2607.24280",
+      "source": "hf-daily-papers",
+      "score": 21,
+      "content": "Agentic search enables large language models to solve knowledge-intensive tasks by interleaving multi-step reasoning with retrieval, yet optimizing this with outcome-based reinforcement learning (RL) provides only sparse supervision. Knowledge distillation can supply denser guidance, and advanced proprietary models with their strong reasoning capabilities are promising teachers. While distilling from proprietary models can densify this supervisory signal, conventional logit-matching is precluded by hidden logits and mismatched tokenizers, whereas raw natural language trajectory imitation transfers superficial stylistic artifacts rather than core reasoning competence. To address the heterogeneous distillation problem and bridge the distribution gap, we propose Multi-Agent Protocol Distillation (MAPD), a joint distillation and RL framework uses a structured, style-normalized protocol as an intermediate representation. An offline multi-agent system (MAS) decomposes each query, retrieves supporting evidence, repairs failed searches, and converts the resulting exploration trace into a JSON protocol containing the task type, reasoning plan, and extractive grounding facts. During training, the protocol is provided only to a privileged branch of the student policy, whose token distributions furnish a dense distillation signal alongside the sparse RL objective. Extensive evaluations across seven QA benchmarks demonstrate that MAPD consistently outperforms competitive distillation and RL, achieving average success rates of 39.4\\% on Qwen3-1.7B and 44.4\\% on Qwen3-4B. Crucially, the framework generalizes robustly across diverse proprietary teachers while effectively mitigating the student policy from style drift and verbosity degeneration.",
+      "published_at": "2026-07-26T20:00:00.000Z",
+      "fetched_at": "2026-07-28T03:47:39.582Z"
+    },
+    {
+      "title": "JarvisHub: An Open Harness for Canvas-Native Multimodal Creative Agents",
+      "url": "https://huggingface.co/papers/2607.23588",
+      "source": "hf-daily-papers",
+      "score": 17,
+      "content": "Creative AI is moving from single-step asset generation toward long-horizon multimodal production. Although recent generative models can synthesize high-quality images, videos, audio clips, UI elements, storyboards, slides, and other creative assets, real-world creative work requires more than isolated prompt-output interactions. It involves references, drafts, alternatives, edits, failed attempts, version relations, tool actions, evaluation signals, and human feedback, which together form an evolving project state. Existing prompt-based, chat-based, and node-based generation systems only partially support this state, as they often discard intermediate context, rely on linear conversations, or require manually specified workflows. Recent commercial systems indicate a shift toward agent-assisted creative production, but their closed architectures make it difficult to study how agents represent context, choose tools, revise artifacts, recover from failures, and maintain consistency over time. To address this gap, we introduce JarvisHub, a canvas-native creative agent harness for long-horizon multimodal creation. JarvisHub treats an editable canvas as the user workspace, the agent's external memory, action space, and shared project state, representing multimodal artifacts, dependencies, versions, and feedback as typed canvas nodes and links. Through a three-layer architecture of canvas state, protocol bridge, and agent runtime, JarvisHub enables agents to act within an inspectable and editable creative state. This design moves creative agents beyond isolated tool use toward sustained, human-steerable creative automation, where agents can progressively plan, generate, revise, and organize multimodal projects while users remain able to inspect, guide, and intervene throughout the process.",
+      "published_at": "2026-07-25T20:00:00.000Z",
+      "fetched_at": "2026-07-28T03:47:39.582Z"
+    },
+    {
+      "title": "Kimi K3: Open Frontier Intelligence",
+      "url": "https://huggingface.co/papers/2607.24653",
+      "source": "hf-daily-papers",
+      "score": 10,
+      "content": "We introduce Kimi K3, a 2.8T parameter Mixture-of-Experts model with 104 billion activated parameters, native vision capabilities, and a 1-million-token context window. Kimi K3 is built on Kimi Delta Attention and Attention Residuals, which improve information flow across sequence length and model depth. Together with Stable LatentMoE, which effectively activates 16 of 896 routed experts per token, and refined training and data recipes, these advances yield an approximately 2.5x improvement in overall scaling efficiency over Kimi K2. Post-training highlights reinforcement learning across general, agentic, and coding domains and multiple reasoning-effort levels, enabling compositional generalization and robust long-horizon execution. At 2.8T scale, Kimi K3 is supported by infrastructure advances in multiple areas: algorithm-system co-design for KDA, perfectly balanced expert-parallel training with efficient memory management, million-token agentic RL with persistent rollout and sandbox states, and deployment innovations. Extensive evaluations show that Kimi K3 achieves frontier-level performance across long-horizon coding, agentic, knowledge, reasoning, and vision tasks. While its overall performance still trails the most powerful proprietary models, namely Claude Fable 5 and GPT-5.6 Sol, Kimi K3 consistently outperforms other open and proprietary models evaluated in our suite. We release the full Kimi K3 model weights to facilitate future research and accelerate the broader deployment and adoption of frontier intelligence.",
+      "published_at": "2026-07-26T20:00:00.000Z",
+      "fetched_at": "2026-07-28T03:47:39.582Z"
+    },
+    {
+      "title": "OmniVAE: An Audio-Video VAE with Cross-Modal Alignment for Joint Generation",
+      "url": "https://huggingface.co/papers/2607.23855",
+      "source": "hf-daily-papers",
+      "score": 6,
+      "content": "Recent generative models are moving beyond silent video or standalone audio synthesis toward the joint generation of synchronized audio and video. Despite this progress, jointly generating audio and video with fine-grained cross-modal correspondence remains challenging due to their fundamental structural differences. Most existing methods use audio and video VAEs trained separately. As a result, the two latent spaces lack cross-modal alignment, leaving the downstream generative model to learn cross-modal synchronization from scratch. We present OmniVAE, a jointly trained audio-video VAE that learns fine-grained semantic alignment between audio and video latent representations. Beyond reconstruction, OmniVAE uses a segment-level audio-video contrastive objective to capture temporal-semantic correspondence and align the two latent spaces. In parallel, it distills features from pretrained modality-specific semantic encoders into each modality, improving the downstream learnability of both latent spaces. Extensive experiments show that both objectives consistently improve the learnability of the latent spaces, translating into higher generation quality and more accurate cross-modal synchronization in downstream text-to-audio-video generation. These findings underscore the importance of learning unified representations as a foundation for omnimodal modeling.1",
+      "published_at": "2026-07-25T20:00:00.000Z",
+      "fetched_at": "2026-07-28T03:47:39.582Z"
+    },
+    {
+      "title": "ClinFusion: A Vision-Centric Multimodal LLM System for Holistic Medical Understanding",
+      "url": "https://huggingface.co/papers/2607.24743",
+      "source": "hf-daily-papers",
+      "score": 3,
+      "content": "Multimodal large language models (MLLMs) hold immense potential to revolutionize clinical practice, yet deploying them in the medical domain is fundamentally a vision-centric challenge: models must absorb knowledge from heterogeneous 2D and 3D medical images, and evaluation protocols must align with radiologists' clinical practice and provide an accurate, fine-grained and factualness-driven assessment. In this paper, we introduce ClinFusion, a vision-centric MLLM designed for holistic medical understanding that systematically addresses these limitations. We propose a compositional and cascaded vision encoder architecture featuring a Cascade Spatial-Aware Locality Fusion operator that unifies diverse 2D and native 3D medical image understanding within a fused encoder. We further introduce a vision-grounded evaluation framework, including MedIF-Bench for instruction-following assessment and a region-of-interest-grounded method for clinically aligned and factualness-driven report generation evaluation. We show that ClinFusion sets a new state-of-the-art across a comprehensive suite of 2D and 3D multimodal medical benchmarks---spanning visual question answering, report generation, and instruction following---as well as textual medical tasks, outperforming leading open-source medical MLLMs (e.g., Hulu-Med, Lingshu) on 20 out of 24 benchmarks and demonstrating multimodal capabilities better than powerful proprietary models such as GPT-5.2 and Gemini-3-Flash on 13 out of 16 benchmarks, and can be further augmented with agentic tool use for retrieval-augmented and tool-assisted clinical workflows. A blinded evaluation by board-certified radiologists confirms that ClinFusion produces the highest-ranked reports, and validates our RoI-grounded metric as achieving the strongest correlation with expert judgment among all automatic evaluation metrics examined.",
+      "published_at": "2026-07-26T20:00:00.000Z",
+      "fetched_at": "2026-07-28T03:47:39.582Z"
+    },
+    {
+      "title": "DecoupleMix: Decoupled Ratio Search and Convex Allocation for Scalable VLM Data Recipes",
+      "url": "https://huggingface.co/papers/2607.24516",
+      "source": "hf-daily-papers",
+      "score": 2,
+      "content": "While data curation for Vision Language Models (VLMs) is increasingly active, public practice for constructing pretraining mixtures remains largely heuristic: practitioners stack datasets that pass quality filters, set cross-domain ratios by intuition, and lack a principled, attributable criterion for admitting new data, while frontier recipes remain undisclosed. We formulate data construction as a systematic mixture-optimization problem and turn it into a reproducible engineering discipline by decoupling the mixture into two orthogonal sub-problems: inter-class ratios across capabilities and intra-class ratios within a category. For inter-class allocation, we use a single-variable iterative search; for intra-class composition, we apply a multidimensional, dataset-level assessment scoring Quality and Difficulty, and formulate selection as a constrained convex optimization with a diversity objective. The DecoupleMix framework delivers two critical capabilities: guiding what data to collect next and rendering dataset validation a controlled, attributable experiment. Experiments show our approach consistently surpasses heuristic baselines. Moreover, optimal ratios discovered on small-scale proxies transfer seamlessly to larger scales without retuning. Using 80B additional multimodal continue-pretraining tokens, our VLM is competitive with strong open-source models trained with substantially larger multimodal budgets.",
+      "published_at": "2026-07-26T20:00:00.000Z",
+      "fetched_at": "2026-07-28T03:47:39.582Z"
+    },
+    {
+      "title": "A Frozen 12B Beats Frontier Models on Verified Work: 100% Accuracy, 0 Tokens, Bit-Exact, Forever",
+      "url": "https://huggingface.co/papers/2607.23806",
+      "source": "hf-daily-papers",
+      "score": 2,
+      "content": "Improving a language model today means retraining it: enormous compute, a new opaque model each cycle, non-deterministic output. We take the opposite path: the model stays frozen, and a persistent memory of verified solutions grows beside it. Once a problem family is solved and has passed an independent verification step that never consults the answer key, every new instance of that family is answered at zero generation tokens, bit-exact, deterministically. Across 180 fresh instances spanning nine problem families, four architectures from four vendors - dense and mixture-of-experts - each score 180/180 at zero generation tokens per answer: execution-bound capability decoupled from parameter scaling. A negative control attributes the capability fully to the memory: emptied, it solves nothing. The same verify-before-store contract holds for open-ended reasoning: 88/88 consistency-gated acceptances across all four models, machine-checked formal proof, and reasoning-method transfer at 77/80. Memory selection takes 1.4 microseconds; a full reuse completes in 6-23 ms at 36 mWh. Approximate similarity retrieval selects the wrong item 94.3% of the time on a 4,500-item verified store where exact addressing makes zero errors. The store also serves as working context at a scale no shipped engine matches: a 6,000,000-token movable window on a single 46 GB GPU at flat memory, where vLLM stops at 30,399 tokens and SGLang silently truncates past 32,000. On published benchmarks, frontier models remain far ahead of any 12B at raw from-scratch reasoning; on everything this system has solved and verified, the comparison inverts: a frontier API call pays a fresh generation pass on every query, forever, while verified reuse costs zero tokens and returns the identical bits every time. A public testbench with free, rate-limited access accompanies this report: https://corbenic-galahad-bench.hf.space",
+      "published_at": "2026-07-25T20:00:00.000Z",
+      "fetched_at": "2026-07-28T03:47:39.583Z"
+    },
+    {
+      "title": "GNM Head: A Generative aNthropometric Model of the human head",
+      "url": "https://huggingface.co/papers/2607.23687",
+      "source": "hf-daily-papers",
+      "score": 1,
+      "content": "Parametric models of the human head are essential tools traditionally used in computer vision and graphics for animation, rendering, and reconstruction. More recently, they serve as crucial conditioning signals within generative large vision models, allowing for tight spatial control of generated imagery. However, existing publicly available models are typically limited in anatomical scope, modeling only outer geometry while ignoring intra-oral and ocular structures, and frequently suffer from reduced geometric quality stemming from low-fidelity input datasets. In this report we introduce a new parametric model dubbed Generative aNthropometric Model (GNM), named as a homophone of the human genome. GNM encompasses the head, face, neck, eyeballs, teeth, and tongue, and it is built on an extensive database of high-resolution 3D scans combined with high-quality anatomy specific artist-made samples. This report details the data provenance, the model architecture including the specialized sub-models for the ocular and intra-oral structures, and shows its SotA performance on fitting target 3D face scans. To foster community innovation, the complete GNM framework is made publicly available.",
+      "published_at": "2026-07-25T20:00:00.000Z",
+      "fetched_at": "2026-07-28T03:47:39.583Z"
+    },
+    {
+      "title": "dRAE: Representation Autoencoder with Hyper-Spherical Codes",
+      "url": "https://huggingface.co/papers/2607.22148",
+      "source": "hf-daily-papers",
+      "score": 1,
+      "content": "In this work, we aim to discretize the high-dimensional visual representations to bridge the gap with language models - a non-trivial challenge, as existing quantization methods suffer from codebook collapse, failing to scale while preserving semantic coherence. We identify the root cause as metric mismatch: standard Euclidean codebook objectives are fundamentally misaligned with the anisotropic geometry of representation space, leading to codebook embeddings with high-variance magnitude scales and uneven angular distributions that hinder scalability. To address this, we propose Hyper-Spherical Quantization (HSQ), which decouples semantic content from feature magnitude via angular routing, preventing code assignment from being dominated by scale rather than meaning. The resulting discrete Representation Autoencoder (dRAE) achieves high-fidelity reconstruction while preserving semantic integrity and supporting scalable codebook budget. Extensive experiments demonstrate consistent performance gains as the vocabulary size scales to 131{,}072, along with 100\\% codebook utilization, simplified training pipeline, and strong performance across understanding and generation tasks.",
+      "published_at": "2026-07-24T05:47:32.000Z",
+      "fetched_at": "2026-07-28T03:47:39.583Z"
+    },
+    {
+      "title": "Oxygen-TryOn: Fashion-Native Foundation Model for Any-item Virtual Try-On",
+      "url": "https://huggingface.co/papers/2607.21694",
+      "source": "hf-daily-papers",
+      "score": 1,
+      "content": "We present Oxygen-TryOn, a unified foundation model for any-item virtual try-on. Rather than repurposing a general-purpose image editor, Oxygen-TryOn is fashion-native, built for try-on through a dedicated data engine and try-on-specific training. Given one or more reference items (clean product shots or in-the-wild worn-on photos) and a single target subject image, it synthesizes a photorealistic image of the subject wearing the items across virtually any fashion category. Prior systems handle a single garment category in a studio setting, and recent multi-reference methods remain garment-centric; in contrast, Oxygen-TryOn supports diverse items and scenarios, including full- and half-body views, a variable number of references, and free multi-item composition, while faithfully preserving both subject identity and item appearance. Instead of mask-based inpainting, we reformulate try-on as a multi-reference, understanding-driven generation task. We build a data engine that collects, manufactures, annotates, and filters high-quality try-on data at scale, and design a three-stage recipe of continued pre-training (CPT), supervised fine-tuning (SFT), and reinforcement learning (RL). The RL stage uses a hybrid reward combining an in-house try-on reward model with a proprietary, rubric-guided general-purpose model, jointly supervising fine-grained consistency and instruction-level quality. It also follows general editing instructions (e.g., pose changes) in the same pass. Across public benchmarks and our in-house Oxygen-TryOn Bench, it achieves state-of-the-art consistency and realism on single-item try-on and leads on multi-item try-on, matching or surpassing both leading proprietary systems (Nano Banana Pro, GPT-Image-2, Seedream5 Lite) and open-source models (FLUX.2).",
+      "published_at": "2026-07-22T20:00:00.000Z",
+      "fetched_at": "2026-07-28T03:47:39.583Z"
+    },
+    {
+      "title": "FilmBench: A Film-Grade Benchmark for Cinematic Video Generation",
+      "url": "https://huggingface.co/papers/2607.24241",
+      "source": "hf-daily-papers",
+      "score": 0,
+      "content": "Progress in video generation keeps narrowing the visual gap between AI-generated and professionally produced footage, yet most benchmarks still draw prompts from web sources or LLM templates and score them with untrained, generic multimodal models. More fundamentally, their evaluation taxonomies remain rudimentary (overall visual quality, coarse text alignment and temporal smoothness) rather than the professional Cinematic Language criteria by which films are actually made and judged, so they assess basic video plausibility rather than film-grade craft. We introduce FilmBench, a text-to-video (T2V) and reference-to-video (R2V) benchmark grounded in the professional Cinematic Language of the film- academy tradition and co-developed with directors and faculty from the Beijing Film Academy and the Hujing Digital Media & Entertainment Group film studio. It rests on three choices. First, prompts are reverse-engineered from clips of award-winning films spanning 20 cinematic genres and chosen by professional directors, so every prompt is anchored to a verified live-action reference; the prompts follow real shot lists, and most script multiple shots (1,056 of the 1,169 prompts are multi-shot), unlike prior single-clip benchmarks. Second, evaluation follows a three-level Cinematic taxonomy of 3 axes, 12 components and 35 (T2V) +3 (R2V-only) sub-metrics. Third, we develop an in-house expert-grade automatic evaluation agent and open-source its core suite of Cinematic Language operators (FilmOps). Benchmarking leading video generation models (9 for T2V, 7 for R2V), the evaluator reproduces the human model ranking at model-level Spearman ho = 0.95 (T2V) and 0.96 (R2V). Scores fall well below prior web-style benchmarks, with two consistent gaps in dynamic aesthetics and a marked single- to multi-shot performance drop that widens for weaker models.",
+      "published_at": "2026-07-26T20:00:00.000Z",
+      "fetched_at": "2026-07-28T03:47:39.583Z"
+    },
+    {
+      "title": "DriveDNA: A Large-Scale Multimodal Naturalistic Driving Dataset and Benchmark for Driving Style Identification",
+      "url": "https://huggingface.co/papers/2607.23822",
+      "source": "hf-daily-papers",
+      "score": 0,
+      "content": "Driving style captures stable, driver-specific patterns in how a vehicle is driven. In naturalistic data, however, this signal is hard to isolate because drivers are observed in different vehicles, on different roads, and under different conditions, so models may mistake vehicle- or situation-specific regularities for driver-specific style. We introduce DriveDNA, a large-scale naturalistic dataset and benchmark for personalized driving-style modeling, comprising 4,121 drives from 465 drivers across 115 vehicle models and totaling 975 hours of human-controlled driving at 10 Hz with forward video, collected from community drivers in everyday use. DriveDNA defines driving style as a consistent, driver-specific behavioral pattern in how a vehicle moves under similar conditions. The benchmark evaluates this signal through three core tasks: few-shot driver re-identification, personalized behavior prediction, and condition-matched comparison, and provides behavioral annotations plus 276,248 rule-generated maneuver events across six classes with large-scale human auditing. We evaluate baselines spanning classical descriptors, supervised and self-supervised time-series encoders, multimodal fusion, probabilistic prediction, and zero-shot foundation models under a fixed multi-seed protocol. Learned representations substantially outperform classical descriptors on unseen drivers (AUROC .935 vs. .707) and retain driver-specific information under matched driving conditions, while descriptor performance approaches chance. Video-only models achieve comparable re-identification accuracy but exhibit severe route leakage, showing that strong recognition may arise from contextual shortcuts rather than driving behavior. These findings show that reliable driving-style evaluation must assess both the behavioral value of learned representations and their robustness to vehicle, drive, and condition confounds.",
+      "published_at": "2026-07-25T20:00:00.000Z",
+      "fetched_at": "2026-07-28T03:47:39.583Z"
+    },
+    {
+      "title": "Leveraging External Knowledge for Historical Document Restoration via Retrieval-Augmented Large Language Models",
+      "url": "https://huggingface.co/papers/2607.21936",
+      "source": "hf-daily-papers",
+      "score": 0,
+      "content": "Historical documents act as invaluable knowledge archives but often suffer from illegibility due to physical deterioration and damage. While existing restoration methods based on masked language modeling effectively utilize local context, they struggle to restore named entities that require external historical knowledge. To address this limitation, we introduce a novel framework for historical document restoration that leverages large language models with retrieval-augmented generation (RAG). By combining the implicit knowledge of pre-trained LLMs with explicitly retrieved external context, our model ARI effectively mitigates the challenge of inferring context-dependent proper nouns. Extensive experiments on Korean historical documents demonstrate that our approach significantly outperforms baselines, achieving substantial gains in restoring both general characters and named entities. Furthermore, comprehensive evaluations including expert assessments confirm that ARI serves as a practical tool for domain experts, promising to accelerate the analysis of historical records.",
+      "published_at": "2026-07-23T20:00:00.000Z",
+      "fetched_at": "2026-07-28T03:47:39.583Z"
+    }
+  ]
+}
