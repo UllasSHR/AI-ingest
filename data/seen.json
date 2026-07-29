@@ -1,11 +1,4 @@
 {
-  "https://upload.sortedreceipts.com/demo": "2026-07-22",
-  "https://github.com/razzant/claudexor": "2026-07-22",
-  "https://github.com/IterateAI/compression": "2026-07-22",
-  "https://github.com/RubricLab/tokenmaxx": "2026-07-22",
-  "https://github.com/bruno-de-queiroz/hoop": "2026-07-22",
-  "https://github.com/arianmokhtariha/data2prompt": "2026-07-22",
-  "https://chalk.appkit.studio": "2026-07-22",
   "https://github.com/lidge-jun/opencodex": "2026-07-23",
   "https://claude.com/product/claude-security": "2026-07-23",
   "https://promptrack.dev/": "2026-07-23",
@@ -47,5 +40,11 @@
   "https://github.com/YoniRaviv/Relay": "2026-07-28",
   "https://github.com/salmanzafar949/ctxdiff": "2026-07-28",
   "https://mauroepce.dev/blog/trust-boundaries-claude-code": "2026-07-28",
-  "https://github.com/buhuipao/agent-console": "2026-07-28"
+  "https://github.com/buhuipao/agent-console": "2026-07-28",
+  "https://sweatypanzer.com/": "2026-07-29",
+  "https://github.com/hcsum/dont-let-me": "2026-07-29",
+  "https://bun.com/docs/runtime/templating/init": "2026-07-29",
+  "https://github.com/ctrlb-hq/ctrlb-decompose": "2026-07-29",
+  "https://sessionradar.com": "2026-07-29",
+  "https://elliotmilco.substack.com/p/proceed-without-asking": "2026-07-29"
 }

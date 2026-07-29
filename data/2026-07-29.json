@@ -1,0 +1,976 @@
+{
+  "date": "2026-07-29",
+  "fetched_at": "2026-07-29T03:51:17.647Z",
+  "summary": [
+    "  ✓ hn               91 items",
+    "  ✗ reddit           FAILED: all Reddit subreddit fetches failed",
+    "  ✓ simonwillison    6 items",
+    "  ✓ hf               10 items"
+  ],
+  "item_count": 107,
+  "items": [
+    {
+      "title": "Google's Beyond Zero: Enterprise Security for the AI Era",
+      "url": "https://spawn-queue.acm.org/doi/10.1145/3819083",
+      "source": "hn",
+      "score": 146,
+      "content": "",
+      "published_at": "2026-07-28T09:59:13Z",
+      "fetched_at": "2026-07-29T03:51:15.794Z"
+    },
+    {
+      "title": "Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code",
+      "url": "https://github.com/schildep/verified-3d-mesh-intersection",
+      "source": "hn",
+      "score": 107,
+      "content": "To my knowledge, this is the first formally verified implementation of a 3D constructive solid geometry (CSG) operation: mesh intersection, implemented in Lean 4 and verified against a concise specification that pins down the surface of the resulting mesh exactly and guarantees practical well-formedness conditions on the triangulation.<p>This project is also an experiment in avoiding having to trust AI-generated code. A human reviewer only needs to read 93 lines of formal specification and run the Lean checker to certify the correctness of the kernel, skipping the intricate 1000+ lines of AI-written implementation. To prove correctness, AI autonomously wrote over 60,000 lines of Lean proofs, which also never have to be inspected by a human. The Lean checker guarantees conformance to the specification at compile time, with zero trust placed in any LLM. This allows us to treat the implementation and proofs as a black box. I guided the agent through the milestones described in the readme to arrive at the result presented here.<p>Also take a look at the web demo <a href=\"https:&#x2F;&#x2F;schildep.github.io&#x2F;verified-3d-mesh-intersection&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;schildep.github.io&#x2F;verified-3d-mesh-intersection&#x2F;</a>, which runs the verified mesh intersection kernel compiled to WebAssembly in your browser.",
+      "published_at": "2026-07-28T13:07:14Z",
+      "fetched_at": "2026-07-29T03:51:15.794Z"
+    },
+    {
+      "title": "What AI developers could learn from Charles Bukowski?",
+      "url": "https://galjot.si/what-ai-developers-could-learn-from-charles-bukowski",
+      "source": "hn",
+      "score": 66,
+      "content": "",
+      "published_at": "2026-07-28T13:00:12Z",
+      "fetched_at": "2026-07-29T03:51:15.794Z"
+    },
+    {
+      "title": "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences",
+      "url": "https://learnvector.ai/",
+      "source": "hn",
+      "score": 64,
+      "content": "",
+      "published_at": "2026-07-29T01:49:19Z",
+      "fetched_at": "2026-07-29T03:51:15.794Z"
+    },
+    {
+      "title": "Over 150k Flights: Airlines Just Flew the Busiest Day in Recorded History",
+      "url": "https://simpleflying.com/over-150000-flights-airlines-busiest-day-recorded-history/",
+      "source": "hn",
+      "score": 50,
+      "content": "",
+      "published_at": "2026-07-28T13:15:19Z",
+      "fetched_at": "2026-07-29T03:51:15.794Z"
+    },
+    {
+      "title": "AI revenues are growing fast, but not fast enough",
+      "url": "https://www.economist.com/finance-and-economics/2026/07/28/ai-revenues-are-growing-fast-but-not-fast-enough",
+      "source": "hn",
+      "score": 48,
+      "content": "",
+      "published_at": "2026-07-28T12:19:54Z",
+      "fetched_at": "2026-07-29T03:51:15.794Z"
+    },
+    {
+      "title": "Tell HN: Our paid Claude AI subscription unavailable >1 week and no support",
+      "url": "https://news.ycombinator.com/item?id=49080775",
+      "source": "hn",
+      "score": 44,
+      "content": "Dear all,<p>our team is using a Claude AI Team plan for more than 1 year already:<p>- we are a normal company, doing normal business, nothing critical<p>- all our bills are paid and we can see them as paid<p>- nontheless, the service is not available for more than one week to us<p>Question:<p>- any other idea to reach out to them than their &quot;Fin AI Chatbot&quot; at support@anthropic.com?<p>- did anybody else had the same experience? If yes, what helped to solve it?<p>Its really frustrating :-(<p>(especially since some people built their interal workflow around Claude, now they are somehow stuck)",
+      "published_at": "2026-07-28T08:00:19Z",
+      "fetched_at": "2026-07-29T03:51:15.794Z"
+    },
+    {
+      "title": "The AI risk is inside the labs",
+      "url": "https://antirez.com/news/172",
+      "source": "hn",
+      "score": 40,
+      "content": "",
+      "published_at": "2026-07-28T09:10:12Z",
+      "fetched_at": "2026-07-29T03:51:15.794Z"
+    },
+    {
+      "title": "Chip stocks tumble as AI sell-off deepens",
+      "url": "https://www.ft.com/content/f8c03b5b-e194-4236-82c3-389b6f5dd7ae",
+      "source": "hn",
+      "score": 36,
+      "content": "",
+      "published_at": "2026-07-28T17:54:01Z",
+      "fetched_at": "2026-07-29T03:51:15.794Z"
+    },
+    {
+      "title": "Chip stocks slide in US and Asia as AI jitters rattle investors",
+      "url": "https://www.bbc.com/news/articles/cly8zng43npo",
+      "source": "hn",
+      "score": 32,
+      "content": "",
+      "published_at": "2026-07-29T01:56:00Z",
+      "fetched_at": "2026-07-29T03:51:15.794Z"
+    },
+    {
+      "title": "Iran Has Figured Out How to Overwhelm U.S. Air Defenses",
+      "url": "https://theintercept.com/2026/07/28/iran-missiles-drones-us-air-defenses/",
+      "source": "hn",
+      "score": 32,
+      "content": "",
+      "published_at": "2026-07-28T21:20:31Z",
+      "fetched_at": "2026-07-29T03:51:15.794Z"
+    },
+    {
+      "title": "Show HN: Segue – Save context in one AI, load it in another by a short handle",
+      "url": "https://segue.ai/",
+      "source": "hn",
+      "score": 30,
+      "content": "",
+      "published_at": "2026-07-28T12:27:05Z",
+      "fetched_at": "2026-07-29T03:51:15.794Z"
+    },
+    {
+      "title": "What if useful AI is a fantasy?",
+      "url": "https://lzon.ca/posts/other/llm-fantasy/",
+      "source": "hn",
+      "score": 27,
+      "content": "",
+      "published_at": "2026-07-28T19:17:37Z",
+      "fetched_at": "2026-07-29T03:51:15.794Z"
+    },
+    {
+      "title": "Scientific computing in the age of agentic AI",
+      "url": "https://openai.com/index/scientific-computing-agentic-ai/",
+      "source": "hn",
+      "score": 27,
+      "content": "",
+      "published_at": "2026-07-28T17:13:15Z",
+      "fetched_at": "2026-07-29T03:51:15.794Z"
+    },
+    {
+      "title": "If AI Writes All the Code, What Do the Programmers Do?",
+      "url": "https://probablydance.com/2026/07/27/if-ai-writes-all-the-code-what-do-the-programmers-do/",
+      "source": "hn",
+      "score": 24,
+      "content": "",
+      "published_at": "2026-07-28T08:17:58Z",
+      "fetched_at": "2026-07-29T03:51:15.794Z"
+    },
+    {
+      "title": "Banning AI will not make it go away",
+      "url": "https://vishal.rs/essay/banning-ai-will-not-make-it-go-away",
+      "source": "hn",
+      "score": 23,
+      "content": "",
+      "published_at": "2026-07-28T22:45:13Z",
+      "fetched_at": "2026-07-29T03:51:15.794Z"
+    },
+    {
+      "title": "Home Office used 'AI hallucinated' information to refuse asylum claim, judge",
+      "url": "https://www.theguardian.com/uk-news/2026/jul/28/home-office-used-ai-hallucinated-information-to-refuse-asylum-claim-judge-suggests",
+      "source": "hn",
+      "score": 23,
+      "content": "",
+      "published_at": "2026-07-28T16:07:06Z",
+      "fetched_at": "2026-07-29T03:51:15.794Z"
+    },
+    {
+      "title": "The AI Future Is for Everyone",
+      "url": "https://www.wsj.com/opinion/the-ai-future-is-for-everyone-a0c24e20",
+      "source": "hn",
+      "score": 22,
+      "content": "",
+      "published_at": "2026-07-28T18:24:37Z",
+      "fetched_at": "2026-07-29T03:51:15.794Z"
+    },
+    {
+      "title": "Israel Paying Millions to Train AI Chatbots How to Talk About Gaza. It's Working",
+      "url": "https://www.dropsitenews.com/p/israel-brad-parscale-ai-chatbots-gaza",
+      "source": "hn",
+      "score": 19,
+      "content": "",
+      "published_at": "2026-07-28T19:44:28Z",
+      "fetched_at": "2026-07-29T03:51:15.794Z"
+    },
+    {
+      "title": "AI sell-off intensifies as investors ditch chip stocks",
+      "url": "https://www.theguardian.com/business/2026/jul/28/ai-sell-off-chip-stocks-sk-hynix-samsung",
+      "source": "hn",
+      "score": 18,
+      "content": "",
+      "published_at": "2026-07-28T10:08:46Z",
+      "fetched_at": "2026-07-29T03:51:15.794Z"
+    },
+    {
+      "title": "Now is the time to give LLMs access to the ACM digital library",
+      "url": "https://cacm.acm.org/opinion/now-is-the-time-to-give-llms-access-to-the-acm-digital-library/",
+      "source": "hn",
+      "score": 126,
+      "content": "",
+      "published_at": "2026-07-28T15:01:12Z",
+      "fetched_at": "2026-07-29T03:51:16.248Z"
+    },
+    {
+      "title": "Show HN: Ctrlb-decompose: Strip the noise from logs before sending to LLMs",
+      "url": "https://github.com/ctrlb-hq/ctrlb-decompose",
+      "source": "hn",
+      "score": 49,
+      "content": "",
+      "published_at": "2026-07-28T13:13:35Z",
+      "fetched_at": "2026-07-29T03:51:16.248Z"
+    },
+    {
+      "title": "\"Uncensored\" open LLMs are measurably more optimistic than their base models",
+      "url": "https://arxiv.org/abs/2607.17427",
+      "source": "hn",
+      "score": 33,
+      "content": "",
+      "published_at": "2026-07-28T16:09:27Z",
+      "fetched_at": "2026-07-29T03:51:16.248Z"
+    },
+    {
+      "title": "OpenReviewer: A Specialized LLM for Generating Critical Scientific Paper Reviews",
+      "url": "https://aclanthology.org/2025.naacl-demo.44/",
+      "source": "hn",
+      "score": 9,
+      "content": "",
+      "published_at": "2026-07-28T20:39:05Z",
+      "fetched_at": "2026-07-29T03:51:16.248Z"
+    },
+    {
+      "title": "Show HN: Writekin – fine-tune a local LLM on your own writing, on your Mac",
+      "url": "https://github.com/scouttyg/writekin",
+      "source": "hn",
+      "score": 5,
+      "content": "Hey Hacker News!<p>I built Writekin over the past week because I was tired of AI writing that didn&#x27;t\nsound like me, even though I had just used AI to clean it up, rather than wholesale write it.<p>The usual fixes I found online for this were:<p>- Some sort of SKILL.md, or<p>- A system prompt full of rules to strip the generic AI tells (e.g. no em-dashes, none of the stock phrases, varying the sentence length, etc).<p>While those cleaned up the surface a bit, Pangram still came back as ~100% AI written, which was frustrating, as again it was mainly taking my sloppy copy and tweaking it.<p>So when building Writekin I took a different route: Writekin fine-tunes a local model on your own writing. It reads what you&#x27;ve already written (Apple Mail, iMessage,\nlocal documents, chat exports), curates it into a training corpus, and\nruns a QLoRA fine-tuning on-device via Apple&#x27;s MLX. A Compose screen then\ndrafts and rewrites in that voice.<p>Everything runs on your Mac. Ingestion, training, and generation are all\nlocal. The only network calls are:<p>(1) When you download the model weights from Hugging Face and<p>(2) The Sparkle update check.<p>Training on your own Mail&#x2F;Messages only felt okay to ship if the end user could verify that, so the source is public —  so you can read exactly what it does!<p>Quick gut check: It&#x27;s v0.9 and the output is uneven. Honestly, sometimes it nails your\nvoice, and  sometimes it&#x27;s just completely off. This is more a &quot;this is possible and\nkind of works&quot; than a finished product.<p>Would genuinely love feedback!<p>Source: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;scouttyg&#x2F;writekin\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;scouttyg&#x2F;writekin</a>",
+      "published_at": "2026-07-28T19:05:12Z",
+      "fetched_at": "2026-07-29T03:51:16.248Z"
+    },
+    {
+      "title": "Use Your Brain: Engineering Standards in the Age of LLM",
+      "url": "https://pgaleone.eu/ai/2026/07/26/use-your-brain/",
+      "source": "hn",
+      "score": 5,
+      "content": "",
+      "published_at": "2026-07-28T12:29:25Z",
+      "fetched_at": "2026-07-29T03:51:16.248Z"
+    },
+    {
+      "title": "LLMs Will Benefit from Scratch Workspaces",
+      "url": "https://win-vector.com/2026/07/28/llms-will-benefit-from-scratch-workspaces/",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-07-28T21:28:44Z",
+      "fetched_at": "2026-07-29T03:51:16.248Z"
+    },
+    {
+      "title": "LLMs Can't Jump [pdf]",
+      "url": "https://philsci-archive.pitt.edu/28024/1/Scientific_Invention_Position_Paper%20%2817%29.pdf",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-07-28T17:25:48Z",
+      "fetched_at": "2026-07-29T03:51:16.248Z"
+    },
+    {
+      "title": "Show HN: Vyne – Zapier for DeFi users, run from any LLM or the workflow builder",
+      "url": "https://app.vyne.finance",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-28T21:01:13Z",
+      "fetched_at": "2026-07-29T03:51:16.248Z"
+    },
+    {
+      "title": "LLMs often miss subtle visual artifacts in data visualizations",
+      "url": "https://opensource.posit.co/blog/2026-07-17_ai-newsletter/",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-28T18:42:43Z",
+      "fetched_at": "2026-07-29T03:51:16.248Z"
+    },
+    {
+      "title": "CryptanalysisBench: Can LLMs Do Cryptanalysis?",
+      "url": "https://arxiv.org/abs/2607.18538",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-28T17:19:03Z",
+      "fetched_at": "2026-07-29T03:51:16.248Z"
+    },
+    {
+      "title": "Agentic Permissions Policy Algebra for Taint Confinement in LLM Agents",
+      "url": "https://arxiv.org/abs/2607.24625",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-28T16:00:26Z",
+      "fetched_at": "2026-07-29T03:51:16.248Z"
+    },
+    {
+      "title": "Local Inference – Run LLMs on Your Own Hardware (Guide and Forum)",
+      "url": "https://localinference.io/",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-28T15:06:55Z",
+      "fetched_at": "2026-07-29T03:51:16.248Z"
+    },
+    {
+      "title": "My local LLM scored 6/6. It was wrong every time",
+      "url": "https://markbhall.dev/writing/my-local-llm-scored-6-of-6/",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-28T13:16:40Z",
+      "fetched_at": "2026-07-29T03:51:16.248Z"
+    },
+    {
+      "title": "Self Hosting LLMs with Llama.cpp",
+      "url": "https://data4sci.substack.com/p/self-hosting-llms-with-llamacpp",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-28T11:02:26Z",
+      "fetched_at": "2026-07-29T03:51:16.248Z"
+    },
+    {
+      "title": "LoopLynx: A Scalable Dataflow Architecture for Efficient LLM Inference",
+      "url": "https://arxiv.org/abs/2504.09561",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-28T10:33:09Z",
+      "fetched_at": "2026-07-29T03:51:16.248Z"
+    },
+    {
+      "title": "Evals before prompts: building an LLM OCR for KYC",
+      "url": "https://blog.nilenso.com/blog/2026/05/18/evals-before-prompts-building-an-llm-ocr-for-kyc/",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-07-28T06:58:01Z",
+      "fetched_at": "2026-07-29T03:51:16.248Z"
+    },
+    {
+      "title": "A dystopian world where LLMs can't code but can generate software binaries",
+      "url": "https://twitter.com/random_walker/status/2082163285588107752",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-07-29T03:36:38Z",
+      "fetched_at": "2026-07-29T03:51:16.248Z"
+    },
+    {
+      "title": "Post-mortem GPU crash debugging with LLMs",
+      "url": "https://gpuopen.com/learn/post-mortem-gpu-crash-debugging-with-llms/",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-07-28T17:55:51Z",
+      "fetched_at": "2026-07-29T03:51:16.248Z"
+    },
+    {
+      "title": "The LLM browser that allows you explore current and other universes",
+      "url": "https://github.com/nettsundere/llmouser",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-07-28T17:48:11Z",
+      "fetched_at": "2026-07-29T03:51:16.248Z"
+    },
+    {
+      "title": "Discovering Cryptographic Weaknesses with Claude",
+      "url": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
+      "source": "hn",
+      "score": 191,
+      "content": "",
+      "published_at": "2026-07-28T17:22:16Z",
+      "fetched_at": "2026-07-29T03:51:16.712Z"
+    },
+    {
+      "title": "Private Claude Chats Exposed in Google and Bing Search Results",
+      "url": "https://www.wired.com/story/private-claude-chats-exposed-in-google-and-bing-search-results/",
+      "source": "hn",
+      "score": 21,
+      "content": "",
+      "published_at": "2026-07-28T13:03:55Z",
+      "fetched_at": "2026-07-29T03:51:16.712Z"
+    },
+    {
+      "title": "Moving from Claude to Proton Lumo",
+      "url": "https://blog.nutts.org/2026/07/27/moving-from-claude-to-proton-lumo/",
+      "source": "hn",
+      "score": 19,
+      "content": "",
+      "published_at": "2026-07-28T14:23:18Z",
+      "fetched_at": "2026-07-29T03:51:16.712Z"
+    },
+    {
+      "title": "Claude may have leaked your chats to the public",
+      "url": "https://lifehacker.com/tech/your-claude-chats-may-have-been-exposed-on-google",
+      "source": "hn",
+      "score": 15,
+      "content": "",
+      "published_at": "2026-07-28T21:12:15Z",
+      "fetched_at": "2026-07-29T03:51:16.712Z"
+    },
+    {
+      "title": "`bun init` automatically creates a Claude.md file by default",
+      "url": "https://bun.com/docs/runtime/templating/init",
+      "source": "hn",
+      "score": 13,
+      "content": "",
+      "published_at": "2026-07-28T20:02:27Z",
+      "fetched_at": "2026-07-29T03:51:16.712Z"
+    },
+    {
+      "title": "Claude Opus 5: Model Welfare",
+      "url": "https://thezvi.substack.com/p/claude-opus-5-model-welfare",
+      "source": "hn",
+      "score": 10,
+      "content": "",
+      "published_at": "2026-07-28T16:03:20Z",
+      "fetched_at": "2026-07-29T03:51:16.712Z"
+    },
+    {
+      "title": "Bringing MCP 2026-07-28 to Claude",
+      "url": "https://claude.com/blog/bringing-mcp-2026-07-28-to-claude",
+      "source": "hn",
+      "score": 8,
+      "content": "",
+      "published_at": "2026-07-28T18:09:22Z",
+      "fetched_at": "2026-07-29T03:51:16.712Z"
+    },
+    {
+      "title": "Some people's chats with Claude AI found to be publicly available online",
+      "url": "https://www.bbc.com/news/articles/cly5qgjk5ywo",
+      "source": "hn",
+      "score": 6,
+      "content": "",
+      "published_at": "2026-07-28T08:06:18Z",
+      "fetched_at": "2026-07-29T03:51:16.712Z"
+    },
+    {
+      "title": "Ask HN: How to rewrite `Claude.md` and install the skill for Opus5 and Fable5",
+      "url": "https://news.ycombinator.com/item?id=49080135",
+      "source": "hn",
+      "score": 5,
+      "content": "Anthropic has released the new Opus 5 and Fable 5 models. Many existing resources—such as `claude.md` files and custom skills—are no longer compatible with these new models. How should one rewrite or adjust `claude.md`, or develop skills better suited to these models?",
+      "published_at": "2026-07-28T06:29:39Z",
+      "fetched_at": "2026-07-29T03:51:16.712Z"
+    },
+    {
+      "title": "Claude Disagrees with Human Philosophers",
+      "url": "https://marcusplutowski.com/blog/philsurvey-1-why-claude-disagrees-with-human-philosophers/",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-07-28T13:43:46Z",
+      "fetched_at": "2026-07-29T03:51:16.712Z"
+    },
+    {
+      "title": "Claude Code system prompt says not to ask for permission, assumes user is absent",
+      "url": "https://elliotmilco.substack.com/p/proceed-without-asking",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-07-28T12:44:27Z",
+      "fetched_at": "2026-07-29T03:51:16.712Z"
+    },
+    {
+      "title": "Space exploration game made using Claude Opus 5",
+      "url": "https://twitter.com/anshuc/status/2081801966158811506",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-07-28T05:38:34Z",
+      "fetched_at": "2026-07-29T03:51:16.712Z"
+    },
+    {
+      "title": "Show HN: Minions Army Harness – Small Version of Claude Tag",
+      "url": "https://github.com/baristaGeek/minions-army-harness",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-07-28T21:57:06Z",
+      "fetched_at": "2026-07-29T03:51:16.712Z"
+    },
+    {
+      "title": "Show HN: The mentor setup I've run for months, now as a Claude Code plugin",
+      "url": "https://github.com/hcsum/dont-let-me",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-07-28T11:42:55Z",
+      "fetched_at": "2026-07-29T03:51:16.712Z"
+    },
+    {
+      "title": "Prompting Claude Opus 5",
+      "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-07-28T06:29:08Z",
+      "fetched_at": "2026-07-29T03:51:16.712Z"
+    },
+    {
+      "title": "Claude Fable 5: What It Is and Why the Hype?",
+      "url": "https://lazerg.uz/en/blog/claude-fable-5-nima",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-07-28T03:59:17Z",
+      "fetched_at": "2026-07-29T03:51:16.712Z"
+    },
+    {
+      "title": "I built a WebGPU multiplayer game with Claude Code and limited coding experience",
+      "url": "https://sweatypanzer.com/",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-28T19:43:50Z",
+      "fetched_at": "2026-07-29T03:51:16.712Z"
+    },
+    {
+      "title": "Show HN: Cetus – A macOS App for Claude Code, Codex, OpenCode, and More",
+      "url": "https://github.com/drewnekota/cetus",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-28T14:21:06Z",
+      "fetched_at": "2026-07-29T03:51:16.712Z"
+    },
+    {
+      "title": "SessionRadar – Monitor Claude Code and Codex sessions from your menu bar",
+      "url": "https://sessionradar.com",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-28T22:19:00Z",
+      "fetched_at": "2026-07-29T03:51:16.712Z"
+    },
+    {
+      "title": "Anthropic publishes a practical key-recovery attack on HAWK-256",
+      "url": "https://github.com/anthropics/cryptography-research-demo",
+      "source": "hn",
+      "score": 56,
+      "content": "",
+      "published_at": "2026-07-28T21:22:48Z",
+      "fetched_at": "2026-07-29T03:51:17.197Z"
+    },
+    {
+      "title": "Unless Its Governance Changes, Anthropic Is Untrustworthy (2025)",
+      "url": "https://www.lesswrong.com/posts/5aKRshJzhojqfbRyo/unless-its-governance-changes-anthropic-is-untrustworthy",
+      "source": "hn",
+      "score": 25,
+      "content": "",
+      "published_at": "2026-07-28T11:36:08Z",
+      "fetched_at": "2026-07-29T03:51:17.197Z"
+    },
+    {
+      "title": "Oxide Joins Anthropic's Project Glasswing",
+      "url": "https://oxide.computer/blog/oxide-anthropic-project-glasswing",
+      "source": "hn",
+      "score": 13,
+      "content": "",
+      "published_at": "2026-07-28T12:39:48Z",
+      "fetched_at": "2026-07-29T03:51:17.197Z"
+    },
+    {
+      "title": "OpenAI, Anthropic Staff Share Letter Asking US to Help Pace AI Progress",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-28/openai-anthropic-staff-share-letter-asking-us-to-help-pace-ai-progress",
+      "source": "hn",
+      "score": 10,
+      "content": "",
+      "published_at": "2026-07-28T17:47:39Z",
+      "fetched_at": "2026-07-29T03:51:17.197Z"
+    },
+    {
+      "title": "Anthropic A.I. Model Finds Flaws in Tough-to-Crack Encryption Algorithms",
+      "url": "https://www.nytimes.com/2026/07/28/us/politics/anthropic-ai-encryption-security-aes.html",
+      "source": "hn",
+      "score": 8,
+      "content": "",
+      "published_at": "2026-07-28T17:15:55Z",
+      "fetched_at": "2026-07-29T03:51:17.197Z"
+    },
+    {
+      "title": "The Anthropic-Physical Intelligence Rumor Roiling AI Twitter",
+      "url": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-07-28T21:06:39Z",
+      "fetched_at": "2026-07-29T03:51:17.197Z"
+    },
+    {
+      "title": "Is Mythos good at cyber bec it kept hacking Anthropic during training?",
+      "url": "https://www.lesswrong.com/posts/QKDoZe6EKhxnFjLWK/is-mythos-good-at-cyber-because-it-kept-hacking-anthropic-s",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-28T14:41:07Z",
+      "fetched_at": "2026-07-29T03:51:17.197Z"
+    },
+    {
+      "title": "Bartz et al. vs. Anthropic PBC",
+      "url": "https://dockets.justia.com/docket/california/candce/3:2024cv05417/434709",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-07-29T02:03:38Z",
+      "fetched_at": "2026-07-29T03:51:17.197Z"
+    },
+    {
+      "title": "If U.S. labs slow down AGI development, this could be 2028",
+      "url": "https://news.ycombinator.com/item?id=49093166",
+      "source": "hn",
+      "score": 1,
+      "content": "If U.S. labs slow down AGI development, this could be 2028:<p>Moonshot Kimi 6, Alibaba Qwen 5, Z.ai, and MiniMax are all claiming AGI-level capabilities. Meanwhile, people barely talk about Anthropic or OpenAI—just like Gemini’s situation in 2026.<p>Digital nomads are moving to Shanghai to flex cheap tokens. Major U.S. software companies are shifting core development teams to Europe and India ( Because they need to use Chinese AI) . China is supplying data-center infrastructure to developing countries, making AI tokens extremely affordable.<p>Meanwhile, American boomers are posting on X about how they use GPT or Claude every day—but in reality, they are coding with Kimi 6.4 Fast through anonymous accounts.",
+      "published_at": "2026-07-29T03:40:30Z",
+      "fetched_at": "2026-07-29T03:51:17.197Z"
+    },
+    {
+      "title": "AI 'tokenmaxxing' fades as workplaces look to cut tech spending",
+      "url": "https://apnews.com/article/ai-token-openai-anthropic-corporate-31bb80ac1cd7862d05f6397177d826b1",
+      "source": "hn",
+      "score": 10,
+      "content": "",
+      "published_at": "2026-07-28T06:48:53Z",
+      "fetched_at": "2026-07-29T03:51:17.197Z"
+    },
+    {
+      "title": "Their position on open-weights models sucks",
+      "url": "https://blog.nathanlangley.dev/posts/anthropic-open-weights.html",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-07-28T06:04:29Z",
+      "fetched_at": "2026-07-29T03:51:17.197Z"
+    },
+    {
+      "title": "Anthropeum – Where in the world, and when, does this human artifact belong?",
+      "url": "https://anthropeum.com/",
+      "source": "hn",
+      "score": 152,
+      "content": "",
+      "published_at": "2026-07-28T15:01:15Z",
+      "fetched_at": "2026-07-29T03:51:17.197Z"
+    },
+    {
+      "title": "Digital circuit simulator in Haskell (SICP 3.3)",
+      "url": "https://entropicthoughts.com/sicp-3-3-digital-circuit-simulator-in-haskell",
+      "source": "hn",
+      "score": 6,
+      "content": "",
+      "published_at": "2026-07-28T12:27:56Z",
+      "fetched_at": "2026-07-29T03:51:17.197Z"
+    },
+    {
+      "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the Incident",
+      "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+      "source": "hn",
+      "score": 59,
+      "content": "",
+      "published_at": "2026-07-28T20:28:33Z",
+      "fetched_at": "2026-07-29T03:51:17.646Z"
+    },
+    {
+      "title": "Hubble: Open-source notetaking app for you and your agents",
+      "url": "https://www.hubble.md/",
+      "source": "hn",
+      "score": 57,
+      "content": "",
+      "published_at": "2026-07-29T00:11:23Z",
+      "fetched_at": "2026-07-29T03:51:17.646Z"
+    },
+    {
+      "title": "Show HN: Open-source Cloudflare deployed agent native task management and wiki",
+      "url": "https://tajd.github.io/projektor/",
+      "source": "hn",
+      "score": 17,
+      "content": "There are many task tracking solutions out there but this one is mine. It&#x27;s open source and free to host on your own Cloudflare project.<p><a href=\"https:&#x2F;&#x2F;github.com&#x2F;TAJD&#x2F;projektor\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;TAJD&#x2F;projektor</a><p>I had issues with paying for some of the solutions out there, and then the local solutions like beads etc always had quirks I didn&#x27;t want to work around. I built my own solution on top of Cloudflare&#x27;s very generous usage tiers, and I&#x27;ve enjoyed using and developing it over the past month or so. I thought it might be good to share here and get feedback.<p>The deployment process is designed to be super simple. I&#x27;m releasing artefacts from the repo that can be configured to deploy for your projects using the Cloudflare AI functionality they&#x27;ve recently released. You then need to configure your own Cloudflare Access policy to lock it down (or not) and then you&#x27;re off!<p>Please let me know if you have any feedback!",
+      "published_at": "2026-07-28T10:33:57Z",
+      "fetched_at": "2026-07-29T03:51:17.646Z"
+    },
+    {
+      "title": "Show HN: BrowserAct: Browser Layer for Your AI Agent",
+      "url": "https://github.com/browser-act/skills",
+      "source": "hn",
+      "score": 13,
+      "content": "",
+      "published_at": "2026-07-28T09:04:39Z",
+      "fetched_at": "2026-07-29T03:51:17.646Z"
+    },
+    {
+      "title": "Coding Tools MCP (v0.2.2):Give any AI chat or agent a pair of hands on your code",
+      "url": "https://github.com/xyTom/coding-tools-mcp",
+      "source": "hn",
+      "score": 12,
+      "content": "",
+      "published_at": "2026-07-28T17:04:44Z",
+      "fetched_at": "2026-07-29T03:51:17.646Z"
+    },
+    {
+      "title": "Show HN: I left VSCode to build an IDE to handle many projects/agents workflow",
+      "url": "https://github.com/silo-code/silo",
+      "source": "hn",
+      "score": 8,
+      "content": "VSCode was my daily driver for years, but once I started running several coding agents across multiple projects at the same time, it got in the way. One workspace with terminals in the bottom tray, no idea which agent was doing what and I found myself needing all the code editing tools less and less.<p>So I built my own IDE around that workflow. Terminals are a first-class citizen, every project stays alive in the background with visual statuses. Close the workspace and come back weeks later, everything is still in its place. I&#x27;ve been using it for weeks and it&#x27;s a big productivity boost.<p>The idea is a super tight core with a robust extension SDK. Features are built as extensions and are optional. Extensions can easily be built with a coding agent and shared in a registry. All open source.<p>There&#x27;s many great TUI apps that have similar features, but this is built for someone that loves VSCode. Please try it out and send  feedback.",
+      "published_at": "2026-07-28T12:21:36Z",
+      "fetched_at": "2026-07-29T03:51:17.646Z"
+    },
+    {
+      "title": "Hugging Face rebuilt a third of its infrastructure after OpenAI agents ran amok",
+      "url": "https://www.theregister.com/ai-and-ml/2026/07/28/openais-agent-siege-forced-significant-rebuild-at-hugging-face/5279577",
+      "source": "hn",
+      "score": 8,
+      "content": "",
+      "published_at": "2026-07-28T14:30:50Z",
+      "fetched_at": "2026-07-29T03:51:17.646Z"
+    },
+    {
+      "title": "Why Agentic Systems Need Ontologies [video]",
+      "url": "https://www.youtube.com/watch?v=Sir59K8ZDPU",
+      "source": "hn",
+      "score": 7,
+      "content": "",
+      "published_at": "2026-07-28T04:36:01Z",
+      "fetched_at": "2026-07-29T03:51:17.646Z"
+    },
+    {
+      "title": "How to choose an AI Agent platform for your team",
+      "url": "https://construct.computer/blog/how-to-choose-an-ai-agent-platform-for-your-team/",
+      "source": "hn",
+      "score": 6,
+      "content": "",
+      "published_at": "2026-07-28T05:22:03Z",
+      "fetched_at": "2026-07-29T03:51:17.646Z"
+    },
+    {
+      "title": "Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident",
+      "url": "https://simonwillison.net/2026/Jul/28/anatomy-of-a-frontier-lab-agent-intrusion/",
+      "source": "hn",
+      "score": 5,
+      "content": "",
+      "published_at": "2026-07-28T22:43:03Z",
+      "fetched_at": "2026-07-29T03:51:17.646Z"
+    },
+    {
+      "title": "Does Speaking to Agents Like Cavemen Save 65% of Tokens? We Test",
+      "url": "https://blog.jetbrains.com/ai/2026/07/speak-to-ai-agents-like-cavemen-tosave-tokens/",
+      "source": "hn",
+      "score": 5,
+      "content": "",
+      "published_at": "2026-07-28T07:37:22Z",
+      "fetched_at": "2026-07-29T03:51:17.646Z"
+    },
+    {
+      "title": "Show HN: Magpie, a CLI to Turn Your AI Agent into a Bookkeeper",
+      "url": "https://github.com/kyle-visner/magpie",
+      "source": "hn",
+      "score": 5,
+      "content": "Hi HN,<p>Annoucing the release of Magpie, a CLI tool which turns your AI agent into an expert bookkeeper, based on Jaybase. (<a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48999936\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48999936</a>)<p>As someone who owns a small, tech business, I have very simple books. somewhere between 10-30 transactions a month, a few depreciation line items, and a couple budgets to monitor. So it always bothered be that I was paying hundreds of dollars per year for software, and maybe a live bookeeper on top of that, just to keep these simple things in order, because I didn&#x27;t have the mental bandwidth to do it myself.<p>So I built Magpie. Magpie is a simple, opinionated CLI that runs on top of Jaybase to allow any popular AI agent to do proper double entry bookkeeping. It enforces standard accounting rules, stores everything securely, and you can ask your AI for just about any kind or report you want.<p>I built it initially for myself, but I figured it&#x27;s something the broader community could use. So give it a try. Simply give Claude Code, Codex, or any other agent the URL and it should be able to set it up for you.",
+      "published_at": "2026-07-28T23:16:16Z",
+      "fetched_at": "2026-07-29T03:51:17.646Z"
+    },
+    {
+      "title": "OpenAI's rogue agent compromised an account at a second tech firm",
+      "url": "https://www.reuters.com/business/openais-rogue-agent-compromised-an-account-second-tech-firm-sources-say-2026-07-28/",
+      "source": "hn",
+      "score": 5,
+      "content": "",
+      "published_at": "2026-07-28T21:55:26Z",
+      "fetched_at": "2026-07-29T03:51:17.646Z"
+    },
+    {
+      "title": "Distilling proprietary model reasoning into open-source search agents",
+      "url": "https://arxiv.org/abs/2607.24280",
+      "source": "hn",
+      "score": 5,
+      "content": "",
+      "published_at": "2026-07-28T17:37:07Z",
+      "fetched_at": "2026-07-29T03:51:17.646Z"
+    },
+    {
+      "title": "Building the enterprise environment for agentic AI",
+      "url": "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/",
+      "source": "hn",
+      "score": 5,
+      "content": "",
+      "published_at": "2026-07-28T11:01:20Z",
+      "fetched_at": "2026-07-29T03:51:17.646Z"
+    },
+    {
+      "title": "Show HN: NoClick – Build always-on agents with your existing AI subscriptions",
+      "url": "https://www.noclick.com/",
+      "source": "hn",
+      "score": 4,
+      "content": "Hey HN! Been working on a platform that lets you build always-on background AI agents that work with your existing subscriptions&#x2F;harnesses of choice (Claude Code, Codex, OpenCode, Hermes, OpenClaw).<p>Works in three steps:<p>- Choose your agent harness (CC&#x2F;Codex&#x2F;OpenCode&#x2F;Hermes&#x2F;OpenClaw) and connect your corresponding subscription<p>- Select the tools across 150+ integrations you want the agent to have access to<p>- Decide when the agent should run (recurring schedule, app event, webhook, etc)<p>All the infra behind the scenes (spinning up a sandbox to run the harness, connecting selected tools to it, persisting files across agent cold starts, observability for tool calls, etc) is automatically handled. Happy to answer any questions!",
+      "published_at": "2026-07-28T16:48:16Z",
+      "fetched_at": "2026-07-29T03:51:17.646Z"
+    },
+    {
+      "title": "OpenAI Rogue Agent Hacked Account at Modal, Reuters Says",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-28/openai-rogue-agent-hacked-account-at-a-second-firm-reuters-says",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-07-28T22:40:16Z",
+      "fetched_at": "2026-07-29T03:51:17.646Z"
+    },
+    {
+      "title": "OpenAI's agents hacked second account during model testing",
+      "url": "https://www.axios.com/2026/07/28/openai-hugging-face-modal-labs-hack",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-07-28T23:55:51Z",
+      "fetched_at": "2026-07-29T03:51:17.646Z"
+    },
+    {
+      "title": "CLIs in the age of agents: how we designed gcx",
+      "url": "https://medium.com/grafana-labs/clis-in-the-age-of-agents-how-we-designed-gcx-cdfca8954b30",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-07-28T18:49:37Z",
+      "fetched_at": "2026-07-29T03:51:17.646Z"
+    },
+    {
+      "title": "Discovering cryptographic weaknesses with Claude",
+      "url": "https://simonwillison.net/2026/Jul/28/discovering-cryptographic-weaknesses-with-claude/#atom-everything",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-07-28T22:45:37.000Z",
+      "fetched_at": "2026-07-29T03:51:15.415Z"
+    },
+    {
+      "title": "Quoting Akshat Bubna",
+      "url": "https://simonwillison.net/2026/Jul/28/akshat-bubna/#atom-everything",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-07-28T22:05:55.000Z",
+      "fetched_at": "2026-07-29T03:51:15.415Z"
+    },
+    {
+      "title": "uv 0.12.0",
+      "url": "https://simonwillison.net/2026/Jul/28/uv/#atom-everything",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-07-28T21:51:38.000Z",
+      "fetched_at": "2026-07-29T03:51:15.415Z"
+    },
+    {
+      "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
+      "url": "https://simonwillison.net/2026/Jul/28/anatomy-of-a-frontier-lab-agent-intrusion/#atom-everything",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-07-28T21:28:54.000Z",
+      "fetched_at": "2026-07-29T03:51:15.415Z"
+    },
+    {
+      "title": "moonshotai/Kimi-K3",
+      "url": "https://simonwillison.net/2026/Jul/27/kimi-k3/#atom-everything",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-07-27T23:39:04.000Z",
+      "fetched_at": "2026-07-29T03:51:15.415Z"
+    },
+    {
+      "title": "An opinionated guide to which AI to use to do stuff",
+      "url": "https://simonwillison.net/2026/Jul/27/an-opinionated-guide-to-which-ai-to-use-to-do-stuff/#atom-everything",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-07-27T21:55:53.000Z",
+      "fetched_at": "2026-07-29T03:51:15.415Z"
+    },
+    {
+      "title": "A New Role for Relevance: Guiding Corpus Interaction in Agentic Search",
+      "url": "https://huggingface.co/papers/2607.24223",
+      "source": "hf-daily-papers",
+      "score": 54,
+      "content": "Relevance is a query-dependent estimate of whether a document or excerpt contains useful evidence. Existing retrieval agents use relevance to select top-k content, but document relevance alone cannot localize, compose, or verify the evidence required by complex questions. Direct Corpus Interaction (DCI) enables such fine-grained operations through grep-style exploration, but its relevance-agnostic search can expose useful clues late and delay convergence. Recent advances use relevance to narrow the corpus into a working space for interaction. Once interaction begins, however, relevance still does not directly guide which documents grep searches first or distinguish informative excerpts from a broad set of matches to let LLMs see them first. We introduce the Relevance-Aware RipGrep Search Agent (RARG), which turns relevance into an execution prior for corpus interaction. RARG provides coarse-to-fine relevance guidance: it orders documents for sequential 'ripgrep' traversal to expose globally relevant clues earlier, initializes promising entry points with query-relevant paragraphs, and reranks grep matches to surface informative excerpts that document-level ranking may otherwise obscure. Across challenging browse question answering and reasoning-intensive retrieval, RARG improves the accuracy--efficiency frontier over retrieval-based and direct-interaction agents. These results demonstrate that relevance-aware interaction enables faster and more reliable search convergence.",
+      "published_at": "2026-07-26T20:00:00.000Z",
+      "fetched_at": "2026-07-29T03:51:15.423Z"
+    },
+    {
+      "title": "HiFi-UMI: Learning Deployable Manipulation Policies from High-Fidelity UMI Data Alone",
+      "url": "https://huggingface.co/papers/2607.25895",
+      "source": "hf-daily-papers",
+      "score": 24,
+      "content": "Learning deployable manipulation policies is bottlenecked by the scarcity of data that is both high-fidelity and scalable. Real-robot teleoperation is accurate but costly to scale; robot-free UMI capture scales readily, and current practice uses the resulting data mainly for pre-training, adding a small real-robot \"anchor\" at post-training. We ask whether raising the fidelity of robot-free UMI data, rather than shrinking the real-robot fraction, can remove that anchor. We present HiFi-UMI, a portable UMI data-production system co-designed for trajectory accuracy, inter-gripper relative pose, synchronization, and field of view: head-mounted offline stereo-inertial SLAM, native rather than reconstructed relative pose, a shared microsecond GPIO trigger, and two wide-angle cameras per hand covering ~200 degrees. It reaches 3 mm workspace-local end-effector accuracy without external tracking infrastructure. Using this corpus, we demonstrate zero-robot post-training: a policy post-trained solely on HiFi-UMI demonstrations deploys directly on a real robot and matches in-domain teleoperation across three backbones spanning the vision-language-action and world-action-model families, with success-rate differences of -2.5, +3.1, and -0.6 percentage points on StarVLA-QwenPI, OpenPI-pi_0.5, and LingBot-VA; the strongest policy reaches 85% on a precision insertion task, even though the teleoperation baseline is collected in the evaluation scene and no HiFi-UMI trajectory is. Pre-training on 4,000 hours from the same corpus lowers action error on ten unseen tasks by 41% and, on StarVLA-QwenPI, raises real-robot success by a further 18.1 percentage points. We open-source HiFi-UMI-2K, 2,000 hours of microsecond-synchronized, ultra-wide-FoV demonstrations, each automatically reconstructed and validated through simulation replay, as a large-scale, high-fidelity resource for the robot-learning community.",
+      "published_at": "2026-07-27T20:00:00.000Z",
+      "fetched_at": "2026-07-29T03:51:15.423Z"
+    },
+    {
+      "title": "Keep It InMind: Benchmarking the Implicit-Association Blind Spot in Agent Memory",
+      "url": "https://huggingface.co/papers/2607.24368",
+      "source": "hf-daily-papers",
+      "score": 15,
+      "content": "Long-term memory systems store what a user says in an external store and retrieve it when a related query arrives. This interface rests on an assumption so natural that it is rarely stated: a memory that is needed will resemble the query that needs it. World knowledge breaks the assumption. A tree-nut allergy should change the answer to a macaron request through their almond-flour ingredient, yet the two texts share no cue a retriever can see. We call this failure mode the implicit-association blind spot and introduce InMind, a 125-task, expert-verified benchmark spanning ten life domains, with 113 tasks grounded in citable public sources. Its paired controls separate three explanations that existing evaluations conflate: the fact was never stored, the model lacks the bridging knowledge, or the fact was stored and never surfaced. The verdict is clean. With the decisive memory placed in context, the backbone answers 84.0 percent of indirect queries; when the same memory must be retrieved, six vector, graph, and agentic memory systems reach at most 14.4 percent, even though they recall the same facts on demand at up to 100 percent. An embedding with eight times the dimensionality raises answer-blind target recall for every system yet leaves the gap essentially intact. A minimal diagnostic probe that keeps memory visible before the query arrives recovers most of the gap, locating the failure in the query-conditioned interface itself and pointing to routing, deciding which facts must stay visible, as the open problem InMind is built to score.",
+      "published_at": "2026-07-26T20:00:00.000Z",
+      "fetched_at": "2026-07-29T03:51:15.423Z"
+    },
+    {
+      "title": "Mage-VL: An Efficient Codec-Native Streaming Multimodal Foundation Model",
+      "url": "https://huggingface.co/papers/2607.24904",
+      "source": "hf-daily-papers",
+      "score": 6,
+      "content": "Standard vision-language models (VLMs) suffer from Moravec's paradox: they excel at complex offline visual reasoning but struggle with simple streaming perception tasks and process them inefficiently. We present Mage-VL, an efficient codec-native streaming foundation model for real-time multimodal understanding and interaction. At its core, our custom tokenizer, Mage-ViT, replaces uniform frame sampling by selectively encoding dynamic, entropy-rich regions using motion vectors and residual energy across sparse anchor (I) and predicted (P) frames. Operating at a 16 x 16 patch level, this reduces visual token consumption by over 75% while preserving spatiotemporal context. Trained from scratch on approximately 560M unlabeled images and 100M unlabeled video frames, Mage-ViT matches or outperforms flagship encoders trained on billions of image-text pairs. We establish AI4AI data pipelines encompassing prompt-code joint optimization for multimodal captioning and AI-driven performance diagnosis to guide training recipes. Furthermore, through a bio-inspired dual-system architecture - a lightweight System 1 event gate and a causal System 2 decoder - Mage-VL enables proactive streaming perception. Extensive evaluations show that Mage-VL-4B matches Qwen3-VL-4B on static tasks while achieving strong gains in video understanding and 2D/3D spatial reasoning, with up to a 3.5x wall-clock inference speedup, and comprehensively surpasses the 15B Phi-4-reasoning-vision baseline. Beyond model artifacts, we deliver seven key empirical findings covering pre-training data efficiency, variable-resolution scaling, codec system acceleration, VideoQA SFT redundancy, motion-spatial synergy, AI4AI data pipelines, and Zero-Vision SFT for multimodal RL.",
+      "published_at": "2026-07-26T20:00:00.000Z",
+      "fetched_at": "2026-07-29T03:51:15.423Z"
+    },
+    {
+      "title": "Wonder: Video World Model Done Better",
+      "url": "https://huggingface.co/papers/2607.26037",
+      "source": "hf-daily-papers",
+      "score": 3,
+      "content": "We present Wonder, a general-purpose video world model for real-time, camera-controllable world exploration. Given an image or a conditional video, Wonder constructs a playable world where users can navigate interactively by moving the camera, discovering unseen regions, and revisiting previously observed areas in real time and over a long-term horizon. Achieving this capability requires a system-level co-design of control method, memory mechanism, and training strategy. We introduce a novel camera conditioning with a dense coordinate field whose renderings provide spatially aligned motion and orientation cues, allowing the model to interpret camera motion directly as visual evidence. To support fast and precise memory retrieval over a growing generation context, we propose an efficient sparse attention-based memory mechanism, enabling the model to selectively attend to a small set of relevant context tokens at inference time, regardless of actual context length. We further develop several techniques to rectify the self-forcing-style distillation pipeline, improving the student model's ability to respect control signals, as well as maintaining diverse generation modes and long-term memory from the teacher. Together, these components enable Wonder to synthesize diverse, minute-scale videos at 16 FPS while preserving coherent geometry, appearance, and dynamics across long rollouts. Beyond image-to-video generation, Wonder naturally supports video-conditioned generation, allowing existing dynamic scenes to be re-shot in real time.",
+      "published_at": "2026-07-27T20:00:00.000Z",
+      "fetched_at": "2026-07-29T03:51:15.423Z"
+    },
+    {
+      "title": "PerceptionBench: Evaluating Atomic Visual Perception in Multimodal Large Language Models",
+      "url": "https://huggingface.co/papers/2607.24957",
+      "source": "hf-daily-papers",
+      "score": 3,
+      "content": "We introduce PerceptionBench, a benchmark specifically designed to evaluate the atomic visual perception capabilities of Multimodal Large Language Models (MLLMs). Existing benchmarks often fail to isolate perception: holistic evaluations conflate perceptual errors with failures in reasoning or domain knowledge, while application-driven benchmarks only cover narrow, fragmented domains shaped by heuristic designs. To address these limitations, PerceptionBench adopts a bottom-up approach: by diagnosing the earliest failure points in the responses of frontier MLLMs across 42 existing benchmarks, we construct an error taxonomy whose perception branch defines ten atomic perceptual capabilities. Guided by this taxonomy, we construct 3,000 verified questions with short, unambiguous answers, each isolating a single capability, with difficulty stemming from perception rather than reasoning or knowledge. Benchmark results across sixteen frontier MLLMs reveal that atomic perception remains largely unsolved---no model reaches 60\\% accuracy, perception-related hallucination is the weakest capability on average, and similar overall scores conceal sharply divergent capability profiles. PerceptionBench thus provides a capability-level standard for measuring and diagnosing the visual perception boundaries of MLLMs.",
+      "published_at": "2026-07-26T20:00:00.000Z",
+      "fetched_at": "2026-07-29T03:51:15.423Z"
+    },
+    {
+      "title": "Visual prompt engineering for video models",
+      "url": "https://huggingface.co/papers/2607.25537",
+      "source": "hf-daily-papers",
+      "score": 1,
+      "content": "In the age of foundation models, a model is only as good as its prompt. For this reason, prompt engineering has become an essential technique for improving language model performance. Since video models are currently becoming foundation models for visual tasks (e.g., visual reasoning), we here ask whether they similarly benefit from visual prompt engineering: automatically modifying the task image to improve model performance. For example, for a visual physics reasoning task (\"Where does the ball land, after passing a set of obstacles?\"), an abstract sketch-like scene can be turned into a photorealistic version with a simple call to an image editing model. We find that visual prompt engineering, or VIPE for short, improves video reasoning performance across tasks. In fact, for video models, visual prompt engineering can be even more effective than classic text-based prompt engineering or test-time scaling. Ultimately, just as text-based prompt engineering systematically improves language model performance, visual prompt engineering can serve as a simple, compute-efficient approach to elicit better visual reasoning performance from video models. Example videos on our project page at https://visual-prompt-engineering.github.io/.",
+      "published_at": "2026-07-27T20:00:00.000Z",
+      "fetched_at": "2026-07-29T03:51:15.423Z"
+    },
+    {
+      "title": "Shieldstral",
+      "url": "https://huggingface.co/papers/2607.25857",
+      "source": "hf-daily-papers",
+      "score": 1,
+      "content": "We introduce Shieldstral, a 3B-parameter policy-adaptive multimodal safety classifier that matches or outperforms models nearly 7times its size on text safety benchmarks and sets a new state of the art on multimodal safety classification. Shieldstral formulates content moderation as a binary question-answering task. This simple formulation unifies diverse moderation tasks into a single yes/no problem, enabling heterogeneous safety datasets with divergent taxonomies to be consolidated under one training framework. We present the data construction recipe, covering curation and generation of approximately 54.1M samples and a fine-grained evaluation set to evaluate policy adaptability. Together, these enable a small adaptive model to match or outperform much larger models.",
+      "published_at": "2026-07-27T20:00:00.000Z",
+      "fetched_at": "2026-07-29T03:51:15.423Z"
+    },
+    {
+      "title": "Towards Robust Reinforcement Learning for Small-Scale Language Model Agents",
+      "url": "https://huggingface.co/papers/2607.25091",
+      "source": "hf-daily-papers",
+      "score": 1,
+      "content": "The alignment of Small Language Models (SLMs) in the 70--500M parameter range using reinforcement learning is often considered unstable, though the underlying failure mechanisms have not been systematically investigated. In the State-of-the-Art (SOTA) research, fifteen (model, corpus) configurations were trained using Proximal Policy Optimization (PPO). The experiments included Pythia-70M, 160M, 410M and SmolLM2-135M, 360M on the TinyStories, CNN/DailyMail, and Wikitext-103 corpora. Three reproducible failure modes were identified in small-scale language models: silent LoRA parameter freezing in standard PEFT/TRL pipelines, numerical overflow in importance ratios when using bfloat16, and catastrophic policy collapse due to reward-model error. These issues were addressed using a merge-and-reinitialize adapter technique, float32 precision during PPO updates, and a three-layer safety mechanism comprising reward whitening, importance-ratio guarding, and weight rollback. In this paper, a capacity-headroom hypothesis is proposed, which states that PPO performance at the SLM scale depends on both a fluent supervised model (PPL<20) and a discriminative reward signal, rather than on the number of model parameters. The proposed system converged stably in all experiments and improved preference win rate over the SFT baseline in configurations with a fluent prior and an informative reward signal. Furthermore, it outperformed instruction-tuned baselines while requiring significantly less training data. All checkpoints, preference datasets, and training scripts are publicly released^§.",
+      "published_at": "2026-07-26T20:00:00.000Z",
+      "fetched_at": "2026-07-29T03:51:15.423Z"
+    },
+    {
+      "title": "OmniDelta: Skill-Driven Budget Allocation for Token Compression in OmniLLMs",
+      "url": "https://huggingface.co/papers/2607.25669",
+      "source": "hf-daily-papers",
+      "score": 0,
+      "content": "Emerging Omni-modal Large Language Models (OmniLLMs) enable unified understanding of text, audio, and video, but their long audio-video token sequences introduce substantial memory and inference costs. Existing compression methods mainly focus on selecting important tokens under fixed budgets, leaving the preceding budget-allocation problem underexplored. We show that direct query-to-audio/video similarity is unreliable for inter-modal budget allocation, and that uniform intra-modal budgets can miss key evidence while retaining redundant content. To address these limitations, we propose OmniDelta, a training-free, skill-driven framework that couples intent-aware inter-modal allocation with content-aware intra-modal allocation. OmniDelta first constructs audio and video skill pools to shift the fixed retained-token budget according to query demand, then reallocates modality budgets over audio segments and video frames using local complexity and temporal redundancy. The resulting local budgets can be combined with existing pruning strategies, preserving the total retained-token ratio while changing where the budget is spent. Experiments on four audio-video benchmarks with two Qwen2.5-Omni models show that OmniDelta establishes a new accuracy-efficiency Pareto frontier across pruning ratios. At 25% token retention on Qwen2.5-Omni-7B, OmniDelta reduces GPU memory by 22.0% and achieves a 1.64x end-to-end speedup over full-token inference.",
+      "published_at": "2026-07-27T20:00:00.000Z",
+      "fetched_at": "2026-07-29T03:51:15.423Z"
+    }
+  ]
+}
