@@ -1,9 +1,4 @@
 {
-  "https://github.com/lidge-jun/opencodex": "2026-07-23",
-  "https://claude.com/product/claude-security": "2026-07-23",
-  "https://promptrack.dev/": "2026-07-23",
-  "https://github.com/mauscoelho/rabbitty-app/releases": "2026-07-23",
-  "https://skeezo.dev/": "2026-07-23",
   "https://github.com/raine/claude-code-proxy": "2026-07-24",
   "https://usebdfl.com/": "2026-07-24",
   "https://github.com/SteveVitali/claude-hibernate": "2026-07-24",
@@ -46,5 +41,10 @@
   "https://bun.com/docs/runtime/templating/init": "2026-07-29",
   "https://github.com/ctrlb-hq/ctrlb-decompose": "2026-07-29",
   "https://sessionradar.com": "2026-07-29",
-  "https://elliotmilco.substack.com/p/proceed-without-asking": "2026-07-29"
+  "https://elliotmilco.substack.com/p/proceed-without-asking": "2026-07-29",
+  "https://proandroiddev.com/seven-claude-code-commands-one-kotlin-multiplatform-app-on-android-and-ios-cb01e920a3e6": "2026-07-30",
+  "https://chromewebstore.google.com/detail/tab-genie/cjbnpcocgkomljkgfhgadolphbeicddh": "2026-07-30",
+  "https://echologue.com/": "2026-07-30",
+  "https://github.com/toshipepe/tokimeter": "2026-07-30",
+  "https://github.com/vincentping/claudeFS": "2026-07-30"
 }
