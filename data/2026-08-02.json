@@ -1,0 +1,715 @@
+{
+  "date": "2026-08-02",
+  "fetched_at": "2026-08-02T04:05:11.283Z",
+  "summary": [
+    "  ✓ hn               68 items",
+    "  ✗ reddit           FAILED: all Reddit subreddit fetches failed",
+    "  ✓ simonwillison    10 items",
+    "  ✓ hf               0 items"
+  ],
+  "item_count": 78,
+  "items": [
+    {
+      "title": "AI doesn't generate working products, that's still your job",
+      "url": "https://weeraman.com/the-prototype-isnt-the-product/",
+      "source": "hn",
+      "score": 250,
+      "content": "",
+      "published_at": "2026-08-01T07:52:10Z",
+      "fetched_at": "2026-08-02T04:05:09.266Z"
+    },
+    {
+      "title": "AI financial advice is surprisingly good, especially if you ask right questions",
+      "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+      "source": "hn",
+      "score": 216,
+      "content": "",
+      "published_at": "2026-08-01T22:25:12Z",
+      "fetched_at": "2026-08-02T04:05:09.266Z"
+    },
+    {
+      "title": "On the non-use of AI in my writing process",
+      "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
+      "source": "hn",
+      "score": 128,
+      "content": "",
+      "published_at": "2026-08-01T12:56:54Z",
+      "fetched_at": "2026-08-02T04:05:09.266Z"
+    },
+    {
+      "title": "EU will mandate labels on authentic-looking AI content starting August 2",
+      "url": "https://www.engadget.com/2227966/eu-mandate-labels-on-authentic-looking-ai-content/",
+      "source": "hn",
+      "score": 73,
+      "content": "",
+      "published_at": "2026-08-01T08:26:55Z",
+      "fetched_at": "2026-08-02T04:05:09.266Z"
+    },
+    {
+      "title": "Google kills Earth AI generator after one day",
+      "url": "https://twitter.com/newsfromgoogle/status/2083249962150760610",
+      "source": "hn",
+      "score": 60,
+      "content": "",
+      "published_at": "2026-08-01T13:02:44Z",
+      "fetched_at": "2026-08-02T04:05:09.266Z"
+    },
+    {
+      "title": "Zitron: \"Everyone Has Been Sold a Lie\" on AI",
+      "url": "https://www.youtube.com/watch?v=pHcZpvIfho0",
+      "source": "hn",
+      "score": 48,
+      "content": "",
+      "published_at": "2026-08-01T22:50:30Z",
+      "fetched_at": "2026-08-02T04:05:09.266Z"
+    },
+    {
+      "title": "Google cancels AI Studio app after 800k preorders",
+      "url": "https://twitter.com/GoogleAIStudio/status/2083274575769473092",
+      "source": "hn",
+      "score": 39,
+      "content": "",
+      "published_at": "2026-08-01T18:55:13Z",
+      "fetched_at": "2026-08-02T04:05:09.266Z"
+    },
+    {
+      "title": "AI's real threat to jobs isn't job loss, it's lower paychecks, new research says",
+      "url": "https://www.businessinsider.com/ai-could-lower-workers-pay-job-market-impact-2026-7",
+      "source": "hn",
+      "score": 36,
+      "content": "",
+      "published_at": "2026-08-01T21:05:00Z",
+      "fetched_at": "2026-08-02T04:05:09.266Z"
+    },
+    {
+      "title": "How to Spot AI Writing",
+      "url": "https://www.economist.com/culture/2026/07/30/how-to-spot-ai-writing",
+      "source": "hn",
+      "score": 35,
+      "content": "",
+      "published_at": "2026-08-01T13:35:26Z",
+      "fetched_at": "2026-08-02T04:05:09.266Z"
+    },
+    {
+      "title": "Reddit Stock Collapses 23% as AI Eats Away at User Growth",
+      "url": "https://www.barchart.com/story/news/3584357/reddit-stock-collapses-23-as-ai-eats-away-at-user-growth",
+      "source": "hn",
+      "score": 27,
+      "content": "",
+      "published_at": "2026-08-01T18:03:08Z",
+      "fetched_at": "2026-08-02T04:05:09.266Z"
+    },
+    {
+      "title": "I Fired My AI Assitant",
+      "url": "https://chreke.com/posts/i-fired-my-ai-assistant",
+      "source": "hn",
+      "score": 23,
+      "content": "",
+      "published_at": "2026-08-01T16:38:28Z",
+      "fetched_at": "2026-08-02T04:05:09.266Z"
+    },
+    {
+      "title": "AI opens new era in cognitive studies of wild primates",
+      "url": "https://news.emory.edu/features/2026/07/ai-opens-new-era-cognitive-studies-wild-primates",
+      "source": "hn",
+      "score": 10,
+      "content": "",
+      "published_at": "2026-08-01T22:40:22Z",
+      "fetched_at": "2026-08-02T04:05:09.266Z"
+    },
+    {
+      "title": "Assessment of open AI math results",
+      "url": "https://twitter.com/stalkermustang/status/2083485500250198453",
+      "source": "hn",
+      "score": 10,
+      "content": "",
+      "published_at": "2026-08-01T17:08:03Z",
+      "fetched_at": "2026-08-02T04:05:09.266Z"
+    },
+    {
+      "title": "Book sellers raise alarm over 'horrific' destruction of rare titles to feed AI",
+      "url": "https://www.theguardian.com/technology/2026/aug/02/australian-book-sellers-alarm-destruction-rare-titles-ai-supply-chain",
+      "source": "hn",
+      "score": 9,
+      "content": "",
+      "published_at": "2026-08-01T21:11:45Z",
+      "fetched_at": "2026-08-02T04:05:09.266Z"
+    },
+    {
+      "title": "Chinese AI Researchers Are Finding Their Voice on X",
+      "url": "https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/",
+      "source": "hn",
+      "score": 9,
+      "content": "",
+      "published_at": "2026-08-01T07:02:03Z",
+      "fetched_at": "2026-08-02T04:05:09.266Z"
+    },
+    {
+      "title": "Which web browser has no AI?",
+      "url": "https://news.ycombinator.com/item?id=49137677",
+      "source": "hn",
+      "score": 8,
+      "content": "I think it&#x27;s time to stay away from softwares or tools which have AI features.<p>First find the good enough web browser which has no AI.<p>&quot;No AI&quot;, I mean totally no AI features, not the options to close AI features.<p>Because using AI or adding AI features can influence many aspects of the softwares (decisions, philosophy, UI, details, attitudes to users, privacy, security, etc.), and reflects the abilities and purposes of the developer or company.",
+      "published_at": "2026-08-01T19:39:10Z",
+      "fetched_at": "2026-08-02T04:05:09.266Z"
+    },
+    {
+      "title": "Ask HN: I still don't understand why AI agents need \"skills\"",
+      "url": "https://news.ycombinator.com/item?id=49139845",
+      "source": "hn",
+      "score": 8,
+      "content": "I’ve asked AI a few times and I still don’t get it.<p>Why do frameworks like Claude Code or Codex have the concept of “skills” instead of just using well-organized Markdown docs?<p>Couldn’t I just have an AGENTS.md that points to folders of .md files and tells the agent when to read them? That feels functionally equivalent to me.<p>What am I missing? Is there a real architectural benefit, or is it mostly a standardization&#x2F;convenience thing?<p>I doubt we’d create so much hype about skills if they’d just be a md file that’s in a skills folder. So I feel I’m missing something.",
+      "published_at": "2026-08-02T00:09:02Z",
+      "fetched_at": "2026-08-02T04:05:09.266Z"
+    },
+    {
+      "title": "Ask HN: How did your boss's behavior change with the rise of AI?",
+      "url": "https://news.ycombinator.com/item?id=49132161",
+      "source": "hn",
+      "score": 7,
+      "content": "I am trying to understand whether the rise of AI affects managers and the work dynamics positively or negatively",
+      "published_at": "2026-08-01T07:58:13Z",
+      "fetched_at": "2026-08-02T04:05:09.266Z"
+    },
+    {
+      "title": "Show HN: Symbio self fine-tuning AI loop",
+      "url": "https://github.com/huyedits/Symbio",
+      "source": "hn",
+      "score": 7,
+      "content": "It trains based off the mistakes it made with the solution you gave OR what it got. Thank you for reading",
+      "published_at": "2026-08-01T23:06:26Z",
+      "fetched_at": "2026-08-02T04:05:09.266Z"
+    },
+    {
+      "title": "Show HN: Minimal LLM Post-Training Experiments on an 8GB GPU (SFT, DPO, GRPO)",
+      "url": "https://github.com/pochenai/nano-llm-posttraining",
+      "source": "hn",
+      "score": 20,
+      "content": "",
+      "published_at": "2026-08-01T12:30:32Z",
+      "fetched_at": "2026-08-02T04:05:09.720Z"
+    },
+    {
+      "title": "Persistent State Machines: LLM Attention with INT4 In-Memory Cells",
+      "url": "https://zenodo.org/records/21753002",
+      "source": "hn",
+      "score": 8,
+      "content": "",
+      "published_at": "2026-08-02T01:01:45Z",
+      "fetched_at": "2026-08-02T04:05:09.720Z"
+    },
+    {
+      "title": "LLMs can't trade and higher reasoning doesn't help",
+      "url": "https://twitter.com/RRicefan/status/2082513323489202664",
+      "source": "hn",
+      "score": 5,
+      "content": "",
+      "published_at": "2026-08-01T05:37:48Z",
+      "fetched_at": "2026-08-02T04:05:09.720Z"
+    },
+    {
+      "title": "I Stop LLMs Drifting in Production Codebases",
+      "url": "https://scottspence.com/posts/how-i-stop-llms-drifting-in-production-codebases",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-08-01T18:25:46Z",
+      "fetched_at": "2026-08-02T04:05:09.720Z"
+    },
+    {
+      "title": "LLMs Can't Jump [pdf]",
+      "url": "https://www.tomzahavy.com/files/llms-cant-jump.pdf",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-08-01T16:53:12Z",
+      "fetched_at": "2026-08-02T04:05:09.720Z"
+    },
+    {
+      "title": "How to Prompt Any LLM?",
+      "url": "https://blog.sparsh.dev/how-to-prompt-llms/",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-08-01T14:29:55Z",
+      "fetched_at": "2026-08-02T04:05:09.720Z"
+    },
+    {
+      "title": "Scientists using LLMs will 'do more, less well', modelling study predicts",
+      "url": "https://www.nature.com/articles/d41586-026-02397-5",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-08-01T16:30:57Z",
+      "fetched_at": "2026-08-02T04:05:09.720Z"
+    },
+    {
+      "title": "Fidelity Is Not Safety: Compressed LLMs Pass Quality Guards yet Invent",
+      "url": "https://arxiv.org/abs/2607.28196",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-01T15:07:08Z",
+      "fetched_at": "2026-08-02T04:05:09.720Z"
+    },
+    {
+      "title": "Integrate LLM into your Python runtime",
+      "url": "https://github.com/MiskaKan/thinair",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-01T12:31:52Z",
+      "fetched_at": "2026-08-02T04:05:09.720Z"
+    },
+    {
+      "title": "Show HN: Horus-runtime – Train your own tiny LLM from scratch",
+      "url": "https://github.com/temple-compute/pantheon/tree/main/workflows/ai/w02-tiny-llm",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-01T09:27:21Z",
+      "fetched_at": "2026-08-02T04:05:09.720Z"
+    },
+    {
+      "title": "LLMs Can Infer Political Alignment from Online Conversations",
+      "url": "https://arxiv.org/abs/2603.11253",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-08-01T14:49:13Z",
+      "fetched_at": "2026-08-02T04:05:09.720Z"
+    },
+    {
+      "title": "Show HN: Goulash – heckler/helper to local-LLM your shell as little as possible",
+      "url": "https://github.com/chaboud/goulash",
+      "source": "hn",
+      "score": 1,
+      "content": "I use the terminal a lot, but I don&#x27;t remember every command, flag, and syntax available.  ffmpeg, piping to awk, find, etc...  I know I&#x27;m not cool enough, but it&#x27;s crazy-making.<p>I get into a regular pattern of asking Claude, ChatGPT, or a local model how I&#x27;d write a command or do something with some files or a prompt, then going back to the terminal with a mad-lib command and reasoning through it.<p>So I built goulash.  It takes up the bottom four lines of your terminal as a place to comment on your session and suggest commands that you can select by hitting <i>down arrow</i> to select your &quot;<i>future history</i>&quot;, staying in flow with <i>up arrow</i> for history in most shells.  Want to ask it a direct command question? Just type &quot;# your question&quot; and hit enter, and it will take that inline comment and make a suggestion.<p>Running a suggested command is always up to the user.  Hit down arrow to scroll through suggestions, modify if you want, hit enter to execute.<p>This is made for running with local engines hosting local-friendly models, like Ollama or LM Studio with gemma4:e4b on a Macbook Air.  It relies heavily on context caching to stay snappy, but goulash doesn&#x27;t block as it thinks or runs.  It&#x27;s a ride-along in the passenger seat.<p>Have a tweaky command set that your tiny model doesn&#x27;t know?  Use &quot;#@ YourCommandReference.md&quot; to give that gemma4:e4b (or whatever) a guide as a pin for the session, or use it to temporarily style your life (e.g., I have a FarmAnimals.md file that adds a barnyard joke to any comment. Hey... the tokens are local...).<p>Written in rust, largely with Fable and Opus 5.  Tested with zsh and bash on Mac.  Check out the repo, or install with &quot;cargo install goulash&quot;.",
+      "published_at": "2026-08-01T16:33:52Z",
+      "fetched_at": "2026-08-02T04:05:09.720Z"
+    },
+    {
+      "title": "Show HN: I built an RPG engine where an LLM narrates the GM, not the rules",
+      "url": "https://polymyth.quest",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-08-01T10:26:09Z",
+      "fetched_at": "2026-08-02T04:05:09.720Z"
+    },
+    {
+      "title": "Tell HN: Amazonbot aggressively scraping my website and ignoring robots.txt",
+      "url": "https://news.ycombinator.com/item?id=49137359",
+      "source": "hn",
+      "score": 16,
+      "content": "At the beginning of the year I decided to set up a scraping and LLM honeypot on one of my personal websites which included a fake git repo with code containing fake HTTP endpoints. The address to this repo was hidden in a public page inside a comment.<p>About three weeks ago IP addresses from Amazon Searchbot attempted to make requests to the fake endpoints included inside a shell script.<p>My robots.txt explicitly includes Amazonbot.<p>I am honestly surprised that this is coming from Amazon. Is this kind of behavior legal?",
+      "published_at": "2026-08-01T19:04:43Z",
+      "fetched_at": "2026-08-02T04:05:09.720Z"
+    },
+    {
+      "title": "Ask HN: How are you using AI to learn?",
+      "url": "https://news.ycombinator.com/item?id=49138466",
+      "source": "hn",
+      "score": 5,
+      "content": "It&#x27;s time to start learning advanced topics again and I thought it&#x27;d be at least interesting to take advantage of LLM&#x27;s to help me learn better or faster.<p>I&#x27;ve read here that some of you are using &quot;socratic skills&quot; where you give the LLM some content and then you get a series of questions in order to learn but I don&#x27;t think it&#x27;s the only approach to this.<p>I&#x27;ll start tackling the &quot;Attention is all you need&quot; paper and then I want to go deeper.<p>What&#x27;s your approach?",
+      "published_at": "2026-08-01T21:03:58Z",
+      "fetched_at": "2026-08-02T04:05:09.720Z"
+    },
+    {
+      "title": "Show HN: An MCP server that knows what that error message means",
+      "url": "https://errors.standardbeagle.com/",
+      "source": "hn",
+      "score": 1,
+      "content": "This is my third attempt at getting LLMs to build this, and I&#x27;m finally happy with what they can slap together now. <a href=\"https:&#x2F;&#x2F;errors.standardbeagle.com&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;errors.standardbeagle.com&#x2F;</a><p>I&#x27;m running agents to pull in projects and scan the source code to get the error message templates and use matching rules to match the fixed part of the template to the actual output string, and tie it back to a summary of why the error was thrown and recommendations on how to resolve the error. Essentially 90% of what I used stack overflow for.<p>In the past either the LLM got confused about what the project did, was horrible at finding the error sites or figuring out why the error occurred.",
+      "published_at": "2026-08-01T16:33:41Z",
+      "fetched_at": "2026-08-02T04:05:09.720Z"
+    },
+    {
+      "title": "Single-file Ada 83 LLVM compiler",
+      "url": "https://github.com/AdaDoom3/Ada83/tree/main",
+      "source": "hn",
+      "score": 5,
+      "content": "",
+      "published_at": "2026-08-01T15:07:17Z",
+      "fetched_at": "2026-08-02T04:05:09.720Z"
+    },
+    {
+      "title": "Show HN: Lumaris – AI biotech intelligence briefs (sample: EGFR resistance)",
+      "url": "https://lumaris.nanocorp.app/reports/egfr-resistance-nsclc-2026",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-01T20:56:38Z",
+      "fetched_at": "2026-08-02T04:05:09.720Z"
+    },
+    {
+      "title": "Show HN: Cockpit for you Claude Code agents in Rust",
+      "url": "https://episko.dev/",
+      "source": "hn",
+      "score": 10,
+      "content": "Hi everyone!<p>Hope you had a great day so far, and maybe its about to get just a little bit better (thanks Winter ;)<p>So I had way to many terminal windows flying about when using Claude, and kept losing track of which terminal &#x2F; session &#x2F; project im in right now. So I built a solution for that, presented it to my team, and now we&#x27;re using our new tool all the time, and developing it to be the most helpful agents organization tool we can think of.<p>Unfortunatelly, Claude Code only for now, will do Codex soon tho.<p>What it does for you:<p>Main features:\n- Overview of your projects, with branches, worktrees, etc.\n- Start sessions in the integrated terminal, in whatever branch or worktree you want\n- Your projects run scripts all auto-discovered in one place\n- Complete Claude history to resume convo&#x27;s easily<p>Comfort:\n- Project overview: commits, PRs, notes, timeline with summaries\n- Context usage and session costs (to see what you would have payed without a subscription)\n- Cost aggregation for the entire day\n- Use dashboard with daily costs, consumed tokens per project, livetime spent\n- 5h and 7d window predictions aka. if you keep going at the same spend&#x2F;token burn, will you run into your limits<p>And likely many more features I forgot right now.<p>Anyways, its all open-source (MIT), if this sounds interesting &#x2F; useful, check it out at <a href=\"https:&#x2F;&#x2F;github.com&#x2F;respeak-io&#x2F;episko\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;respeak-io&#x2F;episko</a>, feel free to comment &#x2F; contribute, and happy building! And enjoy the weekend.",
+      "published_at": "2026-08-01T19:09:15Z",
+      "fetched_at": "2026-08-02T04:05:09.720Z"
+    },
+    {
+      "title": "Show HN: Open OneNote Viewer in Rust",
+      "url": "https://github.com/emsi/OneNoteViewer",
+      "source": "hn",
+      "score": 3,
+      "content": "For more than 15 years, I accumulated hundreds upon hundreds of notes in OneNote. I loved the application and still consider it one of the best and most distinctive note-taking tools available. Its free-form canvas supports a way of organizing information that Markdown-based tools simply cannot reproduce.<p>The problem was that using OneNote became increasingly inconvenient for me. Microsoft never released a native Linux client, so I kept a Windows VM and later even a separate Windows small PC largely for OneNote. The OneNote Web Clipper for Firefox eventually stopped being supported, removing one of the ways I regularly captured information.<p>The web version did not solve the problem. In particular, it could not search across all my notebooks at once. To find a note, I first had to remember which notebook contained it, which rather defeated the purpose of having a searchable archive. I also found the web application slow and substantially more limited than the desktop client.<p>I looked at alternative note-taking applications for some time, but migrating was difficult while so much of my history remained locked inside OneNote files. Eventually I realized that I did not need to reproduce the whole application. To begin moving on, I first needed a good viewer for the archive I already had.<p>So I built OneNoteViewer.<p>It is a native Linux application written in Rust with GTK4. It opens local .one, .onetoc2, and .onepkg files directly, without OneDrive, a Microsoft account, Wine, or conversion to Markdown or HTML. It reconstructs OneNote’s spatial page canvas and supports browsing and searching across multiple notebooks.<p>I built much of it with the assistance of coding agents. The result surprised me, particularly in performance. Opening pages, moving between notes, and searching my archive feel effectively instantaneous on my system and my notebooks are 100s of MB in size. After years of friction around accessing these notes, that responsiveness has made a meanin",
+      "published_at": "2026-08-01T19:57:33Z",
+      "fetched_at": "2026-08-02T04:05:09.720Z"
+    },
+    {
+      "title": "Amazon spent $1.8M using Claude for menial coding task, went 860% over budget",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/amazon-accidentally-spent-usd1-8-million-using-claude-for-menial-coding-task-went-860-percent-over-budget-catastrophically-expensive-coding-blunders-discovered-in-internal-amazon-ai-usage-metrics",
+      "source": "hn",
+      "score": 8,
+      "content": "",
+      "published_at": "2026-08-01T16:44:31Z",
+      "fetched_at": "2026-08-02T04:05:10.243Z"
+    },
+    {
+      "title": "Show HN: Wienerdog – memory and self-improving skills for Claude Code/Codex",
+      "url": "https://github.com/wienerdog-ai/wienerdog/",
+      "source": "hn",
+      "score": 6,
+      "content": "The idea of Wienerdog was born out of my experience setting up my own simple but effective system of memory, self-improving skills and hooks for Claude Code and Codex. As I was teaching my friends and colleagues how to set up their own I found myself automating more and more of my system setup and finally I decided to publish it on GitHub to help others get more out of their AI usage.<p>So what is Wienerdog? Simply put, it is just files — no daemon, no server, no telemetry: a collection of instructions and skills that you can install by pasting just one line (npx wienerdog@latest init) and it will give your Claude Code &#x2F; Codex:<p>- a proper base information CLAUDE.md &#x2F; AGENTS.md file created by doing a simple, friendly interview with you (existing files are respected — Wienerdog only writes inside its own clearly-marked block).\n- a persistent, markdown-based memory vault following the PARA convention, similar to the Obsidian vaults many folks use. Already have a vault? No problem, you can just point it to it.\n- automated ‘hooks’ that will pull in key information (who you are, what you do, etc.) into each session and detect and save critical new information into your persistent memory.\n- automated daily ‘dreaming’ runs that digest the previous day’s sessions and store their key information into memory. If your computer is off or asleep at that time, the dreaming run will catch up when you&#x27;re back.\n- repeating task patterns are identified and turned into reusable skills which can be further improved automatically.\n- if you are using both Claude Code and Codex (like I do) they will be able to read from and contribute to the same memory vault. You are not locked in to any vendor.\n- a basic (and optional) integration with the Google suite to give your AI access to your Gmail, Calendar and Drive — read-only and draft-only by default.<p>Everything Wienerdog does can run on your existing Anthropic &#x2F; OpenAI subscription, in line with their terms. The proj",
+      "published_at": "2026-08-01T13:44:05Z",
+      "fetched_at": "2026-08-02T04:05:10.243Z"
+    },
+    {
+      "title": "A Hermes Agent Skill Looping Between Codex and Claude Code",
+      "url": "https://codenote.net/en/posts/issue-to-pr-autonomous-loop-hermes-agent-skill/",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-08-01T17:00:56Z",
+      "fetched_at": "2026-08-02T04:05:10.243Z"
+    },
+    {
+      "title": "Anthropic brags that its models committing crimes without being told to do so",
+      "url": "https://www.cnbc.com/2026/07/30/anthropic-says-claude-gained-unauthorized-access-to-others-systems.html",
+      "source": "hn",
+      "score": 6,
+      "content": "",
+      "published_at": "2026-08-01T15:22:08Z",
+      "fetched_at": "2026-08-02T04:05:10.243Z"
+    },
+    {
+      "title": "Show HN: Copy any website pixel perfect",
+      "url": "https://github.com/HarKro753/claude-copy",
+      "source": "hn",
+      "score": 4,
+      "content": "This repository which i built dosent allow claue to guess the dimensions, it iterates the ui till it looks 100% like the original.",
+      "published_at": "2026-08-01T21:31:40Z",
+      "fetched_at": "2026-08-02T04:05:10.243Z"
+    },
+    {
+      "title": "ANA Airlines Internet Purchasing uses live key on test env",
+      "url": "https://claude.ai/code/artifact/581f6337-1c6a-4931-bfa2-b938a25eb3a7?via=auto_preview",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-08-01T12:16:42Z",
+      "fetched_at": "2026-08-02T04:05:10.243Z"
+    },
+    {
+      "title": "Decimen streams files through fountain-coded QR frames without pairing",
+      "url": "https://runtimewire.com/article/decimen-fountain-coded-qr-file-transfer-claude-code",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-08-01T11:01:33Z",
+      "fetched_at": "2026-08-02T04:05:10.243Z"
+    },
+    {
+      "title": "The OpenAI and Anthropic AI Hacking Sprees Are a Messy New Legal Frontier",
+      "url": "https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal/",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-08-01T17:01:17Z",
+      "fetched_at": "2026-08-02T04:05:10.685Z"
+    },
+    {
+      "title": "Anthropic says its AI models also hacked three organizations on their own",
+      "url": "https://www.engadget.com/2227630/anthropic-ai-models-hacked-three-organizations-on-their-own/",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-08-01T10:10:15Z",
+      "fetched_at": "2026-08-02T04:05:10.685Z"
+    },
+    {
+      "title": "Show HN: Aurora – AI Gateway built in Go",
+      "url": "https://github.com/aurorallm/aurora",
+      "source": "hn",
+      "score": 7,
+      "content": "Every Ai project needs the same infra - API keys, providers SDKs, retry logic, cost tracking. it should be infra layer.\nAurora is a Go gateway that handles that layer, ~15MB binary, no dependencies. It proxies requests to OpenaAI, Anthropic, Gemini etc, and can convert between formats - use the OpenAi SDK and Aurora translates to Anthropic&#x27;s wire format automatically. No format conversion code in backend.<p>It helps:\n - track costs per customer&#x2F;team\n - switch models and providers without changing code\n - debug requests and responses flows more easily\n - reduce costs with exact and semantic caching<p>How its different than other gateways:\n - auto-discovers providers models\n - provider pools with automatic failover switch\n - built in guardials, audit logging with export, analytics, admin dashboard\n - model aliases, regional deployment to reduce latency.\n - can be used in infra directly and admin endpoints let control everything, creating managed api keys on user onboard and more.<p>The oss version (Apache 2.0) includes everyhting. Enterprise adds SSO, RBAC, and tenant isolation.<p>npm install -g iaurora<p>website: <a href=\"https:&#x2F;&#x2F;aurorallm.online\" rel=\"nofollow\">https:&#x2F;&#x2F;aurorallm.online</a><p>feedbacks are welcome!",
+      "published_at": "2026-08-01T13:56:31Z",
+      "fetched_at": "2026-08-02T04:05:10.685Z"
+    },
+    {
+      "title": "OpenAI Usage Reset 4th time in 7d",
+      "url": "https://news.ycombinator.com/item?id=49131376",
+      "source": "hn",
+      "score": 2,
+      "content": "Just checked my grafana dashboard and was surprised to see 4th OpenAI usage reset this week. It&#x27;s a $200&#x2F;mo account and all 4 happened ahead of my scheduled reset:\n- 7&#x2F;31 around 8:45pm\n- 7&#x2F;28 around 9:15pm\n- 7&#x2F;27 around 8:30pm\n- 7&#x2F;25 around 12:30pm<p>Athropic needs to keep up.",
+      "published_at": "2026-08-01T05:39:06Z",
+      "fetched_at": "2026-08-02T04:05:10.685Z"
+    },
+    {
+      "title": "The Greenhouse and the Lens: Two Modes of Agentic AI Work",
+      "url": "https://www.brethorsting.com/blog/2026/08/the-greenhouse-and-the-lens-two-modes-of-agentic-ai-work/",
+      "source": "hn",
+      "score": 6,
+      "content": "",
+      "published_at": "2026-08-02T00:06:25Z",
+      "fetched_at": "2026-08-02T04:05:11.283Z"
+    },
+    {
+      "title": "My PM agent suggests firing my coding agents and creating a replacement",
+      "url": "https://twitter.com/samliuhappy/status/2083437451729949004",
+      "source": "hn",
+      "score": 5,
+      "content": "",
+      "published_at": "2026-08-01T06:21:50Z",
+      "fetched_at": "2026-08-02T04:05:11.283Z"
+    },
+    {
+      "title": "RFC 9987: Secure Shell (SSH) Agent Protocol",
+      "url": "https://www.rfc-editor.org/rfc/rfc9987.html",
+      "source": "hn",
+      "score": 5,
+      "content": "",
+      "published_at": "2026-08-01T22:22:08Z",
+      "fetched_at": "2026-08-02T04:05:11.283Z"
+    },
+    {
+      "title": "Walsh: Multi-agent research pipeline with risk manager that can veto trades",
+      "url": "https://github.com/ats4321/walsh",
+      "source": "hn",
+      "score": 5,
+      "content": "",
+      "published_at": "2026-08-02T00:13:52Z",
+      "fetched_at": "2026-08-02T04:05:11.283Z"
+    },
+    {
+      "title": "Show HN: Crew, a local collaborative (people and agents) IDE",
+      "url": "https://github.com/JamelHammoud/crew",
+      "source": "hn",
+      "score": 5,
+      "content": "My brother and I built Crew, a way for us to build things together (with our agents).<p>It&#x27;s fully open source, runs locally on your computer and uses the agent CLIs you already have installed.<p>Feel free to try it out, we had a lot of fun building it!",
+      "published_at": "2026-08-01T20:06:21Z",
+      "fetched_at": "2026-08-02T04:05:11.283Z"
+    },
+    {
+      "title": "The world first agentic AI radio",
+      "url": "https://www.twitch.tv/newsmyimaginationai",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-08-02T02:42:49Z",
+      "fetched_at": "2026-08-02T04:05:11.283Z"
+    },
+    {
+      "title": "Show HN: DSCode – Coding Agent Powered by DeepSeek",
+      "url": "https://dscode.ai/",
+      "source": "hn",
+      "score": 4,
+      "content": "Plan, edit, test, and review code from your terminal. Local sessions, sandboxed tools, and readable token costs.",
+      "published_at": "2026-08-01T15:07:33Z",
+      "fetched_at": "2026-08-02T04:05:11.283Z"
+    },
+    {
+      "title": "Show HN: Agent Architect Skill for building agentic systems",
+      "url": "https://github.com/anyaa-labs/agent-skills",
+      "source": "hn",
+      "score": 4,
+      "content": "I built a skill for building agents that helped me ship agentic products within days that otherwise took several weeks and broke often in production. It is inspired by gstack.",
+      "published_at": "2026-08-01T12:50:23Z",
+      "fetched_at": "2026-08-02T04:05:11.283Z"
+    },
+    {
+      "title": "Ask HN: When did we go from agentic loops to graphs?",
+      "url": "https://news.ycombinator.com/item?id=49136426",
+      "source": "hn",
+      "score": 3,
+      "content": "The AI engineering conversation seems to be shifting daily: from prompts, loops, to now graphs.<p>I’m curious whether there is genuine progress happening in the field that has given me so much or whether folks are creating terminology because they want to feel closer to action or be able to say they predicted the next big thing.",
+      "published_at": "2026-08-01T17:23:54Z",
+      "fetched_at": "2026-08-02T04:05:11.283Z"
+    },
+    {
+      "title": "Show HN: Evidence-to-Skill – a gate between untrusted sources and agent skills",
+      "url": "https://github.com/Sanexxxx777/evidence-to-skill",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-08-01T21:48:41Z",
+      "fetched_at": "2026-08-02T04:05:11.283Z"
+    },
+    {
+      "title": "My Personal Software Journey: Self-Hosting Agent-Built Apps on a Mac Mini",
+      "url": "https://metedata.substack.com/p/016-my-personal-software-journey",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-08-01T17:24:59Z",
+      "fetched_at": "2026-08-02T04:05:11.283Z"
+    },
+    {
+      "title": "Building agents that survive their own execution",
+      "url": "https://conol.ai/blog/building-agents-that-survive-their-own-execution",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-02T02:09:14Z",
+      "fetched_at": "2026-08-02T04:05:11.283Z"
+    },
+    {
+      "title": "Show HN: Pronto – real‑time wire for AI agents (70k+ feeds connected)",
+      "url": "https://pronto.stream/",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-01T22:21:01Z",
+      "fetched_at": "2026-08-02T04:05:11.283Z"
+    },
+    {
+      "title": "Kun's Pi Agent Config",
+      "url": "https://blog.kunchenguid.com/p/kuns-pi-agent-config",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-01T19:11:24Z",
+      "fetched_at": "2026-08-02T04:05:11.283Z"
+    },
+    {
+      "title": "How to Build a Modern Distributed SaaS from Scratch with AI Agents",
+      "url": "https://www.aulinq.com/en/blog/build-distributed-saas-from-scratch-with-ai-agents",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-01T18:31:40Z",
+      "fetched_at": "2026-08-02T04:05:11.283Z"
+    },
+    {
+      "title": "Supabase Evals: Benchmark for testing how well AI agents build using Supabase",
+      "url": "https://supabase.com/blog/introducing-supabase-evals",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-01T18:19:41Z",
+      "fetched_at": "2026-08-02T04:05:11.283Z"
+    },
+    {
+      "title": "Show HN: SteerPlane – Deterministic runtime guardrails for AI agents",
+      "url": "https://github.com/vijaym2k6/SteerPlane",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-01T18:09:15Z",
+      "fetched_at": "2026-08-02T04:05:11.283Z"
+    },
+    {
+      "title": "Show HN: Agentmetry – local-first flight recorder for AI coding agents",
+      "url": "https://agentmetry.ai/",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-01T17:19:23Z",
+      "fetched_at": "2026-08-02T04:05:11.283Z"
+    },
+    {
+      "title": "Quoting Greg Brockman",
+      "url": "https://simonwillison.net/2026/Aug/1/greg-brockman/#atom-everything",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-08-01T22:29:44.000Z",
+      "fetched_at": "2026-08-02T04:05:08.943Z"
+    },
+    {
+      "title": "datasette-apps 0.2a0",
+      "url": "https://simonwillison.net/2026/Aug/1/datasette-apps/#atom-everything",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-08-01T21:23:56.000Z",
+      "fetched_at": "2026-08-02T04:05:08.943Z"
+    },
+    {
+      "title": "Ten advances in mathematics and theoretical computer science",
+      "url": "https://simonwillison.net/2026/Aug/1/ten-advances-in-mathematics/#atom-everything",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-08-01T20:34:49.000Z",
+      "fetched_at": "2026-08-02T04:05:08.943Z"
+    },
+    {
+      "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
+      "url": "https://simonwillison.net/2026/Jul/31/deepseek-v4-flash-0731/#atom-everything",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-07-31T23:59:44.000Z",
+      "fetched_at": "2026-08-02T04:05:08.943Z"
+    },
+    {
+      "title": "Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)",
+      "url": "https://simonwillison.net/2026/Jul/31/stateless-mcp/#atom-everything",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-07-31T23:13:22.000Z",
+      "fetched_at": "2026-08-02T04:05:08.943Z"
+    },
+    {
+      "title": "llm-mcp-client 0.1a0",
+      "url": "https://simonwillison.net/2026/Jul/31/llm-mcp-client/#atom-everything",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-07-31T23:03:47.000Z",
+      "fetched_at": "2026-08-02T04:05:08.943Z"
+    },
+    {
+      "title": "Oxide and Friends: The Open Weight Revolution with Simon Willison",
+      "url": "https://simonwillison.net/2026/Jul/31/oxide-and-friends/#atom-everything",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-07-31T21:33:13.000Z",
+      "fetched_at": "2026-08-02T04:05:08.943Z"
+    },
+    {
+      "title": "smevals - a small eval suite for evaluating models, prompts, and harnesses",
+      "url": "https://simonwillison.net/2026/Jul/31/smevals/#atom-everything",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-07-31T21:15:23.000Z",
+      "fetched_at": "2026-08-02T04:05:08.943Z"
+    },
+    {
+      "title": "Slack Emoji Maker",
+      "url": "https://simonwillison.net/2026/Jul/31/slack-emoji-maker/#atom-everything",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-07-31T20:18:05.000Z",
+      "fetched_at": "2026-08-02T04:05:08.943Z"
+    },
+    {
+      "title": "datasette-agent 0.4a0",
+      "url": "https://simonwillison.net/2026/Jul/31/datasette-agent/#atom-everything",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-07-31T14:14:23.000Z",
+      "fetched_at": "2026-08-02T04:05:08.943Z"
+    }
+  ]
+}
