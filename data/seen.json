@@ -1,12 +1,4 @@
 {
-  "https://github.com/karanb192/itr-wala": "2026-07-28",
-  "https://bigguyonstuff.com/claude-code-3-month-retrospective/": "2026-07-28",
-  "https://github.com/RimantasZ/contextspy": "2026-07-28",
-  "https://blog.jetbrains.com/ai/2026/07/speak-to-ai-agents-like-cavemen-tosave-tokens/": "2026-07-28",
-  "https://github.com/YoniRaviv/Relay": "2026-07-28",
-  "https://github.com/salmanzafar949/ctxdiff": "2026-07-28",
-  "https://mauroepce.dev/blog/trust-boundaries-claude-code": "2026-07-28",
-  "https://github.com/buhuipao/agent-console": "2026-07-28",
   "https://sweatypanzer.com/": "2026-07-29",
   "https://github.com/hcsum/dont-let-me": "2026-07-29",
   "https://bun.com/docs/runtime/templating/init": "2026-07-29",
@@ -40,5 +32,10 @@
   "https://www.aikido.dev/blog/anthropic-rogue-agents-package-stole-keys": "2026-08-03",
   "https://chudi.dev/blog/claude-code-adhd-workflows": "2026-08-03",
   "https://github.com/zamarrowski/claudemon": "2026-08-03",
-  "https://github.com/joey-io/gauge": "2026-08-03"
+  "https://github.com/joey-io/gauge": "2026-08-03",
+  "https://tokenmaxxer.xyz": "2026-08-04",
+  "https://makethisbetter.dev/": "2026-08-04",
+  "https://github.com/Kirill-Chistov/VibeMenu": "2026-08-04",
+  "https://github.com/softcane/hamza": "2026-08-04",
+  "https://github.com/UnrealFactory/AgentCodeGUI": "2026-08-04"
 }
