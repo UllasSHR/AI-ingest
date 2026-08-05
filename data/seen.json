@@ -1,10 +1,4 @@
 {
-  "https://sweatypanzer.com/": "2026-07-29",
-  "https://github.com/hcsum/dont-let-me": "2026-07-29",
-  "https://bun.com/docs/runtime/templating/init": "2026-07-29",
-  "https://github.com/ctrlb-hq/ctrlb-decompose": "2026-07-29",
-  "https://sessionradar.com": "2026-07-29",
-  "https://elliotmilco.substack.com/p/proceed-without-asking": "2026-07-29",
   "https://proandroiddev.com/seven-claude-code-commands-one-kotlin-multiplatform-app-on-android-and-ios-cb01e920a3e6": "2026-07-30",
   "https://chromewebstore.google.com/detail/tab-genie/cjbnpcocgkomljkgfhgadolphbeicddh": "2026-07-30",
   "https://echologue.com/": "2026-07-30",
@@ -37,5 +31,11 @@
   "https://makethisbetter.dev/": "2026-08-04",
   "https://github.com/Kirill-Chistov/VibeMenu": "2026-08-04",
   "https://github.com/softcane/hamza": "2026-08-04",
-  "https://github.com/UnrealFactory/AgentCodeGUI": "2026-08-04"
+  "https://github.com/UnrealFactory/AgentCodeGUI": "2026-08-04",
+  "https://github.com/kol3x/pawmc": "2026-08-05",
+  "https://github.com/navels/neal": "2026-08-05",
+  "https://zander.wtf/blog/claude-md-agents-md/": "2026-08-05",
+  "https://github.com/SteveVitali/agent-skills": "2026-08-05",
+  "https://github.com/tikalk/adlc-team-skills": "2026-08-05",
+  "https://jankovd.substack.com/p/claude-can-read-your-secrets": "2026-08-05"
 }

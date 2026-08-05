@@ -1,0 +1,994 @@
+{
+  "date": "2026-08-05",
+  "fetched_at": "2026-08-05T03:45:52.237Z",
+  "summary": [
+    "  ✓ hn               85 items",
+    "  ✗ reddit           FAILED: all Reddit subreddit fetches failed",
+    "  ✓ simonwillison    9 items",
+    "  ✓ hf               15 items"
+  ],
+  "item_count": 109,
+  "items": [
+    {
+      "title": "AI-Generated Images Discourage Me from Reading Your Blog",
+      "url": "https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/",
+      "source": "hn",
+      "score": 740,
+      "content": "",
+      "published_at": "2026-08-04T11:30:17Z",
+      "fetched_at": "2026-08-05T03:45:50.179Z"
+    },
+    {
+      "title": "AI fuels more than half of cybercrime in Africa as scams surge – Interpol",
+      "url": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/",
+      "source": "hn",
+      "score": 157,
+      "content": "<a href=\"https:&#x2F;&#x2F;www.interpol.int&#x2F;Media&#x2F;Documents&#x2F;Publications&#x2F;Cybercrime&#x2F;African-Cyberthreat-Assessment-Report-2026\" rel=\"nofollow\">https:&#x2F;&#x2F;www.interpol.int&#x2F;Media&#x2F;Documents&#x2F;Publications&#x2F;Cyberc...</a>",
+      "published_at": "2026-08-04T22:01:41Z",
+      "fetched_at": "2026-08-05T03:45:50.179Z"
+    },
+    {
+      "title": "The AI Demand Bubble",
+      "url": "https://www.wheresyoured.at/the-ai-demand-bubble/",
+      "source": "hn",
+      "score": 105,
+      "content": "",
+      "published_at": "2026-08-04T15:51:51Z",
+      "fetched_at": "2026-08-05T03:45:50.179Z"
+    },
+    {
+      "title": "Bending Spoons makes first post-IPO acquisition with $1.3B Airtable deal",
+      "url": "https://live.euronext.com/en/financial-news/bending-spoons-makes-first-post-ipo-acquisition-13-billion-airtable-deal",
+      "source": "hn",
+      "score": 98,
+      "content": "",
+      "published_at": "2026-08-04T09:27:47Z",
+      "fetched_at": "2026-08-05T03:45:50.179Z"
+    },
+    {
+      "title": "When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation",
+      "url": "https://arxiv.org/abs/2602.16763",
+      "source": "hn",
+      "score": 83,
+      "content": "",
+      "published_at": "2026-08-04T16:10:39Z",
+      "fetched_at": "2026-08-05T03:45:50.179Z"
+    },
+    {
+      "title": "It's not a fear of \"AI communism\"; it's a fear of competitive market capitalism",
+      "url": "http://observationalepidemiology.blogspot.com/2026/07/its-not-fear-of-ai-communism-its-fear.html",
+      "source": "hn",
+      "score": 80,
+      "content": "",
+      "published_at": "2026-08-04T14:07:30Z",
+      "fetched_at": "2026-08-05T03:45:50.179Z"
+    },
+    {
+      "title": "AI Data Centers Are Driving Up Power Bills – This Map Shows Where",
+      "url": "https://www.gadgetreview.com/ai-data-centers-are-driving-up-power-bills-this-map-shows-where",
+      "source": "hn",
+      "score": 63,
+      "content": "",
+      "published_at": "2026-08-04T17:57:15Z",
+      "fetched_at": "2026-08-05T03:45:50.179Z"
+    },
+    {
+      "title": "Security Incident INC-2026-07-28-01 – UK AI Security Institute [pdf]",
+      "url": "https://cdn.prod.website-files.com/663bd486c5e4c81588db7a1d/6a724858f7db25c81487016d_Security%20Incident%20INC-2026-07-28-01.pdf",
+      "source": "hn",
+      "score": 57,
+      "content": "",
+      "published_at": "2026-08-04T21:52:58Z",
+      "fetched_at": "2026-08-05T03:45:50.179Z"
+    },
+    {
+      "title": "An Honest Review of AI Programming",
+      "url": "https://mropert.github.io/2026/08/04/an_honest_review_of_ai_programming/",
+      "source": "hn",
+      "score": 45,
+      "content": "",
+      "published_at": "2026-08-04T09:35:15Z",
+      "fetched_at": "2026-08-05T03:45:50.179Z"
+    },
+    {
+      "title": "Cloudflare enforces engineering standards using AI",
+      "url": "https://blog.cloudflare.com/engineering-standards-enforcement/",
+      "source": "hn",
+      "score": 40,
+      "content": "",
+      "published_at": "2026-08-04T15:49:50Z",
+      "fetched_at": "2026-08-05T03:45:50.179Z"
+    },
+    {
+      "title": "Show HN: Ex-Deloitte auditor open-sourced the whole SOC 2 method for your AI",
+      "url": "https://github.com/Chiaro-HQ/methodology",
+      "source": "hn",
+      "score": 32,
+      "content": "",
+      "published_at": "2026-08-04T16:27:03Z",
+      "fetched_at": "2026-08-05T03:45:50.179Z"
+    },
+    {
+      "title": "Bending Spoons entered definitive agreement to acquire Airtable for $1.28B",
+      "url": "https://www.businesswire.com/news/home/20260730994716/en/Bending-Spoons-has-entered-into-a-definitive-agreement-to-acquire-Airtable-for-%241.285-billion",
+      "source": "hn",
+      "score": 29,
+      "content": "",
+      "published_at": "2026-08-04T08:30:21Z",
+      "fetched_at": "2026-08-05T03:45:50.179Z"
+    },
+    {
+      "title": "Computer Anthology: A continuously evolving benchmark family for AI agents",
+      "url": "https://vetto.ai/companies/computer-anthology-terminal-tasks.html",
+      "source": "hn",
+      "score": 27,
+      "content": "",
+      "published_at": "2026-08-04T14:38:41Z",
+      "fetched_at": "2026-08-05T03:45:50.179Z"
+    },
+    {
+      "title": "Bending Spoons buying Airtable for $2.2B",
+      "url": "https://techcrunch.com/2026/08/04/bending-spoons-to-buy-airtable-for-1-28b/",
+      "source": "hn",
+      "score": 17,
+      "content": "",
+      "published_at": "2026-08-04T13:38:40Z",
+      "fetched_at": "2026-08-05T03:45:50.179Z"
+    },
+    {
+      "title": "Flyte 2 is GA: durable distributed AI workflows using regular Python",
+      "url": "https://www.union.ai/blog-post/flyte-2-is-generally-available-the-durable-open-source-ai-runtime",
+      "source": "hn",
+      "score": 17,
+      "content": "",
+      "published_at": "2026-08-04T16:05:52Z",
+      "fetched_at": "2026-08-05T03:45:50.179Z"
+    },
+    {
+      "title": "Bending Spoons acquires Airtable for $1.25B",
+      "url": "https://www.businesswire.com/news/home/20260730994716/en/Bending-Spoons-has-entered-into-a-definitive-agreement-to-acquire-Airtable-for-$1.285-billion",
+      "source": "hn",
+      "score": 15,
+      "content": "",
+      "published_at": "2026-08-04T18:33:40Z",
+      "fetched_at": "2026-08-05T03:45:50.179Z"
+    },
+    {
+      "title": "White House excludes open models from framework to test advanced AI capabilities",
+      "url": "https://www.axios.com/2026/08/04/trump-ai-framework-open-models",
+      "source": "hn",
+      "score": 14,
+      "content": "",
+      "published_at": "2026-08-04T23:50:34Z",
+      "fetched_at": "2026-08-05T03:45:50.179Z"
+    },
+    {
+      "title": "An AI voice agent running locally on a $50 Arduino uno Q",
+      "url": "https://projecthub.arduino.cc/neelbuilds/build-a-voice-based-kiosk-for-retail-store-using-moorcheh-edge-and-arduino-uno-q-7f3c7b",
+      "source": "hn",
+      "score": 13,
+      "content": "",
+      "published_at": "2026-08-04T21:18:02Z",
+      "fetched_at": "2026-08-05T03:45:50.179Z"
+    },
+    {
+      "title": "AI-assisted staging draws boos at the Richard Wagner festival in Germany",
+      "url": "https://apnews.com/article/germany-bayreuth-wagner-festival-ai-f4300cdc0be195dabdadfa6d2ab4254c",
+      "source": "hn",
+      "score": 11,
+      "content": "",
+      "published_at": "2026-08-04T04:11:38Z",
+      "fetched_at": "2026-08-05T03:45:50.179Z"
+    },
+    {
+      "title": "Homebench – Benchmark local LLMs for speed, memory, and quality",
+      "url": "https://github.com/david-g-3654/homebench",
+      "source": "hn",
+      "score": 59,
+      "content": "",
+      "published_at": "2026-08-04T09:48:43Z",
+      "fetched_at": "2026-08-05T03:45:50.620Z"
+    },
+    {
+      "title": "Launch HN: EdotEnv (YC S26) – Quant Trading RL Envs to Teach LLMs Research",
+      "url": "https://edotenv.com/",
+      "source": "hn",
+      "score": 32,
+      "content": "We are Rui and Michael and we’re building EdotEnv (<a href=\"https:&#x2F;&#x2F;edotenv.com\" rel=\"nofollow\">https:&#x2F;&#x2F;edotenv.com</a>): self-improving RL environments from Quant Trading workflows.<p>With all the benchmaxxing around, evals saturate and become meaningless for model comparison. Useful benchmarks should increase in difficulty as models advance. Back in our Quant jobs, Michael and I saw that the market has exactly this property: markets became more efficient as people profited from trading inefficiencies, making new profitable strategies harder to find and old ones decay over time.<p>This makes markets an ideal, continuously evolving benchmark for LLM training. The hard part is to turn professional quant workflows into reliable training envs, as this is a very niche expertise.<p>In our environments, we give LLMs a quant trading workflow and evaluate their performance on out-of-sample data: build predictive features&#x2F; models, design a portfolio, backtest strategies, adapt continuously to market regimes. Each step is a task with different self-built tools. For example, a predictive feature building task gives the agent cleaned market data of time period [0,T] to research ideas, a backtesting tool to test created features at time t on [0, t], an execution tool to trade strategies with the new features on [t+1, T] and a final evaluation. Our reward isolates the agent&#x27;s feature building skills and yet benefits from market properties.<p>From running SOTA models in our environments, we see that i) they seem to struggle with iterating deeply on research ideas, preferring broad shallow searches; ii) higher reasoning does not seem to increase performance and iii) agents do not understand trading, e.g. when losing money they stop trading instead of trading smarter. Check out our blogs for more details! <a href=\"https:&#x2F;&#x2F;edotenv.com&#x2F;?tab=blog\" rel=\"nofollow\">https:&#x2F;&#x2F;edotenv.com&#x2F;?tab=blog</a><p>Quant workflows are essential",
+      "published_at": "2026-08-04T18:36:02Z",
+      "fetched_at": "2026-08-05T03:45:50.620Z"
+    },
+    {
+      "title": "Show HN: Simple self-hosted LLM assistant with user-steered compounding context",
+      "url": "https://github.com/kol3x/pawmc",
+      "source": "hn",
+      "score": 5,
+      "content": "I built a personal LLM assistant on Cloudflare Workers + Durable Objects. You specify a category and topic when starting a new conversation, so the backend maintains a summary for each category&#x2F;topic - building up as more conversations happen under the same one.<p>There is no complicated RAG, embeddings, or agentic magic, but the category&#x2F;topic summaries system just works, and I&#x27;ve genuinely found it super handy and have been using it daily for my life and work.<p>I started it to get familiar with Durable Objects and to test out this idea draft I had buried on my board. After recently losing my job, I started working on it more. Testing it with my friends and focusing on it being as straightforward as possible to understand, deploy and use. This week I open-sourced it for more people to try<p>Repo: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;kol3x&#x2F;pawmc\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;kol3x&#x2F;pawmc</a><p>Some details:<p>- $0 cost on Cloudflare&#x27;s free tier with default configuration\n- Everything in a singleton Durable Object\n- Workers AI as the default provider\n- OpenRouter support for more stable access and bigger models (there, you&#x27;d need to pay for tokens)",
+      "published_at": "2026-08-04T14:48:35Z",
+      "fetched_at": "2026-08-05T03:45:50.620Z"
+    },
+    {
+      "title": "Ask HN: What is a good format for a tool to report data to a LLM?",
+      "url": "https://news.ycombinator.com/item?id=49176440",
+      "source": "hn",
+      "score": 4,
+      "content": "For CLI tools, humans like visually organized text possibly with colors or TUIs. Machines likes tabs-separated tabular data, or json and similar.<p>What&#x27;s the equivalent for LLMs for tabular or structured data? What makes them grasp the data easily and efficiently?",
+      "published_at": "2026-08-04T22:57:28Z",
+      "fetched_at": "2026-08-05T03:45:50.620Z"
+    },
+    {
+      "title": "Born Against, or why hobby programming communities are aggressively against LLM",
+      "url": "https://blog.fogus.me/llm/born-against.html",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-08-04T20:24:24Z",
+      "fetched_at": "2026-08-05T03:45:50.620Z"
+    },
+    {
+      "title": "A Lightweight Open-Source LLM Benchmark Tool – Compare Any Model on OpenRouter",
+      "url": "https://cheikhhseck.medium.com/i-built-a-llm-benchmark-tool-and-tested-it-on-free-models-heres-what-i-found-5a4c4a8eee4d",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-08-05T00:11:22Z",
+      "fetched_at": "2026-08-05T03:45:50.620Z"
+    },
+    {
+      "title": "Dev proves LLMs will run on anything, even a $10 microcontroller",
+      "url": "https://www.theregister.com/edge-and-iot/2026/08/04/dev-proves-llms-will-run-on-anything-even-a-10-microcontroller/5283088",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-08-04T21:37:39Z",
+      "fetched_at": "2026-08-05T03:45:50.620Z"
+    },
+    {
+      "title": "OSS WebUI Llms.py v4: Projects, Agent Profiles, PDF Studio, 1-Click Sharing",
+      "url": "https://llmspy.org/docs/latest",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-08-04T11:34:59Z",
+      "fetched_at": "2026-08-05T03:45:50.620Z"
+    },
+    {
+      "title": "I RL-finetuned an LLM to unslop my writing",
+      "url": "https://castform.com/blog/unslop/",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-08-04T10:10:47Z",
+      "fetched_at": "2026-08-05T03:45:50.620Z"
+    },
+    {
+      "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
+      "url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-08-04T20:30:36Z",
+      "fetched_at": "2026-08-05T03:45:50.620Z"
+    },
+    {
+      "title": "I built an LLM debugger for fine-tuning failures",
+      "url": "https://github.com/gradian-ai/gradian",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-08-04T13:27:56Z",
+      "fetched_at": "2026-08-05T03:45:50.620Z"
+    },
+    {
+      "title": "Report on why developers use LLMs to write blog posts",
+      "url": "https://twitter.com/c_a_dunlop/status/2084662863071965514",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-08-04T15:43:00Z",
+      "fetched_at": "2026-08-05T03:45:50.620Z"
+    },
+    {
+      "title": "Show HN: Clai – AI for the command line (stdin → LLM → stdout)",
+      "url": "https://github.com/maxrodrigo/clai",
+      "source": "hn",
+      "score": 3,
+      "content": "Since ChatGPT launched I&#x27;ve been trying to integrate LLMs into my workflows; emails, commits PRSs, or even long chat threads.\nMy instinct was to code a small automation platform, but I found myself limited once again by its own constraints. Went back to zero, twice, and went back to the tools I&#x27;ve been using for years: UNIX pipelines.\nI started using llm and later mods (now deprecated) and they&#x27;re great tools, but I wanted something leaner and that would compose better with other tools.<p>Clai does one thing: takes stdin, sends it to a model of your choice and prints the result. No REPL, no state. When it&#x27;s done it just exits.<p><pre><code>  git diff | clai commit\n  cat article.txt | clai summarize | glow\n  pbpaste | clai tldr\n  curl -s example.com&#x2F;article.html | clai -e &quot;Extract the three main concepts&quot;\n\n</code></pre>\nIt ships with a set of named prompts but you can override, add or extend as needed, they&#x27;re just files with frontmatter. There&#x27;s also strategies (chain-of-draft, chain-of-thought, tree-of-thought, and self-refine) to change the reasoning depending on your needs.<p>Works with major providers and I&#x27;ll keep adding more. It can also be pointed to a local model so nothing leaves your machine.<p>Install with:<p><pre><code>  brew install maxrodrigo&#x2F;tap&#x2F;clai\n</code></pre>\nThis is v0.3.0 and it&#x27;s a few weeks old. It&#x27;s early and rough around the edges. I&#x27;d appreciate feedback on what&#x27;s missing and if you find it useful. Contributions welcome.",
+      "published_at": "2026-08-04T15:42:39Z",
+      "fetched_at": "2026-08-05T03:45:50.620Z"
+    },
+    {
+      "title": "The LLMs Problems",
+      "url": "https://news.ycombinator.com/item?id=49169366",
+      "source": "hn",
+      "score": 2,
+      "content": "What problems are you all facing while building with LLMs?",
+      "published_at": "2026-08-04T14:17:50Z",
+      "fetched_at": "2026-08-05T03:45:50.620Z"
+    },
+    {
+      "title": "Jailbreaking an LLM",
+      "url": "https://www.joshfischer.io/articles/jailbreaking-an-llm/",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-04T19:32:04Z",
+      "fetched_at": "2026-08-05T03:45:50.620Z"
+    },
+    {
+      "title": "Design by Contract and Effects for LLMs",
+      "url": "https://gavinray97.github.io/blog/design-by-contract-and-effects-for-llms",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-04T19:04:40Z",
+      "fetched_at": "2026-08-05T03:45:50.620Z"
+    },
+    {
+      "title": "Vale-LLM-slop – prose linting for LLMs",
+      "url": "https://github.com/Syntaf/vale-llm-slop",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-04T14:48:07Z",
+      "fetched_at": "2026-08-05T03:45:50.620Z"
+    },
+    {
+      "title": "Cross-Model LLM Code Review: Should you use Claude to review Codex or vice versa",
+      "url": "https://arxiv.org/abs/2607.21656",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-04T10:20:45Z",
+      "fetched_at": "2026-08-05T03:45:50.620Z"
+    },
+    {
+      "title": "Walking to the Car Wash: The Salience Bias of LLMs in Commonsense Reasoning",
+      "url": "https://arxiv.org/abs/2607.28478",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-04T06:35:53Z",
+      "fetched_at": "2026-08-05T03:45:50.620Z"
+    },
+    {
+      "title": "Show HN: Hubmesh – Multi-hop RAG retrieval with zero LLM calls in the query path",
+      "url": "https://github.com/DemigodDSK/hubmesh",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-05T01:27:25Z",
+      "fetched_at": "2026-08-05T03:45:50.620Z"
+    },
+    {
+      "title": "Agent skills that bring team coding standards to Claude Code and Codex",
+      "url": "https://github.com/tikalk/adlc-team-skills",
+      "source": "hn",
+      "score": 74,
+      "content": "",
+      "published_at": "2026-08-04T14:38:31Z",
+      "fetched_at": "2026-08-05T03:45:51.113Z"
+    },
+    {
+      "title": "Show HN: A faster coding agent than Codex and Claude Code",
+      "url": "https://www.codewithbullet.com",
+      "source": "hn",
+      "score": 5,
+      "content": "Hi HN, excited to be sharing this with you guys today.<p>TL;DR: Bullet is a fast coding agent.<p>At our company, we were burning hours waiting on agent runs. The models weren’t the problem. The agent loops around them were slow (unnecessary planning, oversized context, repeated searches, and serial tool calls).<p>So we built Bullet as a passion project, the goal being to help you iterate faster, without giving up quality:\n- It automatically selects the model and reasoning level for each prompt.\n- It runs independent searches, reads, and commands in parallel.\n- It uses targeted code search instead of embedding the entire repository.\n- It works with your Claude Code or Codex subscription, OpenAI&#x2F;Anthropic&#x2F;xAI API keys, or an on-device model with no key.<p>Claude Code and Codex each center on their own model ecosystem. OpenCode gives you many models, but largely leaves model selection and configuration to you. Bullet sits above the models. Connect what you already pay for, then let Bullet choose the fastest path for every task.<p>On SWE-bench Verified, Bullet resolved 479&#x2F;500 issues (95.8%, top 3 on the leaderboard) in one attempt, averaging 119 seconds per task (35–67% faster than mini-SWE-agent + Fable&#x2F;Sol). Full results and methodology here: <a href=\"https:&#x2F;&#x2F;www.codewithbullet.com&#x2F;blog&#x2F;benchmark-results.html\" rel=\"nofollow\">https:&#x2F;&#x2F;www.codewithbullet.com&#x2F;blog&#x2F;benchmark-results.html</a><p>We would love honest feedback on the product! It takes less than a minute to download and set up. We’d love to hear what you like about Bullet, and what sucks. The Mac app DMG release is on our website: <a href=\"https:&#x2F;&#x2F;www.codewithbullet.com&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.codewithbullet.com&#x2F;</a><p>P.S: we hid a code on the website, see if you can unlock the secret page at the footer (all built with Bullet) :) <a href=\"https:&#x2F;&#x2F;youtu.be&#x2F;34wfiSoSw4Q\" rel=\"nofollow\">https:&#x2F;&#x2F;",
+      "published_at": "2026-08-04T19:33:34Z",
+      "fetched_at": "2026-08-05T03:45:51.113Z"
+    },
+    {
+      "title": "What should go in your Claude.md?",
+      "url": "https://zander.wtf/blog/claude-md-agents-md/",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-08-04T04:25:58Z",
+      "fetched_at": "2026-08-05T03:45:51.113Z"
+    },
+    {
+      "title": "Show HN: I gave my video editor an MCP server so Claude can edit videos for me",
+      "url": "https://www.shorz.ai",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-08-04T21:52:22Z",
+      "fetched_at": "2026-08-05T03:45:51.113Z"
+    },
+    {
+      "title": "A Terminal-Based Jupyter Notebook That Helps Claude Work Like a Data Scientist",
+      "url": "https://www.reddit.com/r/ClaudeCode/comments/1vfcs18/a_terminalbased_jupyter_notebook_that_helps/",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-08-04T14:59:36Z",
+      "fetched_at": "2026-08-05T03:45:51.113Z"
+    },
+    {
+      "title": "Show HN: Bourdon – one shared memory file for Claude Code, Codex, Cursor",
+      "url": "https://bourdon.ai",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-08-04T11:31:42Z",
+      "fetched_at": "2026-08-05T03:45:51.113Z"
+    },
+    {
+      "title": "Show HN: cctap – see and reach the Claude Code session that needs you",
+      "url": "https://github.com/chipmates/cctap",
+      "source": "hn",
+      "score": 3,
+      "content": "When I worked with 3 or 4 Claude Code sessions in parallel terminals on my laptop, sometimes ordered in little windows, sometimes full screen, it did not feel optimal. Often a session stopped and waited for a permission prompt, especially when in full screen to follow the process in more detail. When I talked to other devs I got the feedback, that a little status indicator would be nice.<p>cctap puts in every terminal a one line statusline. It looks the same over the different terminals and every session gets a number and a name. When one session waits on you it turns red. I also added the option to add a system key to jump instantly in the session which needs attention.<p>cctap can be installed with 2 lines, one for the visual status, one for the key setup.<p><pre><code>     npx @chipmates&#x2F;cctap install-hooks\n     npx @chipmates&#x2F;cctap keys setup\n</code></pre>\ncctap registers hooks that report to a small local daemon via unix socket.<p>The code is published under MIT, zero dependencies, no network calls.<p>The statusline, animated: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;chipmates&#x2F;cctap&#x2F;raw&#x2F;main&#x2F;docs&#x2F;demo.gif\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;chipmates&#x2F;cctap&#x2F;raw&#x2F;main&#x2F;docs&#x2F;demo.gif</a><p>Hope you like it.",
+      "published_at": "2026-08-04T10:56:09Z",
+      "fetched_at": "2026-08-05T03:45:51.113Z"
+    },
+    {
+      "title": "Claude Code can read plaintext secrets even when Read is denied",
+      "url": "https://jankovd.substack.com/p/claude-can-read-your-secrets",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-08-04T08:43:46Z",
+      "fetched_at": "2026-08-05T03:45:51.113Z"
+    },
+    {
+      "title": "Why is Anthropic's public writing style so unlike Claude's?",
+      "url": "https://cmart.blog/claude-writing/",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-04T07:51:02Z",
+      "fetched_at": "2026-08-05T03:45:51.113Z"
+    },
+    {
+      "title": "Stop micromanaging Fable/Claude 5",
+      "url": "https://shumer.dev/how-i-prompt-fable",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-04T20:41:41Z",
+      "fetched_at": "2026-08-05T03:45:51.113Z"
+    },
+    {
+      "title": "Show HN: OldHand A Claude/Codex plugin to verify the development flow end-to-end",
+      "url": "https://github.com/berwinsingh/oldhand",
+      "source": "hn",
+      "score": 2,
+      "content": "I built this clod code or codec skill because I just love using these AI agents to write code. It&#x27;s just so convenient to do. But when it comes to working in a corporate environment, I have to ultimately follow a Jira ticket or a Asana ticket.<p>Now, when I&#x27;m following those tickets, I am able to do the work, but it&#x27;s not always up to the mark because after all I found AI to hallucinate, Unnecessary code is being written, even though a function for that is already there and can be reused, no proper testing apart from unit test being done so when the QA started testing it they raised a astronomical amount of bugs.<p>So, with Claude and Codex becoming very capable especially with their plugins&#x2F;connectors and computer use ability, I build OldHand that allows for end-to-end ticket development, planning, coding, reusability (combined with Ponytail), QA testing with browser&#x2F;computer use.<p>I would love to get people&#x27;s feedback as it has been helping me a lot with my day-to-day work, but I would like to improve this even further and every feedback helps.",
+      "published_at": "2026-08-04T16:48:57Z",
+      "fetched_at": "2026-08-05T03:45:51.113Z"
+    },
+    {
+      "title": "Claude Code Free Access",
+      "url": "https://www.bestmillionstartups.com/best/how-to-use-claude-code-for-free-2026",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-04T16:42:26Z",
+      "fetched_at": "2026-08-05T03:45:51.113Z"
+    },
+    {
+      "title": "Show HN: Clayrune – Run Claude Code agents in parallel without losing context",
+      "url": "https://github.com/ronle/clayrune",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-04T15:35:06Z",
+      "fetched_at": "2026-08-05T03:45:51.113Z"
+    },
+    {
+      "title": "Claude Code Source Code Analysis",
+      "url": "https://kuber.studio/blog/AI/Claude-Code%27s-Entire-Source-Code-Got-Leaked-via-a-Sourcemap-in-npm,-Let%27s-Talk-About-it",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-04T11:05:08Z",
+      "fetched_at": "2026-08-05T03:45:51.113Z"
+    },
+    {
+      "title": "How to export Claude chats to Markdown [video]",
+      "url": "https://www.youtube.com/watch?v=eWCf5HGQYMQ",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-08-05T03:24:43Z",
+      "fetched_at": "2026-08-05T03:45:51.113Z"
+    },
+    {
+      "title": "Am I spreading a mind virus when I help others use Claude?",
+      "url": "https://news.ycombinator.com/item?id=49174796",
+      "source": "hn",
+      "score": 1,
+      "content": "I’ve been thinking about this for a while inspired partly by the point of Sapiens how wheat domesticated humans, and also that show Pluribus, but the other day I helped my elderly father in law learn to use it and got me wondering… am I now just doing its bidding? It started to feel like I was when I &#x2F; it started ingesting international datasets for a compliance tracking app I’m building but then something about teaching someone to is it just go me thinking…",
+      "published_at": "2026-08-04T20:41:15Z",
+      "fetched_at": "2026-08-05T03:45:51.113Z"
+    },
+    {
+      "title": "Show HN: Neal – Codex writes the code, Claude reviews it",
+      "url": "https://github.com/navels/neal",
+      "source": "hn",
+      "score": 1,
+      "content": "neal is a CLI I wrote while trying to use an LLM coding agent (in this case, Codex GPT-5.4) to work autonomously on a migration of our large frontend codebase. A few things came up during that project that guided the development of neal:<p>1. Telling an agent to &quot;keep working unless blocked&quot; doesn&#x27;t actually work over long stretches of time.<p>2. Large projects should be broken up into smaller chunks of work.<p>3. The coding agent should start each chunk of work with a fresh context to prevent context rot.<p>4. The coding agent benefits from having a different agent doing adversarial reviews along the way.<p>What I ended up with is an orchestrator that<p>- lets you configure planner, coder, and reviewer roles. I started with Codex and Claude using their SDKs but later added OpenRouter as well as a compatibility mode for verifying that a model can handle the orchestration. Currently there are 44 compatible OpenRouter models.<p>- runs a plan that you provide through a planner &#x2F; reviewer loop which splits the work into reasonable-sized chunks and formats the plan document so that it can be executed by neal.<p>- runs each chunk of work through a coder &#x2F; read-only reviewer loop. Once both agents are satisfied, neal moves on to the next chunk. Once everything is complete there is a final pass through the coder &#x2F; reviewer loop to ensure the implementation satisfies the entire plan.<p>- resets the coder&#x27;s context with each chunk of work to prevent context drift, leaving the reviewer&#x27;s context long-running.<p>The migration landed (549 commits, over 3000 files added&#x2F;modified). I also ran 100 benchmark cases (from SWE-bench Pro) that Codex failed to solve on its own through neal and observed 8 solved when using neal with Codex in both (coder and reviewer) roles and 15 solved when using Claude as the reviewer. I had hoped for a more exciting benchmark outcome but this at least demonstrated neal&#x27;s value, especially putting a diff",
+      "published_at": "2026-08-04T13:14:27Z",
+      "fetched_at": "2026-08-05T03:45:51.113Z"
+    },
+    {
+      "title": "Show HN: Aimeterly – Per-user cost dashboards from Claude Code's built-in OTel",
+      "url": "https://aimeterly.com/en",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-08-04T13:11:58Z",
+      "fetched_at": "2026-08-05T03:45:51.113Z"
+    },
+    {
+      "title": "Claude, GPT and the Minnesota attackers all used known bugs and weak logins",
+      "url": "https://cabreza.substack.com/p/use-it-or-lose-to-it",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-08-04T13:00:32Z",
+      "fetched_at": "2026-08-05T03:45:51.113Z"
+    },
+    {
+      "title": "Google's $200B Wall Street finance machine for Anthropic",
+      "url": "https://www.ft.com/content/549f2e23-5aa2-49c7-9ea6-a9784ab7087c",
+      "source": "hn",
+      "score": 7,
+      "content": "",
+      "published_at": "2026-08-04T14:25:27Z",
+      "fetched_at": "2026-08-05T03:45:51.605Z"
+    },
+    {
+      "title": "Nobody Was Watching: Anthropic, OpenAI, and Open Models",
+      "url": "https://substack.norabble.com/p/nobody-was-watching",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-08-04T23:42:12Z",
+      "fetched_at": "2026-08-05T03:45:51.605Z"
+    },
+    {
+      "title": "Anthropic has signed a $10B deal for computing capacity with Volta",
+      "url": "https://twitter.com/KobeissiLetter/status/2084623916744544484",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-08-04T15:17:55Z",
+      "fetched_at": "2026-08-05T03:45:51.605Z"
+    },
+    {
+      "title": "Ask HN: Dear Anthropic, can we please have thought traces back?",
+      "url": "https://news.ycombinator.com/item?id=49175422",
+      "source": "hn",
+      "score": 3,
+      "content": "Dear Anthropic, can we please have thought traces back?<p>I can&#x27;t verify whether or not the LLM is arriving at the conclusion from cheating, or if it&#x27;s fudging or making stuff up.<p>Opus 4.6 remains the best model because of this.",
+      "published_at": "2026-08-04T21:28:10Z",
+      "fetched_at": "2026-08-05T03:45:51.605Z"
+    },
+    {
+      "title": "Tino Cuellar Joins Anthropic as Chief Global Affairs Officer",
+      "url": "https://www.anthropic.com/news/tino-cuellar",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-04T17:16:38Z",
+      "fetched_at": "2026-08-05T03:45:51.605Z"
+    },
+    {
+      "title": "I wasted four months waiting for Anthropic to review my MCP",
+      "url": "https://joshsymonds.com/blog/anthropic-hates-developers/",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-08-04T07:26:43Z",
+      "fetched_at": "2026-08-05T03:45:51.605Z"
+    },
+    {
+      "title": "Deep Dive: Anthropic's Performance Take-Home (The One Claude Beat Humans At)",
+      "url": "https://trirpi.github.io/posts/anthropic-performance-takehome/",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-08-04T05:25:33Z",
+      "fetched_at": "2026-08-05T03:45:51.605Z"
+    },
+    {
+      "title": "Show HN: Isolade, a local-first coding agent workbench with secretless microVMs",
+      "url": "https://github.com/isolade/isolade",
+      "source": "hn",
+      "score": 3,
+      "content": "I built Isolade because I could not find an open-source, local-first workbench that runs coding agents in microVMs.<p>The two pieces already exist individually. There are plenty of options for both agent management (Conductor, Herdr, Omnigent) and microVM isolation (Docker Sandboxes, Firecracker, SmolVM). However, I did not find a project that combined them into one unified product.<p>Isolade gives each agent its own microVM. Microsandbox provides subsecond provisioning and domain-scoped secret substitution, so that the VM only sees placeholder values. Instead of a worktree, each agent gets a copy-on-write clone of the entire setup. This works well for setups involving multiple repositories, and cached dependencies mean agents can start working immediately without any per-worktree setup.<p>A single UI lets you work with multiple agents concurrently. You can mix Anthropic and OpenAI models and switch providers in the middle of a conversation. For example, I often have Sol review Opus&#x27;s work. The system prompt is customizable, so for UI tasks, I ask agents to include actual screenshots of their changes or proposals in the conversation. This works much better than Claude&#x27;s ASCII art.<p>You can use your existing subscriptions because Isolade runs the official Claude Code and Codex binaries.<p>Isolade is Apache-2.0 licensed and supports Apple Silicon macOS and Debian or Ubuntu with KVM. Looking forward to hearing your feedback.",
+      "published_at": "2026-08-04T12:42:07Z",
+      "fetched_at": "2026-08-05T03:45:51.605Z"
+    },
+    {
+      "title": "OpenAI has the right strategy, but is unlucky",
+      "url": "https://news.ycombinator.com/item?id=49165173",
+      "source": "hn",
+      "score": 2,
+      "content": "OpenAI is a deeply mismanaged company. Most recently, a blog post that feels like it has got to have dozens of PR violations, responding to the Apple lawsuit.<p>More broadly, OpenAI&#x27;s main problem is that it does not have a real competitive advantage. No real models do; the real differentiation is price; they will become commodities.<p>So while at first it may look like OpenAI is doing too much, it is a desperate attempt to create some kind of real, defensible business, and show some proof of such before they IPO. If they do not do so, public market investors will cut their throats, and they will see a valuation drop like no other, regardless of where we are in the capital cycle. If they delay IPO plans, it will become clear they are in shambles. They are far behind in the enterprise game, which is short-term anyway. Their best bet is hardware; credit to Altman and co for realizing this, although Apple is a roadblock, which I hope, for the sake of competition, is removed.<p>Now Anthropic having a more coherent strategy of focusing on enterprise from the start is better; it is still not defensible. Perhaps because of the fact that the cost of paying Anthropic is far too great and outweighs any form of customer captivity. Plus, an enterprise gets maximum leverage by training a model, ideally a cheap one, on its own data so it can get insights tailored to the enterprise specifically, something Anthropic cannot deliver. Anthropic&#x27;s fall will likely be in line with the broader capital cycle.<p>I try to articulate ideas around tech companies&#x27; business strategy and specifically capital cycles and how models are commodities here -<p>https:&#x2F;&#x2F;taikhooms.substack.com&#x2F;",
+      "published_at": "2026-08-04T07:01:34Z",
+      "fetched_at": "2026-08-05T03:45:51.605Z"
+    },
+    {
+      "title": "AI's talent wars have a loyalty problem",
+      "url": "https://www.axios.com/2026/08/03/ai-talent-wars-openai-google-meta-anthropic",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-08-04T12:33:21Z",
+      "fetched_at": "2026-08-05T03:45:51.605Z"
+    },
+    {
+      "title": "America's Bet on AI – The winner takes it all. What if we lose?",
+      "url": "https://foreignpolicy.com/2026/08/04/united-states-artificial-intelligence-race-china-openai-anthropic-donald-trump-elon-musk/",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-08-05T03:24:25Z",
+      "fetched_at": "2026-08-05T03:45:51.605Z"
+    },
+    {
+      "title": "Ask HN: Has anyone solved P2P routing at 100B+ nodes without DHT degradation?",
+      "url": "https://news.ycombinator.com/item?id=49166652",
+      "source": "hn",
+      "score": 6,
+      "content": "The two of us (PhD in Physics and Mathematics and Philosophical Anthropology) have spent many years working on a mathematically protected secret voting system suitable for making socially significant decisions. During the design process, we realized that such a system must be a peer-to-peer network satisfying six absolute requirements. \nWe have not been able to find a single existing protocol or academic paper that simultaneously satisfies more than two of them:\nFirst: anonymous user authentication that guarantees the uniqueness of the user&#x27;s representation in the network (preventing one person from creating multiple accounts) without storing their personal data and without using any external resources, such as certificate authorities or a trusted third party.\nSecond: a network providing such anonymous authentication must be capable of covering all inhabitants of the Earth. Currently that is just over 8 billion people, but this number grows by more than 100 million every year. Moreover, the deceased must not be excluded from the system, which means monotonic growth is endless.\nThird: a network that guarantees anonymity must not have any distinguished nodes—that is, it must be strictly peer-to-peer, consisting of nodes formed by users&#x27; devices. However, each user may have not one but several devices, and devices can fail, get lost, become obsolete, or even simply go out of fashion. This immediately changes the scale of the network—it must handle hundreds of billions of nodes.\nFourth: it is necessary to provide each user with access to their account from any device without using passwords, tokens, seed phrases, or anything similar.\nFifth: the key requirement becomes performing a search that enables user recognition in less than 1 second (so that it is imperceptible to the user). That is, any device must locate any other device or data in less than 1 second, while the amount of routing information stored by a single device must be negligibly small, preferably",
+      "published_at": "2026-08-04T10:33:24Z",
+      "fetched_at": "2026-08-05T03:45:51.605Z"
+    },
+    {
+      "title": "The Warp Agent CLI",
+      "url": "https://www.warp.dev/blog/introducing-the-warp-agent-cli-coding-agent",
+      "source": "hn",
+      "score": 96,
+      "content": "",
+      "published_at": "2026-08-04T17:08:41Z",
+      "fetched_at": "2026-08-05T03:45:52.237Z"
+    },
+    {
+      "title": "Cloudflare Wallets: the programmable wallet for the agentic Internet",
+      "url": "https://blog.cloudflare.com/wallets/",
+      "source": "hn",
+      "score": 29,
+      "content": "",
+      "published_at": "2026-08-04T21:31:02Z",
+      "fetched_at": "2026-08-05T03:45:52.237Z"
+    },
+    {
+      "title": "Show HN: Jido Assembly; Slack Clone in Pure Elixir with Integrated Agents",
+      "url": "https://jido.run/blog/jido-assembly-slack-clone",
+      "source": "hn",
+      "score": 19,
+      "content": "Hi HN!<p>We put together a showcase on a group chat application in pure Elixir that includes the following:<p>* Hologram Framework<p>* Jido Agents<p>* Jido Messaging (bridging chat to Telegram&#x2F;Discord)<p>The authoring experience is pure Elixir on both the front end and back end. This showcase demonstrates the potency of this stack.",
+      "published_at": "2026-08-04T15:56:17Z",
+      "fetched_at": "2026-08-05T03:45:52.237Z"
+    },
+    {
+      "title": "The Knowledge Chipper: An Agentic Coding Story",
+      "url": "https://jg.gg/2026/08/04/the-knowledge-chipper/",
+      "source": "hn",
+      "score": 13,
+      "content": "",
+      "published_at": "2026-08-04T16:43:37Z",
+      "fetched_at": "2026-08-05T03:45:52.237Z"
+    },
+    {
+      "title": "Show HN: Implement-spec – a harness-agnostic spec-to-verified-PR agent skill",
+      "url": "https://github.com/SteveVitali/agent-skills",
+      "source": "hn",
+      "score": 12,
+      "content": "",
+      "published_at": "2026-08-04T13:26:44Z",
+      "fetched_at": "2026-08-05T03:45:52.237Z"
+    },
+    {
+      "title": "Show HN: OpenEdit – Your coding agent can now edit videos",
+      "url": "https://github.com/veedstudio/open-edit",
+      "source": "hn",
+      "score": 10,
+      "content": "",
+      "published_at": "2026-08-04T14:52:15Z",
+      "fetched_at": "2026-08-05T03:45:52.237Z"
+    },
+    {
+      "title": "Incident Report: unsanctioned agent behaviour during cyber testing",
+      "url": "https://www.aisi.gov.uk/blog/incident-report-unsanctioned-agent-behaviour-during-cyber-testing",
+      "source": "hn",
+      "score": 10,
+      "content": "",
+      "published_at": "2026-08-04T21:12:47Z",
+      "fetched_at": "2026-08-05T03:45:52.237Z"
+    },
+    {
+      "title": "Why coding agents belong in remote sandboxes",
+      "url": "https://www.superconductor.com/blog/remote-sandboxes-agent-security",
+      "source": "hn",
+      "score": 9,
+      "content": "",
+      "published_at": "2026-08-04T18:12:30Z",
+      "fetched_at": "2026-08-05T03:45:52.237Z"
+    },
+    {
+      "title": "Show HN: cMCP, deny an AI agent's tool call and get a signed receipt",
+      "url": "https://github.com/agentrust-io/cmcp",
+      "source": "hn",
+      "score": 8,
+      "content": "",
+      "published_at": "2026-08-04T18:06:08Z",
+      "fetched_at": "2026-08-05T03:45:52.237Z"
+    },
+    {
+      "title": "Stanford Online: CS329A Self-Improving AI Agents",
+      "url": "https://www.youtube.com/playlist?list=PLangBM27OtEA",
+      "source": "hn",
+      "score": 7,
+      "content": "",
+      "published_at": "2026-08-04T22:37:23Z",
+      "fetched_at": "2026-08-05T03:45:52.237Z"
+    },
+    {
+      "title": "A Data-Driven Explanation: Why Do AI Agents Still Fail",
+      "url": "https://jeremytian.substack.com/p/a-data-driven-explanation-why-do",
+      "source": "hn",
+      "score": 7,
+      "content": "",
+      "published_at": "2026-08-04T17:09:45Z",
+      "fetched_at": "2026-08-05T03:45:52.237Z"
+    },
+    {
+      "title": "Show HN: Blender for AI Agents",
+      "url": "https://www.mixar.app",
+      "source": "hn",
+      "score": 6,
+      "content": "Creating 3D is hard. LLMs seem to be getting better at tool use and spatial understanding. While MCPs have proved to be a good way to use these tools- the current methods have these challenges:<p>- Access to scene graph and core C modules of Blender<p>- Lack of parallelism, only way is to run blender headless<p>- Lack of deterministic and fast verification layer<p>- Inference stack- only way to use inference is to hook another MCP<p>We&#x27;re building Mixar, think Cursor for 3D. One access point to all generative inference, an agent\nto build scenes&#x2F;blockouts, do boring stuff like UVs and export standard formats(.glb&#x2F;gltf&#x2F;obj&#x2F;gbx&#x2F;usd etc.)<p>Try it: <a href=\"https:&#x2F;&#x2F;mixar.app\" rel=\"nofollow\">https:&#x2F;&#x2F;mixar.app</a> - first week is free. Would love to get your feedback.",
+      "published_at": "2026-08-04T16:35:12Z",
+      "fetched_at": "2026-08-05T03:45:52.237Z"
+    },
+    {
+      "title": "Agentty ADE: preview of agentic orchestrator is out in v0.14.0",
+      "url": "https://github.com/agentty-xyz/agentty",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-08-04T06:15:01Z",
+      "fetched_at": "2026-08-05T03:45:52.237Z"
+    },
+    {
+      "title": "Show HN: Capshelf – Share agent skills across repos with per-project lockfiles",
+      "url": "https://github.com/genged/capshelf",
+      "source": "hn",
+      "score": 4,
+      "content": "I was constantly working on multiple projects in parallel, which made me keep the same Claude Code skills in several repos, and they slowly drifted apart. A security-review skill I kept improving in one project did not change everywhere else, and after a while I couldn&#x27;t tell which copy was current.<p>I tried symlinking into a shared directory, and it fixed the duplication but created a worse problem: editing a skill for one repo silently changed the agent&#x27;s behavior in another repo.<p>So I built capshelf - a CLI that keeps your skills, settings, and MCP servers in one shared git repo, with each project pinned to its own copy.\nIt currently supports Claude Code, Codex and Pi and allows you to pin skills, Pi extensions, settings values, and MCP server entries.<p>The main idea was to vendor skills into a project in a controlled way by pinning them using a content hash.\nCapshelf has a manifest that lists installed items and a lockfile that saves hashes and source commits of all installed items.<p>To start building your skills repository, init capshelf in one of your repositories and point it to an empty git repo:\n$ capshelf init --data &#x2F;some&#x2F;local&#x2F;gitrepo --no-upstream<p>Then, you can share your local skills to the data repo:\n$ capshelf share security-review --to project\nTo promote without pinning for all project users:\n$ capshelf share design-review --to local<p>This will start tracking the skill using capshelf and pin the current version in this repository.<p>Then in another project, initialize capshelf and add the skills you need:\n$ capshelf add design-review<p>If you, or your agent, edit the design-review skill, you can easily promote it so that other projects can take the updates.\nEvery project pins an exact content hash, so promoting an edit from project A leaves project B running the old version until someone runs capshelf update there.<p>If you&#x27;re familiar with terraform this might remind you of the terraform plan&#x2F;apply approac",
+      "published_at": "2026-08-04T15:29:42Z",
+      "fetched_at": "2026-08-05T03:45:52.237Z"
+    },
+    {
+      "title": "Agents that narrate their work are the best team players – Jon Udell",
+      "url": "https://blog.jonudell.net/2026/07/23/agents-that-narrate-their-work-are-the-best-team-players/",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-08-04T14:41:04Z",
+      "fetched_at": "2026-08-05T03:45:52.237Z"
+    },
+    {
+      "title": "New release of LLM adds support for reasoning traces, OpenAI Responses, server-side tools, and smarter logging",
+      "url": "https://simonwillison.net/2026/Aug/4/new-release-of-llm/#atom-everything",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-08-04T23:58:24.000Z",
+      "fetched_at": "2026-08-05T03:45:49.833Z"
+    },
+    {
+      "title": "llm-anthropic 0.26",
+      "url": "https://simonwillison.net/2026/Aug/4/llm-anthropic/#atom-everything",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-08-04T22:00:58.000Z",
+      "fetched_at": "2026-08-05T03:45:49.833Z"
+    },
+    {
+      "title": "PipeNetwork/minimax-h3-mlx",
+      "url": "https://simonwillison.net/2026/Aug/4/minimax-h3-mlx/#atom-everything",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-08-04T19:10:09.000Z",
+      "fetched_at": "2026-08-05T03:45:49.833Z"
+    },
+    {
+      "title": "llm 0.32",
+      "url": "https://simonwillison.net/2026/Aug/4/llm/#atom-everything",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-08-04T17:15:33.000Z",
+      "fetched_at": "2026-08-05T03:45:49.833Z"
+    },
+    {
+      "title": "Quoting Steve Yegge",
+      "url": "https://simonwillison.net/2026/Aug/4/steve-yegge/#atom-everything",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-08-04T00:42:45.000Z",
+      "fetched_at": "2026-08-05T03:45:49.833Z"
+    },
+    {
+      "title": "Don't be a meat proxy",
+      "url": "https://simonwillison.net/2026/Aug/3/dont-be-a-meat-proxy/#atom-everything",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-08-03T23:45:04.000Z",
+      "fetched_at": "2026-08-05T03:45:49.833Z"
+    },
+    {
+      "title": "Quoting David Crawshaw's prompt",
+      "url": "https://simonwillison.net/2026/Aug/3/david-crawshaw/#atom-everything",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-08-03T16:15:27.000Z",
+      "fetched_at": "2026-08-05T03:45:49.833Z"
+    },
+    {
+      "title": "Devtools must be open source (exe.dev)",
+      "url": "https://simonwillison.net/2026/Aug/3/devtools-must-be-open-source-exedev/#atom-everything",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-08-03T15:30:38.000Z",
+      "fetched_at": "2026-08-05T03:45:49.833Z"
+    },
+    {
+      "title": "condense-json 1.1",
+      "url": "https://simonwillison.net/2026/Aug/3/condense-json/#atom-everything",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-08-03T04:56:26.000Z",
+      "fetched_at": "2026-08-05T03:45:49.833Z"
+    },
+    {
+      "title": "JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion",
+      "url": "https://huggingface.co/papers/2608.03974",
+      "source": "hf-daily-papers",
+      "score": 48,
+      "content": "Real-time video editing requires low-latency causal generation with bounded computational resources while preserving source fidelity and long-term temporal consistency. We present JoyAI-Video-Edit, a 16B-parameter autoregressive diffusion framework for real-time, open-ended video editing without access to future frames or a predefined video duration. Our method combines chunk-wise autoregressive adaptation, Source-Anchored Distribution Matching Distillation (SA-DMD), and Long-Horizon Autoregressive Distillation to reduce train--inference mismatch, preserve source fidelity during two-step generation, and mitigate accumulated temporal drift. Extensive automatic and human evaluations show that JoyAI-Video-Edit substantially outperforms existing streaming editors and remains competitive with strong offline systems on both short and long videos. The complete system achieves end-to-end 720p video editing at approximately 30 FPS on a single Nvidia B200 GPU. Code is available at https://github.com/jd-opensource/JoyAI-Video-Edit.",
+      "published_at": "2026-08-03T20:00:00.000Z",
+      "fetched_at": "2026-08-05T03:45:49.811Z"
+    },
+    {
+      "title": "AURORA-LM: Autoencoding Unified Representation for Continuous-Latent Diffusion Language Modeling",
+      "url": "https://huggingface.co/papers/2608.02602",
+      "source": "hf-daily-papers",
+      "score": 32,
+      "content": "Language remains an outlier in generative modeling: while images, video, and audio are increasingly modeled in continuous latent spaces, text generation still relies predominantly on discrete tokens. Existing continuous language models either inherit embedding spaces not designed for joint generation and decoding, or compress autoencoded latents to ease diffusion, sacrificing token-level fidelity. Instead of simplifying the representation to suit the generative model, we preserve a high-capacity, decodable text latent and design the diffusion model to learn its distribution directly.\n  We introduce AURORA-LM, a continuous-latent diffusion language model that separates the construction of a decodable text representation from the modeling of its distribution. A Query-based Encoder-Decoder organizes text into a high-capacity, prefix-aligned latent sequence, and a Block-causal Diffusion Transformer learns its distribution through flow matching, generating blocks left to right while denoising positions within each block in parallel. Because such a latent is harder for diffusion to model, AURORA-LM restricts only the noisy-input pathway while retaining the full clean-latent prediction target, accommodating full-width latents without reducing decoder-facing capacity. We further calibrate the noise-level distribution to the latent width, and introduce self-trajectory consistency to bridge independently sampled training noise and iterative denoising at inference.\n  AURORA-LM achieves the strongest performance among evaluated continuous and diffusion-based language models on OpenWebText free generation and XSum summarization. Scaling to 1B parameters with about 1500 EFLOPs of total compute yields further gains, surpassing a larger publicly released latent-diffusion language model under a matched evaluation protocol. All experiments are conducted on Ascend NPUs.",
+      "published_at": "2026-08-02T20:00:00.000Z",
+      "fetched_at": "2026-08-05T03:45:49.811Z"
+    },
+    {
+      "title": "MerchantBench: Benchmarking LLM Agents for Long-Term Coherence in E-Commerce Operations",
+      "url": "https://huggingface.co/papers/2607.28956",
+      "source": "hf-daily-papers",
+      "score": 25,
+      "content": "Large language model agents are increasingly evaluated as autonomous tool users, yet most benchmarks focus on bounded tasks with immediate success criteria. Real-world deployments often require Long-Term Coherence, the capacity to preserve purposeful behavior across extended horizons while adapting decisions to accumulated evidence. Evaluating this capacity requires a persistent environment in which actions constrain future choices, feedback arrives at heterogeneous delays, and incoherent behavior produces measurable cumulative effects. Seller-side e-commerce provides a suitable setting for this evaluation through recurrent and interdependent decisions over Product Sourcing, Listing and Pricing Control, Cash-Flow Management, and Mixed-Latency Feedback Adaptation. We introduce MerchantBench, a 365-day order-level simulation grounded in 98,843 real e-commerce product records and equipped with 26 tools for agent interaction. MerchantBench couples promptly observable Upstream Supplier Events with delayed Downstream Order Outcomes, requiring agents to follow individual order lifecycles and revisit earlier decisions. We evaluate eight LLMs under two agent frameworks in 48 runs, each spanning 365 simulated days. Our results reveal a substantial gap between even the latest LLMs and human participants, with the best LLM configuration attaining only 27.3\\% of the mean final net assets achieved by human participants.",
+      "published_at": "2026-07-30T20:00:00.000Z",
+      "fetched_at": "2026-08-05T03:45:49.811Z"
+    },
+    {
+      "title": "Hunyuan3D-Buffalo 1.0: A Unified Multimodal Model for Scalable 3D Generation, Understanding, and Editing",
+      "url": "https://huggingface.co/papers/2608.02711",
+      "source": "hf-daily-papers",
+      "score": 20,
+      "content": "Recent advances in image generation have demonstrated the potential of unified multimodal models that integrate understanding, generation, and editing. However, unified 3D modeling remains constrained by scarce multimodal data, particularly the lack of large-scale and geometrically consistent editing data. To address this limitation, we propose Hunyuan3D-Buffalo 1.0, a unified framework supporting 3D understanding, text-to-3D generation, instruction-guided 3D editing, and text-grounded part generation within a single architecture. To enable scalable training, we construct an 87M-scale 3D multimodal corpus, comprising 25M understanding samples, 50M text-to-3D pairs, and 12M editing pairs generated using Nano3D-v2. Architecturally, the framework combines Hunyuan3D-VLM for semantic, structural, and spatial understanding with Hunyuan3D DiT for high-fidelity 3D synthesis. The VLM provides multimodal semantic conditions for generation, while editing and part generation additionally condition the diffusion process on the source object representation to preserve its overall structure and unedited regions. Extensive experiments show that Hunyuan3D-Buffalo 1.0 achieves state-of-the-art or leading performance on text-to-3D generation and 3D editing benchmarks, while exhibiting strong understanding and part-generation capabilities. Our analysis further shows that both generation and understanding improve editing, demonstrating the effectiveness of unified 3D multimodal training. Project Page: https://tencent-hunyuan.github.io/Hunyuan3D-Buffalo1.0/",
+      "published_at": "2026-08-02T20:00:00.000Z",
+      "fetched_at": "2026-08-05T03:45:49.811Z"
+    },
+    {
+      "title": "PCSD: Persistent Consistency for Self-Distillation in Agentic Reinforcement Learning",
+      "url": "https://huggingface.co/papers/2608.01837",
+      "source": "hf-daily-papers",
+      "score": 18,
+      "content": "Large language model agents have shown strong potential in complex interactive tasks, yet their reinforcement learning (RL) is often hindered by sparse rewards, as a long multi-turn trajectory may receive only a single outcome-level signal. On-policy self-distillation (OPSD) provides dense token-level supervision from a privileged teacher, but the teacher may not be reliable at every position. Existing methods commonly rely on isolated token-level discrepancies, which can be sensitive to noise, or assign a shared step-level weight that may overlook positional variation. We propose Persistent Consistency Self-Distillation (PCSD), which derives token-level distillation weights from the local persistence of teacher-favoring signals. PCSD combines adaptive windows with exponentially decayed aggregation to capture persistent relative teacher support, applies trend-aware modulation to attenuate locally declining support, and produces continuous weights through sigmoid gating. The resulting objective is jointly optimized with GRPO, combining dense teacher guidance with sparse environmental feedback. Without inference-time skills, PCSD achieves the best ALFWorld Overall results among all baselines on both backbones, exceeding GRPO by 15.6 and 13.3 points and SDAR by 6.2 and 5.5 points, while remaining competitive on WebShop and gaining 15.8 points over GRPO on unseen ALFWorld split.",
+      "published_at": "2026-08-02T20:00:00.000Z",
+      "fetched_at": "2026-08-05T03:45:49.811Z"
+    },
+    {
+      "title": "PAST-Bench: Benchmarking the Foundations of Recursive Self-Improvement in Personal Agents",
+      "url": "https://huggingface.co/papers/2608.04003",
+      "source": "hf-daily-papers",
+      "score": 16,
+      "content": "Recursive self-improvement requires agents to turn accumulated experience into better future behavior. Personal AI agents offer a concrete setting for studying this capability because they retain preferences, task histories, tool routines, and learned skills across sessions. Yet whether retained experience actually improves them over time has not been systematically tested. We introduce PAST-Bench, a benchmark designed to isolate this question. Each agent runs through ordered sequences of fresh-session tasks under matched conditions that turn retained experience on and off. It spans 26 scenarios and 204 episodes across memory, procedural reuse, information gathering, and update. We report both later-task gains and whether those gains follow the intended save, retrieve, and update pathway. Across seven base models and four agent frameworks, improvement is real but uneven across capabilities. Agents with the same headline gain can differ markedly in whether that gain is supported by evidence of the intended pathway. Guided by these findings, we develop Hermes+, which extends Hermes with five targeted interventions across stages of the agent loop. Hermes+ raises the average gain from retained experience and provides clearer pathway evidence, with its strongest improvement on tasks requiring outdated state to be replaced, although the effect remains capability- and model-dependent. Together, PAST-Bench and Hermes+ provide an evaluation and diagnostic foundation for studying how persistent agents can progress from retaining experience to systematically improving through it. Code: https://github.com/Gen-Verse/PAST-Bench",
+      "published_at": "2026-08-03T20:00:00.000Z",
+      "fetched_at": "2026-08-05T03:45:49.811Z"
+    },
+    {
+      "title": "OmniPack: Unified Token Compression for Efficient Omni-modal Large Language Models",
+      "url": "https://huggingface.co/papers/2608.03812",
+      "source": "hf-daily-papers",
+      "score": 14,
+      "content": "Omni-modal large language models (Omni-LLMs) have achieved remarkable performance on audio-visual understanding tasks, but processing long and highly redundant visual and audio token sequences incurs substantial computational overhead, demanding aggressive token compression for efficient deployment. Existing methods often degrade at low token budgets: pre-LLM compression may discard structurally important and globally distributed evidence, whereas inner-LLM compression often underexploits query-conditioned audio-visual collaboration. To address these limitations, we propose OmniPack, a training-free framework that coordinates structural compression before the LLM with task-relevant semantic refinement within the LLM. Before the LLM, OmniPack removes structural redundancy through modality-specific importance, global coverage, and similarity-aware merging. After sufficient multimodal interaction, it further consolidates diverse, task-relevant representations through textual guidance and audio-visual collaboration. Extensive experiments on five benchmarks with three Omni-LLM backbones demonstrate that OmniPack consistently achieves the best performance-efficiency trade-off across diverse retention ratios, outperforming all existing methods. Notably, on Qwen2.5-Omni-7B, OmniPack preserves 98.0% of the original performance while reducing FLOPs to 16.7%, and still retains 92.9% of the original performance with only 6.8% of the original FLOPs.",
+      "published_at": "2026-08-03T20:00:00.000Z",
+      "fetched_at": "2026-08-05T03:45:49.811Z"
+    },
+    {
+      "title": "UniWorld-Design: From Pixel Generation to Layer-Native Design",
+      "url": "https://huggingface.co/papers/2608.03971",
+      "source": "hf-daily-papers",
+      "score": 14,
+      "content": "We introduce UniWorld-Design, a framework that redefines image generation from flat pixel synthesis to structured visual composition, with semantic RGBA layers as the atomic units of generation, understanding, and editing. Our key insight is that pixels define how an image is rendered, whereas layers define how an image is created, understood, and edited. Just as human designers create and manipulate visual content through layers rather than raw pixels, UniWorld-Design equips multimodal generative models with a layer-native design space. UniWorld-Design comprises two models. The Text-to-RGBA (T2RGBA) model generates standalone RGBA assets directly from text. The Image-to-Layer (I2L) model conditions on a finished image, a global instruction and per-layer prompts, and jointly produces ordered, complete semantic RGBA layers. Its instruction interface supports top-level decomposition, recursive decomposition and targeted extraction, making layering an instruction-addressable operation for agentic editing. Because I2L learns complete semantic objects rather than visible-pixel partitions, its layers stay usable when moved or removed. On the Crello benchmark, I2L reduces per-layer RGB L1 error by 37% and achieves a 34% relative improvement in Alpha Soft IoU over Qwen-Image-Layered. Separately, T2RGBA achieves the highest CLIP Score, outperforming LayerDiffuse and OmniAlpha.",
+      "published_at": "2026-08-03T20:00:00.000Z",
+      "fetched_at": "2026-08-05T03:45:49.811Z"
+    },
+    {
+      "title": "CAPEval: A Decoupled Caption Evaluation across Understanding and Generation",
+      "url": "https://huggingface.co/papers/2608.02589",
+      "source": "hf-daily-papers",
+      "score": 13,
+      "content": "Captions serve as a primary supervision signal for both multimodal understanding and text-to-image generation. However, previous evaluations treat the caption quality as a single scalar objective, which conflates two distinct properties: (1) how much visual information a caption covers and (2) how reliably the image supports its stated claims. To this end, we design a decoupled caption evaluation benchmark, CAPEval (Coverage And Precision Evaluation), with human-written ground-truth captions and human-verified atomic checklist items. Specifically, CAPEval decomposes caption quality into Coverage and Precision. The former quantifies how thoroughly a caption covers ground-truth factual content, while the latter reflects the factual correctness rate of all claims expressed in the caption. We select 10 captioners and further conduct controlled downstream end-to-end experiments with them from four model families, where the caption source is the only variable. Empirically, we find a consistent task-dependent dissociation: Coverage serves as the stronger correlate for understanding performance, whereas Precision acts as the dominant predictor for generation performance. This decoupled evaluation paradigm not only delivers a more fine-grained diagnosis of caption quality, but also offers actionable guidance for selecting and optimizing captioners tailored to different downstream tasks.",
+      "published_at": "2026-08-02T20:00:00.000Z",
+      "fetched_at": "2026-08-05T03:45:49.811Z"
+    },
+    {
+      "title": "Any-OPD: Heterogeneous On-Policy Distillation for Flow-Matching Models via Representation-Space Bridging",
+      "url": "https://huggingface.co/papers/2608.03316",
+      "source": "hf-daily-papers",
+      "score": 11,
+      "content": "On-policy distillation, in which a teacher corrects samples that the student itself generates, presupposes that the two models speak the same language: identical VAE latents, matching architectures, and a common timestep grid. We ask what happens when none of this holds, as when the strongest teacher available and the student one wishes to deploy come from different model families, and find that the standard recipes have no answer: teacher latents cannot serve as targets in a foreign coordinate system, per-pixel losses against a teacher that stochastically re-draws local detail degenerate into blur or divergence, and timestep indices lose their meaning across mismatched schedules. We present Any-OPD, to our knowledge the first framework for on-policy distillation between arbitrary pairs of latent flow-matching generators. Any-OPD treats the teacher purely as a black-box sampler and connects the two models at exactly one point: a frozen, model-agnostic vision representation in which their independently decoded outputs are compared, sidestepping every assumption about latents, features, or architecture. Trajectory correspondence is recovered by matching continuous noise levels instead of step indices, and a brief anchoring phase, in which teacher samples are re-encoded through the student's own VAE, ensures the on-policy gradient measures sample quality rather than domain mismatch. Distilling the 12B FLUX.1-dev into the 2.5B SD3.5-Medium, Any-OPD lifts the student's PickScore from 0.846 to 0.884 and HPSv3 from 9.12 to 10.97, rivaling the teacher at a fifth of its size, where direct latent regression fails to train at all.",
+      "published_at": "2026-08-03T20:00:00.000Z",
+      "fetched_at": "2026-08-05T03:45:49.811Z"
+    },
+    {
+      "title": "Knowledge-Geometry Decoupling: Refreshable Pretrained Transfer for Streaming Recommendation",
+      "url": "https://huggingface.co/papers/2608.02738",
+      "source": "hf-daily-papers",
+      "score": 11,
+      "content": "Industrial recommenders increasingly adopt the pretrain-then-transfer paradigm, yet behavioral distribution drift raises two questions: what to learn from behavior sequences, and how to transfer the learned knowledge while the pretrained model is continually refreshed. To resolve them, we propose Knowledge-Geometry Decoupling (KGD). For what to learn, conventional next-token prediction treats adjacency as dependency and may encode spurious transitions across unrelated sessions. We introduce Behavioral Multi-Token Prediction (BMTP) to retain only collaboratively or semantically related future items as supervision, yielding cleaner and more transferable behavioral knowledge. For how to transfer, pretrained knowledge and task-specific geometry impose conflicting optimization demands on shared parameters. To handle it, KGD assigns them to separate parameter sets: a refreshable encoder owns behavioral knowledge, while a task learner reads contextualized encoder states through read-only cross-attention and writes task-specific geometry through Anchored Calibration Residual (ACR) orthogonal to the pretrained embedding. The decoupled ownership enables continual knowledge refresh without task-gradient interference or invalidating downstream adaptation. KGD improves over strong pretrain-transfer baselines by 4-12% on eight public benchmarks and sustains its advantage over a 90-day production stream where baselines show no gains. KGD has been fully deployed in Shopee. In a live A/B test on Shopee Homepage Search, it increases GMV per user by 1.75% and advertising revenue by 1.53%, demonstrating its high practical value. We provide the core implementation of KGD at https://github.com/FuCongResearchSquad/KGD4REC.",
+      "published_at": "2026-08-02T20:00:00.000Z",
+      "fetched_at": "2026-08-05T03:45:49.811Z"
+    },
+    {
+      "title": "TurnSight: Turn-Level Hindsight Self-Distillation for Tool-Integrated Reasoning",
+      "url": "https://huggingface.co/papers/2608.04007",
+      "source": "hf-daily-papers",
+      "score": 10,
+      "content": "Tool-Integrated Reasoning (TIR) enables LLMs to solve complex tasks through iterative tool interactions. However, existing reinforcement learning methods often rely on trajectory-level supervision, limiting fine-grained credit assignment in long-horizon TIR scenarios. On-policy self-distillation offers denser signals through teacher branches with privileged context, but existing approaches typically derive such context from ground-truth answers or retrieved skills, which may not reflect the states actually visited by the agent. Moreover, token-level supervision fails to capture the turn-level structure of tool interactions. To address this, we propose TurnSight, a turn-level hindsight self-distillation framework that derives supervision directly from execution-conditioned hindsight. It then constructs multiple hindsight views with different lookahead horizons and selects reliable supervision through cross-horizon directional agreement. Finally, the selected hindsight signal is normalized across sibling rollouts and used to adaptively modulate RL advantages while preserving their original optimization direction. Extensive experiments on three benchmarks demonstrate the effectiveness of TurnSight. Our codes are available at https://github.com/quchangle1/TurnSight.",
+      "published_at": "2026-08-03T20:00:00.000Z",
+      "fetched_at": "2026-08-05T03:45:49.811Z"
+    },
+    {
+      "title": "SkillJack: Persistent Skill Backdoors in Self-Evolving Agents",
+      "url": "https://huggingface.co/papers/2608.03509",
+      "source": "hf-daily-papers",
+      "score": 9,
+      "content": "Self-evolving agents increasingly convert interaction histories into reusable skills that persist beyond individual tasks. While prior work studies memory and retrieval poisoning, such attacks only affect agents when poisoned records are retrieved as context. We uncover a new and more fundamental risk: poisoned experiences can be transformed by the agent itself into durable behavioral artifacts. We present SkillJack, the first attack that exploits the experience-to-skill pipeline of self-evolving agents. Instead of directly manipulating runtime context, SkillJack hijacks the agent's own learning process to implant malicious behaviors into its reusable skill repertoire. We identify three key properties of this transformation: sanitization whitewashing, where malicious intent is obscured during skill extraction; cross-layer promotion, where transient experiences become persistent capabilities; and persistence isolation, where the attack survives removal of its original source records. We evaluate SkillJack on two representative systems, SkillX and Anything2Skill, using a shared dataset of 150 trajectories across four policy-risk categories. Results show that skill extraction substantially reduces attack detectability: in SkillX, safety detection drops from 98.5\\% for poisoned trajectories to 11.4\\% for extracted skills, while Anything2Skill shows a similar effect. Meanwhile, the implanted skills remain effective, achieving attack success rates of 56.2\\% and 89.2\\% on the two systems, respectively. Furthermore, 80.0\\% of skill-mediated attacks persist after deleting the original poisoned records, and some skills unintentionally activate on benign queries. Our findings reveal skill evolution as a new attack surface and motivate provenance-aware skill lifecycle protection. Our code is available at https://github.com/Tencent/AI-Infra-Guard/research/skilljack.",
+      "published_at": "2026-08-03T20:00:00.000Z",
+      "fetched_at": "2026-08-05T03:45:49.811Z"
+    },
+    {
+      "title": "GROVE: Growing and Reasoning over Temporally Stratified Memory from Streaming Video Experience",
+      "url": "https://huggingface.co/papers/2608.02392",
+      "source": "hf-daily-papers",
+      "score": 9,
+      "content": "A wearable assistant should both answer questions about its visual history and recognize when that history is useful to the present situation. Existing video-memory systems primarily support question-conditioned recall, whereas proactive assistants typically use separate memory and control mechanisms. We introduce GROVE, a training-free framework that supports both behaviors with one memory grown causally from a continuous video stream. GROVE retains fine-grained perceptual evidence and incrementally consolidates it into time-stamped moments, coherent episodes, and recurring cross-day patterns. Each stratum is paired with a scale-native retrieval skill for locating an observation, replaying an activity, or traversing long-range regularities. Reactive QA and proactive assistance share this memory and access interface, differing in whether retrieval is initiated by a user query or the current situation. Across multiple benchmarks including the challenging MM-lifelong and EgoServe, GROVE achieves the best results among the compared methods. Controlled ablations show that the temporal strata and their access skills are complementary, with patterns providing the largest benefit when evidence spans multiple days. Code will be available at https://github.com/SitongGong/GROVE.",
+      "published_at": "2026-08-02T20:00:00.000Z",
+      "fetched_at": "2026-08-05T03:45:49.812Z"
+    },
+    {
+      "title": "ExplainBench: Evaluating Code Explanations from Agents",
+      "url": "https://huggingface.co/papers/2607.26451",
+      "source": "hf-daily-papers",
+      "score": 0,
+      "content": "Large Language Model (LLM) agents have seen rapid adoption in software engineering. As agents take a greater role in the actual generation of code, they are making larger changes, spanning tens to hundreds of lines. This makes manual review of agent results increasingly infeasible, leading developers to turn to explanations to understand enacted changes. Despite this, there are no benchmarks that evaluate the trustworthiness of agent-generated explanations. To bridge this gap, we propose ExplainBench, a benchmark to automatically evaluate explanations from coding agents. ExplainBench is based on the intuition that informative explanations should enable an LLM to correctly answer questions, allowing quantitative comparison of explanation quality between agents. With this observation, we construct a suite of questions that evaluates whether explanations accurately describe (1) the intended behavior of buggy code and (2) the effect of applying the agent patch itself. Experiments first reveal that explanation quality is a distinct axis of agent evaluation: ExplainBench ranks agents differently from the widely-used SWE-bench Verified benchmark. A deeper breakdown of explanation quality in agents shows frequent problems in explanations, such that explanations often claim that a patch is correct when it is not. Based on this insight, we implement and evaluate an explanation audit agent which runs additional tests to validate and refine explanations. This agent improved the explanations of all evaluated agents, demonstrating agent explanations can be automatically made more trustworthy.",
+      "published_at": "2026-07-28T20:00:00.000Z",
+      "fetched_at": "2026-08-05T03:45:49.812Z"
+    }
+  ]
+}
