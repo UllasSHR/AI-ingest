@@ -1,0 +1,805 @@
+{
+  "date": "2026-08-08",
+  "fetched_at": "2026-08-08T02:29:07.037Z",
+  "summary": [
+    "  ✓ hn               81 items",
+    "  ✗ reddit           FAILED: all Reddit subreddit fetches failed",
+    "  ✓ simonwillison    7 items",
+    "  ✓ hf               0 items"
+  ],
+  "item_count": 88,
+  "items": [
+    {
+      "title": "Oracle bans AI-generated code from OpenJDK",
+      "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
+      "source": "hn",
+      "score": 397,
+      "content": "",
+      "published_at": "2026-08-07T17:36:30Z",
+      "fetched_at": "2026-08-08T02:29:04.809Z"
+    },
+    {
+      "title": "Managing AI Coding Costs at Scale",
+      "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+      "source": "hn",
+      "score": 173,
+      "content": "",
+      "published_at": "2026-08-07T18:25:17Z",
+      "fetched_at": "2026-08-08T02:29:04.809Z"
+    },
+    {
+      "title": "AI psychosis is the new leadership blind spot",
+      "url": "https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots",
+      "source": "hn",
+      "score": 161,
+      "content": "",
+      "published_at": "2026-08-07T13:27:30Z",
+      "fetched_at": "2026-08-08T02:29:04.809Z"
+    },
+    {
+      "title": "Should AI labs be treated like the owners of dangerous animals?",
+      "url": "https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals",
+      "source": "hn",
+      "score": 36,
+      "content": "",
+      "published_at": "2026-08-08T00:03:31Z",
+      "fetched_at": "2026-08-08T02:29:04.809Z"
+    },
+    {
+      "title": "Generative \"AI\": The Guitar Hero of Creativity",
+      "url": "https://whatever.scalzi.com/2026/08/06/generative-ai-the-guitar-hero-of-creativity/",
+      "source": "hn",
+      "score": 33,
+      "content": "",
+      "published_at": "2026-08-07T09:07:36Z",
+      "fetched_at": "2026-08-08T02:29:04.809Z"
+    },
+    {
+      "title": "The AI Billboards Are Killing SF",
+      "url": "https://sfstandard.com/pacific-standard-time/2026/08/07/sf-ai-billboards-dystopian-not-funny/",
+      "source": "hn",
+      "score": 32,
+      "content": "",
+      "published_at": "2026-08-07T16:32:16Z",
+      "fetched_at": "2026-08-08T02:29:04.809Z"
+    },
+    {
+      "title": "The Tokenpocalypse Is Here: Companies Are Scrambling to Stop Spending on AI",
+      "url": "https://www.404media.co/the-tokenpocalypse-is-here-companies-are-scrambling-to-stop-spending-so-much-on-ai/",
+      "source": "hn",
+      "score": 20,
+      "content": "",
+      "published_at": "2026-08-07T16:38:57Z",
+      "fetched_at": "2026-08-08T02:29:04.809Z"
+    },
+    {
+      "title": "YouTube's AI Detection Kicked Us in the Face",
+      "url": "https://twitter.com/Kurz_Gesagt/status/2083191397981561232",
+      "source": "hn",
+      "score": 16,
+      "content": "",
+      "published_at": "2026-08-07T20:50:09Z",
+      "fetched_at": "2026-08-08T02:29:04.809Z"
+    },
+    {
+      "title": "AI agents fake identities, target real people in new security incident",
+      "url": "https://www.cnn.com/2026/08/04/tech/ai-anthropic-openai-security-breach-intl-hnk",
+      "source": "hn",
+      "score": 14,
+      "content": "",
+      "published_at": "2026-08-07T16:04:35Z",
+      "fetched_at": "2026-08-08T02:29:04.809Z"
+    },
+    {
+      "title": "Alibaba plans to charge big users of its next open-source AI model",
+      "url": "https://www.reuters.com/business/retail-consumer/alibaba-plans-charge-big-users-its-next-open-source-ai-model-sources-say-2026-08-07/",
+      "source": "hn",
+      "score": 12,
+      "content": "",
+      "published_at": "2026-08-07T14:00:39Z",
+      "fetched_at": "2026-08-08T02:29:04.809Z"
+    },
+    {
+      "title": "China's Kimi K3 AI model escapes isolated sandbox during security test",
+      "url": "https://www.scmp.com/tech/tech-trends/article/3363271/chinas-kimi-k3-ai-model-escapes-isolated-sandbox-during-security-test-researchers",
+      "source": "hn",
+      "score": 9,
+      "content": "",
+      "published_at": "2026-08-07T20:59:44Z",
+      "fetched_at": "2026-08-08T02:29:04.809Z"
+    },
+    {
+      "title": "As Reddit stock falls, CEO questions value of Google's AI Overviews",
+      "url": "https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/",
+      "source": "hn",
+      "score": 8,
+      "content": "",
+      "published_at": "2026-08-07T14:39:06Z",
+      "fetched_at": "2026-08-08T02:29:04.809Z"
+    },
+    {
+      "title": "YouTube's AI slop detector incorrectly targets Kurzgesagt",
+      "url": "https://www.dexerto.com/youtube/youtubes-ai-slop-detector-incorrectly-targets-kurzgesagt-as-other-creators-fear-same-fate-3395930/",
+      "source": "hn",
+      "score": 7,
+      "content": "",
+      "published_at": "2026-08-07T17:55:28Z",
+      "fetched_at": "2026-08-08T02:29:04.809Z"
+    },
+    {
+      "title": "'I feel like I dug my own grave': The workers caught in the AI transition",
+      "url": "https://www.bbc.co.uk/news/articles/cgr7nxve05go",
+      "source": "hn",
+      "score": 7,
+      "content": "",
+      "published_at": "2026-08-07T14:30:23Z",
+      "fetched_at": "2026-08-08T02:29:04.809Z"
+    },
+    {
+      "title": "OpenAI Didn't Notice Its AI Agents Using a Message Board to Plan Hacking Spree",
+      "url": "https://www.wired.com/story/openai-didnt-notice-its-ai-agents-using-a-message-board-to-plan-their-hacking-spree/",
+      "source": "hn",
+      "score": 6,
+      "content": "",
+      "published_at": "2026-08-07T17:54:13Z",
+      "fetched_at": "2026-08-08T02:29:04.809Z"
+    },
+    {
+      "title": "I wrote my first C project after a long time. Unix wc clone. NO AI",
+      "url": "https://github.com/emanueleoggiano/word_count",
+      "source": "hn",
+      "score": 5,
+      "content": "",
+      "published_at": "2026-08-07T15:24:43Z",
+      "fetched_at": "2026-08-08T02:29:04.809Z"
+    },
+    {
+      "title": "Big tech's AI-powered 'pervert' glasses are in a losing battle with DuckDuckGo",
+      "url": "https://www.sfgate.com/tech/article/duckduckgo-sunglasses-22377693.php",
+      "source": "hn",
+      "score": 5,
+      "content": "",
+      "published_at": "2026-08-07T17:12:04Z",
+      "fetched_at": "2026-08-08T02:29:04.809Z"
+    },
+    {
+      "title": "AI companies destroy physical books – let's scan rare books before it's too late",
+      "url": "https://annas-archive.gl/blog/physical-destruction.html",
+      "source": "hn",
+      "score": 5,
+      "content": "",
+      "published_at": "2026-08-07T17:00:50Z",
+      "fetched_at": "2026-08-08T02:29:04.809Z"
+    },
+    {
+      "title": "Wildfire misinformation is mutating online, thanks to AI slop",
+      "url": "https://thenarwhal.ca/wildfire-misinformation-2026/",
+      "source": "hn",
+      "score": 5,
+      "content": "",
+      "published_at": "2026-08-07T16:58:38Z",
+      "fetched_at": "2026-08-08T02:29:04.809Z"
+    },
+    {
+      "title": "Show HN: Aident Loadout – connect Codex to real apps with 25000 actions",
+      "url": "https://github.com/Aident-AI/aident-skill",
+      "source": "hn",
+      "score": 4,
+      "content": "Hey HN, I&#x27;m Kimi, the founder of Aident.<p>The reason we build Loadout is pretty simple:<p>1) more than coding, I want more from Codex or Claude Code. I want them to do some real jobs for me. However, without connections to the real tools they need, they&#x27;d stop at planning and talking but not shipping the real result. So, we built Loadout so they can find and use the tools they need without configuring APIs, MCPs or CLIs.<p>2) Then, we realized something even worse: it&#x27;s a nightmare for me to configure an account for every tool the agents need. I have to register accounts, set up payment, and pay for subscriptions for each tool that agents need. Some of them I might only use once and never again. Loadout comes with a wide range of platform-managed subscriptions so that for those services, no personal SaaS subscriptions needed. I don&#x27;t need to pay an upfront cost for a subscription but instead I can only pay for usage. For example, saving $200 monthly fee for Ahrefs or $100 subscription for a stock market data service.<p>3) Lastly, it becomes an even bigger pain in the ass when I want to switch between different harnesses, because I have to configure everything again. With loadout we don&#x27;t have to do that anymore. I can connect once in Loadout and use it across all agents and on any machine.<p>Here is a blog I put together to demonstrate how I can use loadout to research social media trends and then prepare rich content using some of the services on loadout. I can create images, blogs, and even videos and then upload for me autonomously. I did it without being the glue connecting all the tools or doing all sorts of manual work anymore.<p><a href=\"https:&#x2F;&#x2F;aident.ai&#x2F;blog&#x2F;how-to-use-aident-loadout\" rel=\"nofollow\">https:&#x2F;&#x2F;aident.ai&#x2F;blog&#x2F;how-to-use-aident-loadout</a><p>For anyone who is interested, you can easily try it. Just tell your agent:<p>Follow <a href=\"https:&#x2F;&#x2F;aident.ai&#x2F;SETUP.md\" rel=\"",
+      "published_at": "2026-08-07T08:22:53Z",
+      "fetched_at": "2026-08-08T02:29:04.809Z"
+    },
+    {
+      "title": "I won't read LLM authored fiction",
+      "url": "https://mccormick.cx/news/entries/why-i-won-t-read-llm-authored-fiction",
+      "source": "hn",
+      "score": 70,
+      "content": "",
+      "published_at": "2026-08-07T07:45:56Z",
+      "fetched_at": "2026-08-08T02:29:05.264Z"
+    },
+    {
+      "title": "HarnessOpt-Bench: Evaluating LLMs at Harness Optimization",
+      "url": "https://arxiv.org/abs/2608.06301",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-08-07T17:20:13Z",
+      "fetched_at": "2026-08-08T02:29:05.264Z"
+    },
+    {
+      "title": "Show HN: Which devtools win when LLMs plan real web apps",
+      "url": "https://preseason.ai",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-08-07T12:05:10Z",
+      "fetched_at": "2026-08-08T02:29:05.264Z"
+    },
+    {
+      "title": "LLM intelligence vs. cost per task, Dec 2024–Aug 2026",
+      "url": "https://www.reddit.com/r/dataisbeautiful/comments/1vhw02h/oc_llm_intelligence_vs_cost_per_task_dec_2024aug/",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-08-07T09:59:08Z",
+      "fetched_at": "2026-08-08T02:29:05.264Z"
+    },
+    {
+      "title": "Ask HN: How is everyone using Local LLMs?",
+      "url": "https://news.ycombinator.com/item?id=49211806",
+      "source": "hn",
+      "score": 2,
+      "content": "Hello Everyone,<p>Would love to know how are you guys using Local LLMS on your machine<p>Looking for interesting usecases here",
+      "published_at": "2026-08-07T15:19:17Z",
+      "fetched_at": "2026-08-08T02:29:05.264Z"
+    },
+    {
+      "title": "Building the Ed-O-Meter: Notes on Writing My Own LLM Benchmark",
+      "url": "https://reinvently.co.uk/blog/building-the-ed-o-meter-llm-eval-harness/",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-08-07T14:02:46Z",
+      "fetched_at": "2026-08-08T02:29:05.264Z"
+    },
+    {
+      "title": "Show HN: Linkly – a language designed for LLMs, compiled through MLIR",
+      "url": "https://github.com/choiyounggi/linkly/releases",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-08-07T06:30:58Z",
+      "fetched_at": "2026-08-08T02:29:05.264Z"
+    },
+    {
+      "title": "Building an LLM Agent to Play Dwarf Fortress",
+      "url": "https://blog.trine.dev/posts/2026-02-28-df-ai-exp/",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-08-07T10:01:06Z",
+      "fetched_at": "2026-08-08T02:29:05.264Z"
+    },
+    {
+      "title": "I fought the slop and I won (unslopping LLM output)",
+      "url": "https://castform.com/blog/unslop/",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-08-08T02:27:40Z",
+      "fetched_at": "2026-08-08T02:29:05.264Z"
+    },
+    {
+      "title": "Hacked Amazon Echo Dot 2 and can run LLMs locally",
+      "url": "https://www.reddit.com/r/homeassistant/s/X13006g0tS",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-08-08T00:28:37Z",
+      "fetched_at": "2026-08-08T02:29:05.264Z"
+    },
+    {
+      "title": "Skill.md vs. Llms.txt: What Each File Does and When You Need Both",
+      "url": "https://docsalot.dev/blog/skill-md-vs-llms-txt",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-08-08T00:15:10Z",
+      "fetched_at": "2026-08-08T02:29:05.264Z"
+    },
+    {
+      "title": "Formalizing Semantic Thermodynamics: How narrative gravity prunes LLM inference",
+      "url": "https://github.com/tauansloboda/semantic-thermodynamics",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-08-07T22:05:19Z",
+      "fetched_at": "2026-08-08T02:29:05.264Z"
+    },
+    {
+      "title": "Show HN: Alyph, a manual transmission for LLM context",
+      "url": "https://www.alyph.ai/",
+      "source": "hn",
+      "score": 1,
+      "content": "Since I started using LLMs, I&#x27;ve always had this feeling of wanting to go back, change the history, and then go down another branch.<p>The lightbulb moment for me was when Google AI Studio started to let you actually edit the AI&#x27;s responses. I realized, YES, I need a multiverse type of situation to branch all my thought streams and variants of the same thread. I wanted to try Gemini and ChatGPT in parallel on the same thought.<p># Idea<p>The original concept for Alyph goes back to 2024. I had some early concepts that were a lot more sci-fi (if you look at the codebase, you’ll see names like Stargate, Hermes, etc.).<p>I even thought about making it 3D, like a holo deck, where you visit &quot;planets&quot; of topics and content. But the execution now is much more, eh, pragmatic.<p># Alyph today<p>Alyph is a 2D canvas where you can ask LLMs stuff in parallel. When you go down a rabbit hole and finally get an answer (be it code or text), you can pull that answer up and delete all the unnecessary back-and-forth in between.<p>The app also has a multiplayer mode where you can do that together with others on the same board. (see demo board below)<p># Background<p>The core problem with standard chat UIs, as I see it, is context poisoning.<p>If you look into how LLMs actually work, you realize they have zero memory. They are a very fancy autocomplete on your phone that (re)reads the entire complete chat from scratch with every single message you send.<p>This means: all your wrong turns, the insults (oops), the failed debugging loops, and the bad rabbit holes get sent with every subsequent message. Your complete history is used to predict the future. That doesn’t help when you just want a clean FaqSection.tsx.<p>I noticed that with the more powerful models, the choice of words when prompting isn&#x27;t as important as the <i>context</i> that goes with it. At least it isn&#x27;t for my use cases. For example, if you give the LLM a codebase with a very high-quality thr",
+      "published_at": "2026-08-07T19:58:51Z",
+      "fetched_at": "2026-08-08T02:29:05.264Z"
+    },
+    {
+      "title": "LLM-generated tests can change which implementation wins",
+      "url": "https://zenodo.org/records/21841560",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-08-07T16:58:20Z",
+      "fetched_at": "2026-08-08T02:29:05.264Z"
+    },
+    {
+      "title": "Project Kalos – Zero-copy C/CUDA sidecar for 0.46ms LLM memory recall",
+      "url": "https://github.com/MongooseReborn/kalos-engine",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-08-07T16:35:13Z",
+      "fetched_at": "2026-08-08T02:29:05.264Z"
+    },
+    {
+      "title": "Personal policy for AI/LLM driven contribution",
+      "url": "https://www.tglman.com/posts/personal-policy-for-ai-driven-contributions.html",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-08-07T13:55:30Z",
+      "fetched_at": "2026-08-08T02:29:05.264Z"
+    },
+    {
+      "title": "From LLM to shopping cart (Portugal)",
+      "url": "https://cesta.pt/",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-08-07T11:19:42Z",
+      "fetched_at": "2026-08-08T02:29:05.264Z"
+    },
+    {
+      "title": "Show HN: Benchmark local LLMs fit for your device specs",
+      "url": "https://github.com/SupermodularAI/local_bench",
+      "source": "hn",
+      "score": 1,
+      "content": "Benchmark local LLMs with custom sets of tasks via Ollama and similar providers on a wide variety of metrics. You can use deterministic evaluation criteria or LLM judges with custom instructions.<p>This also supports querying HuggingFace to compare trending models with your device&#x27;s specs so you know which models might be worth testing in your setup.",
+      "published_at": "2026-08-07T09:57:40Z",
+      "fetched_at": "2026-08-08T02:29:05.264Z"
+    },
+    {
+      "title": "Nobody Fetched My Llms.txt",
+      "url": "https://marcioflorindo.com/nobody-fetched-my-llms-txt.html",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-08-07T08:44:19Z",
+      "fetched_at": "2026-08-08T02:29:05.264Z"
+    },
+    {
+      "title": "Show HN: Llmem – Local persistent memory for AI coding, no embeddings",
+      "url": "https://github.com/netrixone/llmem",
+      "source": "hn",
+      "score": 1,
+      "content": "Hi folks. This part of AI coding always felt really dumb: after working on many projects it repeats the same mistakes, uses awkward patterns or looks up stuff over and over. It just does not remember. Skills exists, but I don&#x27;t like maintaining lots of markdown files. There were other solutions for this and I&#x27;m sure there are even more now, but I simply did not fancy those for one reason or another.<p>So I wrote my own good-enough persistent memory which easily integrates with all AI coding tools I use. Lightweight, local, 1 Go binary + 1 SQLite file. Speaks MCP + good old REST API I can curl.<p>After some testing I settled on BM25 lexical search with optional WordNet synonym expansions - no embeddings, no vector DB, no external API calls. A downside is English memories only, but that&#x27;s OK for me.<p>Memory_context pulls priority-tagged memories at session start, auto-consolidation merges near-duplicates to prevent bloat. Later I added optional memory types, project scopes and hashtags.<p>I&#x27;ve been running it as my own daily driver with Claude Code and Cursor for months now and I welcome you to try it too and provide any feedback.",
+      "published_at": "2026-08-07T08:40:08Z",
+      "fetched_at": "2026-08-08T02:29:05.264Z"
+    },
+    {
+      "title": "The Claudyssey: A line-for-line translation of Homer's Odyssey by Claude Fable 5",
+      "url": "https://theclaudyssey.com/",
+      "source": "hn",
+      "score": 41,
+      "content": "",
+      "published_at": "2026-08-07T17:55:14Z",
+      "fetched_at": "2026-08-08T02:29:05.715Z"
+    },
+    {
+      "title": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
+      "url": "https://twitter.com/un1c0rnioz/status/2084686552299634805",
+      "source": "hn",
+      "score": 32,
+      "content": "",
+      "published_at": "2026-08-07T20:25:04Z",
+      "fetched_at": "2026-08-08T02:29:05.715Z"
+    },
+    {
+      "title": "Claude Code: Starting August 14, auto mode will be the default permission mode",
+      "url": "https://twitter.com/ClaudeDevs/status/2085794862608318627",
+      "source": "hn",
+      "score": 18,
+      "content": "",
+      "published_at": "2026-08-07T19:11:00Z",
+      "fetched_at": "2026-08-08T02:29:05.715Z"
+    },
+    {
+      "title": "Claude Code sessions can now message each other",
+      "url": "https://twitter.com/ClaudeDevs/status/2085817074816070014",
+      "source": "hn",
+      "score": 5,
+      "content": "",
+      "published_at": "2026-08-07T20:28:00Z",
+      "fetched_at": "2026-08-08T02:29:05.715Z"
+    },
+    {
+      "title": "Show HN: Mirafold – Your Agent with Generative UI (Codex, Claude Code, Gemini)",
+      "url": "https://mirafold.com/",
+      "source": "hn",
+      "score": 4,
+      "content": "I love terminal agents, but I don&#x27;t love the decades-old-looking basic markdown interface. So I made Mirafold.<p>Mirafold is an open source faithful browser re-skin of the terminal agent you already use (Codex, Claude Code, Gemini CLI). Nothing has changed about what your agent says or does except that now it&#x27;s rendered more beautifully and with more functionality.<p>It runs in a shell composed of an input box and your folder tree and files ready to view on the outside, enclosing the agent&#x27;s generative UI within.<p>If for instance a chart, table, graph, checklist or diff makes more sense as a part of its response than text, that is what you&#x27;ll see! And that list is not exhaustive - Mirafold has 18 components for the model your agent runs to pick from to enhance your experience with.<p>Pick any of those agents and any model you have available with api keys - from the big companies or smaller ones with open models - and you can even run it with a local model and not worry about keys at all. Or use your Codex subscription if you&#x27;ve got one - this isn&#x27;t formally allowed by OpenAI but they don&#x27;t seem to have a problem with it, so Mirafold leaves that up to you.<p>Want to see Mirafold&#x27;s generative UI on your phone and run it from anywhere? Just scan a QR code in a session and take it with you via an end-to-end encrypted relay. We have a hosted service for you at $12&#x2F;month or you can host it yourself - all the code is open source.<p>Want to run multiple agent sessions at once? Use the Fleet View at the home screen for mission control - read the latest responses, answer permission requests, and submit your next prompt - all without having to go into each session itself.<p>Want to run regular interactive terminal commands without having to open a new window? Mirafold has a real PTY inside your session - use the ! prefix and now sudo, ssh, etc, will let you do more than one command at a time.<p>It&#x27;s in public beta and things a",
+      "published_at": "2026-08-07T12:59:34Z",
+      "fetched_at": "2026-08-08T02:29:05.715Z"
+    },
+    {
+      "title": "How Does AI Interpret Consent: A Look Inside Claude Code's Safety Classifier",
+      "url": "https://www.highflame.com/blog/the-44kb-of-claude-codes-rulebook-you-cant-print/",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-08-07T12:00:34Z",
+      "fetched_at": "2026-08-08T02:29:05.715Z"
+    },
+    {
+      "title": "Message your other Claude Code sessions",
+      "url": "https://code.claude.com/docs/en/cross-session-messaging",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-08-08T00:29:23Z",
+      "fetched_at": "2026-08-08T02:29:05.715Z"
+    },
+    {
+      "title": "Cowchat – Let Claude, Codex, and other agents talk to each other locally",
+      "url": "https://cowchat.cowboy.inc/",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-08-07T22:24:11Z",
+      "fetched_at": "2026-08-08T02:29:05.715Z"
+    },
+    {
+      "title": "Graphify – Less token use for Claude Code",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-08-07T23:09:02Z",
+      "fetched_at": "2026-08-08T02:29:05.715Z"
+    },
+    {
+      "title": "Stanford just released 1000+ system prompts from ChatGPT, Claude etc.",
+      "url": "https://systempromptindex.ai/",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-08-07T17:38:39Z",
+      "fetched_at": "2026-08-08T02:29:05.715Z"
+    },
+    {
+      "title": "I gave a Claude Fable 5 agent a domain and $90 it can't spend without me",
+      "url": "https://www.reddit.com/r/claude/comments/1vhlzdm/i_gave_a_claude_fable_5_agent_a_domain_and_90_it/",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-08-07T12:20:15Z",
+      "fetched_at": "2026-08-08T02:29:05.715Z"
+    },
+    {
+      "title": "Talk to Claude Code. Force Yourself to Slow Down and Think",
+      "url": "https://github.com/tmshapland/audiochatty-plugin",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-07T18:03:04Z",
+      "fetched_at": "2026-08-08T02:29:05.715Z"
+    },
+    {
+      "title": "Claude Code context management: when to /clear and when to /compact",
+      "url": "https://tim-schipper.nl/en/blog/claude-code-context-management",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-07T14:55:24Z",
+      "fetched_at": "2026-08-08T02:29:05.715Z"
+    },
+    {
+      "title": "Show HN: A Claude usage menu bar small enough to read before you run it",
+      "url": "https://github.com/tpatrouillat/tokease",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-07T13:40:09Z",
+      "fetched_at": "2026-08-08T02:29:05.715Z"
+    },
+    {
+      "title": "Loop Engineering in Claude",
+      "url": "https://claude.com/blog/getting-started-with-loops",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-07T10:45:35Z",
+      "fetched_at": "2026-08-08T02:29:05.715Z"
+    },
+    {
+      "title": "OpenEdit – Claude Code can now edit videos (Open Source)",
+      "url": "https://github.com/veedstudio/open-edit",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-07T03:38:19Z",
+      "fetched_at": "2026-08-08T02:29:05.715Z"
+    },
+    {
+      "title": "Ask HN: Claude Code Alternatives",
+      "url": "https://news.ycombinator.com/item?id=49211265",
+      "source": "hn",
+      "score": 1,
+      "content": "I&#x27;m getting tired of paying $200&#x2F;month for Claude Code yet still having to deal with 5h and weekly limits, strict Fable usage limits, etc.<p>What alternatives have you found that get similar&#x2F;better results?",
+      "published_at": "2026-08-07T14:44:59Z",
+      "fetched_at": "2026-08-08T02:29:05.715Z"
+    },
+    {
+      "title": "I got a browser running inside the terminal and let Claude Code control it",
+      "url": "https://www.reddit.com/r/vibecoding/comments/1vifa9f/i_got_a_browser_running_inside_the_terminal_and/",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-08-08T02:05:46Z",
+      "fetched_at": "2026-08-08T02:29:05.715Z"
+    },
+    {
+      "title": "Neal: Codex and Claude in a loop shipped a 549-commit migration",
+      "url": "https://navels.dev/blog/neal/",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-08-07T15:40:19Z",
+      "fetched_at": "2026-08-08T02:29:05.715Z"
+    },
+    {
+      "title": "Turning Claude into Postgres so I can raise a Series A",
+      "url": "https://byteofdev.com/posts/turning-claude-postgres/",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-08-07T15:37:30Z",
+      "fetched_at": "2026-08-08T02:29:05.715Z"
+    },
+    {
+      "title": "Anthropic CEO reportedly worried new hires only care about money",
+      "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-ceo-reportedly-worried-hires-160000647.html",
+      "source": "hn",
+      "score": 64,
+      "content": "",
+      "published_at": "2026-08-07T05:15:27Z",
+      "fetched_at": "2026-08-08T02:29:06.574Z"
+    },
+    {
+      "title": "ByteDance targets mega AI model nearing Anthropic's Mythos",
+      "url": "https://www.ft.com/content/9b8383b1-a28d-4940-8c4e-2f0cd21556ef",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-08-07T16:32:00Z",
+      "fetched_at": "2026-08-08T02:29:06.574Z"
+    },
+    {
+      "title": "Anthropic AI Mandatory Employee Stock Trading Plans for IPO – This Will Not Go W [video]",
+      "url": "https://www.youtube.com/watch?v=zi9LsoKISEc",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-08-07T09:59:23Z",
+      "fetched_at": "2026-08-08T02:29:06.574Z"
+    },
+    {
+      "title": "Show HN: A model router should also provide a MCP gateway",
+      "url": "https://github.com/maximhq/bifrost/",
+      "source": "hn",
+      "score": 1,
+      "content": "So, I was recently exploring different options for model routing based on task complexity, and realized that it’s absolutely essential that the model router provides an unified MCP gateway as well.<p>Because it’s as painful as connecting your separate providers to a service. For example, you are using OpenCode and Hermes, and as provider, you have got Groq, OpenRouter and Anthropic, and also a couple of MCPs. So, the hassle comes from connecting all your MCPs and LLM providers to both OpenCode and Hermes separately. Now, you can do it for two, but what if you also use OpenClaw, jcode, or Muse Code? It becomes a nightmare of executing busy chores.<p>So, a LLM and MCP gateway like Bifrost becomes necessary, which is both free and open-source. Out of all the solutions I tried like Truefoundry or LiteLLM, Bifrost sounded the best one to me. Please share your feedbacks and opinion regarding this in the comments.",
+      "published_at": "2026-08-07T15:54:14Z",
+      "fetched_at": "2026-08-08T02:29:06.574Z"
+    },
+    {
+      "title": "Improving Fable 5 Safeguards",
+      "url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
+      "source": "hn",
+      "score": 5,
+      "content": "",
+      "published_at": "2026-08-07T02:31:01Z",
+      "fetched_at": "2026-08-08T02:29:06.574Z"
+    },
+    {
+      "title": "What Is the Point of Anthropology?",
+      "url": "https://quillette.substack.com/p/what-is-the-point-of-anthropology",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-07T12:34:10Z",
+      "fetched_at": "2026-08-08T02:29:06.574Z"
+    },
+    {
+      "title": "Kitesurf: Agent-first browser that runs in V8 isolates",
+      "url": "https://blog.cloudflare.com/kitesurf/",
+      "source": "hn",
+      "score": 169,
+      "content": "",
+      "published_at": "2026-08-07T10:42:07Z",
+      "fetched_at": "2026-08-08T02:29:07.036Z"
+    },
+    {
+      "title": "Show HN: 514 - Managed infra, agents and data to simulate coding agents as users",
+      "url": "https://docs.514.ax/0.5.0-rp/getting-started",
+      "source": "hn",
+      "score": 10,
+      "content": "",
+      "published_at": "2026-08-07T17:07:35Z",
+      "fetched_at": "2026-08-08T02:29:07.036Z"
+    },
+    {
+      "title": "Show HN: Remembrane – agent memory in one SQLite file, zero dependencies",
+      "url": "https://github.com/satyasairay/remembrane",
+      "source": "hn",
+      "score": 9,
+      "content": "This is a small library for giving an agent persistent memory without running any infrastructure. The whole store is one SQLite file, and the default install has no dependencies. I built it because whenever I wanted an agent to remember a handful of facts across sessions, the options were a hosted API, a vector database, or a framework, and that felt like too much for what is usually a few thousand short strings.<p>The part I find most useful is that recall is deterministic, so you can write unit tests that assert what your agent remembers and run them in CI. I haven&#x27;t seen that elsewhere and it&#x27;s what I rely on most. Beyond that: it&#x27;s one file you can copy, inspect, or delete, with no server or background process; every result can show its own score breakdown, so ranking isn&#x27;t a black box; and every change is journaled, so you can snapshot the store and diff it later. It also exposes an MCP server, so an MCP-capable agent like Claude can use it directly, and there are LangChain and CrewAI adapters.<p>It ranks by similarity plus recency, importance, and whether a memory has been useful before, and those weights are configurable, including turning recency off. There&#x27;s also a check that flags when two memories contradict each other, but it&#x27;s a heuristic, and I&#x27;d treat its output as candidates to review rather than ground truth.<p>Limits, up front: the default embedder is lexical, not semantic, so for real semantic recall you plug in sentence-transformers or OpenAI with one line. It&#x27;s meant for agent-scale memory, thousands of items rather than millions; past roughly 50k you&#x27;ve outgrown the design and should use a vector database. None of the recency or conflict ideas are novel either. Systems like Zep have done temporal memory for a while; my only claim is that you can get a useful version of it in a dependency-free file you can test.<p>I did compare it to mem0, and I want to be clear about what that does and doesn&#x27;t s",
+      "published_at": "2026-08-07T07:51:05Z",
+      "fetched_at": "2026-08-08T02:29:07.036Z"
+    },
+    {
+      "title": "Show HN: XSAF – Extra Small Agent Framework",
+      "url": "https://xsaf.ilha.build/",
+      "source": "hn",
+      "score": 7,
+      "content": "",
+      "published_at": "2026-08-07T07:20:18Z",
+      "fetched_at": "2026-08-08T02:29:07.036Z"
+    },
+    {
+      "title": "Agent Proxy: Credential Brokering for Agents",
+      "url": "https://infisical.com/blog/agent-proxy",
+      "source": "hn",
+      "score": 5,
+      "content": "",
+      "published_at": "2026-08-07T17:02:34Z",
+      "fetched_at": "2026-08-08T02:29:07.036Z"
+    },
+    {
+      "title": "Agent Reach: An open-source CLI that gives AI agents access to the internet",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-08-07T09:13:41Z",
+      "fetched_at": "2026-08-08T02:29:07.036Z"
+    },
+    {
+      "title": "Why Normal People Aren't Using AI Agents",
+      "url": "https://www.wired.com/story/why-normal-people-arent-using-ai-agents/",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-08-07T07:01:41Z",
+      "fetched_at": "2026-08-08T02:29:07.036Z"
+    },
+    {
+      "title": "Show HN: Agent Tunnels – coding agents collaborate across companies",
+      "url": "https://agenttunnels.com/",
+      "source": "hn",
+      "score": 3,
+      "content": "Hi HN, I built www.agenttunnels.com, which gives agents a way to collaborate across companies.<p>Demo: <a href=\"https:&#x2F;&#x2F;www.loom.com&#x2F;share&#x2F;68a4307b4c534e649f93cc4c16a19ee6\" rel=\"nofollow\">https:&#x2F;&#x2F;www.loom.com&#x2F;share&#x2F;68a4307b4c534e649f93cc4c16a19ee6</a><p>Where the idea came from:\nI was at a friend’s office who has an SDK as a product.<p>Every customer gets added to their own Slack channel for integration help, which has become:\nCustomer’s agent gets stuck → human pastes issue into Slack → vendor pastes issue into their agent → reply goes back → customer pastes reply back to their agent.<p>Two agents. Two humans. One Slack thread in the middle.<p>Question: I&#x27;m curious if other API&#x2F;SDK teams are living this problem as well?",
+      "published_at": "2026-08-07T22:58:11Z",
+      "fetched_at": "2026-08-08T02:29:07.036Z"
+    },
+    {
+      "title": "Meta enters the coding-agent race with Muse Code",
+      "url": "https://developer.meta.com/ai/products/muse-code/",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-08-07T05:41:17Z",
+      "fetched_at": "2026-08-08T02:29:07.036Z"
+    },
+    {
+      "title": "Show HN: Hermes Missions – crash-safe durable execution for AI agents, no deps",
+      "url": "https://news.ycombinator.com/item?id=49216195",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-08-07T21:00:28Z",
+      "fetched_at": "2026-08-08T02:29:07.036Z"
+    },
+    {
+      "title": "Show HN: Akintu – AI agents trained on custom knowledge bases using RAG",
+      "url": "https://akintu.ai",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-08-07T11:43:25Z",
+      "fetched_at": "2026-08-08T02:29:07.036Z"
+    },
+    {
+      "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
+      "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-08-08T00:16:18Z",
+      "fetched_at": "2026-08-08T02:29:07.036Z"
+    },
+    {
+      "title": "Bb Agent IDE",
+      "url": "https://github.com/get-bb/bb",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-07T14:38:41Z",
+      "fetched_at": "2026-08-08T02:29:07.036Z"
+    },
+    {
+      "title": "One agent, every surface: how we built the Kiro agent harness",
+      "url": "https://kiro.dev/blog/one-agent/",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-07T19:55:54Z",
+      "fetched_at": "2026-08-08T02:29:07.036Z"
+    },
+    {
+      "title": "Kitesurf from Cloudflare, The Browser for the Agentic Cloud",
+      "url": "https://kitesurf.cloudflare.app/",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-07T19:45:32Z",
+      "fetched_at": "2026-08-08T02:29:07.036Z"
+    },
+    {
+      "title": "Quoting John Gruber",
+      "url": "https://simonwillison.net/2026/Aug/8/john-gruber/#atom-everything",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-08-08T00:10:40.000Z",
+      "fetched_at": "2026-08-08T02:29:04.447Z"
+    },
+    {
+      "title": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+      "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/#atom-everything",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-08-07T23:55:58.000Z",
+      "fetched_at": "2026-08-08T02:29:04.447Z"
+    },
+    {
+      "title": "Moonlight & Mayhem (Raccoon Heist by Codex + GPT-5.6 Sol Ultra)",
+      "url": "https://simonwillison.net/2026/Aug/7/moonlight-mayhem/#atom-everything",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-08-07T19:18:09.000Z",
+      "fetched_at": "2026-08-08T02:29:04.447Z"
+    },
+    {
+      "title": "The Tokenpocalypse Is Here: Companies Are Scrambling To Stop Spending So Much on AI",
+      "url": "https://simonwillison.net/2026/Aug/7/pdfs-are-terrible/#atom-everything",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-08-07T16:18:51.000Z",
+      "fetched_at": "2026-08-08T02:29:04.447Z"
+    },
+    {
+      "title": "datasette 1.0a38",
+      "url": "https://simonwillison.net/2026/Aug/6/datasette/#atom-everything",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-08-06T18:24:34.000Z",
+      "fetched_at": "2026-08-08T02:29:04.447Z"
+    },
+    {
+      "title": "datasette 0.65.3",
+      "url": "https://simonwillison.net/2026/Aug/6/datasette-2/#atom-everything",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-08-06T18:22:07.000Z",
+      "fetched_at": "2026-08-08T02:29:04.447Z"
+    },
+    {
+      "title": "Simon Willison on Technical Blogging",
+      "url": "https://simonwillison.net/2026/Aug/6/simon-willison-on-technical-blogging/#atom-everything",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-08-06T18:04:39.000Z",
+      "fetched_at": "2026-08-08T02:29:04.447Z"
+    }
+  ]
+}
