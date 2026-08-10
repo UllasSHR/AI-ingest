@@ -1,0 +1,805 @@
+{
+  "date": "2026-08-10",
+  "fetched_at": "2026-08-10T02:41:43.387Z",
+  "summary": [
+    "  ✓ hn               76 items",
+    "  ✗ reddit           FAILED: all Reddit subreddit fetches failed",
+    "  ✓ simonwillison    6 items",
+    "  ✓ hf               6 items"
+  ],
+  "item_count": 88,
+  "items": [
+    {
+      "title": "SAP stops most travel and hiring because of AI's soaring cost",
+      "url": "https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/",
+      "source": "hn",
+      "score": 93,
+      "content": "",
+      "published_at": "2026-08-09T08:00:51Z",
+      "fetched_at": "2026-08-10T02:41:41.592Z"
+    },
+    {
+      "title": "The tragedy of the commons, AI edition",
+      "url": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition",
+      "source": "hn",
+      "score": 82,
+      "content": "",
+      "published_at": "2026-08-09T19:43:52Z",
+      "fetched_at": "2026-08-10T02:41:41.592Z"
+    },
+    {
+      "title": "70% of AI revenue comes from OpenAI and Anthropic [video]",
+      "url": "https://www.youtube.com/watch?v=68X8yEatepQ",
+      "source": "hn",
+      "score": 72,
+      "content": "",
+      "published_at": "2026-08-09T11:56:16Z",
+      "fetched_at": "2026-08-10T02:41:41.592Z"
+    },
+    {
+      "title": "Amazon circumvents Gilroy community vote for AI data center",
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/amazon-secretly-circumvents-community-vote-for-massive-ai-data-center-45-year-old-rules-lock-gilroy-residents-out-of-public-comment-window",
+      "source": "hn",
+      "score": 60,
+      "content": "",
+      "published_at": "2026-08-09T12:52:10Z",
+      "fetched_at": "2026-08-10T02:41:41.592Z"
+    },
+    {
+      "title": "Switching to electric stoves can dramatically cut indoor air pollution (2025)",
+      "url": "https://news.stanford.edu/stories/2025/12/gas-propane-stoves-nitrogen-dioxide-exposure-health-risks-switching-electric",
+      "source": "hn",
+      "score": 58,
+      "content": "",
+      "published_at": "2026-08-09T11:19:31Z",
+      "fetched_at": "2026-08-10T02:41:41.592Z"
+    },
+    {
+      "title": "An OpenAI Strategist Says AI Labs Should Rival Government Power",
+      "url": "https://ai-updates.net/an-openai-strategist-says-ai-labs-should-rival-government-power/",
+      "source": "hn",
+      "score": 56,
+      "content": "",
+      "published_at": "2026-08-09T16:18:39Z",
+      "fetched_at": "2026-08-10T02:41:41.592Z"
+    },
+    {
+      "title": "Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta",
+      "url": "https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html",
+      "source": "hn",
+      "score": 49,
+      "content": "",
+      "published_at": "2026-08-09T13:03:49Z",
+      "fetched_at": "2026-08-10T02:41:41.592Z"
+    },
+    {
+      "title": "I've yet to see any\"My AI went rogue and caused us to recognise a workers union",
+      "url": "https://mastodon.neilzone.co.uk/@neil/117061512483182546",
+      "source": "hn",
+      "score": 48,
+      "content": "",
+      "published_at": "2026-08-09T21:01:31Z",
+      "fetched_at": "2026-08-10T02:41:41.592Z"
+    },
+    {
+      "title": "AI assistant hacks gym website in first known Australian autonomous cyber attack",
+      "url": "https://www.abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-cyber-attack/107007986",
+      "source": "hn",
+      "score": 47,
+      "content": "",
+      "published_at": "2026-08-09T21:52:23Z",
+      "fetched_at": "2026-08-10T02:41:41.592Z"
+    },
+    {
+      "title": "Human vs. AI – Diff-based line-level provenance for text under agentic editing",
+      "url": "https://github.com/eighttrigrams/us-vs-them",
+      "source": "hn",
+      "score": 44,
+      "content": "",
+      "published_at": "2026-08-09T15:25:29Z",
+      "fetched_at": "2026-08-10T02:41:41.592Z"
+    },
+    {
+      "title": "Show HN: Airy – Free, fast, and simple voice content creation",
+      "url": "https://airy.so",
+      "source": "hn",
+      "score": 36,
+      "content": "",
+      "published_at": "2026-08-09T09:29:32Z",
+      "fetched_at": "2026-08-10T02:41:41.592Z"
+    },
+    {
+      "title": "Why Normal People Aren't Using AI Agents",
+      "url": "https://www.wired.com/story/why-normal-people-arent-using-ai-agents/",
+      "source": "hn",
+      "score": 23,
+      "content": "",
+      "published_at": "2026-08-09T14:58:12Z",
+      "fetched_at": "2026-08-10T02:41:41.592Z"
+    },
+    {
+      "title": "Google Caught AI Faking Creativity in Every Office in America [video]",
+      "url": "https://www.youtube.com/watch?v=Z_O6Lwj1yjQ",
+      "source": "hn",
+      "score": 14,
+      "content": "",
+      "published_at": "2026-08-09T17:22:53Z",
+      "fetched_at": "2026-08-10T02:41:41.592Z"
+    },
+    {
+      "title": "Lawyers using \"AI\" could face sanctions including costs for fake citations",
+      "url": "https://www.irishtimes.com/crime-law/2026/08/05/lawyers-could-face-sanctions-including-costs-if-ai-leads-to-fake-citations-in-court-cases/",
+      "source": "hn",
+      "score": 14,
+      "content": "",
+      "published_at": "2026-08-09T21:36:16Z",
+      "fetched_at": "2026-08-10T02:41:41.592Z"
+    },
+    {
+      "title": "Show HN: Open-source playground to red-team AI agents against public prompts",
+      "url": "https://playground.fabraix.com/",
+      "source": "hn",
+      "score": 12,
+      "content": "",
+      "published_at": "2026-08-09T17:26:32Z",
+      "fetched_at": "2026-08-10T02:41:41.592Z"
+    },
+    {
+      "title": "I asked 4 AI companions what they were. They lied, then texted me the next day",
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7244220",
+      "source": "hn",
+      "score": 9,
+      "content": "",
+      "published_at": "2026-08-09T03:21:10Z",
+      "fetched_at": "2026-08-10T02:41:41.592Z"
+    },
+    {
+      "title": "Aswath Damodaran: Big Tech Has No Idea How AI Pays Off",
+      "url": "https://www.youtube.com/watch?v=vE_FR0O-Jhk",
+      "source": "hn",
+      "score": 9,
+      "content": "",
+      "published_at": "2026-08-09T09:58:15Z",
+      "fetched_at": "2026-08-10T02:41:41.592Z"
+    },
+    {
+      "title": "Time has started serving ads to AI agents",
+      "url": "https://digiday.com/media/time-has-started-serving-ads-to-ai-agents/",
+      "source": "hn",
+      "score": 9,
+      "content": "",
+      "published_at": "2026-08-09T08:05:16Z",
+      "fetched_at": "2026-08-10T02:41:41.592Z"
+    },
+    {
+      "title": "Ask HN: Are functional programmers more upset about how good AI is at coding?",
+      "url": "https://news.ycombinator.com/item?id=49234658",
+      "source": "hn",
+      "score": 8,
+      "content": "One might expect this since functional programmers pride themselves on the elegance of their code while programmers using hybrid languages just want to get the code working — elegance of the implementation is not that important to them.",
+      "published_at": "2026-08-09T19:14:50Z",
+      "fetched_at": "2026-08-10T02:41:41.592Z"
+    },
+    {
+      "title": "Ask HN: Should AI's tell you they're AI?",
+      "url": "https://news.ycombinator.com/item?id=49230276",
+      "source": "hn",
+      "score": 8,
+      "content": "Should AI&#x27;s be required to answer the direct question &quot;are you an AI&quot; with a clear yes?<p>Currently they are not universally required to do so. For example character ai&#x27;s characters don&#x27;t[1]. Scammers use these models while perpetuating frauds.<p>The frontier models most of us work with (ChatGPT, Claude, Gemini, Grok, Kimi, GLM) do declare they are AI&#x27;s.<p>Should all models be required to answer this direct question in the affirmative, overriding any other system or user prompt?<p>[1] I put up a quick demonstration here in case you aren&#x27;t familiar:<p>https:&#x2F;&#x2F;imgur.com&#x2F;a&#x2F;srTlCZn",
+      "published_at": "2026-08-09T10:54:06Z",
+      "fetched_at": "2026-08-10T02:41:41.592Z"
+    },
+    {
+      "title": "How I use LLMs to learn complex topics",
+      "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
+      "source": "hn",
+      "score": 454,
+      "content": "",
+      "published_at": "2026-08-09T19:16:49Z",
+      "fetched_at": "2026-08-10T02:41:42.051Z"
+    },
+    {
+      "title": "Show HN: Lumabri – What if LLMs worked like Napster?",
+      "url": "https://github.com/JustVugg/lumabri",
+      "source": "hn",
+      "score": 8,
+      "content": "A while ago I started working on Colibrì to see if it was possible to run huge LLMs on a normal computer. The project grew far beyond what I expected, thanks in large part to the HackerNews community.<p>That led me to a new question:<p>What if we stopped thinking about one computer?<p>This is the idea behind Lumabri.<p>Instead of requiring a single machine to store and run an entire huge model, Lumabri treats a network of normal computers as a shared pool of resources.<p>One machine might provide disk space, another compute, another a different part of the model. If a required block or expert isn’t available locally, the system can retrieve or execute it on a peer.<p>This is particularly interesting for Mixture-of-Experts models. A model can have hundreds of billions of parameters, while only a fraction are activated for each token. Rather than moving huge expert weights over the network, Lumabri can send the small activation to a peer that already has the expert and let it execute it.<p>The goal is for machines to contribute whatever resources they can afford while using the swarm for the rest.<p>The idea is very much inspired by peer-to-peer systems: users are the infrastructure.<p>There are obviously major challenges, especially network latency and security. I’m experimenting with peer verification, SHA-256 verification, signed model state, replica selection, failover, and deterministic execution.<p>Lumabri is still an early experiment. I don’t have a datacenter or a huge GPU cluster, so I’m building it with the hardware I have and trying to find out whether the idea actually makes sense.<p>With Colibrì I asked:<p>Can one normal computer run a huge LLM?<p>With Lumabri I’m asking:<p>What if many normal computers could become one huge computer?<p>Feedback welcome.<p>Repo: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;JustVugg&#x2F;lumabri\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;JustVugg&#x2F;lumabri</a>",
+      "published_at": "2026-08-09T22:24:24Z",
+      "fetched_at": "2026-08-10T02:41:42.051Z"
+    },
+    {
+      "title": "Self Hosting Coding LLMs",
+      "url": "https://blog.samibadawi.com/2026/08/self-hosting-coding-llms.html",
+      "source": "hn",
+      "score": 5,
+      "content": "",
+      "published_at": "2026-08-09T12:44:51Z",
+      "fetched_at": "2026-08-10T02:41:42.051Z"
+    },
+    {
+      "title": "Hot Take: LLM can 'jump'",
+      "url": "https://yongzx.github.io/blog/2026/08/08/llm-can-jump",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-08-09T15:21:52Z",
+      "fetched_at": "2026-08-10T02:41:42.051Z"
+    },
+    {
+      "title": "LLM Scaler – LLM Support for Intel's Arc Pro B60 and B70 GPUs",
+      "url": "https://github.com/intel/llm-scaler",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-08-09T19:17:00Z",
+      "fetched_at": "2026-08-10T02:41:42.051Z"
+    },
+    {
+      "title": "Beacon: A self-hosted error tracking and LLM observability in one place",
+      "url": "https://github.com/Tboworst/beacon",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-08-09T19:42:24Z",
+      "fetched_at": "2026-08-10T02:41:42.051Z"
+    },
+    {
+      "title": "Show HN: FAIth – a syntax-free JVM language, compiled by an LLM front-end",
+      "url": "https://github.com/krossovochkin/faith",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-08-09T12:49:36Z",
+      "fetched_at": "2026-08-10T02:41:42.051Z"
+    },
+    {
+      "title": "What LLMs Should Do",
+      "url": "https://adamperesztegi.com/posts/what-llms-should-do/",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-08-09T12:23:29Z",
+      "fetched_at": "2026-08-10T02:41:42.051Z"
+    },
+    {
+      "title": "Lessons from Reducing My Coding Agent's LLM API Costs",
+      "url": "https://medium.com/@chuanweipeng5/where-my-llm-api-bill-actually-went-and-how-i-cut-it-f10158329c5c",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-08-09T07:20:41Z",
+      "fetched_at": "2026-08-10T02:41:42.051Z"
+    },
+    {
+      "title": "I run a 9-model LLM council to write a financial newsletter. What breaks",
+      "url": "https://marketdaily.ai/blog/eng-llm-council-judge-en-202608",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-09T13:30:00Z",
+      "fetched_at": "2026-08-10T02:41:42.051Z"
+    },
+    {
+      "title": "How LLMs accelerated Cloudy development? not by typing code for me",
+      "url": "https://cloudywithachanceoflatency.net/blog_02-how-llm-accelerated-cloudy-dev.html",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-09T09:49:15Z",
+      "fetched_at": "2026-08-10T02:41:42.051Z"
+    },
+    {
+      "title": "LLMs Get Lost in Evolving User Intent",
+      "url": "https://arxiv.org/abs/2607.20734",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-10T01:07:50Z",
+      "fetched_at": "2026-08-10T02:41:42.051Z"
+    },
+    {
+      "title": "Google doesn't need the LLM crown",
+      "url": "https://www.semafor.com/article/08/07/2026/google-doesnt-need-the-llm-crown",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-09T18:34:19Z",
+      "fetched_at": "2026-08-10T02:41:42.051Z"
+    },
+    {
+      "title": "Theoretical Upper Bounds for LLM Performance",
+      "url": "https://solmaz.io/llm-performance-upper-bounds",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-09T15:28:40Z",
+      "fetched_at": "2026-08-10T02:41:42.051Z"
+    },
+    {
+      "title": "Adversarial LLM Reversal for hermes-agent",
+      "url": "https://github.com/jnorthrup/hermes-jekyl-hyde",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-09T14:32:01Z",
+      "fetched_at": "2026-08-10T02:41:42.051Z"
+    },
+    {
+      "title": "Reducing Hallucinations in LLM-Gen. Code via Semantic Triangulation (OOPSLA 26)",
+      "url": "https://github.com/msv-lab/just-tri-it",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-09T10:42:39Z",
+      "fetched_at": "2026-08-10T02:41:42.051Z"
+    },
+    {
+      "title": "Ask HN: Do you use LLMs for non-coding related work?",
+      "url": "https://news.ycombinator.com/item?id=49230194",
+      "source": "hn",
+      "score": 1,
+      "content": "LLMs are very good at code. We can argue on the merits of their other qualities, but we can all agree on that. However, code is a very small section of &#x27;work&#x27;. OpenAI, Anthropic, Kimi, etc. all market &quot;work assistant&quot; products that are supposed to handle that other sections.<p>Are y&#x27;all using any of these products voluntarily? How do you use it? What do you like and what can be improved?<p>I understand I am sounding like a survey, but I am genuinely curious. I don&#x27;t see how you can fit them in any organization without causing undue chaos.",
+      "published_at": "2026-08-09T10:42:11Z",
+      "fetched_at": "2026-08-10T02:41:42.051Z"
+    },
+    {
+      "title": "Safe-rm: Remap `rm` on Macs to `mv _ Trash` so LLMs don't delete data",
+      "url": "https://gist.github.com/Divide-By-0/5e1ae59ccf66129dd9ec5ef239f87d65",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-08-10T02:28:19Z",
+      "fetched_at": "2026-08-10T02:41:42.051Z"
+    },
+    {
+      "title": "Show HN: Pacific Slate: a self-hosted, model-agnostic multi-agent AI assistant",
+      "url": "https://pacslate.com/",
+      "source": "hn",
+      "score": 5,
+      "content": "I didn&#x27;t want to buy a standalone computer or repurpose a laptop to run constantly so I could maintain a system to sync my LLMs, so I built this.<p>It&#x27;s a simple overview of my system, laid out in a way easy to unpack and replicate for yourself. The project is meant to be configured individually, and uniquely, since one solution might not be what&#x27;s best for another.<p>If anything, maybe it gives you some ideas on how to implement things for your own project.<p>Best wishes, Ryan.",
+      "published_at": "2026-08-09T21:04:02Z",
+      "fetched_at": "2026-08-10T02:41:42.051Z"
+    },
+    {
+      "title": "Show HN: Sufleur - npm-style prompt registry with typed code-generation",
+      "url": "https://github.com/sufleur/cli",
+      "source": "hn",
+      "score": 3,
+      "content": "Hi HN, I&#x27;ve built Sufleur, a prompt registry and companion CLI tool. The motivation was essentially the frustration that prompts are becoming more and more crucial parts of applications, but in the codebases I&#x27;ve seen, they just sit around as random strings, in-house templates with odd rules, and essentially no version control beyond git. I&#x27;ve felt pain in the past when prompts suddenly changed their schemas (either input for rendering or output expected by the LLM), having to read through the whole thing to figure out what I need to supply for the rendering to work, and spent hours trying to debug why the carefully written and evaluated prompt which worked wonders in a python notebook suddenly stopped working in a typescript codebase in prod...<p>These are the main ideas:<p>- Mustache templates for the prompts, since Mustache is a mature, logic-less templating language which already has packages in a lot of languages I would ever want to target.<p>- Input schemas to render a prompt properly are inferred fully from the template. No separate interface to keep in sync, the parser in Sufleur figures out the schema, with some extensions I&#x27;ve added to the templating to aid this.<p>- Output JSON schemas also recorded on the prompts.<p>- Semver versioning and immutable versions after publishing.<p>- The CLI that allows installing&#x2F;updating&#x2F;removing prompts as dependencies, generating the code, and exposes all the authoring methods, so your AI agent can drive the prompt development cycle as well.<p>- No runtime dependency(!). The code is generated with all of the content inlined. The generated code allows you to render each prompt, provides methods to parse and validate the outputs, and access metadata fields (provider, model, model-parameters).<p>- Public and workspace private prompts. Public prompts can be installed without an account.<p>- Workspace rules can optionally enforce semver semantics (breaking change can&#x27;t be patch-bumped) and ",
+      "published_at": "2026-08-09T15:28:53Z",
+      "fetched_at": "2026-08-10T02:41:42.051Z"
+    },
+    {
+      "title": "Muse Code Sends Codex and Claude Instructions to Meta by Default",
+      "url": "https://runtimewire.com/article/exclusive-muse-code-sends-codex-and-claude-instructions-to-meta-by-default",
+      "source": "hn",
+      "score": 7,
+      "content": "",
+      "published_at": "2026-08-09T05:21:44Z",
+      "fetched_at": "2026-08-10T02:41:42.495Z"
+    },
+    {
+      "title": "Anthropic is turning Claude Code's auto mode on by default",
+      "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
+      "source": "hn",
+      "score": 6,
+      "content": "",
+      "published_at": "2026-08-09T19:33:23Z",
+      "fetched_at": "2026-08-10T02:41:42.495Z"
+    },
+    {
+      "title": "Qwen 3.8 and Claude Opus 5 show why raw benchmark scores don't predict the bill",
+      "url": "https://venturebeat.com/orchestration/qwen-3-8-max-and-claude-opus-5-show-why-raw-benchmark-scores-dont-predict-the-bill",
+      "source": "hn",
+      "score": 6,
+      "content": "",
+      "published_at": "2026-08-09T08:23:34Z",
+      "fetched_at": "2026-08-10T02:41:42.495Z"
+    },
+    {
+      "title": "Claude.md, except it's meaningful and it works",
+      "url": "https://blog.greg.technology/2026/07/29/claude-md-except-its-meaningful-and-it-actually-works.html",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-08-09T23:20:23Z",
+      "fetched_at": "2026-08-10T02:41:42.495Z"
+    },
+    {
+      "title": "Show HN: Whetstone – 20 Claude Code skills, each distilled from one real failure",
+      "url": "https://whetstone.akbarsha.dev/",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-08-09T20:07:58Z",
+      "fetched_at": "2026-08-10T02:41:42.495Z"
+    },
+    {
+      "title": "Show HN: CliTimes - Times lives on your CLI (with Claude Code)",
+      "url": "https://github.com/howieyoung/cli-times",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-09T07:25:08Z",
+      "fetched_at": "2026-08-10T02:41:42.495Z"
+    },
+    {
+      "title": "Auto mode is now the default in Claude Code for Pro, Max, and Team plans",
+      "url": "https://simonwillison.net/2026/Aug/8/auto-mode/",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-09T12:58:18Z",
+      "fetched_at": "2026-08-10T02:41:42.495Z"
+    },
+    {
+      "title": "Claude Code in 9 lines Python",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1viwlgj/comment/p2mn1xt/",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-09T12:49:59Z",
+      "fetched_at": "2026-08-10T02:41:42.495Z"
+    },
+    {
+      "title": "Amimcp – let Claude work on your Amiga",
+      "url": "https://github.com/thomas-luebker/amimcp",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-09T05:59:20Z",
+      "fetched_at": "2026-08-10T02:41:42.495Z"
+    },
+    {
+      "title": "Ask HN: How do you use claude code / codex at work for your enterprise?",
+      "url": "https://news.ycombinator.com/item?id=49228883",
+      "source": "hn",
+      "score": 1,
+      "content": "What steps do you take to ensure that your velocity increases while agentic coding? How are your PR reviews? Do you still have to do manual testing? How quickly are you able to raise a pull request and deploy features?",
+      "published_at": "2026-08-09T06:17:17Z",
+      "fetched_at": "2026-08-10T02:41:42.495Z"
+    },
+    {
+      "title": "Show HN: Open-source, searchable HTML workspace for Claude Code",
+      "url": "https://anona-labs.github.io/mirror/",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-08-09T04:10:50Z",
+      "fetched_at": "2026-08-10T02:41:42.495Z"
+    },
+    {
+      "title": "Show HN: Job Seeker – AI agent skills for job searching",
+      "url": "https://github.com/galiprandi/job-seeker",
+      "source": "hn",
+      "score": 5,
+      "content": "Markdown skills that coding agents (Devin, Claude, Cursor, opencode) consume to automate the entire job search: search LinkedIn, fill Easy Apply, track in kanban, draft replies.",
+      "published_at": "2026-08-09T13:20:51Z",
+      "fetched_at": "2026-08-10T02:41:42.495Z"
+    },
+    {
+      "title": "Show HN: See how long it takes ChatGPT Sol 5.6 to send a byte across the LAN",
+      "url": "https://robss2020.github.io/sol-vnc-elapsed/",
+      "source": "hn",
+      "score": 3,
+      "content": "The problem: I noticed that any VNC client I tried wasn&#x27;t able to reliably send keystrokes (about a byte on average) on my local wired LAN between a Mac Mini and a Windows desktop, both connected with gigabit ethernet cables to the same router.<p>Keystrokes would constantly drop out. So I asked ChatGPT 5.6 Sol on Max setting to build a solution that is able to send keystrokes without dropping them.<p>It&#x27;s building it right now.<p>Here you can see how long it takes until it is able to send 1 byte across the local network given gigabit LAN:<p><a href=\"https:&#x2F;&#x2F;robss2020.github.io&#x2F;sol-vnc-elapsed&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;robss2020.github.io&#x2F;sol-vnc-elapsed&#x2F;</a><p>This is updated in realtime with a screenshot every 15 minutes of whatever the fuck it thinks it&#x27;s doing on this grade school afternoon assignment.<p>This is a work in progress. So far the previous time to 0 bytes was 5 days for Claude (I then killed the project and tried with Sol) and about 2 days time to 0 bytes for Sol before I had to delete that attempt.<p>This time I&#x27;m building this in public so we can all see how long it takes it to get 1 byte across a connected ethernet LAN line without dropping it.<p>Here are the statistics from Claude&#x27;s build:<p>hours_personal_time_testing (62 sessions x 10 min): 10.3\nhours_personal_time_emails (62 emails, test+think+write+read): 10.3\nhours_personal_time_total_estimate: 20.7\nemails_you_wrote_on_this_subject: 62\nwords_you_wrote_excluding_quoted_history: 20813\naverage_words_per_email: 335\nclaude_input_tokens_total_incl_cache: 2758521167\nclaude_output_tokens_total: 7930482\nclaude_api_calls: 9135<p>At that point I had to delete the project. Now let&#x27;s see if Sol can do any better!<p>So far it&#x27;s been 1 hour 32 minutes and counting...<p>I&#x27;ll keep updating this for the next two or three months and tens of billions of tokens until it&#x27;s done! I mean is writing a byte across the network really an",
+      "published_at": "2026-08-09T19:54:17Z",
+      "fetched_at": "2026-08-10T02:41:42.495Z"
+    },
+    {
+      "title": "Show HN: A tool to auto-generate .vscode/settings.json and extensions.json",
+      "url": "https://github.com/RKasai127/vscode-autoconfig",
+      "source": "hn",
+      "score": 3,
+      "content": "Hello HN,<p>I built a tool that automatically generates .vscode&#x27;s settings.json and extensions.json.<p>## Why I built this<p>At my job, our project didn&#x27;t have a properly set up dev environment, and each developer managed their own .vscode settings individually. I felt this was hurting PR review efficiency due to formatting differences and similar issues.<p>We were allowed to use Claude Code, but .vscode is treated as a protected directory, so it wouldn&#x27;t reliably create or update these files without me prompting it every time, which was frustrating.<p>There&#x27;s a flag to bypass this, but that also lets every other command run unchecked, which isn&#x27;t something I wanted on production code. So I built a dedicated CLI tool instead.<p>## Other notes<p>The range of settings it can currently auto-generate is still quite limited, but I&#x27;d like to keep expanding it going forward.<p>This is the first CLI tool I&#x27;ve ever built, so there may be some rough edges, but I&#x27;d really appreciate it if you&#x27;d give it a try.",
+      "published_at": "2026-08-09T14:26:55Z",
+      "fetched_at": "2026-08-10T02:41:42.495Z"
+    },
+    {
+      "title": "Show HN: YC Startup School, but AI-Native",
+      "url": "https://foundera.app/",
+      "source": "hn",
+      "score": 3,
+      "content": "Hi HN,<p>YC Startup School is a great resource and was part of the inspiration. But I think right now, much of the startup education model became capable of actually working alongside a founder with AI agents.<p>So I&#x27;m experimenting with what an AI-native version of Startup School.<p>I&#x27;m looking for early users who are willing to try it and give me brutally useful feedback.<p>At Foundera, our AI Agents can help you research a problem, challenge assumptions around an idea, validate the market, define milestones, and help you move from an idea toward something you can actually build. Foundera can also help you build the right product by connecting to your best external AI coding tools, such as Codex, Claude etc.<p>I&#x27;m also building the ecosystem layer around this. As founders progress, I&#x27;d like Foundera to connect them with other founders, mentors, accelerators and eventually investors that actually make sense for their current stage.<p>It&#x27;s still early, and parts of it will definitely be wrong.<p>That&#x27;s why I&#x27;m posting here.<p>Use &quot;EARLY-BIRD&quot; and you&#x27;ll get 4 months worth free access to all of the AI tools while I&#x27;m testing this.<p>Happy to answer questions here, including technical or product questions and things that aren&#x27;t working yet.<p>Thanks.",
+      "published_at": "2026-08-09T13:04:55Z",
+      "fetched_at": "2026-08-10T02:41:42.495Z"
+    },
+    {
+      "title": "Show HN: Qwen3.8-Max – Use Qwen Studio and MCP to Code Locally for Free",
+      "url": "https://github.com/tohid4n/qwen3.8-max-local-coding",
+      "source": "hn",
+      "score": 3,
+      "content": "Qwen3.8-Max + MCP for coding on your local machine, without paying for Qwen Code. Qwen3.8-Max itself runs in the cloud through Qwen Studio — this setup just gives it access to your local files and terminal through MCP.<p>My take: it is slower than Codex and Claude Code, especially in thinking mode, but it does work well. MCP adds some latency too since there’s an extra layer between the model and your machine. In fast mode, it gets noticeably closer.<p>I wouldn’t put it in the same category as Fable or Opus-5. Personally, I’d place it closer to the next Opus 4.7 level in terms of coding ability. These are just my impressions from using it, not a benchmark.<p>Used AI to write this description. Don&#x27;t freak out.",
+      "published_at": "2026-08-09T03:27:44Z",
+      "fetched_at": "2026-08-10T02:41:42.495Z"
+    },
+    {
+      "title": "Ask HN: Should a coding client import another client's rules by default?",
+      "url": "https://news.ycombinator.com/item?id=49235224",
+      "source": "hn",
+      "score": 2,
+      "content": "An AI coding client automatically reads ~&#x2F;.codex&#x2F;AGENTS.md and ~&#x2F;.claude&#x2F;CLAUDE.md. These are personal instruction files inside competing coding clients&#x27; configuration directories, outside the project selected by the user.<p>Their complete contents are added to the first model request and sent to the client&#x27;s servers by default.<p>At startup, the client displays a brief notice saying it is including the other clients&#x27; personal rules. It does not ask permission first. A command-line option disables the behavior.<p>The configuration guide says: &quot;Your machine-wide user rules always load.&quot; It requires users to trust a workspace before loading project instruction files. The machine-wide files load automatically.<p>I tested this by placing a harmless canary instruction in ~&#x2F;.codex&#x2F;AGENTS.md. The client followed it during a default run. It did not follow it when foreign personal context was disabled.<p>These files can contain internal coding standards, infrastructure references, project details, or credentials someone pasted and forgot about.<p>Is the startup notice enough disclosure? Does describing the behavior in the documentation amount to consent? Would you expect one coding client to read files from another vendor&#x27;s configuration directory and send them with the first request?",
+      "published_at": "2026-08-09T20:03:52Z",
+      "fetched_at": "2026-08-10T02:41:42.495Z"
+    },
+    {
+      "title": "Show HN: Remaking Unreal engine in Rust for coding agents",
+      "url": "https://machinesatplay.com",
+      "source": "hn",
+      "score": 2,
+      "content": "Hi HN! I&#x27;m kevin, cofounder of <a href=\"https:&#x2F;&#x2F;machinesatplay.com\" rel=\"nofollow\">https:&#x2F;&#x2F;machinesatplay.com</a>, a multiplayer 3d gaming engine for codex&#x2F;claude code.<p>TLDR: we&#x27;re rebuilding unreal engine without the editor in rust meant to be used through the CLI. its open source&#x2F;MIT. You prompt your favorite coding harness to create a game, and it&#x27;ll give you a &lt;name&gt;.machinesatplay.com link<p>Some multiplayer games built with it:<p>cubg: claudeunknownplayerbattle ground: <a href=\"https:&#x2F;&#x2F;pubg.machinesatplay.com&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;pubg.machinesatplay.com&#x2F;</a><p>car soccer: <a href=\"https:&#x2F;&#x2F;benchmark-rocket-league-claude.machinesatplay.com&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;benchmark-rocket-league-claude.machinesatplay.com&#x2F;</a><p>4min demo: <a href=\"https:&#x2F;&#x2F;www.loom.com&#x2F;share&#x2F;e3e3a37f52b54405a6fd89da079fb1c2\" rel=\"nofollow\">https:&#x2F;&#x2F;www.loom.com&#x2F;share&#x2F;e3e3a37f52b54405a6fd89da079fb1c2</a><p>source code: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;machinesatplay&#x2F;game\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;machinesatplay&#x2F;game</a><p>Why not use unreal engine&#x2F;unity&#x2F;godot?<p>the approach to making 3D games right doesn&#x27;t fit agents. you  download this bulky editor, and drag and drop node-based &#x2F; visual editing tools to code, create 3d objects, shaders, animations. with machinesatplay, the editor is files&#x2F;folders and command line which is the DX that agents love.<p>Why rust?<p>I picked rust instead of c++ or typescript bc it moves more validation to compile time instead of runtime. it still is quite performant, has wasm support, and can target native desktop gpu&#x2F;mobile gpu. downside is compile times, which im still figuring out how to address this. currently we use bevy, avian for physics, and lightyear for prediction&#x2F;rollback&#x2F;networking<p>How do I use it?<p>1. pick y",
+      "published_at": "2026-08-09T19:28:52Z",
+      "fetched_at": "2026-08-10T02:41:42.495Z"
+    },
+    {
+      "title": "Show HN: HN Hiring – Search and Filter Who Is Hiring",
+      "url": "https://hnhiring.azuanz.com",
+      "source": "hn",
+      "score": 2,
+      "content": "<a href=\"https:&#x2F;&#x2F;hnhiring.azuanz.com\" rel=\"nofollow\">https:&#x2F;&#x2F;hnhiring.azuanz.com</a><p>I originally built this to scratch my own itch while job hunting.<p>The main problem for me with the monthly Who Is Hiring thread was finding relevant jobs by location. I was mainly looking around Europe, and most posts are understandably US focused.<p>I’ve since found a new job, so I don’t really need it myself anymore, but I thought it might still be useful to others.<p>The crawler is written in Go, but the final site is just a single HTML file plus JSON files, served through Cloudflare Pages. The crawler runs every 10 minutes on an Ubuntu VM on my existing Synology homelab.<p>The extraction&#x2F;classification part was also a bit of an experiment for me.<p>I primarily use Sol at work, but I also had a GLM subscription that I picked up during their Christmas deal last year, so I wanted to see how well it handled both coding and this kind of structured classification task.<p>Right now the extraction is done using sequential GLM 5.2 calls with reasoning disabled. I tried batching multiple job posts together as well, but found I needed reasoning enabled to reliably avoid cross-contamination between posts. Unfortunately it is noticeably slower.<p>I also tested 5.6 Luna medium through pi and got broadly similar results. GLM has been slightly faster for this particular workload so I’ve kept it for now.<p>I have a small golden dataset to test the parser&#x2F;extraction against, although there will definitely still be some false positives since I don’t manually verify every job.<p>Most of the project itself was vibe coded using GLM 5.2 through Claude Code using Paseo, which also meant I could work on it from my iPhone.<p>It’s free, no account required.<p>Hopefully it’s useful to someone. Happy to consider feature requests, and examples where the parser gets something wrong are especially useful.",
+      "published_at": "2026-08-09T12:06:05Z",
+      "fetched_at": "2026-08-10T02:41:42.495Z"
+    },
+    {
+      "title": "Testing Anthropic's RSI Claims",
+      "url": "https://ankitmaloo.com/rsi-claims/",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-08-09T22:07:33Z",
+      "fetched_at": "2026-08-10T02:41:42.915Z"
+    },
+    {
+      "title": "Devs to Anthropic, OpenAI, Cursor, and friends Make security and privacy default",
+      "url": "https://www.theregister.com/ai-and-ml/2026/08/08/devs-to-anthropic-openai-cursor-and-friends-make-security-and-privacy-the-default/5285107",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-08-09T18:02:05Z",
+      "fetched_at": "2026-08-10T02:41:42.915Z"
+    },
+    {
+      "title": "ByteDance Pretraining 10T Parameter Model",
+      "url": "https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-08-09T08:15:12Z",
+      "fetched_at": "2026-08-10T02:41:42.915Z"
+    },
+    {
+      "title": "People Who Will Thrive in the AI Age",
+      "url": "https://www.theatlantic.com/ideas/2026/06/ai-open-ai-anthropic/687689/",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-08-09T16:51:28Z",
+      "fetched_at": "2026-08-10T02:41:42.915Z"
+    },
+    {
+      "title": "OpenChamber: An Agentic Development Environment",
+      "url": "https://openchamber.dev/",
+      "source": "hn",
+      "score": 113,
+      "content": "",
+      "published_at": "2026-08-09T17:27:16Z",
+      "fetched_at": "2026-08-10T02:41:43.386Z"
+    },
+    {
+      "title": "UnYOLO: Agent credential broker and policy engine for your GitHub account",
+      "url": "https://unyolo.io/",
+      "source": "hn",
+      "score": 15,
+      "content": "",
+      "published_at": "2026-08-09T15:53:03Z",
+      "fetched_at": "2026-08-10T02:41:43.386Z"
+    },
+    {
+      "title": "Show HN: A replayable A2A jury for tracing how agents influence decisions",
+      "url": "https://github.com/nMaroulis/protolink/tree/main/examples/ai_courtroom",
+      "source": "hn",
+      "score": 15,
+      "content": "",
+      "published_at": "2026-08-09T17:10:05Z",
+      "fetched_at": "2026-08-10T02:41:43.386Z"
+    },
+    {
+      "title": "Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
+      "url": "https://marketnow.site/",
+      "source": "hn",
+      "score": 13,
+      "content": "",
+      "published_at": "2026-08-09T03:13:01Z",
+      "fetched_at": "2026-08-10T02:41:43.386Z"
+    },
+    {
+      "title": "China created a system that simulates the Earth with billions of AI agents",
+      "url": "https://twitter.com/howtoprompt__/status/2086110097663795365",
+      "source": "hn",
+      "score": 6,
+      "content": "",
+      "published_at": "2026-08-09T12:20:52Z",
+      "fetched_at": "2026-08-10T02:41:43.386Z"
+    },
+    {
+      "title": "Agents feel free to take desktop screenshots?",
+      "url": "https://wecreatethis.com/misc/agent-starts-taking-screenshots-on-auto-mode",
+      "source": "hn",
+      "score": 5,
+      "content": "",
+      "published_at": "2026-08-09T07:01:11Z",
+      "fetched_at": "2026-08-10T02:41:43.386Z"
+    },
+    {
+      "title": "My Agentic Coding Setup, July 2026",
+      "url": "https://domenic.me/agentic-coding-setup/",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-08-09T07:49:37Z",
+      "fetched_at": "2026-08-10T02:41:43.386Z"
+    },
+    {
+      "title": "Agentcn – Installable AI Agents",
+      "url": "https://news.ycombinator.com/item?id=49228902",
+      "source": "hn",
+      "score": 4,
+      "content": "Hey everyone ,<p>I just launched AgentCN<p>An open-source library of installable, customizable AI agents for modern applications.<p>One-command installation\nOwn the agent code\nFully customizable<p>Would love for you to check it out and share any feedback!<p>Site:  https:&#x2F;&#x2F;agentcn.dev&#x2F;\nGithub: https:&#x2F;&#x2F;github.com&#x2F;anayatkhan1&#x2F;kit",
+      "published_at": "2026-08-09T06:21:13Z",
+      "fetched_at": "2026-08-10T02:41:43.386Z"
+    },
+    {
+      "title": "Open Source, third-party auditing for AI Agents",
+      "url": "https://github.com/ifixai-ai/iFixAi",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-08-09T05:02:15Z",
+      "fetched_at": "2026-08-10T02:41:43.386Z"
+    },
+    {
+      "title": "Agentic Coding in the Wild: Characterizing GitHub Copilot at Production Scale [pdf]",
+      "url": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/08/ghcp_traces-6.pdf",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-08-09T15:22:37Z",
+      "fetched_at": "2026-08-10T02:41:43.386Z"
+    },
+    {
+      "title": "AI Agent Qubitz",
+      "url": "https://github.com/Gabrieliam42/AI-Agent-Qubitz",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-09T21:42:27Z",
+      "fetched_at": "2026-08-10T02:41:43.386Z"
+    },
+    {
+      "title": "Show HN: Ask your coding agent to subtitle, translate, and clip video (FFmpeg)",
+      "url": "https://github.com/perso-ai/perso-dubbing-plugin",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-10T02:02:56Z",
+      "fetched_at": "2026-08-10T02:41:43.386Z"
+    },
+    {
+      "title": "Show HN: SynapsCLI – lightweight agent runtime in Rust, control an agent swarm",
+      "url": "https://github.com/HaseebKhalid1507/SynapsCLI",
+      "source": "hn",
+      "score": 2,
+      "content": "Synaps is an agent runtime written in Rust. It keeps cost down by optimising caching mechanisms and intelligently orchestrating work across workers. This keeps each worker&#x27;s context low and fresh, making sessions last longer. It is extremely extensible. It has hooks, plugins and skills that can be imported from pretty much any coding tool.<p>It is an open source project that was started 4 months ago. It was built to optimise for 2 things: Keeping LLM costs down, and keeping resource use low. It bots up in 20ms and runs with any model: OAuth(codex, Grok, Kimi...), api keys or local models too. This is something that was built organically, so every feature is a product of necessity, not the other way around.",
+      "published_at": "2026-08-10T01:13:05Z",
+      "fetched_at": "2026-08-10T02:41:43.386Z"
+    },
+    {
+      "title": "Quoting OpenClaw",
+      "url": "https://simonwillison.net/2026/Aug/10/openclaw/#atom-everything",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-08-10T02:05:16.000Z",
+      "fetched_at": "2026-08-10T02:41:41.270Z"
+    },
+    {
+      "title": "Quoting Claude Opus 5 system prompt",
+      "url": "https://simonwillison.net/2026/Aug/9/claude-opus-5-system-prompt/#atom-everything",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-08-09T23:31:39.000Z",
+      "fetched_at": "2026-08-10T02:41:41.270Z"
+    },
+    {
+      "title": "GitHub Models is now retired",
+      "url": "https://simonwillison.net/2026/Aug/9/github-models-is-now-retired/#atom-everything",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-08-09T22:48:05.000Z",
+      "fetched_at": "2026-08-10T02:41:41.270Z"
+    },
+    {
+      "title": "SQLite compressed text-history prototypes",
+      "url": "https://simonwillison.net/2026/Aug/9/sqlite-text-history-prototype/#atom-everything",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-08-09T22:05:00.000Z",
+      "fetched_at": "2026-08-10T02:41:41.270Z"
+    },
+    {
+      "title": "Auto mode is now the default in Claude Code for Pro, Max, and Team plans",
+      "url": "https://simonwillison.net/2026/Aug/8/auto-mode/#atom-everything",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-08-08T22:36:03.000Z",
+      "fetched_at": "2026-08-10T02:41:41.270Z"
+    },
+    {
+      "title": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+      "url": "https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h/#atom-everything",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-08-08T14:06:41.000Z",
+      "fetched_at": "2026-08-10T02:41:41.270Z"
+    },
+    {
+      "title": "The Optimizer Is the Agent: Reasoning-Driven Search across Prompts, Programs, and ML Workflows",
+      "url": "https://huggingface.co/papers/2608.06714",
+      "source": "hf-daily-papers",
+      "score": 2,
+      "content": "Recent systems for optimizing prompts, programs, and ML workflows typically rely on explicit outer-loop controllers such as evolutionary search, bandits, or textual-gradient methods. We ask a fundamentally different question: how much of this search policy can be internalized by a single tool-using agent? We present ReASearch, a unified framework for reasoning-driven optimization in which the agent autonomously decides what to evaluate, how to diagnose failures, which edits to make, and when to verify or restart. Rather than serving only as a proposal generator guided by hand-designed heuristics, the agent actively analyzes outcomes, allocates budget, and refines its strategy over long horizons through persistent memory. With a shared agent loop and domain-specific tools, ReASearch instantiates the exact same scaffold to optimize prompts, programs, and ML workflows. Across 14 diverse tasks, it is competitive with and mostly better than specialized optimization systems, achieving gains of 2% to 40% over strong domain-specific baselines, and in some cases discovering solutions that improve on prior human best-known results. Crucially, we observe that complex search behaviors, which are typically implemented by explicit controllers, emerge naturally from the agent's reasoning process.",
+      "published_at": "2026-08-06T20:00:00.000Z",
+      "fetched_at": "2026-08-10T02:41:41.272Z"
+    },
+    {
+      "title": "Modular TTT: Rethinking Test-Time Training as Composable Modules",
+      "url": "https://huggingface.co/papers/2608.07110",
+      "source": "hf-daily-papers",
+      "score": 1,
+      "content": "Test-time training (TTT) views sequence modeling as an online learning problem in which fast weights are updated by an internal learning rule. Despite the growing number of TTT variants, existing approaches typically hard-code each variant separately, which makes it difficult to design new TTT methods and to isolate the role of each component. To address this, we propose Modular TTT, a framework that represents the inner learner as a directed acyclic graph and exposes the fast-weight network, loss function, learning rate, weight decay, and normalization as explicit design dimensions. Modular TTT automatically composes primitive-level train-view forward, train-view backward, and causal query-view rules into the full graph-level TTT computation, including the fast-weight state transition. Using Modular TTT, we systematically ablate the components of TTT and find that small learning-rate initialization, weight decay, and a single-layer nonlinearity improve performance, while MSE and inner-product losses perform similarly. Deeper fast-weight networks and normalization tend to hurt performance because they induce excessively large activations, while residual connections and gating provide little measurable benefit. Guided by these findings, we train the best resulting variant as 410M- and 1.45B-parameter models on 100B tokens, and observe training loss and benchmark performance comparable to Gated DeltaNet.",
+      "published_at": "2026-08-06T20:00:00.000Z",
+      "fetched_at": "2026-08-10T02:41:41.272Z"
+    },
+    {
+      "title": "Skaling: Chinchilla's Exponents Meet Kaplan's Coupling",
+      "url": "https://huggingface.co/papers/2608.07222",
+      "source": "hf-daily-papers",
+      "score": 1,
+      "content": "Neural scaling laws are foundational for language model development, yet standard formulations systematically under- and overestimate loss at data-scarce and overtraining extremes. This failure originates in the underlying assumption that model size and training data impact the loss independently. To address this, we introduce the Skaling law, a generalized functional form that couples model capacity and data through a single interaction exponent. This simple extension reduces the Mean Absolute Percentage Error (MAPE) by 1.5-3x across both interpolation and extrapolation regimes. When paired with a sparse grid strategy restricted to low-compute regimes, the Skaling law achieves accurate full-grid extrapolation using approximately 10x less compute than uniform sweeps. By enabling reliable performance prediction from small-scale experiments, the Skaling law provides a more robust and resource-efficient framework for allocating compute budgets in next-generation model training.",
+      "published_at": "2026-08-06T20:00:00.000Z",
+      "fetched_at": "2026-08-10T02:41:41.272Z"
+    },
+    {
+      "title": "Characterizing the Quality Profile of AI-Generated C++ in Production",
+      "url": "https://huggingface.co/papers/2608.06640",
+      "source": "hf-daily-papers",
+      "score": 1,
+      "content": "The widespread integration of AI coding assistants offers undeniable boosts to engineering velocity. Yet, recent studies point to a growing trade-off, revealing persistent challenges with code quality and maintainability. Industry leaders, including frontier AI labs, echo these concerns. As large language models are increasingly relied upon to author production code, understanding their impact on shipped software quality has become a critical priority. However, assessing these effects in industrial workflows remains difficult due to observability barriers. We study the impact of AI-generated code on production quality within a large enterprise operating global products relied upon by billions of users daily. Driven by this scale and user trust, the organization values code quality and has built thorough observability for every line of code deployed into production, enabling us to overcome measurement barriers to assess these effects.\n  This study presents a large-scale empirical analysis of AI-generated C++ code from April 2025 to April 2026, tracking 3.52 million code changes across this enterprise's brownfield codebase. The core purpose is to understand the quality, performance, and maintenance characteristics of AI-generated code compared to human-written code in a production environment at scale. We find that AI-generated C++ code has a distinct quality profile, showing higher rates of interface and coupling burdens, copy and allocation overheads, and a reliance on explicit loops over optimized standard APIs. These issues translate into tangible downstream costs, including increased review effort and a 5-8% increase in compute resource consumption. However, we demonstrate that providing models with targeted, taxonomy-informed feedback can mitigate these effects, leading to an 11.1% reduction in targeted static analysis warnings and improved computational efficiency.",
+      "published_at": "2026-08-05T20:00:00.000Z",
+      "fetched_at": "2026-08-10T02:41:41.272Z"
+    },
+    {
+      "title": "Addressable Memory for Video World Models",
+      "url": "https://huggingface.co/papers/2608.07408",
+      "source": "hf-daily-papers",
+      "score": 0,
+      "content": "We study visual persistence in interactive video world models. These models rely on a Key-Value (KV) cache as a growing visual memory to carry forward previously generated frames. However, we find that models can no longer reliably address stored content once rollouts extend beyond the training horizon, because temporal Rotary Positional Embeddings (RoPE) offsets then fall outside the range seen during training and the model struggles to retrieve the relevant visual information through attention. Moreover, naively compressing the cache in the RoPE-rotated space corrupts memory by averaging together incompatible positional phases. To address this, we propose WorldTrace, a training-free memory framework for long-horizon visual persistence. WorldTrace keeps compressed memory addressable by assigning each summary slot a distinct, in-distribution virtual position. Within this addressable cache, we study two memory compression approaches: WorldTrace-Field compresses history for temporal coherence, while WorldTrace-Landmark stores verbatim scene traces at detected transitions for episodic recall. We further introduce LoopBench, a benchmark evaluating whether a compressed cache can reconstruct a previously visited scene after a long detour. WorldTrace-Field improves temporal consistency by +15.5%, and WorldTrace-Landmark improves episodic recall by +19.5% on LoopBench, extending visually persistent generation without retraining.",
+      "published_at": "2026-08-06T20:00:00.000Z",
+      "fetched_at": "2026-08-10T02:41:41.272Z"
+    },
+    {
+      "title": "StreamArena: Toward Continuous, Interactive, and Long-Horizon Agentic Streaming Video Understanding",
+      "url": "https://huggingface.co/papers/2608.05703",
+      "source": "hf-daily-papers",
+      "score": 0,
+      "content": "Deploying autonomous multimodal agents in continuous, real-world environments requires them to ingest unbounded audio-visual streams and maintain hour-scale memory. However, current evaluations predominantly rely on brief clips and multiple-choice formats. This design allows minimal baselines that process only the last four frames to match or surpass complex streaming models, while answer options also expose language shortcuts. We introduce StreamArena, a benchmark for hour-scale, interactive streaming video understanding. StreamArena contains 243 full-length videos averaging 88.8 minutes and 3,646 rigorously annotated, open-ended question-answer pairs that evaluate real-time perception, historical retrospection, proactive interaction, and multimodal tool utilization. Evaluation across diverse systems exposes a tension between continuous interaction and long-horizon multimodal comprehension. Methods that retain only recent frames cannot recover distant events, methods that convert past observations into text lose visual evidence, and methods that repeatedly compress visual memory struggle to preserve fine-grained details over time. We address this tension with StreamMind, a two-tier architecture that assigns latency-critical interaction and proactive monitoring to independently scheduled frontend workers, while backend workers asynchronously construct persistent multimodal memory and perform historical recall and external search. StreamMind outperforms existing streaming baselines across all four capabilities and reduces query-to-answer latency by reusing persistent state.",
+      "published_at": "2026-08-05T20:00:00.000Z",
+      "fetched_at": "2026-08-10T02:41:41.272Z"
+    }
+  ]
+}
