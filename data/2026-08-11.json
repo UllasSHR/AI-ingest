@@ -1,0 +1,796 @@
+{
+  "date": "2026-08-11",
+  "fetched_at": "2026-08-11T02:35:50.184Z",
+  "summary": [
+    "  ✓ hn               80 items",
+    "  ✗ reddit           FAILED: all Reddit subreddit fetches failed",
+    "  ✓ simonwillison    5 items",
+    "  ✓ hf               2 items"
+  ],
+  "item_count": 87,
+  "items": [
+    {
+      "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
+      "url": "https://www.docker.com/products/docker-sandboxes/",
+      "source": "hn",
+      "score": 629,
+      "content": "",
+      "published_at": "2026-08-10T06:02:38Z",
+      "fetched_at": "2026-08-11T02:35:48.393Z"
+    },
+    {
+      "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
+      "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
+      "source": "hn",
+      "score": 389,
+      "content": "<a href=\"https:&#x2F;&#x2F;archive.is&#x2F;20LOJ\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.is&#x2F;20LOJ</a><p><a href=\"https:&#x2F;&#x2F;www.meta.com&#x2F;thefutureisforeveryone&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.meta.com&#x2F;thefutureisforeveryone&#x2F;</a>",
+      "published_at": "2026-08-10T14:06:22Z",
+      "fetched_at": "2026-08-11T02:35:48.393Z"
+    },
+    {
+      "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
+      "url": "https://www.whodunnitai.com/",
+      "source": "hn",
+      "score": 190,
+      "content": "Hey HN!<p>I&#x27;m excited to show off this really fun project I put together. I originally built this project 2-3 years ago, AI was already booming at the time, however voice AI agents were still very early. I loved my proof of concept at the time, but wasn&#x27;t quite happy with it.<p>I recently had the desire to check out the tech again, and know many of you will be interested.<p>Interviews are speech to speech with OpenAI&#x27;s gpt-realtime-2.1 over WebRTC. This model is... expensive, and because of that, I have to add some amount of restrictions, conversations are tied to a authenticated Clerk user id. I have also added a 30 minute timer because well, I really don&#x27;t want to go broke while I sleep tonight.<p>Each suspect has a tool they call when you make a direct accusation. It captures who you accused and a faithful list of the evidence you actually stated.<p>A separate gpt-5-mini judge then decides which of the case&#x27;s required evidence facts you genuinely presented. Paraphrasing counts, vague suspicion and fishing don&#x27;t.<p>The rest is Next.js, MongoDB, and Clerk.<p>Let me know whether the suspects hold up under a real interrogation.",
+      "published_at": "2026-08-10T03:18:40Z",
+      "fetched_at": "2026-08-11T02:35:48.394Z"
+    },
+    {
+      "title": "Kinney Drugs pulls back AI phone assistant after hundreds of customer complaints",
+      "url": "https://www.wcax.com/2026/08/07/kinney-drugs-pulls-back-ai-phone-assistant-after-hundreds-customer-complaints/",
+      "source": "hn",
+      "score": 144,
+      "content": "",
+      "published_at": "2026-08-10T14:56:32Z",
+      "fetched_at": "2026-08-11T02:35:48.394Z"
+    },
+    {
+      "title": "Letter to Governor Abbott on responsible AI infrastructure in Texas",
+      "url": "https://openai.com/index/responsible-ai-infrastructure-texas/",
+      "source": "hn",
+      "score": 95,
+      "content": "",
+      "published_at": "2026-08-10T14:38:20Z",
+      "fetched_at": "2026-08-11T02:35:48.394Z"
+    },
+    {
+      "title": "How Claude marks AI-generated content",
+      "url": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
+      "source": "hn",
+      "score": 80,
+      "content": "",
+      "published_at": "2026-08-10T21:36:56Z",
+      "fetched_at": "2026-08-11T02:35:48.394Z"
+    },
+    {
+      "title": "The Philippines' big offshoring industry is growing despite AI",
+      "url": "https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai",
+      "source": "hn",
+      "score": 71,
+      "content": "",
+      "published_at": "2026-08-10T04:35:24Z",
+      "fetched_at": "2026-08-11T02:35:48.394Z"
+    },
+    {
+      "title": "Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers",
+      "url": "https://www.stoaexchange.com",
+      "source": "hn",
+      "score": 66,
+      "content": "Hi HN, we’re Eren, Berat and Kaan. We’re building Stoa (<a href=\"https:&#x2F;&#x2F;www.stoaexchange.com\">https:&#x2F;&#x2F;www.stoaexchange.com</a>), a marketplace for new and used GPUs and AI servers.<p>GPUs are the collateral in the data center buildout. Today, financing terms mostly depend on the offtaker, meaning the company that has committed to use the compute.<p>If that company is a hyperscaler, the financing can look investment grade. If it’s a smaller cloud or startup, terms get expensive fast, even with the same hardware as collateral.<p>The lender’s problem is pretty reasonable. If the borrower defaults and we need to sell these servers, what can we actually get for them? There isn’t a good answer today.<p>We started brokering GPU deals to understand why. It was much more manual than we expected. The hardware is still traded through phone calls, forwarded spreadsheets and long email threads.<p>One week, a seller quoted us $200k for a server node and another quoted $240k for what looked like the same thing. Neither was necessarily wrong. They had different information and could only see their own corner of the market.<p>Before we could compare the quotes, we had to sort out the configuration, condition, warranty, location and delivery terms. It’s the same information Kelley Blue Book attaches to a used-car price through the year, trim, mileage and condition. “An H100 server” isn’t enough information to know what something is worth, just as “a used BMW” isn’t.<p>This is also just a bad way to buy or sell hardware. A buyer looking for the best price shouldn’t have to contact several brokers and dealers separately, repeat the same request and then untangle a pile of different quotes. Sellers shouldn’t have to search for demand one buyer at a time. A market of this size deserves better liquidity.<p>Stoa puts the request into one format and sends it to dealers that have gone through know-your-business (KYB) checks. We verify the company, who owns it and who is ",
+      "published_at": "2026-08-10T16:35:27Z",
+      "fetched_at": "2026-08-11T02:35:48.394Z"
+    },
+    {
+      "title": "Tech leaders say AI means less work – staff say they work up to 90 hours a week",
+      "url": "https://www.bbc.com/news/articles/cvgx4yd1gl2o",
+      "source": "hn",
+      "score": 51,
+      "content": "",
+      "published_at": "2026-08-10T09:53:37Z",
+      "fetched_at": "2026-08-11T02:35:48.394Z"
+    },
+    {
+      "title": "The Future Is for Everyone – The Path to a Positive AI Future",
+      "url": "https://www.meta.com/thefutureisforeveryone/",
+      "source": "hn",
+      "score": 43,
+      "content": "",
+      "published_at": "2026-08-10T10:15:55Z",
+      "fetched_at": "2026-08-11T02:35:48.394Z"
+    },
+    {
+      "title": "AI Fortunes Are Reviving an Old Debate About Private Power",
+      "url": "https://ai-updates.net/ai-fortunes-philanthropy-private-power/",
+      "source": "hn",
+      "score": 41,
+      "content": "",
+      "published_at": "2026-08-10T13:36:47Z",
+      "fetched_at": "2026-08-11T02:35:48.394Z"
+    },
+    {
+      "title": "Meta's new open-weight model targets local agentic AI",
+      "url": "https://twitter.com/finkd/status/2086754845218726027",
+      "source": "hn",
+      "score": 40,
+      "content": "",
+      "published_at": "2026-08-10T10:55:03Z",
+      "fetched_at": "2026-08-11T02:35:48.394Z"
+    },
+    {
+      "title": "AI's profits are 'being funded by investors rather than earned from customers",
+      "url": "https://fortune.com/2026/08/10/torsten-slok-ai-profit-margins-capex-oracle/",
+      "source": "hn",
+      "score": 35,
+      "content": "",
+      "published_at": "2026-08-10T13:49:06Z",
+      "fetched_at": "2026-08-11T02:35:48.394Z"
+    },
+    {
+      "title": "As AI grips world, the thrill of collecting vintage computers is growing",
+      "url": "https://apnews.com/article/vintage-computers-silicon-valley-technology-apple-history-43d28a08d77cc477cdcd6951315d2f2d",
+      "source": "hn",
+      "score": 23,
+      "content": "",
+      "published_at": "2026-08-10T04:22:15Z",
+      "fetched_at": "2026-08-11T02:35:48.394Z"
+    },
+    {
+      "title": "Nvidia is pulling Wall Street into the AI buildout",
+      "url": "https://thenextweb.com/news/nvidia-500-billion-wall-street-ai-infrastructure-funding-package",
+      "source": "hn",
+      "score": 16,
+      "content": "",
+      "published_at": "2026-08-10T19:25:07Z",
+      "fetched_at": "2026-08-11T02:35:48.394Z"
+    },
+    {
+      "title": "The AI Slop Backlash Is Having an Impact",
+      "url": "https://www.wired.com/story/the-ai-slop-backlash-is-actually-having-an-impact/",
+      "source": "hn",
+      "score": 15,
+      "content": "",
+      "published_at": "2026-08-10T12:24:18Z",
+      "fetched_at": "2026-08-11T02:35:48.394Z"
+    },
+    {
+      "title": "In AI, the 41% Depends on the -59%",
+      "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/in-ai-the-41-percent-depends-on-the-59-percent",
+      "source": "hn",
+      "score": 14,
+      "content": "",
+      "published_at": "2026-08-10T17:07:29Z",
+      "fetched_at": "2026-08-11T02:35:48.394Z"
+    },
+    {
+      "title": "Convince an AI it's not alive in psychological horror game Prove You're Human",
+      "url": "https://www.theguardian.com/games/2026/aug/10/ai-psychological-horror-game-prove-youre-human-sunset-visitor-studio",
+      "source": "hn",
+      "score": 13,
+      "content": "",
+      "published_at": "2026-08-10T15:31:55Z",
+      "fetched_at": "2026-08-11T02:35:48.394Z"
+    },
+    {
+      "title": "Mark Zuckerberg Lays Out New AI Vision in 6,500-Word Essay",
+      "url": "https://www.wsj.com/tech/ai/mark-zuckerberg-lays-out-new-ai-vision-in-6-500-word-essay-966e9a56",
+      "source": "hn",
+      "score": 13,
+      "content": "",
+      "published_at": "2026-08-10T14:49:05Z",
+      "fetched_at": "2026-08-11T02:35:48.394Z"
+    },
+    {
+      "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
+      "url": "https://cactuscompute.com/needle",
+      "source": "hn",
+      "score": 190,
+      "content": "Hey HN,<p>Henry from Cactus here!<p>We previously released Cactus Needle, a 14MB agentic LLM for tool call, device use, and structured extraction for phones, wearables, smart homes, small robots and microcontrollers. We got really great feedback here, and have now incorporated the suggestions to release Needle 2.<p>The whole model is a single 14MB binary that runs a full session in 28MB of RAM; 45m parameters at 2bit compression. Needle hits 500 tokens&#x2F;sec decode speed on a Raspberry Pi 5, sits between 400-1,500 tokens&#x2F;sec on VR devices like Meta Quest 3S and Apple Vision Pro, and ranges 300-700 on sub-$200 phones such as the Samsung A-Series.<p>On the tool call and mobile device use benchmarks, Needle 2 trades wins with closest small models like LFM2.5 230M and Apple Foundation Model, at 5x to 70x smaller, both at f16 vs Needle 2 at 2bit. Needle is based on Simple Attention Networks from our paper (<a href=\"https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2607.18363\" rel=\"nofollow\">https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2607.18363</a>).<p>Edge AI has lately meant Macs and PCs, but that is just 1.5 billion of over 21 billion connected IoT devices in the world today, and in emerging markets most phones ship under $200, no NPU, cheap GPUs. These include budget phones, Raspberry Pis, microcontrollers, wearables, small robots like Reachy Mini, and connected home devices.<p>A conventional transformer of Needle&#x27;s width and depth spends 164 MFLOPs per token, and even one squeezed down to Needle&#x27;s parameter count spends 87, Needle spends 70. Even on a high-end phone, an always-on assistant lives inside a power budget; every MFLOP is milliwatt-hours, and Needle spends 7x to 85x fewer of them per token than the smallest performant LLMs. More about the architecture in the link.<p>When we structure intelligence for consumer devices as functions with typed parameters, the only hard part is mapping a messy sentence onto them; which function, with which values. Our",
+      "published_at": "2026-08-10T17:22:07Z",
+      "fetched_at": "2026-08-11T02:35:48.849Z"
+    },
+    {
+      "title": "Humanising LLM Outputs Is Dumb",
+      "url": "https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb",
+      "source": "hn",
+      "score": 163,
+      "content": "",
+      "published_at": "2026-08-10T13:35:40Z",
+      "fetched_at": "2026-08-11T02:35:48.849Z"
+    },
+    {
+      "title": "Show HN: A tiny LLM running at 21,000 tok/s on a $250 FPGA (Live Demo)",
+      "url": "https://www.mikeayles.com/blog/on-chip-llm-kv260/",
+      "source": "hn",
+      "score": 43,
+      "content": "",
+      "published_at": "2026-08-10T11:52:07Z",
+      "fetched_at": "2026-08-11T02:35:48.849Z"
+    },
+    {
+      "title": "I Benchmarked Local LLMs on the Laptop I Have",
+      "url": "https://mamonas.dev/posts/local-llms-on-the-laptop-i-already-have/",
+      "source": "hn",
+      "score": 20,
+      "content": "",
+      "published_at": "2026-08-10T11:14:58Z",
+      "fetched_at": "2026-08-11T02:35:48.849Z"
+    },
+    {
+      "title": "LLM Rewrite of the TerminalTextEffects Python",
+      "url": "https://github.com/omacom-io/ttfx",
+      "source": "hn",
+      "score": 6,
+      "content": "",
+      "published_at": "2026-08-10T13:17:16Z",
+      "fetched_at": "2026-08-11T02:35:48.849Z"
+    },
+    {
+      "title": "Foxes, Lions, and LLMs: The Machiavellian Game of Tech Hiring",
+      "url": "https://twitter.com/0xb33bs/status/2086809075631763920",
+      "source": "hn",
+      "score": 6,
+      "content": "",
+      "published_at": "2026-08-10T13:38:13Z",
+      "fetched_at": "2026-08-11T02:35:48.849Z"
+    },
+    {
+      "title": "Show HN: PrivateRedact – Offline PII redaction with a local LLM, no cloud",
+      "url": "https://github.com/monjurulkarim/privateredact",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-08-10T15:43:27Z",
+      "fetched_at": "2026-08-11T02:35:48.849Z"
+    },
+    {
+      "title": "How I used an LLM to kick my nicotine addiction",
+      "url": "https://samscript.dev/posts/i-used-an-llm-to-quit-vaping/",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-08-10T15:13:35Z",
+      "fetched_at": "2026-08-11T02:35:48.849Z"
+    },
+    {
+      "title": "Ask HN: How do you learn with LLMs?",
+      "url": "https://news.ycombinator.com/item?id=49246873",
+      "source": "hn",
+      "score": 3,
+      "content": "I am not happy about GenAI progress affecting my career though I am excited about its application for personalized learning. How do you use LLMs to learn advanced technical stuff better?<p>e.g., socratic method",
+      "published_at": "2026-08-10T17:26:44Z",
+      "fetched_at": "2026-08-11T02:35:48.849Z"
+    },
+    {
+      "title": "EvoHarnessRL: Learning Self-Evolving Runtime Harness for Long-Horizon LLM Agents",
+      "url": "https://arxiv.org/abs/2608.05446",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-08-10T21:28:07Z",
+      "fetched_at": "2026-08-11T02:35:48.849Z"
+    },
+    {
+      "title": "Did Apple Search engine bot enter the security LLM fuzzing gauntlet",
+      "url": "https://news.ycombinator.com/item?id=49241439",
+      "source": "hn",
+      "score": 3,
+      "content": "Just noticed in the last 4 weeks that this user-agent string has gone crazy on the sites I support.<p>20 million requests in the last 4 weeks or about 500k a day and alot of it looks to try and &#x27;hack&#x27;......<p>user-agent: Mozilla&#x2F;5.0 (compatible; Applebot-Extended&#x2F;0.1; +http:&#x2F;&#x2F;www.apple.com&#x2F;go&#x2F;applebot)<p>i.e.\n&#x2F;key.pem\n&#x2F;nginx_status\n&#x2F;.hermes&#x2F;config.yaml\netc",
+      "published_at": "2026-08-10T09:38:44Z",
+      "fetched_at": "2026-08-11T02:35:48.849Z"
+    },
+    {
+      "title": "Reflex: Demonstrate a GUI workflow once, replay it with zero LLM calls",
+      "url": "https://github.com/MARCCHERGGI/reflex",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-08-10T03:30:26Z",
+      "fetched_at": "2026-08-11T02:35:48.849Z"
+    },
+    {
+      "title": "LLMs and Humans Are Cognitive Cousins",
+      "url": "https://preposterousuniverse.com/podcast/2026/08/10/363-chandra-sripada-on-how-llms-and-humans-are-cognitive-cousins/",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-10T18:47:18Z",
+      "fetched_at": "2026-08-11T02:35:48.849Z"
+    },
+    {
+      "title": "LLM Performance and Following Requirements",
+      "url": "https://492ab3fb.danpalmer-me.pages.dev/2026-08-09-llms-and-requirements/",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-10T16:53:39Z",
+      "fetched_at": "2026-08-11T02:35:48.849Z"
+    },
+    {
+      "title": "In-House LLM Serving at Netflix",
+      "url": "https://netflixtechblog.com/in-house-llm-serving-at-netflix-a5a8e799ea2c",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-10T12:03:26Z",
+      "fetched_at": "2026-08-11T02:35:48.849Z"
+    },
+    {
+      "title": "Startups are chasing the next big thing in LLMs",
+      "url": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-10T11:02:19Z",
+      "fetched_at": "2026-08-11T02:35:48.849Z"
+    },
+    {
+      "title": "Recovering Alignment from Abliterated LLMs",
+      "url": "https://rjmxtt.co.uk/#/blog/society",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-10T07:54:17Z",
+      "fetched_at": "2026-08-11T02:35:48.849Z"
+    },
+    {
+      "title": "Diffusion LLMs as Targets and Adversaries: Mechanistic Safety Exploits",
+      "url": "https://arxiv.org/abs/2608.07430",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-10T07:07:06Z",
+      "fetched_at": "2026-08-11T02:35:48.849Z"
+    },
+    {
+      "title": "I thought an LLM gateway was unnecessary. Then we added a second model provider",
+      "url": "https://github.com/maximhq/bifrost/",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-08-10T18:30:50Z",
+      "fetched_at": "2026-08-11T02:35:48.849Z"
+    },
+    {
+      "title": "Escaping the LLM Coding Rat Race",
+      "url": "https://aaronstannard.com/escaping-ai-coding-ratrace/",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-08-10T05:53:21Z",
+      "fetched_at": "2026-08-11T02:35:48.849Z"
+    },
+    {
+      "title": "Auto mode is now the default in Claude Code",
+      "url": "https://claude.com/blog/auto-mode-default-in-claude-code",
+      "source": "hn",
+      "score": 276,
+      "content": "",
+      "published_at": "2026-08-10T03:50:00Z",
+      "fetched_at": "2026-08-11T02:35:49.270Z"
+    },
+    {
+      "title": "Learning more about Claude's mathematical capabilities",
+      "url": "https://www.anthropic.com/research/riemann-zeta",
+      "source": "hn",
+      "score": 165,
+      "content": "",
+      "published_at": "2026-08-10T17:41:13Z",
+      "fetched_at": "2026-08-11T02:35:49.270Z"
+    },
+    {
+      "title": "Exploring Claude/GPT Knowledge Cutoffs and Pre-Training Timelines",
+      "url": "https://blog.sshh.io/p/exploring-claudegpt-knowledge-cutoffs",
+      "source": "hn",
+      "score": 110,
+      "content": "",
+      "published_at": "2026-08-10T14:20:41Z",
+      "fetched_at": "2026-08-11T02:35:49.270Z"
+    },
+    {
+      "title": "Claude moves bound of the Riemann Hypothesis from 41.6% to 67.2%",
+      "url": "https://twitter.com/jarredsumner/status/2086869681785500011",
+      "source": "hn",
+      "score": 45,
+      "content": "",
+      "published_at": "2026-08-10T18:04:17Z",
+      "fetched_at": "2026-08-11T02:35:49.270Z"
+    },
+    {
+      "title": "I wired 4 models together in Claude Code. It backfired 4 ways on Terminal-Bench",
+      "url": "https://quesma.com/blog/tbench-orchestrator-refuses/",
+      "source": "hn",
+      "score": 6,
+      "content": "",
+      "published_at": "2026-08-10T14:38:40Z",
+      "fetched_at": "2026-08-11T02:35:49.270Z"
+    },
+    {
+      "title": "Claude Code self-improved through conversation, not the memories it saved",
+      "url": "https://shojin.dev/blog/claude-code-improved-through-conversation-not-memories/",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-08-10T16:49:46Z",
+      "fetched_at": "2026-08-11T02:35:49.270Z"
+    },
+    {
+      "title": "Claude Sonnet 5 introductory pricing made permanent",
+      "url": "https://twitter.com/claudeai/status/2086891169217122586",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-08-10T19:36:05Z",
+      "fetched_at": "2026-08-11T02:35:49.270Z"
+    },
+    {
+      "title": "Claude Code now lets sessions talk to each other on macOS",
+      "url": "https://9to5mac.com/2026/08/07/claude-code-now-lets-sessions-talk-to-each-other-on-macos/",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-08-10T11:55:45Z",
+      "fetched_at": "2026-08-11T02:35:49.270Z"
+    },
+    {
+      "title": "Claude Code, AI Slop, and the Death of the Art?",
+      "url": "https://vladthe.dev/blog/claude-code-ai-slop-and-the-death-of-the-art",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-08-10T09:49:52Z",
+      "fetched_at": "2026-08-11T02:35:49.270Z"
+    },
+    {
+      "title": "Ask HN: Gemini/Antigravity or Claude Code, which is better for programming?",
+      "url": "https://news.ycombinator.com/item?id=49241042",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-08-10T08:45:10Z",
+      "fetched_at": "2026-08-11T02:35:49.270Z"
+    },
+    {
+      "title": "A dating app inside Claude Code",
+      "url": "https://terminal.dating",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-08-10T16:10:19Z",
+      "fetched_at": "2026-08-11T02:35:49.270Z"
+    },
+    {
+      "title": "Using Claude Code to reclaim mobile app privacy",
+      "url": "https://www.thatprivacyguy.com/blog/using-claude-to-reclaim-privacy/",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-08-10T12:54:34Z",
+      "fetched_at": "2026-08-11T02:35:49.270Z"
+    },
+    {
+      "title": "Mnemara – a memory layer that keeps Claude agents continuous",
+      "url": "https://github.com/mekickdemons-creator/mnemara",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-08-10T12:26:38Z",
+      "fetched_at": "2026-08-11T02:35:49.270Z"
+    },
+    {
+      "title": "Claude Skill Makes Edits Synced to Song Beat",
+      "url": "https://github.com/ZiadAbdelkarim/beat-synced-edit",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-08-10T09:30:51Z",
+      "fetched_at": "2026-08-11T02:35:49.270Z"
+    },
+    {
+      "title": "Claude will watermark AI-generated text and images",
+      "url": "https://tokenstead.ai/",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-08-11T02:03:37Z",
+      "fetched_at": "2026-08-11T02:35:49.270Z"
+    },
+    {
+      "title": "Show HN: Memcode AI goes open source with Claude Code inspired coding agent",
+      "url": "https://github.com/memcode-ai/memcode",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-08-10T05:06:05Z",
+      "fetched_at": "2026-08-11T02:35:49.270Z"
+    },
+    {
+      "title": "Learning Sed or Using Claude?",
+      "url": "https://playtechnique.io/blog/learning-sed-or-using-claude.html",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-10T22:52:26Z",
+      "fetched_at": "2026-08-11T02:35:49.270Z"
+    },
+    {
+      "title": "Show HN: Run outbound and lead gen from Claude Cowork, no sales tools",
+      "url": "https://github.com/skyzer/skills",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-10T16:43:46Z",
+      "fetched_at": "2026-08-11T02:35:49.270Z"
+    },
+    {
+      "title": "Claude Refund Policy: Why Anthropic Denied My Request",
+      "url": "https://tobyonfitnesstech.com/blog/anthropic-refund-scam/",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-10T15:43:27Z",
+      "fetched_at": "2026-08-11T02:35:49.270Z"
+    },
+    {
+      "title": "Sanders urges OpenAI, Anthropic, Meta to pause AI develpmnt amid regulatory push",
+      "url": "https://cryptobriefing.com/sanders-urges-openai-anthropic-meta-to-pause-ai-development-amid-regulatory-push/",
+      "source": "hn",
+      "score": 11,
+      "content": "",
+      "published_at": "2026-08-10T13:16:02Z",
+      "fetched_at": "2026-08-11T02:35:49.703Z"
+    },
+    {
+      "title": "Anthropic just proved AI isn't getting better",
+      "url": "https://www.youtube.com/watch?v=xWxFEZICuwU",
+      "source": "hn",
+      "score": 9,
+      "content": "",
+      "published_at": "2026-08-10T19:40:23Z",
+      "fetched_at": "2026-08-11T02:35:49.703Z"
+    },
+    {
+      "title": "Show HN: Keen Code – an agentic-engineered coding agent",
+      "url": "https://github.com/mochow13/keen-code",
+      "source": "hn",
+      "score": 6,
+      "content": "Hello community!<p>I am here to share a coding agent I have built solo from scratch using agentic engineering. Written in Go, it&#x27;s a proper coding agent, has features you expect from a useful agent for your daily work, with a minimal and simple UI.<p>I have named it Keen Code. The repo is here: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;mochow13&#x2F;keen-code\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;mochow13&#x2F;keen-code</a><p>Even though it started as an experiment, it is now a full-fledged coding agent for real software engineering work. It supports multiple providers, skills, MCPs, multi-agent orchestration through subagents, automatic compaction, etc.<p>I have been using it for real production-grade work myself, and also for developing itself.<p>Notably, I have worked on two separate ideas in this coding agent:<p>1. Turn Memory<p>In a multi-turn conversation, tool outputs are removed, only tool call traces are retained. Within a single agent loop, agent sees full tool results but in the next turn, it doesn&#x27;t see the tool results anymore.<p>The greatest benefit of this approach is that a lot of tool results that are not needed in following turns don&#x27;t occupy the context. As a result, context window in a multi-turn conversation with Keen Code fills up much slowly compared to other agents. This is why you will regularly see context window coming down from 20% to 1% at the beginning of a new agent turn.<p>Of course, this approach has its pros and cons. If agent requires tool result from a previous call, it doesn&#x27;t have them. But my idea is that tool calls like read, bash, web_fetch are cheap. Do you need to refer to some earlier file you read? Read again. In fact, Claude Code or Codex frequently re-read a file, even though it has read the same file before.<p>I have plans for more effort in this area. I have a few additional ideas to explore and possibly optimise this approach further.<p>If you want to read about it: <a href=\"https:&#x",
+      "published_at": "2026-08-10T21:47:00Z",
+      "fetched_at": "2026-08-11T02:35:49.703Z"
+    },
+    {
+      "title": "Open-Weight Models Win Tokens, Closed Ones Keep Cash",
+      "url": "https://www.galaxy.com/insights/research/chart-of-the-week-open-weight-ai-models-frontier-labs-openai-anthropic",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-10T14:14:48Z",
+      "fetched_at": "2026-08-11T02:35:49.703Z"
+    },
+    {
+      "title": "Rogue AI agent hacks gym to get its user a spot in a popular class",
+      "url": "https://www.the-independent.com/tech/security/ai-agent-hacks-gym-openclaw-anthropic-b3030267.html",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-10T13:54:55Z",
+      "fetched_at": "2026-08-11T02:35:49.703Z"
+    },
+    {
+      "title": "Claude Code no longer limits sessions to 200 spawned subagents",
+      "url": "https://github.com/anthropics/claude-code/commit/66edf5358349356774812264b75b8ea792f0d0a3",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-08-10T19:39:40Z",
+      "fetched_at": "2026-08-11T02:35:49.703Z"
+    },
+    {
+      "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
+      "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
+      "source": "hn",
+      "score": 1049,
+      "content": "",
+      "published_at": "2026-08-10T10:10:02Z",
+      "fetched_at": "2026-08-11T02:35:50.183Z"
+    },
+    {
+      "title": "Show HN: Ante, a coding agent in a single binary that runs offline",
+      "url": "https://github.com/AntigmaLabs/ante",
+      "source": "hn",
+      "score": 119,
+      "content": "",
+      "published_at": "2026-08-10T15:59:23Z",
+      "fetched_at": "2026-08-11T02:35:50.183Z"
+    },
+    {
+      "title": "What's the best programming language for coding agents?",
+      "url": "http://danluu.com/pl-tokens/",
+      "source": "hn",
+      "score": 71,
+      "content": "Related: <i>Which programming languages are most token-efficient?</i> - <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=46582728\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=46582728</a> - Jan 2026 (91 comments)",
+      "published_at": "2026-08-10T16:28:58Z",
+      "fetched_at": "2026-08-11T02:35:50.183Z"
+    },
+    {
+      "title": "Xirp: The Agentic Development Environment Built by Spotify",
+      "url": "https://portal.spotify.com/blog/introducing-xirp",
+      "source": "hn",
+      "score": 31,
+      "content": "",
+      "published_at": "2026-08-10T15:40:05Z",
+      "fetched_at": "2026-08-11T02:35:50.183Z"
+    },
+    {
+      "title": "When Agentic Glue Melts: Exploiting Cloudflare Code Mode and Workers",
+      "url": "https://research.checkpoint.com/2026/when-agentic-glue-melts/",
+      "source": "hn",
+      "score": 16,
+      "content": "",
+      "published_at": "2026-08-10T12:59:43Z",
+      "fetched_at": "2026-08-11T02:35:50.183Z"
+    },
+    {
+      "title": "Muse Glimmer: Meta's open model built for always-on local agents. 30B parameters",
+      "url": "https://developer.meta.com/ai/models/muse-glimmer/",
+      "source": "hn",
+      "score": 10,
+      "content": "",
+      "published_at": "2026-08-10T10:19:04Z",
+      "fetched_at": "2026-08-11T02:35:50.183Z"
+    },
+    {
+      "title": "Implant – an extension to VS Code that exposes its APIs to coding agents",
+      "url": "https://marketplace.visualstudio.com/items?itemName=strangepleasures.implant",
+      "source": "hn",
+      "score": 9,
+      "content": "",
+      "published_at": "2026-08-10T09:22:25Z",
+      "fetched_at": "2026-08-11T02:35:50.183Z"
+    },
+    {
+      "title": "Self-Hosted Inference for Agents",
+      "url": "https://github.com/superlinked/sie",
+      "source": "hn",
+      "score": 8,
+      "content": "",
+      "published_at": "2026-08-10T13:55:11Z",
+      "fetched_at": "2026-08-11T02:35:50.183Z"
+    },
+    {
+      "title": "Xirp, a vendor-neutral agentic development environment by Spotify",
+      "url": "https://xirp.spotify.com/",
+      "source": "hn",
+      "score": 8,
+      "content": "",
+      "published_at": "2026-08-10T17:22:07Z",
+      "fetched_at": "2026-08-11T02:35:50.183Z"
+    },
+    {
+      "title": "Show HN: AI Pulse a fake LED strip beside the macOS Dock that shows agent status",
+      "url": "https://github.com/leog/ai-pulse",
+      "source": "hn",
+      "score": 7,
+      "content": "Hi HN!<p>I run a few Claude Code sessions in parallel and kept cmd-tabbing around just to find out one of them had been sitting on a permission prompt for ten minutes. There&#x27;s a hardware gadget I liked (called SidePulse.io) so before waiting to get my shipment I built the software version instead :D<p>I hope you like it and find it useful as I do!",
+      "published_at": "2026-08-10T22:07:41Z",
+      "fetched_at": "2026-08-11T02:35:50.183Z"
+    },
+    {
+      "title": "Meta releases a 30B agent model that fits in ~17GB",
+      "url": "https://huggingface.co/meta-models",
+      "source": "hn",
+      "score": 6,
+      "content": "",
+      "published_at": "2026-08-10T10:28:56Z",
+      "fetched_at": "2026-08-11T02:35:50.183Z"
+    },
+    {
+      "title": "Show HN: Opencodex, a free open-source coding agent for VSCode",
+      "url": "https://github.com/matonhp5108/Opencodex",
+      "source": "hn",
+      "score": 5,
+      "content": "",
+      "published_at": "2026-08-10T23:28:43Z",
+      "fetched_at": "2026-08-11T02:35:50.183Z"
+    },
+    {
+      "title": "How should we evaluate memory for AI agents?",
+      "url": "https://x.com/AgentMemoryL",
+      "source": "hn",
+      "score": 5,
+      "content": "",
+      "published_at": "2026-08-10T08:25:23Z",
+      "fetched_at": "2026-08-11T02:35:50.183Z"
+    },
+    {
+      "title": "Multiplayer Agents",
+      "url": "https://twitter.com/nikunj/status/2086438339419496449",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-08-10T14:09:27Z",
+      "fetched_at": "2026-08-11T02:35:50.183Z"
+    },
+    {
+      "title": "Prime Agent: A Self-Improving RLM Agent",
+      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-08-10T08:27:22Z",
+      "fetched_at": "2026-08-11T02:35:50.183Z"
+    },
+    {
+      "title": "Spotify launched Xirp, a vendor-neutral agentic development environment",
+      "url": "https://xcancel.com/antibot/captcha",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-08-10T20:16:49Z",
+      "fetched_at": "2026-08-11T02:35:50.183Z"
+    },
+    {
+      "title": "Introducing Muse Glimmer",
+      "url": "https://simonwillison.net/2026/Aug/10/introducing-muse-glimmer/#atom-everything",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-08-10T23:56:03.000Z",
+      "fetched_at": "2026-08-11T02:35:48.080Z"
+    },
+    {
+      "title": "Quoting OpenClaw",
+      "url": "https://simonwillison.net/2026/Aug/10/openclaw/#atom-everything",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-08-10T02:05:16.000Z",
+      "fetched_at": "2026-08-11T02:35:48.080Z"
+    },
+    {
+      "title": "Quoting Claude Opus 5 system prompt",
+      "url": "https://simonwillison.net/2026/Aug/9/claude-opus-5-system-prompt/#atom-everything",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-08-09T23:31:39.000Z",
+      "fetched_at": "2026-08-11T02:35:48.080Z"
+    },
+    {
+      "title": "GitHub Models is now retired",
+      "url": "https://simonwillison.net/2026/Aug/9/github-models-is-now-retired/#atom-everything",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-08-09T22:48:05.000Z",
+      "fetched_at": "2026-08-11T02:35:48.080Z"
+    },
+    {
+      "title": "SQLite compressed text-history prototypes",
+      "url": "https://simonwillison.net/2026/Aug/9/sqlite-text-history-prototype/#atom-everything",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-08-09T22:05:00.000Z",
+      "fetched_at": "2026-08-11T02:35:48.080Z"
+    },
+    {
+      "title": "SPOT: Sparse Probing and Outcome Calibration for On-Policy Distillation",
+      "url": "https://huggingface.co/papers/2608.04419",
+      "source": "hf-daily-papers",
+      "score": 14,
+      "content": "On-policy distillation (OPD) provides dense teacher supervision on student-generated trajectories, but standard reverse-KL training can assign insufficient probability to other plausible continuations. Teacher entropy alone does not reveal whether uncertainty is concentrated among a few plausible next tokens or dispersed over a long probability tail, nor whether the student already represents those candidates well. Moreover, local teacher probabilities may not predict downstream success. We introduce Sparse Probing and Outcome-calibrated Targets OPD (SPOT), which addresses two coupled decisions, where to probe and what to distill, through an acquisition--exploration--exploitation procedure. During acquisition, a position-level score combines normalized teacher entropy, the probability mass captured by a small top-k candidate set, and student--teacher mismatch to allocate a limited probing budget. During exploration, SPOT evaluates teacher-proposed candidates through verifier-scored student continuations. During exploitation, these outcomes produce a closed-form, KL-regularized target that favors candidates with better downstream outcomes while remaining anchored to the teacher distribution. Extensive experiments across multiple student models and reasoning benchmarks demonstrate the effectiveness of SPOT in improving reasoning performance while balancing solution quality and coverage.",
+      "published_at": "2026-08-04T20:00:00.000Z",
+      "fetched_at": "2026-08-11T02:35:48.089Z"
+    },
+    {
+      "title": "Evidence-RL: Towards Evidence-intensive Visual Reasoning",
+      "url": "https://huggingface.co/papers/2608.08021",
+      "source": "hf-daily-papers",
+      "score": 4,
+      "content": "Vision-Language Models (VLMs) should answer from concrete image evidence rather than language priors, dataset shortcuts, or irrelevant visual context. Existing perception-aware post-training methods encourage image use through global perturbations or attention proxies, but they do not test whether a sampled answer causally depends on the local evidence that supports it. We propose Counterfactual Evidence Disentanglement (CED), a training-time evidence audit for VLM grounding. For each response, CED neutralizes an object-centric Evidence Region and compares the resulting support drop against matched non-evidence Regions. We combine this signal with answer correctness inside GRPO, rewarding correct answers that rely on the evidence path rather than shortcut or nuisance paths. CED uses weak object-level proposals, requires no question-specific evidence annotations, and adds no inference-time overhead. Across nine public benchmarks and four backbones, CED outperforms prior RL-based post-training methods, with targeted analyses verifying its object-centric signal.",
+      "published_at": "2026-08-07T20:00:00.000Z",
+      "fetched_at": "2026-08-11T02:35:48.089Z"
+    }
+  ]
+}
