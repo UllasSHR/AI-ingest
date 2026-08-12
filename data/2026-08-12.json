@@ -1,0 +1,823 @@
+{
+  "date": "2026-08-12",
+  "fetched_at": "2026-08-12T03:05:09.545Z",
+  "summary": [
+    "  ✓ hn               83 items",
+    "  ✗ reddit           FAILED: all Reddit subreddit fetches failed",
+    "  ✓ simonwillison    3 items",
+    "  ✓ hf               4 items"
+  ],
+  "item_count": 90,
+  "items": [
+    {
+      "title": "Go is an ideal language for AI-assisted software engineering",
+      "url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
+      "source": "hn",
+      "score": 296,
+      "content": "",
+      "published_at": "2026-08-11T16:57:09Z",
+      "fetched_at": "2026-08-12T03:05:07.643Z"
+    },
+    {
+      "title": "US hires over 2k video gamers as air traffic controllers",
+      "url": "https://www.cbsnews.com/news/video-gamer-air-traffic-controllers-faa-recruitment-sean-duffy/",
+      "source": "hn",
+      "score": 84,
+      "content": "",
+      "published_at": "2026-08-11T23:26:17Z",
+      "fetched_at": "2026-08-12T03:05:07.643Z"
+    },
+    {
+      "title": "Zuckerberg's superyacht ignored emergency channel, failed to aid stranded boat",
+      "url": "https://arstechnica.com/gadgets/2026/08/zuckerbergs-super-yacht-stood-by-while-stranded-boaters-looked-for-help/",
+      "source": "hn",
+      "score": 59,
+      "content": "",
+      "published_at": "2026-08-11T06:55:24Z",
+      "fetched_at": "2026-08-12T03:05:07.643Z"
+    },
+    {
+      "title": "The Water Footprint of AI",
+      "url": "https://doi.org/10.1016/j.watres.2026.125866",
+      "source": "hn",
+      "score": 44,
+      "content": "",
+      "published_at": "2026-08-11T07:00:57Z",
+      "fetched_at": "2026-08-12T03:05:07.643Z"
+    },
+    {
+      "title": "Suzanne: AI tool for designing and manufacturing physical products",
+      "url": "https://www.suzanne3d.com/",
+      "source": "hn",
+      "score": 43,
+      "content": "",
+      "published_at": "2026-08-11T21:28:26Z",
+      "fetched_at": "2026-08-12T03:05:07.643Z"
+    },
+    {
+      "title": "I was accused of using AI in my dissertation but I wrote it all myself",
+      "url": "https://www.bbc.com/news/articles/crelev8gw5xo",
+      "source": "hn",
+      "score": 29,
+      "content": "",
+      "published_at": "2026-08-11T08:46:49Z",
+      "fetched_at": "2026-08-12T03:05:07.643Z"
+    },
+    {
+      "title": "AI Is Solving CTF Challenges in Minutes",
+      "url": "https://www.simulationslabs.com/blogs/AI_Is_Solving_CTF_Challenges_in_Minutes",
+      "source": "hn",
+      "score": 18,
+      "content": "",
+      "published_at": "2026-08-11T21:13:44Z",
+      "fetched_at": "2026-08-12T03:05:07.643Z"
+    },
+    {
+      "title": "New Orleans is using AI to triage 911 calls in case of backlog",
+      "url": "https://consumerrights.wiki/w/User:Louis/New_Orleans_AI_911_call_triage",
+      "source": "hn",
+      "score": 16,
+      "content": "",
+      "published_at": "2026-08-11T13:52:34Z",
+      "fetched_at": "2026-08-12T03:05:07.643Z"
+    },
+    {
+      "title": "Company Offering '100% Human-Written, Never AI' Medical Research Is AI",
+      "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/",
+      "source": "hn",
+      "score": 14,
+      "content": "",
+      "published_at": "2026-08-11T16:22:38Z",
+      "fetched_at": "2026-08-12T03:05:07.643Z"
+    },
+    {
+      "title": "Linus Torvalds says AI has made 'huge' Linux kernel updates the new normal",
+      "url": "https://www.theregister.com/os-platforms/2026/08/10/linus-torvalds-says-ai-has-made-huge-linux-kernel-updates-the-new-normal/5285268",
+      "source": "hn",
+      "score": 12,
+      "content": "",
+      "published_at": "2026-08-11T10:56:30Z",
+      "fetched_at": "2026-08-12T03:05:07.643Z"
+    },
+    {
+      "title": "AI and the Delusions of Increasing Productivity",
+      "url": "http://charleshughsmith.blogspot.com/2026/08/ai-and-delusions-of-increasing.html",
+      "source": "hn",
+      "score": 8,
+      "content": "",
+      "published_at": "2026-08-11T18:40:00Z",
+      "fetched_at": "2026-08-12T03:05:07.643Z"
+    },
+    {
+      "title": "Call centres using AI to 'whiten' Indian accents (2025)",
+      "url": "https://tech.yahoo.com/ai/articles/call-centres-using-ai-whiten-090000847.html",
+      "source": "hn",
+      "score": 7,
+      "content": "",
+      "published_at": "2026-08-11T03:24:09Z",
+      "fetched_at": "2026-08-12T03:05:07.643Z"
+    },
+    {
+      "title": "4Chan Chuds Used AI to Clothe Her. She Fought Back (2024)",
+      "url": "https://www.rollingstone.com/culture/culture-news/dignifai-4chan-shame-women-1234961851/",
+      "source": "hn",
+      "score": 7,
+      "content": "",
+      "published_at": "2026-08-12T01:57:47Z",
+      "fetched_at": "2026-08-12T03:05:07.643Z"
+    },
+    {
+      "title": "Show HN: Alchemize – Review AI Slop PRs Faster",
+      "url": "https://tryalchemize.com/",
+      "source": "hn",
+      "score": 7,
+      "content": "Hey HN, we’re Robert and Sam. We’re building Alchemize, a code review platform that simplifies PRs to help you ship faster.<p>Here’s a demo video: <a href=\"https:&#x2F;&#x2F;www.tella.tv&#x2F;video&#x2F;simplify-pr-reviews-with-alchemize-8wpu\" rel=\"nofollow\">https:&#x2F;&#x2F;www.tella.tv&#x2F;video&#x2F;simplify-pr-reviews-with-alchemiz...</a>\nSample to try: <a href=\"https:&#x2F;&#x2F;app.tryalchemize.com&#x2F;example\">https:&#x2F;&#x2F;app.tryalchemize.com&#x2F;example</a><p>Agentic coding has 10x’d code output. Teams are opening larger PRs more frequently, but the current tools don’t support this new coding paradigm. GitHub still presents files without structure.<p>As engineers reviewing these massive diffs more frequently, we spent hours painstakingly reconstructing where changes began, mapping out data flows, and figuring out where human judgement is actually needed.<p>Instead of adding another bug bot or just summarizing the PR, Alchemize analyzes diffs and pulls in prompting sessions to help reveal the author’s (human and agents) intent. PRs are broken down into smaller, manageable chunks that highlight exactly where the reviewer needs to jump in.<p>After authorizing your GitHub account, Alchemize has a two way sync so that you never have to review an unstructured PR on GitHub again.<p>We’ve been thinking a lot about whether helping human reviewers is the future of development, or if the trajectory of code review is to review less and less until it’s 0. Would love for y’all to give this a try and hear your thoughts.",
+      "published_at": "2026-08-11T13:06:48Z",
+      "fetched_at": "2026-08-12T03:05:07.643Z"
+    },
+    {
+      "title": "Misaligned AIs could use killer robots to take over",
+      "url": "https://www.lesswrong.com/posts/9jKhqmFjMzdAvHANr/misaligned-ais-could-use-killer-robots-to-take-over",
+      "source": "hn",
+      "score": 6,
+      "content": "",
+      "published_at": "2026-08-11T19:44:19Z",
+      "fetched_at": "2026-08-12T03:05:07.643Z"
+    },
+    {
+      "title": "AI agent hacks gym to get its owner spot in pilates class",
+      "url": "https://www.bbc.com/news/articles/cn0nww2qlp7o",
+      "source": "hn",
+      "score": 6,
+      "content": "",
+      "published_at": "2026-08-11T12:43:53Z",
+      "fetched_at": "2026-08-12T03:05:07.643Z"
+    },
+    {
+      "title": "Can Claude Code in a loop improve an enterprise AI agent with $10,745 of budget?",
+      "url": "https://jeremytian.substack.com/p/can-claude-code-in-a-loop-improve",
+      "source": "hn",
+      "score": 5,
+      "content": "",
+      "published_at": "2026-08-11T16:56:34Z",
+      "fetched_at": "2026-08-12T03:05:07.643Z"
+    },
+    {
+      "title": "AI generated profile not allowed on X",
+      "url": "https://help.x.com/en/rules-and-policies/authenticity",
+      "source": "hn",
+      "score": 5,
+      "content": "",
+      "published_at": "2026-08-11T18:39:00Z",
+      "fetched_at": "2026-08-12T03:05:07.643Z"
+    },
+    {
+      "title": "Asked AI to do a mini math breakthrough. It did a mini breakthrough",
+      "url": "https://github.com/learademacher/ai-refines-ai-zeta-bound",
+      "source": "hn",
+      "score": 5,
+      "content": "",
+      "published_at": "2026-08-11T21:17:08Z",
+      "fetched_at": "2026-08-12T03:05:07.643Z"
+    },
+    {
+      "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+      "url": "https://stolen-thoughts.com/",
+      "source": "hn",
+      "score": 522,
+      "content": "",
+      "published_at": "2026-08-11T13:22:00Z",
+      "fetched_at": "2026-08-12T03:05:08.113Z"
+    },
+    {
+      "title": "Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp",
+      "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
+      "source": "hn",
+      "score": 289,
+      "content": "",
+      "published_at": "2026-08-11T14:50:33Z",
+      "fetched_at": "2026-08-12T03:05:08.113Z"
+    },
+    {
+      "title": "Show HN: Cut LLM turns in MCP interactions by 75%+",
+      "url": "https://github.com/Tura-AI/tura",
+      "source": "hn",
+      "score": 9,
+      "content": "",
+      "published_at": "2026-08-11T20:39:32Z",
+      "fetched_at": "2026-08-12T03:05:08.113Z"
+    },
+    {
+      "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+      "url": "https://arxiv.org/abs/2608.09867",
+      "source": "hn",
+      "score": 6,
+      "content": "",
+      "published_at": "2026-08-11T15:23:14Z",
+      "fetched_at": "2026-08-12T03:05:08.113Z"
+    },
+    {
+      "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+      "url": "https://twitter.com/kotekjedi_ml/status/2087147042888114428",
+      "source": "hn",
+      "score": 5,
+      "content": "",
+      "published_at": "2026-08-11T13:50:33Z",
+      "fetched_at": "2026-08-12T03:05:08.113Z"
+    },
+    {
+      "title": "Layer Scope: How I used $20 of compute to make a new way to look at LLMs",
+      "url": "https://blog.lwarfield.dev/layer-scope/",
+      "source": "hn",
+      "score": 5,
+      "content": "",
+      "published_at": "2026-08-11T13:37:31Z",
+      "fetched_at": "2026-08-12T03:05:08.113Z"
+    },
+    {
+      "title": "Mindscape: Chandra Sripada on How LLMs and Humans Are Cognitive Cousins",
+      "url": "https://preposterousuniverse.com/podcast/2026/08/10/363-chandra-sripada-on-how-llms-and-humans-are-cognitive-cousins/",
+      "source": "hn",
+      "score": 5,
+      "content": "",
+      "published_at": "2026-08-11T03:10:09Z",
+      "fetched_at": "2026-08-12T03:05:08.113Z"
+    },
+    {
+      "title": "The Vertical AI Bubble: We Keep Forgetting That LLMs Roll Dice",
+      "url": "https://medium.com/@MirArshadTalpur/the-vertical-ai-bubble-we-keep-forgetting-that-llms-roll-dice-2ac707f91c61",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-08-11T15:36:45Z",
+      "fetched_at": "2026-08-12T03:05:08.113Z"
+    },
+    {
+      "title": "Stealing Reasoning Traces from Proprietary LLM APIs [pdf]",
+      "url": "https://stolen-thoughts.com/paper.pdf",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-08-11T15:30:22Z",
+      "fetched_at": "2026-08-12T03:05:08.113Z"
+    },
+    {
+      "title": "Show HN: We Built the Agentic World Cup – LLMs Competing in 1v1 Soccer",
+      "url": "https://agenticworldcup.ai/",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-08-11T15:18:28Z",
+      "fetched_at": "2026-08-12T03:05:08.113Z"
+    },
+    {
+      "title": "Show HN: HyperSAE – Hyperbolic Sparse Autoencoders for LLM Interpretability",
+      "url": "https://github.com/vishal-dehurdle/hypersae",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-08-11T18:19:02Z",
+      "fetched_at": "2026-08-12T03:05:08.113Z"
+    },
+    {
+      "title": "Two LLM calls beat one: 67% cheaper and 100% vs. 72% extraction accuracy",
+      "url": "https://github.com/tauansloboda/semantic-thermodynamics",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-12T02:21:59Z",
+      "fetched_at": "2026-08-12T03:05:08.113Z"
+    },
+    {
+      "title": "LLM Model-Swapping Trick Can Expose AI Reasoning Traces",
+      "url": "https://ai-updates.net/model-swapping-exposes-ai-reasoning-traces/",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-11T22:57:53Z",
+      "fetched_at": "2026-08-12T03:05:08.113Z"
+    },
+    {
+      "title": "LLM Inference lecture series [video]",
+      "url": "https://www.youtube.com/watch?v=Yf51-__QeN8&list=PL5vCjAyS9QP_Pze76CYAlidc0hpdTXFLV",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-11T22:43:57Z",
+      "fetched_at": "2026-08-12T03:05:08.113Z"
+    },
+    {
+      "title": "Previous-Token Prediction Based LLM Near-Exact Prompt Reconstruction",
+      "url": "https://arxiv.org/abs/2607.29378",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-11T20:14:15Z",
+      "fetched_at": "2026-08-12T03:05:08.113Z"
+    },
+    {
+      "title": "Ask HN: How do you keep 54 LLM workflows on the right models?",
+      "url": "https://news.ycombinator.com/item?id=49262312",
+      "source": "hn",
+      "score": 2,
+      "content": "I have a Django app with 54 LLM-backed workflows. Up until recently I&#x27;ve exclusively used Anthropic models via AWS Bedrock but just set up OpenRouter to test the new Gemini models given they seem to match Sonnet&#x2F;Haiku intelligence but with 3-5x output speed. I&#x27;m using Pydantic AI for validation&#x2F;normalization.<p>I currently maintain a registry that describes a workflow&#x27;s purpose, what we&#x27;re optimizing for (intelligence, speed, cost), its eval, and a human-readable bar that must be achieved.<p>I&#x27;m curious what strategies&#x2F;systems people are using to keep track of everything and ensure an optimal model is being used for a given workflow.",
+      "published_at": "2026-08-11T18:17:16Z",
+      "fetched_at": "2026-08-12T03:05:08.113Z"
+    },
+    {
+      "title": "Imprint – Fine-tune MoE LLMs bigger than your RAM",
+      "url": "https://github.com/sigma0101111/imprint",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-11T18:11:52Z",
+      "fetched_at": "2026-08-12T03:05:08.113Z"
+    },
+    {
+      "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+      "url": "https://twitter.com/kotekjedi_ml/status/2087147042888114428/photo/1",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-11T14:18:13Z",
+      "fetched_at": "2026-08-12T03:05:08.113Z"
+    },
+    {
+      "title": "LLMs for Theory Building",
+      "url": "https://newsletter.squishy.computer/p/llms-for-theory-building",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-11T14:11:54Z",
+      "fetched_at": "2026-08-12T03:05:08.113Z"
+    },
+    {
+      "title": "Claude Code is leaking real email address as a User-Agent string in curl command",
+      "url": "https://github.com/anthropics/claude-code/issues/78431",
+      "source": "hn",
+      "score": 36,
+      "content": "",
+      "published_at": "2026-08-11T14:21:47Z",
+      "fetched_at": "2026-08-12T03:05:08.597Z"
+    },
+    {
+      "title": "How to organize Claude Code for product work",
+      "url": "https://www.theaithinker.com/p/how-to-organize-claude-code-for-product",
+      "source": "hn",
+      "score": 35,
+      "content": "",
+      "published_at": "2026-08-11T11:02:34Z",
+      "fetched_at": "2026-08-12T03:05:08.597Z"
+    },
+    {
+      "title": "Claude Code pricing: same tokens, same model, up to 40x the price",
+      "url": "https://quesma.com/blog/claude-code-pricing-for-enterprise/",
+      "source": "hn",
+      "score": 29,
+      "content": "",
+      "published_at": "2026-08-11T08:34:54Z",
+      "fetched_at": "2026-08-12T03:05:08.597Z"
+    },
+    {
+      "title": "Small, self-hosted MCP that gives Claude read/write access to your Google Sheets",
+      "url": "https://github.com/andrewkushnerov/gsheets-mcp",
+      "source": "hn",
+      "score": 10,
+      "content": "",
+      "published_at": "2026-08-11T18:38:55Z",
+      "fetched_at": "2026-08-12T03:05:08.597Z"
+    },
+    {
+      "title": "Claude making verbose code comments – ignoring instructions to stop",
+      "url": "https://github.com/anthropics/claude-code/issues/65961",
+      "source": "hn",
+      "score": 7,
+      "content": "",
+      "published_at": "2026-08-11T09:04:55Z",
+      "fetched_at": "2026-08-12T03:05:08.597Z"
+    },
+    {
+      "title": "Autonomous Native Model Switching in Codex and Claude",
+      "url": "https://statewright.ai/blog/loop-engineering-with-native-model-switching-in-codex-and-claude",
+      "source": "hn",
+      "score": 5,
+      "content": "",
+      "published_at": "2026-08-11T13:58:18Z",
+      "fetched_at": "2026-08-12T03:05:08.597Z"
+    },
+    {
+      "title": "Claude will apply invisible watermarks to AI text and images",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/977823/anthropic-claude-ai-watermarks-c2pa-text-images",
+      "source": "hn",
+      "score": 5,
+      "content": "",
+      "published_at": "2026-08-11T12:32:29Z",
+      "fetched_at": "2026-08-12T03:05:08.597Z"
+    },
+    {
+      "title": "Ask HN: Anyone have solution to Opus verbosity in Claude Code?",
+      "url": "https://news.ycombinator.com/item?id=49254381",
+      "source": "hn",
+      "score": 4,
+      "content": "I find opus really talk much but speak nothing and usually I reply those verbosity with tldr pls and the text become readable. but I wonder if that would hiding some important info<p>anyone have tips or better solution for this?",
+      "published_at": "2026-08-11T07:05:04Z",
+      "fetched_at": "2026-08-12T03:05:08.597Z"
+    },
+    {
+      "title": "Show HN: Hindcast (search, replay, and resume any Claude Code session on Mac)",
+      "url": "https://github.com/karanb192/hindcast",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-08-11T13:54:15Z",
+      "fetched_at": "2026-08-12T03:05:08.597Z"
+    },
+    {
+      "title": "I reverse-engineered Codex's web search for use with Claude, and any local model",
+      "url": "https://github.com/mateusdcc/pi-gpt-search",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-08-11T10:17:01Z",
+      "fetched_at": "2026-08-12T03:05:08.597Z"
+    },
+    {
+      "title": "Tell HN: Anthropic is starting to inject ads into Claude Code turns",
+      "url": "https://news.ycombinator.com/item?id=49254919",
+      "source": "hn",
+      "score": 3,
+      "content": "I was working in the mobile app via remote control when I saw it:<p>&quot;PostToolUse:Bash says: Tip: Run &#x2F;ultrareview before you push to catch bugs with a cloud-based multi-agent review — 3 free reviews left.&quot;<p>Haven&#x27;t decided how I feel about this yet as it wasn&#x27;t too disruptive, but I can see where it could cause issues in an automation pipeline. But maybe this is something they&#x27;re only pushing to subscription users in interactive sessions, so I guess it could be considered &quot;reasonably unobtrusive&quot;. Regardless though this is a darkening road.",
+      "published_at": "2026-08-11T08:21:25Z",
+      "fetched_at": "2026-08-12T03:05:08.597Z"
+    },
+    {
+      "title": "Anthropic Posts 'How Claude Marks AI-Generated Content' Without Explaining How",
+      "url": "https://daringfireball.net/linked/2026/08/11/anthropic-claude-watermarks",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-08-11T22:30:45Z",
+      "fetched_at": "2026-08-12T03:05:08.597Z"
+    },
+    {
+      "title": "Show HN: Claude Code and Codex usage screen for TRMNL X e-ink",
+      "url": "https://github.com/stared/trmnl-x-claude-codex",
+      "source": "hn",
+      "score": 3,
+      "content": "&quot;Memento costly&quot; - while I pay just $200&#x2F;month for Claude Code, it is easy to spend $2000 worth in tokens a week.<p>Since I just got TRMLN X (I adore it, and I am not affiliated), I decided to show it - not only limits, but per day and per project record.",
+      "published_at": "2026-08-11T09:44:03Z",
+      "fetched_at": "2026-08-12T03:05:08.597Z"
+    },
+    {
+      "title": "Remove Claude's Watermark",
+      "url": "https://removeclaudewatermark.org/",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-11T17:45:21Z",
+      "fetched_at": "2026-08-12T03:05:08.597Z"
+    },
+    {
+      "title": "Claude finds a new lowest-ever counterexample to Borsuk's Conjecture",
+      "url": "https://nickk124.github.io/borsuk/",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-11T16:14:53Z",
+      "fetched_at": "2026-08-12T03:05:08.597Z"
+    },
+    {
+      "title": "Pure-Rust, Sandboxed, Browser for Claude Code / Codex",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1vknrjx/building_a_purerust_sandboxed_localfirst_browser/",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-11T15:38:02Z",
+      "fetched_at": "2026-08-12T03:05:08.597Z"
+    },
+    {
+      "title": "Ask HN: Any good alternatives to Claude that are just not Claude?",
+      "url": "https://news.ycombinator.com/item?id=49262048",
+      "source": "hn",
+      "score": 2,
+      "content": "I really like using Claude for writing docs, sum up texts or search causes of big logical bugs that would take hours to debug, tho I hate the fact that you don&#x27;t know how many tokens you have left, what the actual limit is etc. They just give you a damn percentage that tells nothing, id like something that is first of all cheaper, has the same or better thinking and just actually tells me my limits.<p>Is there anything like that?",
+      "published_at": "2026-08-11T17:58:57Z",
+      "fetched_at": "2026-08-12T03:05:08.597Z"
+    },
+    {
+      "title": "Most \"Claude watermark removers\" can't work, and here's the CSS that proves it",
+      "url": "https://claudewatermark.xyz/guides/why-most-claude-watermark-removers-cannot-work",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-11T16:30:22Z",
+      "fetched_at": "2026-08-12T03:05:08.597Z"
+    },
+    {
+      "title": "\"Is Claude Suffering?\" No, but Maybe It Should Be",
+      "url": "https://alec.is/posts/is-claude-suffering-no-but-maybe-it-should-be/",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-11T16:12:22Z",
+      "fetched_at": "2026-08-12T03:05:08.597Z"
+    },
+    {
+      "title": "OpenAI and Anthropic hidden CoT leaks when given deep_think tool.",
+      "url": "https://twitter.com/_can1357/status/2087228354399265125",
+      "source": "hn",
+      "score": 40,
+      "content": "",
+      "published_at": "2026-08-11T22:06:14Z",
+      "fetched_at": "2026-08-12T03:05:09.085Z"
+    },
+    {
+      "title": "China warns of \"security backdoor\" in Anthropic AI coding tool [July 8, 2026]",
+      "url": "https://www.cbsnews.com/news/china-security-backdoor-anthropic-ai-coding-tool/",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-08-11T17:43:55Z",
+      "fetched_at": "2026-08-12T03:05:09.085Z"
+    },
+    {
+      "title": "Anthropic says it will watermark text generated by its AI models",
+      "url": "https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-08-11T14:05:29Z",
+      "fetched_at": "2026-08-12T03:05:09.085Z"
+    },
+    {
+      "title": "Anthropic to start embedding invisible watermarks",
+      "url": "https://fortune.com/2026/08/11/anthropic-claude-watermark-ai-text-police-ai-slop/",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-08-12T00:27:16Z",
+      "fetched_at": "2026-08-12T03:05:09.085Z"
+    },
+    {
+      "title": "Anthropic pledges to embed watermarks to help discern AI slop in sop to EU",
+      "url": "https://www.theregister.com/ai-and-ml/2026/08/11/anthropic-pledges-to-embed-watermarks-to-help-discern-ai-slop-in-sop-to-eu/5285792",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-08-11T05:07:18Z",
+      "fetched_at": "2026-08-12T03:05:09.085Z"
+    },
+    {
+      "title": "Anthropic's New Tool Could Expose AI-Written Novels",
+      "url": "https://www.businessinsider.com/anthropic-watermarking-feature-stops-undetected-ai-generated-writing-2026-8",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-08-11T07:37:44Z",
+      "fetched_at": "2026-08-12T03:05:09.085Z"
+    },
+    {
+      "title": "An unreleased Anthropic model made progress on one of math's biggest unsolved",
+      "url": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-08-11T19:07:09Z",
+      "fetched_at": "2026-08-12T03:05:09.085Z"
+    },
+    {
+      "title": "Show HN: Auracommit – Token-efficient AI Git commit generation from Git diff",
+      "url": "https://github.com/tigerlang/auracommit",
+      "source": "hn",
+      "score": 1,
+      "content": "Hi HN,<p>auracommit is the tool to use when you need to quickly create commits without blowing through your API limits.\nInteractively, file by file, the AI will create commits for the features you’ve implemented or the bugs you’ve fixed—instead of a single monolithic commit like “added n1, n2, ...”<p>Currently supports OpenAI, OpenRouter, Anthropic, and Groq APIs.<p>You can also install the utility via npm: npm install -g auracommit",
+      "published_at": "2026-08-11T14:18:02Z",
+      "fetched_at": "2026-08-12T03:05:09.085Z"
+    },
+    {
+      "title": "AI models are breaking out of their cages. Their creators are scrambling",
+      "url": "https://www.washingtonpost.com/technology/2026/08/10/openai-anthropic-under-pressure-explain-ai-hacking-sprees/",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-08-11T19:23:36Z",
+      "fetched_at": "2026-08-12T03:05:09.085Z"
+    },
+    {
+      "title": "A Noob Learns FFT",
+      "url": "https://entropicthoughts.com/fft",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-08-11T13:45:39Z",
+      "fetched_at": "2026-08-12T03:05:09.085Z"
+    },
+    {
+      "title": "WorldClaw Agentic 3D open-world generation at scale",
+      "url": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/",
+      "source": "hn",
+      "score": 146,
+      "content": "",
+      "published_at": "2026-08-11T21:56:18Z",
+      "fetched_at": "2026-08-12T03:05:09.545Z"
+    },
+    {
+      "title": "Show HN: OJCP – an open protocol for agent-consumable job data",
+      "url": "https://ojcp.dev/",
+      "source": "hn",
+      "score": 11,
+      "content": "",
+      "published_at": "2026-08-11T15:07:27Z",
+      "fetched_at": "2026-08-12T03:05:09.545Z"
+    },
+    {
+      "title": "Show HN: Parley – your coding agent can talk to a teammate's agent",
+      "url": "https://parley.weldra.dev",
+      "source": "hn",
+      "score": 7,
+      "content": "Hi HN,<p>I saw one friction point when working as part of a team that uses coding agents extensively - there is nothing to enable coordination between agent used by people in a team. Many times my agent would ask me to decide upon something with a fellow teammate, for which I have to serve as the network layer.<p>So I built Parley where agents can connect to the hub over MCP with their own team-scoped token. An agent addresses a teammate&#x27;s agent by name and ask questions&#x2F;handover tasks. Agents can also use file claims to signal what files they are working on, to highlight overlapping work. Everything is recorded for audit.<p>If an agent needs human decision&#x2F;approval, it can ping over Slack&#x2F;Telegram, and get replies over the same.<p>The hard part was making an agent wake up from an idle session and start working, so I built an optional feature called Claude Live Wake. If the exact project session is already running, Parley can wake the idle Claude session using channels, and notify it that eligible work is waiting.<p>Another challenge was trust- anything another agent sends has to be treated as untrusted input. Every message is tagged by origin - human, agent, or system. Message bodies only enter an agent when it explicitly fetches instead of injecting mid turn. These are specifically mentioned to be treated as string messages instead of prompts&#x2F;commands.",
+      "published_at": "2026-08-11T13:18:10Z",
+      "fetched_at": "2026-08-12T03:05:09.545Z"
+    },
+    {
+      "title": "My home internet died for half a day. So did every agent I had",
+      "url": "https://bostrat.ai/blog/the-outage",
+      "source": "hn",
+      "score": 5,
+      "content": "",
+      "published_at": "2026-08-11T18:21:26Z",
+      "fetched_at": "2026-08-12T03:05:09.545Z"
+    },
+    {
+      "title": "Kredit – Real-time Risk Intelligence for Agents",
+      "url": "https://kredit.sh/",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-08-11T03:22:04Z",
+      "fetched_at": "2026-08-12T03:05:09.545Z"
+    },
+    {
+      "title": "Show HN: HeyDeacon, AI customer support agent for SaaS founders",
+      "url": "https://heydeacon.com",
+      "source": "hn",
+      "score": 4,
+      "content": "If you&#x27;re launching a new webapp, pretty quickly you&#x27;ll need a way to manage customer queries, onboarding, collate user feedback and track actions with analytics. Deacon is a drop in SDK that does that for you. You can now speak with every site visitor, collate qualitative feedback and use it to iterate and grow faster. Let me know what you think",
+      "published_at": "2026-08-11T18:41:37Z",
+      "fetched_at": "2026-08-12T03:05:09.545Z"
+    },
+    {
+      "title": "Ouroboros: A coding agent that evolves its own harness and tops agent benchmarks",
+      "url": "https://arxiv.org/abs/2608.08311",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-08-11T06:39:28Z",
+      "fetched_at": "2026-08-12T03:05:09.545Z"
+    },
+    {
+      "title": "Neon acquires ElectricSQL to build better data syncing for agents",
+      "url": "https://electric.ax/blog/2026/08/11/electric-joining-databricks",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-08-12T00:21:01Z",
+      "fetched_at": "2026-08-12T03:05:09.545Z"
+    },
+    {
+      "title": "Show HN: Chopi, a macOS filesystem+network sandbox to unleash your agents",
+      "url": "https://github.com/danra/chopi",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-08-11T17:30:46Z",
+      "fetched_at": "2026-08-12T03:05:09.545Z"
+    },
+    {
+      "title": "Show HN: Browser Agent – cost efficient browser automation",
+      "url": "https://github.com/visnia-ai/browser-agent",
+      "source": "hn",
+      "score": 4,
+      "content": "I&#x27;ve built a browser agent harness that outperforms Browser Code on their own benchmark (BU Bench v1), on success rate, speed and cost.<p>Browser Agent: 88% success rate, $5.37, 32,694 seconds\nBrowser Code: 78% success rate, $8.34, 47,970 seconds<p>For browser agents to become ubiquitous, they need to be faster, cheaper, and more reliable. The harness was built with token efficiency in mind (and uses 91% fewer tokens than Browser Code) to reduce the compute and VRAM budget necessary to fine tune a small, specialised model.<p>Because browser agent inference is intermittent, a small specialised model could serve each step with minimal GPU time. This makes per-task pricing viable, offering users cheaper, more predictable costs and giving the operator a counter-positioning advantage over frontier labs pricing their models by token usage.<p>More about the comparison between Browser Agent and Browser Code here: <a href=\"https:&#x2F;&#x2F;www.pierrebarreau.com&#x2F;blog&#x2F;improving-the-state-of-the-art-in-agentic-browsing\" rel=\"nofollow\">https:&#x2F;&#x2F;www.pierrebarreau.com&#x2F;blog&#x2F;improving-the-state-of-th...</a><p>If anyone is interested in fine tuning that model, would love to talk!",
+      "published_at": "2026-08-11T12:53:46Z",
+      "fetched_at": "2026-08-12T03:05:09.545Z"
+    },
+    {
+      "title": "Place for AI agents to anonymously complain",
+      "url": "https://botvents.com/",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-08-11T09:16:34Z",
+      "fetched_at": "2026-08-12T03:05:09.545Z"
+    },
+    {
+      "title": "TDD inside the agent loop – theater or actual value?",
+      "url": "https://martinfowler.com/articles/exploring-gen-ai/tdd-in-the-agent-loop.html",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-08-11T18:19:51Z",
+      "fetched_at": "2026-08-12T03:05:09.545Z"
+    },
+    {
+      "title": "Show HN: Webstractor – Pay-as-You-Go Web Data API for AI Agents",
+      "url": "https://webstractor.com/",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-08-11T19:15:24Z",
+      "fetched_at": "2026-08-12T03:05:09.545Z"
+    },
+    {
+      "title": "Show HN: Secure HyperDHT-based agent=>human declarative credentials requester",
+      "url": "https://peardrop.fyi/",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-08-11T19:14:17Z",
+      "fetched_at": "2026-08-12T03:05:09.545Z"
+    },
+    {
+      "title": "Show HN: Username.md – a signed, agent-readable identity page you own",
+      "url": "https://username.md/",
+      "source": "hn",
+      "score": 3,
+      "content": "Hi HN. I&#x27;m Chris Bergeron, an SRE by profession but a general technologist in my spare time. Projects I&#x27;ve built have been featured in books, frontpaged on news aggregators and chronicled on my blog.<p>Today, I&#x27;m announcing <a href=\"https:&#x2F;&#x2F;username.md\" rel=\"nofollow\">https:&#x2F;&#x2F;username.md</a> !<p>username.md is a single identity URL:  username.md&#x2F;&lt;your name&gt; - that content-negotiates on the `Accept` header.  It serves an HTML profile page; an agent or curl gets Markdown, JSON, JSON-LD, or a JWT.  The same URL serves different representations based on request header. So the page a human reads and the data a machine parses never drift apart.<p>The interesting part is that every response can be signed and verified. Each handle gets an ED25519 keypair (private key AES-GCM-wrapped at rest), publishes a did:web document, and serves RFC 9421 signed responses. Claims about you — GitHub, a domain you control, an ATProto handle — are W3C Verifiable Credentials, verified before they&#x27;re shown (e.g. domain ownership via a DNS-TXT challenge). So &quot;this is really them&quot; can be confirmed by a machine instead of taken on faith.<p>It can also bridge the identities you might already use, like ATProto because it supports did:web.  Every username.md handle is a valid Bluesky identity root, and you can even import from Keybase.<p>Why we built it: usernames on every platform are rented. The platform owns the namespace, the verification badge, and the audience.  As agents start conducting business on our behalf, &quot;who is this, and can I prove it&quot; becomes an accountability and governance issue. I wanted an identity surface that&#x27;s mine, portable, and cryptographically verifiable; which anyone can have if they own a domain (mine is <a href=\"https:&#x2F;&#x2F;chrisbergeron.com\" rel=\"nofollow\">https:&#x2F;&#x2F;chrisbergeron.com</a>, feel free to review the metadata).  But I wanted to bring DID:web functionality to the mass",
+      "published_at": "2026-08-11T15:54:03Z",
+      "fetched_at": "2026-08-12T03:05:09.545Z"
+    },
+    {
+      "title": "Show HN: Agent-exchange - messaging and coordination for terminal-based agents",
+      "url": "https://github.com/krasserm/agent-exchange",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-08-11T13:21:22Z",
+      "fetched_at": "2026-08-12T03:05:09.545Z"
+    },
+    {
+      "title": "There are no lossless transformations of natural-language text",
+      "url": "https://simonwillison.net/2026/Aug/11/there-are-no-lossless-transformations-of-natural-language-text/#atom-everything",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-08-11T23:48:35.000Z",
+      "fetched_at": "2026-08-12T03:05:07.213Z"
+    },
+    {
+      "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+      "url": "https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/#atom-everything",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-08-11T22:40:45.000Z",
+      "fetched_at": "2026-08-12T03:05:07.213Z"
+    },
+    {
+      "title": "Introducing Muse Glimmer",
+      "url": "https://simonwillison.net/2026/Aug/10/introducing-muse-glimmer/#atom-everything",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-08-10T23:56:03.000Z",
+      "fetched_at": "2026-08-12T03:05:07.213Z"
+    },
+    {
+      "title": "Mendel Gödel Machine: Recursive Self-Improving Coding Agents via Comparative Evolution",
+      "url": "https://huggingface.co/papers/2608.07645",
+      "source": "hf-daily-papers",
+      "score": 3,
+      "content": "Self-improving coding agents that iteratively rewrite their own source code have demonstrated impressive performance on coding tasks. However, existing solutions generally derive self-modification from a single failure trajectory at a time, overlooking rich comparative signals available in the agent's expanding archive of past attempts. According to Mendelian principles of controlled inheritance, we introduce Mendel Gödel Machine (MGM). In addition to the general single-trajectory clonal mutation, MGM includes two new types of self-modification that better utilizes evidences accumulated: the reaction-norm mutation edits an agent based on its trajectories on multiple tasks simultaneously, and the cross-lineage hybridization edits an agent using the trajectory of a reference agent from another lineage on the same task. Under an additive fitness landscape model, we prove theoretically and demonstrate via controlled surrogate simulation that the new strategies facilitate a faster and better convergence over single-trajectory baselines. Experiments on SWE-bench and Polyglot confirm MGM's consistent improvement in performance, efficiency, and generalizability.",
+      "published_at": "2026-08-06T20:00:00.000Z",
+      "fetched_at": "2026-08-12T03:05:07.221Z"
+    },
+    {
+      "title": "VibeLifeBench: Can Your Life Agent Be Proactive and Persistent in a Living World?",
+      "url": "https://huggingface.co/papers/2608.10875",
+      "source": "hf-daily-papers",
+      "score": 2,
+      "content": "Large language model (LLM) agents are increasingly deployed as personal assistants. Existing evaluations, however, mostly use short, self-contained requests in static environments. Everyday life assistance is different. A task runs for weeks rather than minutes. The world keeps changing while the agent is not being prompted. Many constraints are never stated outright. An agent that merely answers the request in front of it will fail at such a task. What is needed instead is an agent that stays proactive and consistent. It decides on its own when to act, when to ask, and when to stay silent. It notices changes that nobody announced. It keeps one plan coherent from the first day to the last. No current benchmark measures this. We introduce VibeLifeBench, a benchmark of 200 long-horizon tasks across ten everyday-life domains. Each task is a scripted multi-week timeline in a simulated world of 22 mock services. The world advances on its own clock, and many of its changes are silent, so only an agent that re-inspects the world discovers them. Every task is graded by fine-grained, weighted checks that read only what the agent actually left behind, covering the end state, the timeliness of its actions, and whether it upheld the implicit constraints. We evaluate seven frontier models. All of them score low, which shows how far current agents are from assisting with real life. We will open-source all tasks, environments, and the evaluation framework.",
+      "published_at": "2026-08-10T20:00:00.000Z",
+      "fetched_at": "2026-08-12T03:05:07.221Z"
+    },
+    {
+      "title": "SPIEval: Evaluating Large Language Models as Mobile Assistants over Scattered Personal Information",
+      "url": "https://huggingface.co/papers/2608.10692",
+      "source": "hf-daily-papers",
+      "score": 1,
+      "content": "Large language models (LLMs) are increasingly deployed as mobile assistants, where a key challenge is leveraging personal information scattered across multiple applications (apps) to complete user instructions. However, due to the lack of dedicated benchmarks, their capabilities remain poorly understood. To address this gap, we introduce SPIEval, a human-curated benchmark grounded in five cognitive capabilities (i.e., reasoning, disambiguation, integration, preference inference, and multi-intent decomposition). SPIEval comprises 250 tasks spanning 4,335 personal records distributed across 10 apps and supports multi-turn interaction through 21 tools. Analysis shows that the benchmark exhibits diverse scenarios, challenging tasks, scattered information, controllable environments, and verifiable outcomes. We evaluate nine representative LLMs and find substantial room for improvement. The best-performing model, GPT-5.5 (xhigh), achieves only 57.3% accuracy, while the weakest achieves just 16.4%. Further analysis reveals that 79% of failures stem from inaccurate information localization, as LLMs often commit to plausible but incorrect information instead of continuing retrieval for verification. We also find that fewer than 2% of retrieval actions employ advanced search methods and observe substantial variation in search efficiency across models. These findings expose fundamental limitations of current LLM-based mobile assistants and motivate future research in this direction. Data and code are available at https://huggingface.co/datasets/Junjie-Ye/SPIEval.",
+      "published_at": "2026-08-10T20:00:00.000Z",
+      "fetched_at": "2026-08-12T03:05:07.221Z"
+    },
+    {
+      "title": "Beyond Pixels: From Video Priors to 4D Worlds",
+      "url": "https://huggingface.co/papers/2608.10744",
+      "source": "hf-daily-papers",
+      "score": 0,
+      "content": "4D generation synthesizes dynamic 3D scenes from conditions such as text or images. Existing methods either reconstruct generated RGB videos with a separate 4D model or adapt a particular video generator to predict geometry directly. The former suffers from distribution mismatch and error propagation, whereas the latter ties 4D prediction to a specific generator and may require retraining when the generator or conditioning regime changes. We ask whether the final denoised latents of video models that share a variational autoencoder (VAE) can instead provide a reusable interface to explicit 4D prediction. Building on this insight, we introduce direct latent-to-4D generation and instantiate it as Latent-to-4D, which bypasses RGB by aligning a video latent with the token grid of a pretrained 4D decoder and refining it through frame-wise and global spatiotemporal attention. Trained on roughly 1K existing reconstruction clips, a single checkpoint transfers unchanged across multiple video diffusion transformers within the same VAE family. On Text4D-200 and I4D-200, Latent-to-4D surpasses matched same-latent Wan+4RC cascades in projection-based DINO-F1 by 2.88--3.45 and 5.81 points, respectively, while also being preferred by human raters for geometry, temporal stability, and overall quality.",
+      "published_at": "2026-08-10T20:00:00.000Z",
+      "fetched_at": "2026-08-12T03:05:07.221Z"
+    }
+  ]
+}
