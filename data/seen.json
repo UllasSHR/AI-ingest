@@ -1,12 +1,4 @@
 {
-  "https://freebot.dev/": "2026-08-09",
-  "https://overlk.itch.io/afterimage": "2026-08-09",
-  "https://code.claude.com/docs/en/cross-session-messaging": "2026-08-09",
-  "https://vibsync.com/": "2026-08-09",
-  "https://github.com/vibhu-dixit/lybrary": "2026-08-09",
-  "https://thenewstack.io/claude-code-auto-mode/": "2026-08-09",
-  "https://benzi.fly.dev/about": "2026-08-09",
-  "https://www.aiusagebar.com": "2026-08-09",
   "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/": "2026-08-10",
   "https://whetstone.akbarsha.dev/": "2026-08-10",
   "https://medium.com/@chuanweipeng5/where-my-llm-api-bill-actually-went-and-how-i-cut-it-f10158329c5c": "2026-08-10",
@@ -36,5 +28,10 @@
   "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions": "2026-08-15",
   "https://github.com/metedata/Remarc": "2026-08-15",
   "https://github.com/lajosdeme/mole": "2026-08-15",
-  "https://github.com/choiyounggi/cliclaw": "2026-08-15"
+  "https://github.com/choiyounggi/cliclaw": "2026-08-15",
+  "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/": "2026-08-16",
+  "https://github.com/ACE-Engineering/ace-sidecar": "2026-08-16",
+  "https://mooch.agency/say-less": "2026-08-16",
+  "https://news.ycombinator.com/item?id=49314731": "2026-08-16",
+  "https://github.com/stormaref/LiquidGlassSkill": "2026-08-16"
 }
