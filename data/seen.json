@@ -1,6 +1,4 @@
 {
-  "https://github.com/leog/ai-pulse": "2026-08-11",
-  "https://claude.com/blog/auto-mode-default-in-claude-code": "2026-08-11",
   "https://github.com/tigerlang/auracommit": "2026-08-12",
   "https://github.com/karanb192/hindcast": "2026-08-12",
   "https://github.com/tauansloboda/semantic-thermodynamics": "2026-08-12",
@@ -32,5 +30,9 @@
   "https://github.com/vandith1/agent-guard": "2026-08-17",
   "https://github.com/dburnett11155-rgb/Tokencompress": "2026-08-17",
   "https://philippdubach.com/posts/kimi-k3-inside-claude-code/": "2026-08-17",
-  "https://platform.claude.com/docs/en/release-notes/system-prompts": "2026-08-17"
+  "https://platform.claude.com/docs/en/release-notes/system-prompts": "2026-08-17",
+  "https://github.com/divadbaroon/claude-plugins": "2026-08-18",
+  "https://github.com/anthropics/claude-code/issues/6235": "2026-08-18",
+  "https://github.com/fu351/Doberman-Core": "2026-08-18",
+  "https://github.com/inkshell/inkshell/": "2026-08-18"
 }

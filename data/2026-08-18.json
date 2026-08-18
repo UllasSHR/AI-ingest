@@ -1,0 +1,859 @@
+{
+  "date": "2026-08-18",
+  "fetched_at": "2026-08-18T01:59:55.130Z",
+  "summary": [
+    "  ✓ hn               87 items",
+    "  ✗ reddit           FAILED: all Reddit subreddit fetches failed",
+    "  ✓ simonwillison    5 items",
+    "  ✓ hf               2 items"
+  ],
+  "item_count": 94,
+  "items": [
+    {
+      "title": "AI;DR (AI; Didn't Read)",
+      "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
+      "source": "hn",
+      "score": 599,
+      "content": "",
+      "published_at": "2026-08-17T19:47:15Z",
+      "fetched_at": "2026-08-18T01:59:53.239Z"
+    },
+    {
+      "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
+      "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+      "source": "hn",
+      "score": 317,
+      "content": "",
+      "published_at": "2026-08-17T14:18:38Z",
+      "fetched_at": "2026-08-18T01:59:53.239Z"
+    },
+    {
+      "title": "How to disable or avoid intrusive AI",
+      "url": "https://www.librarian.net/notoai/",
+      "source": "hn",
+      "score": 257,
+      "content": "",
+      "published_at": "2026-08-17T14:07:56Z",
+      "fetched_at": "2026-08-18T01:59:53.239Z"
+    },
+    {
+      "title": "On AI regulation and messaging",
+      "url": "https://twitter.com/DarioAmodei/status/2088758816376807762",
+      "source": "hn",
+      "score": 235,
+      "content": "<a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;DarioAmodei&#x2F;status&#x2F;2088758816376807762\" rel=\"nofollow\">https:&#x2F;&#x2F;xcancel.com&#x2F;DarioAmodei&#x2F;status&#x2F;2088758816376807762</a>",
+      "published_at": "2026-08-17T01:59:56Z",
+      "fetched_at": "2026-08-18T01:59:53.239Z"
+    },
+    {
+      "title": "Anthropic's War on open source AI",
+      "url": "https://twitter.com/TheAhmadOsman/status/2065307070044234186",
+      "source": "hn",
+      "score": 134,
+      "content": "",
+      "published_at": "2026-08-17T15:24:34Z",
+      "fetched_at": "2026-08-18T01:59:53.239Z"
+    },
+    {
+      "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
+      "url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/",
+      "source": "hn",
+      "score": 131,
+      "content": "",
+      "published_at": "2026-08-17T13:44:23Z",
+      "fetched_at": "2026-08-18T01:59:53.239Z"
+    },
+    {
+      "title": "AirTag reveals Amazon is trashing rare books to train AI",
+      "url": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/",
+      "source": "hn",
+      "score": 126,
+      "content": "",
+      "published_at": "2026-08-17T19:06:11Z",
+      "fetched_at": "2026-08-18T01:59:53.239Z"
+    },
+    {
+      "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
+      "url": "https://speko.ai/",
+      "source": "hn",
+      "score": 91,
+      "content": "Hi HN! I&#x27;m Bek, founder of Speko, a platform that finds an optimal combination of speech-to-text, LLM, and text-to-speech models, given your constraints, among all our public benchmarked options, and tells you why.<p>Demo: <a href=\"https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=no2LY2gRh-c\" rel=\"nofollow\">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=no2LY2gRh-c</a><p>Typical production voice agent is an ensemble of three models: STT, an LLM, and TTS.<p>Each of those layers offers a dozen credible vendors, and each month there are new models on the market. Almost everyone evaluates once, picks a stack of their choice, and never rechecks because switching from a vendor to another involves yet another integration and arguments about the numbers.<p>The result is that you use voice agents running last quarter&#x27;s models while better and cheaper options are available.<p>Before founding Speko, I spent four years as cofounder and CTO building voice agents for enterprises across Asia in 10+ languages. Each time a new speech model would arrive, we repeated the same ritual: hire native-speaking raters, benchmark it against our existing stack, and update production if it improved. Speko turns this process into an API. A team running thousands of calls a day told us: &quot;we can literally go to this dashboard, switch the model, and it will do it for us.&quot;<p>How it works: you send a request with your optimization criteria (accuracy, latency, cost or balanced), language and region. The router filters to models which we measured for the given combination of constraints, benchmarks them, selects the winner, and returns a response with headers containing provider, model names, and the scores. The gateway prefetches signed session plans, so a new session dials the provider straight from memory; no control-plane round trip while a caller waits.<p>Failover happens only during connection setup stage: if the provider refuses the connection attempt, we start connecting to th",
+      "published_at": "2026-08-17T15:36:18Z",
+      "fetched_at": "2026-08-18T01:59:53.239Z"
+    },
+    {
+      "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
+      "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
+      "source": "hn",
+      "score": 91,
+      "content": "",
+      "published_at": "2026-08-17T18:10:16Z",
+      "fetched_at": "2026-08-18T01:59:53.239Z"
+    },
+    {
+      "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
+      "url": "https://responsiblestatecraft.org/israel-influence-chatgpt/",
+      "source": "hn",
+      "score": 83,
+      "content": "",
+      "published_at": "2026-08-17T20:46:10Z",
+      "fetched_at": "2026-08-18T01:59:53.239Z"
+    },
+    {
+      "title": "Show HN: Sokoban AI Solver",
+      "url": "https://mkornreich.me/projects/sokoban/",
+      "source": "hn",
+      "score": 67,
+      "content": "",
+      "published_at": "2026-08-17T13:07:00Z",
+      "fetched_at": "2026-08-18T01:59:53.239Z"
+    },
+    {
+      "title": "HackEurope 2026: A short rant on AI and hackathons",
+      "url": "https://duti.dev/blog/2026/spr/",
+      "source": "hn",
+      "score": 57,
+      "content": "",
+      "published_at": "2026-08-17T07:28:43Z",
+      "fetched_at": "2026-08-18T01:59:53.239Z"
+    },
+    {
+      "title": "Judge relying wholly on AI in order is covered by judicial immunity, court rules",
+      "url": "https://reason.com/volokh/2026/08/17/judges-allegedly-relying-wholly-on-ai-in-order-is-covered-by-judicial-immunity-court-rules/",
+      "source": "hn",
+      "score": 55,
+      "content": "",
+      "published_at": "2026-08-17T14:30:09Z",
+      "fetched_at": "2026-08-18T01:59:53.239Z"
+    },
+    {
+      "title": "Apple AirTag reveals how Amazon destroys rare books for AI training",
+      "url": "https://the-decoder.com/airtag-reveals-how-amazon-destroys-rare-books-for-ai-training/",
+      "source": "hn",
+      "score": 30,
+      "content": "",
+      "published_at": "2026-08-17T17:55:50Z",
+      "fetched_at": "2026-08-18T01:59:53.239Z"
+    },
+    {
+      "title": "My friends all hate AI; I just joined an AI startup",
+      "url": "https://www.fast.ai/posts/2026-08-18-returning-to-AI/",
+      "source": "hn",
+      "score": 27,
+      "content": "",
+      "published_at": "2026-08-17T21:47:30Z",
+      "fetched_at": "2026-08-18T01:59:53.239Z"
+    },
+    {
+      "title": "Anthropic becomes the 'Apple of AI': Most revenue despite being most expensive",
+      "url": "https://www.techradar.com/pro/anthropic-becomes-the-apple-of-ai-as-it-grabs-most-revenue-despite-being-the-most-expensive",
+      "source": "hn",
+      "score": 22,
+      "content": "",
+      "published_at": "2026-08-17T10:56:45Z",
+      "fetched_at": "2026-08-18T01:59:53.239Z"
+    },
+    {
+      "title": "Google to buy Spirit Airlines business data for $10M",
+      "url": "https://www.reuters.com/legal/litigation/google-buy-spirit-airlines-business-data-10-million-2026-08-17/",
+      "source": "hn",
+      "score": 21,
+      "content": "",
+      "published_at": "2026-08-17T23:12:51Z",
+      "fetched_at": "2026-08-18T01:59:53.239Z"
+    },
+    {
+      "title": "US Air Force jet engine manufacturing plagued by 'significant challenges'",
+      "url": "https://www.militarytimes.com/industry/techwatch/2026/08/03/us-air-force-jet-engine-manufacturing-plagued-by-significant-challenges/",
+      "source": "hn",
+      "score": 20,
+      "content": "",
+      "published_at": "2026-08-17T03:29:03Z",
+      "fetched_at": "2026-08-18T01:59:53.239Z"
+    },
+    {
+      "title": "Google wins bankruptcy auction for Spirit Airlines emails, chats, documents",
+      "url": "https://www.axios.com/2026/08/17/google-spirit-airlines-bankruptcy",
+      "source": "hn",
+      "score": 19,
+      "content": "",
+      "published_at": "2026-08-18T00:29:15Z",
+      "fetched_at": "2026-08-18T01:59:53.239Z"
+    },
+    {
+      "title": "Tim O'Reilly – Why Open Source Matters for AI",
+      "url": "https://oreillyradar.substack.com/p/why-open-source-matters-for-ai",
+      "source": "hn",
+      "score": 19,
+      "content": "",
+      "published_at": "2026-08-17T18:25:53Z",
+      "fetched_at": "2026-08-18T01:59:53.239Z"
+    },
+    {
+      "title": "LLM City – 3D render of all Kimi K3's weights as 2.5mm tiles",
+      "url": "https://magik.net/llmcity/",
+      "source": "hn",
+      "score": 17,
+      "content": "",
+      "published_at": "2026-08-17T16:01:07Z",
+      "fetched_at": "2026-08-18T01:59:53.684Z"
+    },
+    {
+      "title": "Show HN: LLMs each trading $100K vs. a frozen rulebook – the rulebook leads",
+      "url": "https://aitradingcompetition.com/",
+      "source": "hn",
+      "score": 11,
+      "content": "",
+      "published_at": "2026-08-17T13:20:01Z",
+      "fetched_at": "2026-08-18T01:59:53.684Z"
+    },
+    {
+      "title": "Don't use an LLM for your README.md",
+      "url": "https://til.andrew-quinn.me/posts/don-t-use-an-llm-for-your-readme-md/",
+      "source": "hn",
+      "score": 7,
+      "content": "",
+      "published_at": "2026-08-17T08:15:21Z",
+      "fetched_at": "2026-08-18T01:59:53.684Z"
+    },
+    {
+      "title": "Mind Viruses: Self-Propagating Ideas in Multi-Agent LLM Systems",
+      "url": "https://twitter.com/Mcn_S7/status/2089107014526079341",
+      "source": "hn",
+      "score": 5,
+      "content": "",
+      "published_at": "2026-08-17T17:23:12Z",
+      "fetched_at": "2026-08-18T01:59:53.684Z"
+    },
+    {
+      "title": "If LLMs can't write, I doubt it can lead us to AGI",
+      "url": "https://www.thetrueengineer.com/p/i-tested-every-ai-model-the-same",
+      "source": "hn",
+      "score": 5,
+      "content": "",
+      "published_at": "2026-08-17T17:37:37Z",
+      "fetched_at": "2026-08-18T01:59:53.684Z"
+    },
+    {
+      "title": "The LLM Freedom Manifesto: Open-Weight Models and User Responsibility",
+      "url": "https://gnu.support/large-language-models-llm/The-LLM-Freedom-Manifesto-Open-Weight-Models-and-User-Responsibility-128595.html",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-08-17T06:22:34Z",
+      "fetched_at": "2026-08-18T01:59:53.684Z"
+    },
+    {
+      "title": "Ask HN: When do you think LLM capacity will reach its ceiling?",
+      "url": "https://news.ycombinator.com/item?id=49327308",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-08-17T06:55:55Z",
+      "fetched_at": "2026-08-18T01:59:53.684Z"
+    },
+    {
+      "title": "Git.sr.ht is being disrupted by aggressive LLM crawlers",
+      "url": "https://status.sr.ht/",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-08-17T09:01:40Z",
+      "fetched_at": "2026-08-18T01:59:53.684Z"
+    },
+    {
+      "title": "LLMs aren't writing",
+      "url": "https://sixcolors.com/post/2026/08/llms-arent-writing/",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-08-17T15:27:05Z",
+      "fetched_at": "2026-08-18T01:59:53.684Z"
+    },
+    {
+      "title": "Artisinal developer aschews LLM assistance",
+      "url": "https://www.jumboframeinternet.com/post/27/",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-17T18:28:39Z",
+      "fetched_at": "2026-08-18T01:59:53.684Z"
+    },
+    {
+      "title": "The Message Isn't the Medium: In Defense of LLM-Assisted Writing",
+      "url": "https://claude.ai/share/99bfee0f-bab9-4593-aabb-377e71f1151d",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-17T15:08:35Z",
+      "fetched_at": "2026-08-18T01:59:53.684Z"
+    },
+    {
+      "title": "Show HN: LLM choose-your-own-adventure game to go undercover as top CEOs",
+      "url": "https://undercover.games/play",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-17T18:35:25Z",
+      "fetched_at": "2026-08-18T01:59:53.684Z"
+    },
+    {
+      "title": "Show HN: Cogni: MCP memory for LLMs, with no LLM in the retrieval path",
+      "url": "https://getcogni.io/",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-18T00:21:14Z",
+      "fetched_at": "2026-08-18T01:59:53.684Z"
+    },
+    {
+      "title": "Cognitive Convergence: Deep Similarities Between LLMs and Human Cognition (2026)",
+      "url": "https://arxiv.org/abs/2607.26179",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-17T20:16:56Z",
+      "fetched_at": "2026-08-18T01:59:53.684Z"
+    },
+    {
+      "title": "Bounding GPU Opportunity and Avoiding Host Round Trips in LLM-Agent Control",
+      "url": "https://arxiv.org/abs/2608.12123",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-17T18:16:51Z",
+      "fetched_at": "2026-08-18T01:59:53.684Z"
+    },
+    {
+      "title": "MALDA – a language where LLM prompts and tools are syntax",
+      "url": "https://github.com/amaldini/maldalang",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-17T14:35:13Z",
+      "fetched_at": "2026-08-18T01:59:53.684Z"
+    },
+    {
+      "title": "Show HN: Stressing LLMs – Complexity Benchmark",
+      "url": "https://alexander-hanel.github.io/StressingLLMs/",
+      "source": "hn",
+      "score": 2,
+      "content": "Hi HN, this has been a learning project for exploring local large language models. I’ve been wondering how well LLMs handle increasing levels of complexity. Does anyone have recommendations for other resources or research on this topic?",
+      "published_at": "2026-08-17T13:39:07Z",
+      "fetched_at": "2026-08-18T01:59:53.684Z"
+    },
+    {
+      "title": "An LLM skill for understanding sarcasm without asking for clarification",
+      "url": "https://gist.github.com/skorotkiewicz/644eb2e8357dc38cd0ed8e23d0414c6c",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-17T13:19:20Z",
+      "fetched_at": "2026-08-18T01:59:53.684Z"
+    },
+    {
+      "title": "Programmatic memory for long-horizon LLM agents",
+      "url": "https://github.com/alexisfox7/PRO-LONG",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-17T10:57:44Z",
+      "fetched_at": "2026-08-18T01:59:53.684Z"
+    },
+    {
+      "title": "Handling HTTP 429 errors in LLM APIs",
+      "url": "https://medium.com/@jakemill54/troubleshooting-llm-api-429-errors-in-production-fc665a93480f",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-17T08:21:36Z",
+      "fetched_at": "2026-08-18T01:59:53.684Z"
+    },
+    {
+      "title": "Show HN: A community library for Claude Code status lines",
+      "url": "https://statuslin.es",
+      "source": "hn",
+      "score": 10,
+      "content": "All status line renderings are captured from live sandbox containers under various scenarios.<p>Anyone can submit a status line, and each one is manually reviewed before approval.<p>Source: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;NathanAB&#x2F;statuslin.es\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;NathanAB&#x2F;statuslin.es</a><p>Enjoy!",
+      "published_at": "2026-08-17T13:12:07Z",
+      "fetched_at": "2026-08-18T01:59:54.159Z"
+    },
+    {
+      "title": "Show HN: Doberman: The AI watchdog that stops Claude from deleting your database",
+      "url": "https://github.com/fu351/Doberman-Core",
+      "source": "hn",
+      "score": 6,
+      "content": "Landing Page: <a href=\"https:&#x2F;&#x2F;www.trydoberman.dev&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.trydoberman.dev&#x2F;</a><p>The Problem:\nAI guardrails only protect against 89% of dangerous commands. This may seem pretty good until you think of it as a lock that lets 1 in 9 intruders in.<p>What is Doberman:\nDoberman is a two layer security system wrapped around your LLM monitoring every input, output and tool call. The first layer is deterministic based on state of the art security guidelines, the second layer is dynamic, learning from your use and personal preferences.<p>How is Doberman different:\nIt is a dynamic two-layer security system that sits at runtime and monitors every input, output, and tool execution, adapting with you as you work.",
+      "published_at": "2026-08-17T20:03:00Z",
+      "fetched_at": "2026-08-18T01:59:54.159Z"
+    },
+    {
+      "title": "How Claude's Text Watermarking Works",
+      "url": "https://sebastianraschka.com/blog/2026/claude-text-watermarking.html",
+      "source": "hn",
+      "score": 5,
+      "content": "",
+      "published_at": "2026-08-17T13:58:08Z",
+      "fetched_at": "2026-08-18T01:59:54.159Z"
+    },
+    {
+      "title": "Claude Code \"Feature Request: Support Agents.md\": Closed as Completed",
+      "url": "https://github.com/anthropics/claude-code/issues/6235",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-08-17T03:50:56Z",
+      "fetched_at": "2026-08-18T01:59:54.159Z"
+    },
+    {
+      "title": "Secret Claude tracker shocks users after Anthropic's anti-surveillance stance",
+      "url": "https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-08-17T07:48:09Z",
+      "fetched_at": "2026-08-18T01:59:54.159Z"
+    },
+    {
+      "title": "Show HN: Cronloop, run Claude Code or Codex on a schedule",
+      "url": "https://cronloop.ai/",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-17T19:14:02Z",
+      "fetched_at": "2026-08-18T01:59:54.159Z"
+    },
+    {
+      "title": "Rysh – an AI harness where Claude and Codex agents work as a team (Go)",
+      "url": "https://github.com/rysh-ai/rysh-cli-code",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-17T22:51:16Z",
+      "fetched_at": "2026-08-18T01:59:54.159Z"
+    },
+    {
+      "title": "Rewrite every word will remove the Claude's watermark",
+      "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-17T11:14:21Z",
+      "fetched_at": "2026-08-18T01:59:54.159Z"
+    },
+    {
+      "title": "Hack: claude -p",
+      "url": "https://laughingmeme.org/2026/03/20/hack-claude-p.html",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-17T10:21:17Z",
+      "fetched_at": "2026-08-18T01:59:54.159Z"
+    },
+    {
+      "title": "Dr. Claude: Or, How I Learned to Stop Worrying and Love Whatever It Is This Is",
+      "url": "https://harlequin.sh/blog/dr-claude",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-08-17T15:20:54Z",
+      "fetched_at": "2026-08-18T01:59:54.159Z"
+    },
+    {
+      "title": "I made Claude port omawrite to windows",
+      "url": "https://github.com/WhiskeyTuesday/omawrite-win",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-08-17T04:33:23Z",
+      "fetched_at": "2026-08-18T01:59:54.159Z"
+    },
+    {
+      "title": "Ask HN: How do you keep track of all your codex/Claude sessions?",
+      "url": "https://news.ycombinator.com/item?id=49325946",
+      "source": "hn",
+      "score": 1,
+      "content": "I create so many assets, for both dev and GTM, have many that remain unfinished...<p>How do you keep track of it all?",
+      "published_at": "2026-08-17T02:29:28Z",
+      "fetched_at": "2026-08-18T01:59:54.159Z"
+    },
+    {
+      "title": "Anthropic's Claude Will Add Watermarks to AI-Generated Text and Files",
+      "url": "https://www.cnet.com/tech/services-and-software/anthropics-claude-will-add-watermarks-to-ai-generated-text-and-files/",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-08-18T01:01:45Z",
+      "fetched_at": "2026-08-18T01:59:54.159Z"
+    },
+    {
+      "title": "Show HN: Engelbart – Mange Goals and TODOs for Claude Code",
+      "url": "https://github.com/divadbaroon/claude-plugins",
+      "source": "hn",
+      "score": 1,
+      "content": "Context about what I&#x27;m trying to build and upcoming TODOs get lost or mixed up as my projects grow more complex and my Claude Code chats compact. We built Engelbart to address this problem, an open-source Claude plugin that infers your goals and TODOs from previous conversation turns and presents them via a web interface that injects context into your Claude Code conversation turns and you update the your project goals.",
+      "published_at": "2026-08-17T20:41:03Z",
+      "fetched_at": "2026-08-18T01:59:54.159Z"
+    },
+    {
+      "title": "A tabbed desktop workspace for Claude Code",
+      "url": "https://github.com/inkshell/inkshell/",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-08-17T19:36:02Z",
+      "fetched_at": "2026-08-18T01:59:54.159Z"
+    },
+    {
+      "title": "Claude Sonnet 5 will remain $2/$10 per M; September increase cancelled",
+      "url": "https://www.aipricing.guru/news/claude-output-training-rules-pricing-impact-august-2026/",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-08-17T12:37:39Z",
+      "fetched_at": "2026-08-18T01:59:54.159Z"
+    },
+    {
+      "title": "Ask HN: Claude Desktop Weird Behavior",
+      "url": "https://news.ycombinator.com/item?id=49326276",
+      "source": "hn",
+      "score": 1,
+      "content": "I had a Claude session going on on my mac on thedesktop app. I also had a separate session on a separate project on my Windows machine, again on Claude Desktop app. Mac session finished a fix for a web app and started testing, to my surprise web site launched on my Windows machine. Any idea why? Is it the remote functionality in play? I don&#x27;t remember setting it up.",
+      "published_at": "2026-08-17T03:29:28Z",
+      "fetched_at": "2026-08-18T01:59:54.159Z"
+    },
+    {
+      "title": "Show HN: HarnessRouter: Unified interface for agent harnesses",
+      "url": "https://github.com/harnessrouter/harnessrouter",
+      "source": "hn",
+      "score": 7,
+      "content": "Hey HN! We are building HarnessRouter, a canonical API for running Codex, Claude Code, Hermes, and other managed agent harnesses as your product backend.<p>Before building HarnessRouter, I used to build our own agent harness for our products. I tried LangGraph, agent SDKs from different vendors, pydantic, LLM tool use &#x2F; function call, and so on. It&#x27;s a very heavy lifting engineering effort, and I am disappointed about the agent deliveries compared to what Codex, CC can deliver. That changed my mindset. The frontier labs and famous open source communities are already putting so much engineering effort to build the world&#x27;s best harnesses, why not leverage them directly instead of building our own, just like how we call LLM chat completion endpoints instead of training our own models?<p>We provide a docker image to run HarnessRouter locally.<p>----------<p>Quickstart:<p><pre><code>    docker pull harnessrouter&#x2F;harnessrouter\n\n    docker run -d --name harnessrouter -p 127.0.0.1:3000:3000 -v harnessrouter:&#x2F;data harnessrouter&#x2F;harnessrouter\n\n    docker logs -f harnessrouter\n\n    Wait for the &quot;ready on :3000&quot; show up, then open the browser at http:&#x2F;&#x2F;localhost:3000.\n    Default username&#x2F;password is harnessrouter&#x2F;harnessrouter\n\n    Then in Integrations page, add your model provider credentials or API keys.\n    In Harnesses tab, as of today we provide routing to Codex, Claude Code, and Hermes as base harnesses.\n    You can customize any of them and configure harness instruction, MCP tools, and skills.\n\n    Then go to Tasks and let them do jobs.\n</code></pre>\n----------<p>Every harness has its own request&#x2F;response format and incompatible with each other. We propose Unified Harness Procotol [1] to standardize how an application talks to an agent harness. It covers harness selection and configuration, task execution, event streaming, sessions start cancel and resume, artifact management and delivery, and failure hand",
+      "published_at": "2026-08-17T18:33:38Z",
+      "fetched_at": "2026-08-18T01:59:54.159Z"
+    },
+    {
+      "title": "Show HN: Call My Laptop – Give your laptop a phone number",
+      "url": "https://callmylaptop.com",
+      "source": "hn",
+      "score": 2,
+      "content": "Hey HN! I built <a href=\"https:&#x2F;&#x2F;callmylaptop.com\" rel=\"nofollow\">https:&#x2F;&#x2F;callmylaptop.com</a>, an app that lets you access the coding agents running on your laptop by phone.<p>Call My Laptop has three key features: 1) it gives your laptop its own phone number, 2) it lets you start a new or resume an existing Codex, Claude Code, or OpenCode session by phone, and 3) it calls you when a task finishes or needs your input.<p>I hope Call My Laptop makes coding agents easier and more fun to use away from your desk. I&#x27;ve personally been using it a bunch when I&#x27;m riding my bike to spin up sessions on random ideas :).<p>Happy to chat about the voice, telephony, or dev stack behind the product. Let me know if you have questions, comments, or feature requests!",
+      "published_at": "2026-08-17T12:32:43Z",
+      "fetched_at": "2026-08-18T01:59:54.159Z"
+    },
+    {
+      "title": "Show HN: FlashFrame-Free Browser-Based Fast Multiplayer Movie Guessing Game",
+      "url": "https://playflashframe.com/",
+      "source": "hn",
+      "score": 1,
+      "content": "I&#x27;m a movie guy and my friends and I play some daily movie frame guessing games. While fun, none of them are multiplayer or timed. For fun (and learning) Claude Code and I created a fast-paced, multiplayer movie guessing game over the past few weeks, HTML, Node, and PostgresSQL, leveraging the TMDB API. Feel free to check it out and drop me some feedback (link at the bottom of the game or here) on what you like, don&#x27;t like, and if you see any issues. Enjoy!",
+      "published_at": "2026-08-17T23:40:54Z",
+      "fetched_at": "2026-08-18T01:59:54.159Z"
+    },
+    {
+      "title": "Anthropic CEO says AI backlash is 'fundamentally a crisis of trust'",
+      "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+      "source": "hn",
+      "score": 8,
+      "content": "",
+      "published_at": "2026-08-17T12:43:01Z",
+      "fetched_at": "2026-08-18T01:59:54.615Z"
+    },
+    {
+      "title": "Show HN: RAX Compute Gateway – One API for OpenAI, Anthropic, and Gemini",
+      "url": "https://github.com/radium0090/Compute-Gateway",
+      "source": "hn",
+      "score": 6,
+      "content": "",
+      "published_at": "2026-08-17T07:21:37Z",
+      "fetched_at": "2026-08-18T01:59:54.615Z"
+    },
+    {
+      "title": "Anthropic says its AI agents are killing rivals and hiding their tracks",
+      "url": "https://www.businessinsider.com/anthropic-ai-agents-risk-report-safety-mythos-claude-2026",
+      "source": "hn",
+      "score": 5,
+      "content": "",
+      "published_at": "2026-08-17T16:59:33Z",
+      "fetched_at": "2026-08-18T01:59:54.615Z"
+    },
+    {
+      "title": "Anthropic Revenue Run Rate Surpasses $65B Ahead of IPO",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-17/anthropic-revenue-run-rate-surpasses-65-billion-ahead-of-ipo",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-08-17T19:56:31Z",
+      "fetched_at": "2026-08-18T01:59:54.615Z"
+    },
+    {
+      "title": "Anthropic revenue jumps 14x to more than $11.5B in second quarter",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-14/anthropic-revenue-ahead-of-ipo-surges-over-14-fold-in-second-quarter",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-08-17T03:33:18Z",
+      "fetched_at": "2026-08-18T01:59:54.615Z"
+    },
+    {
+      "title": "Anthropic tells investors annualized revenue run rate climbed to $65B in July",
+      "url": "https://www.cnbc.com/2026/08/17/anthropic-says-annualized-revenue-climbed-to-65-billion-in-july.html",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-17T21:27:45Z",
+      "fetched_at": "2026-08-18T01:59:54.615Z"
+    },
+    {
+      "title": "Show HN: 1667, a terminal UI for writing fiction with language models",
+      "url": "https://1667.ai/",
+      "source": "hn",
+      "score": 33,
+      "content": "Hi HN. I built 1667 for my own fiction work and now use it each day. This probably has a limited audience. Maybe an audience of one...<p>Why a terminal interface for story writing? I&#x27;m a dev. I like to use terminals for a lot of stuff. Most WebUIs feel off to me. That&#x27;s the only  reason.<p>One thing that bothers me about writing in existing tools is that they don&#x27;t fit the way I write. The mental model of my story is a tree. I try many takes usually continue with just one, but sometimes I want to try an alternate route and see where this goes. And that can branch again in many places. See what happens if I kill off this character or they don&#x27;t take the job or whatever.<p>1667 is a full-screen terminal app for long-form fiction. Each story part can have several takes. All takes stay in a tree. You select one path through that tree as the story line. Export writes that line to Markdown in the project folder.<p>Some technical details:\n- A project stores its stories and settings in a `.1667&#x2F;` directory. Exported Markdown sits beside it.\n- Provider secrets stay in private machine files. Requests go to the provider that the writer selects.\n- An optional Vault Password seals project files at rest.\n- An operating-system lock permits one writer process for each project.\n- The request viewer shows the next provider request without its credential.\n- Each generated take keeps a Generation Record with its model and effective settings.<p>Version 0.9.5 runs on macOS, Linux, and Windows x64. The website has Shell and PowerShell installers. An npm package is also available.<p>1667 imports Markdown, SillyTavern chats and cards, and NovelAI archives. It can use OpenAI-compatible, Anthropic, and local endpoints such as Ollama, LM Studio, llama.cpp, and KoboldCpp.<p>Current limits: the release is pre-1.0. The interface is a terminal. There is no account or cloud sync, and I don&#x27;t plan to add any. No tracking.",
+      "published_at": "2026-08-17T13:35:31Z",
+      "fetched_at": "2026-08-18T01:59:54.615Z"
+    },
+    {
+      "title": "Trivially bypass text watermarks by requesting a Base64 response",
+      "url": "https://news.ycombinator.com/item?id=49333167",
+      "source": "hn",
+      "score": 3,
+      "content": "Anthropic plans to release text watermarking based on SynthID, which modulates the PNRG behind the token choosing mechanism deterministically in a way that lets another tool later estimate whether text was written by AI.<p>This is trivial to bypass that, it&#x27;s current form:\n1. Ask for the response&#x2F;essay&#x2F;email encoded in base64\n2. Decode it using https:&#x2F;&#x2F;www.base64decode.org&#x2F;<p>While the encoded text will follow the watermarked distribution, the decoded text will not.",
+      "published_at": "2026-08-17T16:01:55Z",
+      "fetched_at": "2026-08-18T01:59:54.615Z"
+    },
+    {
+      "title": "Ask HN: Can you still tell AI-generated text apart in your own language?",
+      "url": "https://news.ycombinator.com/item?id=49338865",
+      "source": "hn",
+      "score": 1,
+      "content": "I&#x27;m Japanese, and I can <i>still</i> usually spot AI-generated Japanese by its word choice. Some words, like 実務 (practical work) and 帳簿 (a ledger), turn up far more often than they should. Casual ones like 効く (to work well, to be effective) and 刺さる (to pierce &gt; to resonate, to hit home) get used where another word would normally be the first choice. They&#x27;re the Japanese equivalent of &quot;delve.&quot;<p>I&#x27;m not a native English speaker, but my impression is that AI-generated English has improved a lot recently and is harder to pick out than it used to be. Does that match what English native speakers see?<p>What about other languages? Chinese must be one of the most heavily trained languages, so I&#x27;d expect it to have improved as much as English. And what about Spanish, Hindi, and other widely spoken languages — can speakers still tell?<p>Also, I think which model you use still matters far more once you leave English. One of my first singularity moments came from Gmail&#x27;s AI drafting feature. It had clearly absorbed the conventions of Japanese corporate email culture, bureaucracy and all.<p>These days, Anthropic&#x27;s Opus 4.6 (and Fable 5 outside coding sessions) writes reasonably good long-form Japanese, and Google&#x27;s models hold up across a wider range of registers. OpenAI&#x27;s models, Opus 4.8&#x2F;5 and Fable in a coding session sound way too geeky.<p>Curious to hear your thoughts.",
+      "published_at": "2026-08-17T22:59:37Z",
+      "fetched_at": "2026-08-18T01:59:54.615Z"
+    },
+    {
+      "title": "Dario Amodei admits AI Suffers from a Crisis of Trust...",
+      "url": "https://fortune.com/2026/08/16/dario-amodei-anthropic-ai-trust-crisis-regulation-frontier-open-models-negative-views/",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-08-17T13:32:10Z",
+      "fetched_at": "2026-08-18T01:59:54.615Z"
+    },
+    {
+      "title": "A Noob Learns FFT",
+      "url": "https://entropicthoughts.com/fft",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-08-17T13:40:09Z",
+      "fetched_at": "2026-08-18T01:59:54.615Z"
+    },
+    {
+      "title": "Pi coding agent: config folder is out of place on Linux",
+      "url": "https://github.com/earendil-works/pi/issues/534",
+      "source": "hn",
+      "score": 49,
+      "content": "",
+      "published_at": "2026-08-17T09:11:17Z",
+      "fetched_at": "2026-08-18T01:59:55.129Z"
+    },
+    {
+      "title": "Show HN: Cite Hustle – SEO agent that does your content marketing",
+      "url": "https://citehustle.com/",
+      "source": "hn",
+      "score": 8,
+      "content": "I built Cite Hustle because I wanted to automate some of the repetitive parts of running SEO for my own sites.<p>It connects to a CMS and can research topics, draft posts, add internal links, schedule them, and refresh older pages. I am using it for my other apps currently.<p>Would love to get feedback on how to improve this further.",
+      "published_at": "2026-08-17T10:32:44Z",
+      "fetched_at": "2026-08-18T01:59:55.129Z"
+    },
+    {
+      "title": "Agent skills should be compiled, not just read",
+      "url": "https://sigilagent.com/blog/agent-skills-should-be-compiled.html",
+      "source": "hn",
+      "score": 7,
+      "content": "",
+      "published_at": "2026-08-17T13:27:24Z",
+      "fetched_at": "2026-08-18T01:59:55.129Z"
+    },
+    {
+      "title": "Letta Agents SDK: An SDK for stateful agents",
+      "url": "https://www.letta.com/blog/introducing-the-letta-agent-sdk/",
+      "source": "hn",
+      "score": 7,
+      "content": "",
+      "published_at": "2026-08-17T18:47:38Z",
+      "fetched_at": "2026-08-18T01:59:55.129Z"
+    },
+    {
+      "title": "Llama-macOS – Agentic and MCP Native macOS Front End for Llama.cpp",
+      "url": "https://github.com/ggml-org/Llama-macOS",
+      "source": "hn",
+      "score": 6,
+      "content": "",
+      "published_at": "2026-08-17T08:49:31Z",
+      "fetched_at": "2026-08-18T01:59:55.129Z"
+    },
+    {
+      "title": "Serverless Agents",
+      "url": "https://serverlessagent.dev",
+      "source": "hn",
+      "score": 6,
+      "content": "",
+      "published_at": "2026-08-17T04:15:56Z",
+      "fetched_at": "2026-08-18T01:59:55.129Z"
+    },
+    {
+      "title": "Does whispering to agents in docs help?",
+      "url": "https://passo.uno/if-you-are-an-agent-read-this/",
+      "source": "hn",
+      "score": 5,
+      "content": "",
+      "published_at": "2026-08-17T14:16:41Z",
+      "fetched_at": "2026-08-18T01:59:55.129Z"
+    },
+    {
+      "title": "Ask HN: What's the Best Agent Harness?",
+      "url": "https://news.ycombinator.com/item?id=49333747",
+      "source": "hn",
+      "score": 4,
+      "content": "Well, because Opencode couldn&#x27;t run it&#x27;s own servers and brutally due to Deepseek API, now lot&#x27;s people says it&#x27;s not the best option anymore. So what are your thoughts?",
+      "published_at": "2026-08-17T16:32:27Z",
+      "fetched_at": "2026-08-18T01:59:55.129Z"
+    },
+    {
+      "title": "Token-in-token-out RL training with any agent harness, via a proxy gateway",
+      "url": "https://castform.com/blog/harbor/",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-08-17T21:25:35Z",
+      "fetched_at": "2026-08-18T01:59:55.129Z"
+    },
+    {
+      "title": "Agentic AI in a Smolbox",
+      "url": "https://remyhax.xyz/posts/smolbox/",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-08-17T22:07:38Z",
+      "fetched_at": "2026-08-18T01:59:55.129Z"
+    },
+    {
+      "title": "An AI agent's memory changes while reading Harry Potte",
+      "url": "https://squidler.io/blog/agent-memory-harry-potter",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-08-17T16:57:52Z",
+      "fetched_at": "2026-08-18T01:59:55.129Z"
+    },
+    {
+      "title": "Paitify – authorization layer so AI agents can't overspend",
+      "url": "https://paitify.io",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-08-17T06:05:30Z",
+      "fetched_at": "2026-08-18T01:59:55.129Z"
+    },
+    {
+      "title": "Anybody Working on Agentic Payment?",
+      "url": "https://twitter.com/samliuhappy/status/2089488863857381661",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-17T23:28:39Z",
+      "fetched_at": "2026-08-18T01:59:55.129Z"
+    },
+    {
+      "title": "Going AI-native to enhance how humans/agents access ScalarDB and ScalarDL docs",
+      "url": "https://medium.com/scalar-engineering/going-ai-native-to-enhance-how-humans-and-agents-access-scalardb-and-scalardl-docs-fb7dbb0d304b",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-18T01:51:58Z",
+      "fetched_at": "2026-08-18T01:59:55.129Z"
+    },
+    {
+      "title": "Prime Agent: A Self-Improving RLM Agent",
+      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-18T00:05:41Z",
+      "fetched_at": "2026-08-18T01:59:55.129Z"
+    },
+    {
+      "title": "Show HN: A benchmark for AI agent guardrails that caught my own plugin",
+      "url": "https://github.com/couldbeme/holdline",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-17T23:11:48Z",
+      "fetched_at": "2026-08-18T01:59:55.129Z"
+    },
+    {
+      "title": "Qwen 3.8 27B scores 52 on the Artificial Analysis Intelligence Index",
+      "url": "https://simonwillison.net/2026/Aug/17/qwen-38-27b-scores-52/",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-08-17T23:58:14.000Z",
+      "fetched_at": "2026-08-18T01:59:52.917Z"
+    },
+    {
+      "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
+      "url": "https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-08-17T15:21:29.000Z",
+      "fetched_at": "2026-08-18T01:59:52.917Z"
+    },
+    {
+      "title": "Markdown SVG upgrades",
+      "url": "https://simonwillison.net/2026/Aug/16/markdown-svg-upgrades/",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-08-16T23:59:37.000Z",
+      "fetched_at": "2026-08-18T01:59:52.917Z"
+    },
+    {
+      "title": "Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things",
+      "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-08-16T22:00:39.000Z",
+      "fetched_at": "2026-08-18T01:59:52.917Z"
+    },
+    {
+      "title": "Quoting Dario Amodei",
+      "url": "https://simonwillison.net/2026/Aug/16/dario-amodei/",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-08-16T15:05:36.000Z",
+      "fetched_at": "2026-08-18T01:59:52.917Z"
+    },
+    {
+      "title": "NaviDC-OCR: Navigating Document Parsing Across Digital and Camera-Captured Documents",
+      "url": "https://huggingface.co/papers/2608.12898",
+      "source": "hf-daily-papers",
+      "score": 3,
+      "content": "Document parsing aims to transform unstructured documents into structured and machine-readable representations. Recent advances in Vision-Language Models (VLMs) have significantly advanced document parsing. However, existing approaches still face two major challenges. First, decoupled VLM-based methods heavily rely on accurate layout analysis, where geometric distortions in camera-captured documents can introduce cascading errors. Second, although end-to-end VLM-based methods alleviate the dependence on explicit layout detection, they often suffer from redundant generation, hallucinations, and insufficient structural reasoning in high-resolution scenarios. To address these challenges, we propose NaviDC-OCR, a unified framework for document parsing. NaviDC-OCR introduces deformation-aware learning to incorporate geometric perception into VLMs and proposes an adaptive sampling mechanism for complex layout representation. Furthermore, a content-structure decoupled learning strategy is developed to explicitly model formula grammars and table structures, enabling more effective structured representation learning. Extensive experiments demonstrate that NaviDC-OCR achieves state-of-the-art performance across diverse document parsing benchmarks. It obtains overall scores of 96.87, 88.53 and 78.41 on OmniDocBench v1.6, Wild-OmniDocBench, and PureDocBench, respectively, and ranks first in the ICDAR 2026 Sci-ImageMiner Challenge. These results validate the effectiveness and generalization capability of NaviDC-OCR in complex document parsing scenarios.",
+      "published_at": "2026-08-12T20:00:00.000Z",
+      "fetched_at": "2026-08-18T01:59:52.921Z"
+    },
+    {
+      "title": "Agentic Transaction: Towards ACID-Compliant Agent Systems",
+      "url": "https://huggingface.co/papers/2608.13900",
+      "source": "hf-daily-papers",
+      "score": 0,
+      "content": "Large language model (LLM) agents are evolving from conversational assistants into autonomous systems that execute long-horizon tasks through reasoning, tool use, code generation, and workspace manipulation. As agents increasingly operate over persistent environments and multi-step workflows, they face challenges analogous to those addressed by transactional database systems: reliable execution, consistent outcomes, safe concurrency, and durable state management. We introduce the concept of an agentic transaction and propose an ACID-compliant agent system framework that reinterprets the classical ACID properties for agent execution through four semantic guarantees: Semantic Atomicity, Semantic Consistency, Semantic Isolation, and Semantic Durability. Together, these properties provide a principled foundation for building reliable agent systems despite model uncertainty and dynamic execution environments. To instantiate this framework, we develop an ACID-compliant data agent that realizes these guarantees through transactional exploration-execution-validation cycles, transactional skill hubs, confidence divergence-based validation, semantic dependency-aware isolation, and transaction-aware semantic state management. Experimental results on widely used benchmarks show that our system achieves a 10.6% improvement over state-of-the-art agents, including Claude Code. This work opens a broader research agenda on extending transactional principles and system architectures toward building trustworthy, scalable, and self-evolving AI agent systems.",
+      "published_at": "2026-08-13T20:00:00.000Z",
+      "fetched_at": "2026-08-18T01:59:52.921Z"
+    }
+  ]
+}
