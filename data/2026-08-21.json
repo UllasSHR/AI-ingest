@@ -1,0 +1,868 @@
+{
+  "date": "2026-08-21",
+  "fetched_at": "2026-08-21T02:08:35.260Z",
+  "summary": [
+    "  ✓ hn               84 items",
+    "  ✗ reddit           FAILED: all Reddit subreddit fetches failed",
+    "  ✓ simonwillison    5 items",
+    "  ✓ hf               6 items"
+  ],
+  "item_count": 95,
+  "items": [
+    {
+      "title": "Don't paste the AI, please",
+      "url": "https://dontpastetheai.com/",
+      "source": "hn",
+      "score": 989,
+      "content": "",
+      "published_at": "2026-08-20T08:20:44Z",
+      "fetched_at": "2026-08-21T02:08:33.012Z"
+    },
+    {
+      "title": "Show HN: Huzzah – a novel approach to coding with AI",
+      "url": "https://www.danielvaughn.dev/posts/huzzah/",
+      "source": "hn",
+      "score": 224,
+      "content": "Hello everyone. I&#x27;ve been working on this experimental editor called Huzzah.<p>I&#x27;ve been working almost exclusively with coding agents since January of this year, and over the past few months I began to feel utterly exhausted by them. They&#x27;re great, but I&#x27;m finding it more and more tedious to write full sentences for every change I want. Not only that, but it seems there&#x27;s a complexity limit for codebases - beyond a certain point the agent begins confusing itself.<p>I&#x27;d like to go back to writing code, but I don&#x27;t want to go all the way back to fully manual coding. So I&#x27;ve come up with this interaction paradigm where you:<p><pre><code>  1. write pseudocode in whatever way makes the most sense to you\n  2. on save, the editor synchronizes your work to real source code\n  3. the pseudocode is persisted alongside the generated code, making your prompt effectively a stored record of intent.\n</code></pre>\nIt may not work for every use case, but in my initial playthroughs I&#x27;ve found it very enjoyable.<p>Right now it&#x27;s just a proof of concept - installation instructions are here in the readme: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;danielvaughn&#x2F;hz\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;danielvaughn&#x2F;hz</a><p>You can also watch a video of it in action here: <a href=\"https:&#x2F;&#x2F;x.com&#x2F;danielvaughn&#x2F;status&#x2F;2090456808431165715\" rel=\"nofollow\">https:&#x2F;&#x2F;x.com&#x2F;danielvaughn&#x2F;status&#x2F;2090456808431165715</a><p>Cheers!",
+      "published_at": "2026-08-20T19:05:36Z",
+      "fetched_at": "2026-08-21T02:08:33.012Z"
+    },
+    {
+      "title": "Anti-AI fonts are useless and harmful",
+      "url": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/",
+      "source": "hn",
+      "score": 118,
+      "content": "",
+      "published_at": "2026-08-20T15:06:53Z",
+      "fetched_at": "2026-08-21T02:08:33.012Z"
+    },
+    {
+      "title": "Copyright does not protect AI-generated content in EU",
+      "url": "https://mathstodon.xyz/@maxpool/117128107757895678",
+      "source": "hn",
+      "score": 107,
+      "content": "",
+      "published_at": "2026-08-21T00:15:12Z",
+      "fetched_at": "2026-08-21T02:08:33.012Z"
+    },
+    {
+      "title": "AI didn't erase the junior engineer's value, it increased it it",
+      "url": "https://franciscotrindade.me/blog/the-kids-are-really-alright/",
+      "source": "hn",
+      "score": 78,
+      "content": "",
+      "published_at": "2026-08-20T11:42:20Z",
+      "fetched_at": "2026-08-21T02:08:33.012Z"
+    },
+    {
+      "title": "Flock Has a Powerful New AI Tool for Police. We Got Its Code",
+      "url": "https://www.wired.com/story/flock-safety-os-investigate/",
+      "source": "hn",
+      "score": 27,
+      "content": "",
+      "published_at": "2026-08-20T06:40:14Z",
+      "fetched_at": "2026-08-21T02:08:33.012Z"
+    },
+    {
+      "title": "Could AIs Become Conscious?",
+      "url": "https://economist.com/leaders/2026/08/20/could-ais-become-conscious",
+      "source": "hn",
+      "score": 22,
+      "content": "<a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;8xhGZ\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;8xhGZ</a>",
+      "published_at": "2026-08-20T14:47:12Z",
+      "fetched_at": "2026-08-21T02:08:33.012Z"
+    },
+    {
+      "title": "AI at Home Part 2: Multi-GPU Drifting",
+      "url": "https://jdagostino.github.io/ai-pt2-multi-gpu-drifting/index.html",
+      "source": "hn",
+      "score": 21,
+      "content": "",
+      "published_at": "2026-08-20T16:53:55Z",
+      "fetched_at": "2026-08-21T02:08:33.012Z"
+    },
+    {
+      "title": "Introducing AI Futures",
+      "url": "https://openai.com/index/introducing-ai-futures/",
+      "source": "hn",
+      "score": 18,
+      "content": "",
+      "published_at": "2026-08-20T19:46:49Z",
+      "fetched_at": "2026-08-21T02:08:33.012Z"
+    },
+    {
+      "title": "Frustrated GP patients hang up as Yorkshire accent baffles AI receptionist",
+      "url": "https://www.theguardian.com/society/2026/aug/20/yorkshire-rotherham-ai-gp-receptionist-cannot-understand-accent",
+      "source": "hn",
+      "score": 15,
+      "content": "",
+      "published_at": "2026-08-20T13:26:37Z",
+      "fetched_at": "2026-08-21T02:08:33.012Z"
+    },
+    {
+      "title": "Google's AI photoscanner can determine body fat through selfies",
+      "url": "https://arxiv.org/abs/2603.27017",
+      "source": "hn",
+      "score": 15,
+      "content": "",
+      "published_at": "2026-08-20T12:06:37Z",
+      "fetched_at": "2026-08-21T02:08:33.012Z"
+    },
+    {
+      "title": "AI Is Undermining Leaders' Judgment. Here's What to Do About It",
+      "url": "https://hbr.org/2026/08/ai-is-undermining-leaders-judgment-heres-what-to-do-about-it",
+      "source": "hn",
+      "score": 14,
+      "content": "",
+      "published_at": "2026-08-20T15:33:40Z",
+      "fetched_at": "2026-08-21T02:08:33.012Z"
+    },
+    {
+      "title": "Pine AI getting 75.4% (SoTA) on τ³-Voice Leaderboard",
+      "url": "http://taubench.com/leaderboard/",
+      "source": "hn",
+      "score": 14,
+      "content": "",
+      "published_at": "2026-08-20T10:24:06Z",
+      "fetched_at": "2026-08-21T02:08:33.012Z"
+    },
+    {
+      "title": "Dutch data protection authority advises Twitch users to opt out from Amazon AI",
+      "url": "https://www.autoriteitpersoonsgegevens.nl/en/current/ap-advises-twitch-users-opt-out-from-sharing-data-with-amazon-ai",
+      "source": "hn",
+      "score": 14,
+      "content": "",
+      "published_at": "2026-08-20T10:36:14Z",
+      "fetched_at": "2026-08-21T02:08:33.012Z"
+    },
+    {
+      "title": "LinkedIn cracks down on automated content with AI detection button",
+      "url": "https://www.campaignindia.in/article/linkedin-cracks-down-on-automated-content-with-new-seems-like-ai-slop-detection-button/43e4tn3qyq543rpam874wksjn3",
+      "source": "hn",
+      "score": 13,
+      "content": "",
+      "published_at": "2026-08-20T12:42:42Z",
+      "fetched_at": "2026-08-21T02:08:33.012Z"
+    },
+    {
+      "title": "Protesters haul a guillotine to city council meeting about an AI data center",
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/protesters-haul-a-guillotine-to-city-council-meeting-about-a-potential-ai-data-center-company-rep-cornered-by-protestors-it-no-longer-felt-safe-to-stay-developer-escorted-out-by-police",
+      "source": "hn",
+      "score": 13,
+      "content": "",
+      "published_at": "2026-08-20T21:53:37Z",
+      "fetched_at": "2026-08-21T02:08:33.012Z"
+    },
+    {
+      "title": "DDD matters more when AI writes your code",
+      "url": "https://threedots.tech/post/ddd-and-ai-coding/",
+      "source": "hn",
+      "score": 9,
+      "content": "",
+      "published_at": "2026-08-20T11:12:28Z",
+      "fetched_at": "2026-08-21T02:08:33.012Z"
+    },
+    {
+      "title": "Is AI Entering Its NFT Era?",
+      "url": "https://aboard.com/is-ai-entering-its-nft-era/",
+      "source": "hn",
+      "score": 9,
+      "content": "",
+      "published_at": "2026-08-20T19:30:06Z",
+      "fetched_at": "2026-08-21T02:08:33.012Z"
+    },
+    {
+      "title": "Are you good at AI, or just using it?",
+      "url": "https://news.ycombinator.com/item?id=49378057",
+      "source": "hn",
+      "score": 8,
+      "content": "We’re working on a ladder for individual AI proficiency and would love feedback on both the levels and the definitions.<p>L0 New: brand new to AI, or has not yet used it.<p>L1 Chat: simple prompt-and-response use. Work is serial: ask, wait for an answer, then ask again.<p>L2 Contextual Work: gives AI relevant documents, data, or workspace context so it can work within the actual artifact and produce a more useful result.<p>L3 Orchestrate: coordinates multiple agents or AI roles across independent workstreams, with work that may review, challenge, compare, or build on other work. This is not just for engineering.<p>L4 Automate: creates workflows that are triggered by business events and run without someone sitting at a laptop directing each step.<p>L5 Loop: feeds the output of those workflows back into shared knowledge or a company brain, so future workflows improve over time.<p>A few things I’d love your perspective on:<p>Are these the right levels?\nAre any of the names unclear or overlapping?\nWhat observable behaviors would you use to distinguish one level from the next?\nDoes “loop” make sense as an individual proficiency level, or is it inherently a team or company capability?\nIs there a L6 and if so how would you define it?\nWe’re trying to define these because, in customer conversations, we’ve found that people are not very good at self-evaluating their own AI proficiency. Frequent use often gets mistaken for proficiency. And being low on a ladder like this can feel like admitting you are falling behind, do not fit in, or are less secure in your job, especially for leaders expected to set the pace. We want a more objective, behavior-based way to distinguish the two.",
+      "published_at": "2026-08-20T18:04:18Z",
+      "fetched_at": "2026-08-21T02:08:33.012Z"
+    },
+    {
+      "title": "Fieldmade – RPG crafting by drawing pixel art and AI",
+      "url": "https://chromagolem.itch.io/fieldmade",
+      "source": "hn",
+      "score": 8,
+      "content": "",
+      "published_at": "2026-08-20T18:49:22Z",
+      "fetched_at": "2026-08-21T02:08:33.012Z"
+    },
+    {
+      "title": "Vomit: Clean up Claude 5's token output with a separate LLM",
+      "url": "https://github.com/zachahn/vomit",
+      "source": "hn",
+      "score": 193,
+      "content": "",
+      "published_at": "2026-08-20T15:26:02Z",
+      "fetched_at": "2026-08-21T02:08:33.579Z"
+    },
+    {
+      "title": "Guess which of these LLM outputs is watermarked",
+      "url": "https://sgoedecke.github.io/watermark-quiz/",
+      "source": "hn",
+      "score": 11,
+      "content": "",
+      "published_at": "2026-08-20T14:03:58Z",
+      "fetched_at": "2026-08-21T02:08:33.579Z"
+    },
+    {
+      "title": "Do Chatbot LLMs Talk Too Much?",
+      "url": "https://arxiv.org/abs/2601.00624",
+      "source": "hn",
+      "score": 11,
+      "content": "",
+      "published_at": "2026-08-20T13:01:03Z",
+      "fetched_at": "2026-08-21T02:08:33.579Z"
+    },
+    {
+      "title": "Brancher un LLM sur un catalogue produit avec Django",
+      "url": "https://tonydevweb.com/articles/brancher-llm-catalogue-produit.html",
+      "source": "hn",
+      "score": 8,
+      "content": "",
+      "published_at": "2026-08-20T18:39:16Z",
+      "fetched_at": "2026-08-21T02:08:33.579Z"
+    },
+    {
+      "title": "Debian weighs eight options in vote on LLM usage",
+      "url": "https://lwn.net/Articles/1087134/",
+      "source": "hn",
+      "score": 6,
+      "content": "",
+      "published_at": "2026-08-20T09:39:07Z",
+      "fetched_at": "2026-08-21T02:08:33.579Z"
+    },
+    {
+      "title": "Show HN: Sentrint, a security scanner for projects build with LLMs",
+      "url": "https://sentrint.com/",
+      "source": "hn",
+      "score": 5,
+      "content": "",
+      "published_at": "2026-08-20T12:46:22Z",
+      "fetched_at": "2026-08-21T02:08:33.579Z"
+    },
+    {
+      "title": "Ask HN: How do you review and validate LLM generated code?",
+      "url": "https://news.ycombinator.com/item?id=49378314",
+      "source": "hn",
+      "score": 4,
+      "content": "It&#x27;s become very fast to generate code nowadays, but how do you review and test all of it?<p>Every time you ask a model to review some piece of code, it comes back with different &quot;findings&quot;. So, you still have to filter through the noise of their findings to get to actual defects.<p>And if you try to do the full review manually, then it might take more time to just understand the code than writing it yourself from the beginning.<p>As for testing, you can ask the LLM to write the tests, but you can&#x27;t be sure if the tests actually assert the expected product flow or just write pass&#x2F;fail tests for a piece of logic.<p>I would like to know if you have any workflows, strategies, or tricks.",
+      "published_at": "2026-08-20T18:26:05Z",
+      "fetched_at": "2026-08-21T02:08:33.579Z"
+    },
+    {
+      "title": "LLMs don't just mimic human text",
+      "url": "https://pangram.substack.com/p/no-llms-dont-just-mimic-human-text",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-08-20T17:10:31Z",
+      "fetched_at": "2026-08-21T02:08:33.579Z"
+    },
+    {
+      "title": "I reverse-engineering the closed GoodNotes format using LLMs",
+      "url": "https://github.com/Kaih1825/parser-for-goodnotes",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-08-20T17:33:47Z",
+      "fetched_at": "2026-08-21T02:08:33.579Z"
+    },
+    {
+      "title": "Teaching a local LLM to reason about a new domain through continued pretraining",
+      "url": "https://www.teachmecoolstuff.com/viewarticle/teaching-a-local-llm-a-new-domain",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-08-20T20:52:00Z",
+      "fetched_at": "2026-08-21T02:08:33.579Z"
+    },
+    {
+      "title": "Eron on X: \"LLMs do one thing: predict the next word",
+      "url": "https://twitter.com/0xEronn/status/2089079333885198384",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-08-20T11:28:26Z",
+      "fetched_at": "2026-08-21T02:08:33.579Z"
+    },
+    {
+      "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+      "url": "https://arxiv.org/abs/2608.09867",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-08-20T02:12:17Z",
+      "fetched_at": "2026-08-21T02:08:33.579Z"
+    },
+    {
+      "title": "I benched frontier AI LLM models on politics, ethics, and personality traits",
+      "url": "https://www.blackbench.ai/",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-21T01:26:01Z",
+      "fetched_at": "2026-08-21T02:08:33.579Z"
+    },
+    {
+      "title": "(LLM Cluster) I spent all my money on broken Steam Decks [video]",
+      "url": "https://www.youtube.com/watch?v=P0GXwKlg3pU",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-20T15:45:42Z",
+      "fetched_at": "2026-08-21T02:08:33.579Z"
+    },
+    {
+      "title": "Show HN: LLM-enabled large data analysis",
+      "url": "https://app.verbagpt.com",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-20T14:55:29Z",
+      "fetched_at": "2026-08-21T02:08:33.579Z"
+    },
+    {
+      "title": "Draft spec for an offline emergency dispatch protocol in on-device LLMs url",
+      "url": "https://github.com/kapustin-i/offline-dispatch-protocol",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-20T13:16:09Z",
+      "fetched_at": "2026-08-21T02:08:33.579Z"
+    },
+    {
+      "title": "Getting a Foothold in Reinforcement Learning for LLMs",
+      "url": "https://amitpoonia.github.io/posts/intro-rl.md.html",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-20T12:36:37Z",
+      "fetched_at": "2026-08-21T02:08:33.579Z"
+    },
+    {
+      "title": "VulnBench: Can LLMs find the same security bugs twice?",
+      "url": "https://vulnbench.com/",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-20T11:27:20Z",
+      "fetched_at": "2026-08-21T02:08:33.579Z"
+    },
+    {
+      "title": "LLM Reasoning Traces Are Not Audit Records",
+      "url": "https://rye.ai/blog/cot-faithfulness-reasoning-traces-not-audit-logs/",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-08-20T06:20:14Z",
+      "fetched_at": "2026-08-21T02:08:33.579Z"
+    },
+    {
+      "title": "Gisting: Compressing LLM Agent context to ↑ throughput and ↓ cost",
+      "url": "https://shopify.engineering/gisting",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-08-21T01:42:09Z",
+      "fetched_at": "2026-08-21T02:08:33.579Z"
+    },
+    {
+      "title": "Hacking with Claude on a $27 smart watch",
+      "url": "https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html",
+      "source": "hn",
+      "score": 86,
+      "content": "",
+      "published_at": "2026-08-20T14:08:09Z",
+      "fetched_at": "2026-08-21T02:08:34.050Z"
+    },
+    {
+      "title": "I am morally opposed to updating my Claude.md",
+      "url": "https://alex-jacobs.com/posts/claudemd/",
+      "source": "hn",
+      "score": 29,
+      "content": "",
+      "published_at": "2026-08-20T15:47:48Z",
+      "fetched_at": "2026-08-21T02:08:34.050Z"
+    },
+    {
+      "title": "Claude \"warning\" users about language and defending business influencers",
+      "url": "https://twitter.com/MatznerJon/status/2090157152690196754",
+      "source": "hn",
+      "score": 13,
+      "content": "",
+      "published_at": "2026-08-20T18:16:50Z",
+      "fetched_at": "2026-08-21T02:08:34.050Z"
+    },
+    {
+      "title": "Show HN: Epho – run Claude Code with a curl",
+      "url": "https://epho.io",
+      "source": "hn",
+      "score": 5,
+      "content": "Hey folks, Burak here.<p>Epho is an API that allows running Claude Code, Codex or Opencode in a sandbox in the cloud. It abstracts away sandboxes, and allows running coding agents with a single HTTP request.<p>Epho came out of our own struggles with building our own AI analyst:\n- Sandboxes give you bare machines; you need to configure them for agentic workloads.\n- Each agent behaves differently, and you need to build integrations with each of them.\n- Sandbox providers are not very reliable, which means you need to figure out a multi-provider strategy to avoid failures.\n- Logging, artifacts, input&#x2F;output, event streaming, and all of the other operational aspects need to be figured out.<p>We had to go through the pain ourselves. We got to a point where things got quite reliable, and it became more obvious to us that this should be a primitive on its own: send a POST request, get the events streaming back to you.<p>Epho is an agents-as-an-API product: you send a request, it spins up a sandbox, configures the chosen harness, clones your repos, and kicks off the agent. It takes care of automatic fallbacks across different providers, handles auth stuff, and just streams back the events and outputs.<p>It supports Claude Code, Codex and Opencode out of the box, and pretty much all the models they support out of the box. It streams the events back, handles attachments and output files, automatically manages the fallbacks on different sandbox providers, retries, and all the auth stuff. You just send a prompt, your repo, MCP servers you want to use with it, and it runs them.<p>I recorded a demo here to show a real example: <a href=\"https:&#x2F;&#x2F;youtu.be&#x2F;HGfly1aytPA\" rel=\"nofollow\">https:&#x2F;&#x2F;youtu.be&#x2F;HGfly1aytPA</a><p>I am quite excited for Epho, simply because I think it is a new primitive that would allow building agents into product a lot easier than it is today. We are running our agents on Epho on prod, so we&#x27;ll keep maintaining it regardle",
+      "published_at": "2026-08-20T15:45:51Z",
+      "fetched_at": "2026-08-21T02:08:34.050Z"
+    },
+    {
+      "title": "Is Claude Code a bad harness?",
+      "url": "https://generray.substack.com/p/is-claude-code-a-bad-harness",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-08-20T14:36:28Z",
+      "fetched_at": "2026-08-21T02:08:34.050Z"
+    },
+    {
+      "title": "How Claude's Watermark Works",
+      "url": "https://instavm.io/blog/how-claudes-watermark-works",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-08-20T03:10:42Z",
+      "fetched_at": "2026-08-21T02:08:34.050Z"
+    },
+    {
+      "title": "Reduce Claudish: Paul-Graham-writing-style-in-Claude.md",
+      "url": "https://gist.github.com/frodo-max-12/090ec580048f0920c20ce9a4da67ddee",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-08-20T09:48:42Z",
+      "fetched_at": "2026-08-21T02:08:34.050Z"
+    },
+    {
+      "title": "How to fix Claude 5's token vomit",
+      "url": "https://zachahn.com/posts/1787191554",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-08-20T15:11:18Z",
+      "fetched_at": "2026-08-21T02:08:34.050Z"
+    },
+    {
+      "title": "Mermaid as the Orchestration Layer for Claude Dynamic Workflows",
+      "url": "https://olegivye.com/#/article/llassembly-cli-mermaid",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-08-20T13:48:04Z",
+      "fetched_at": "2026-08-21T02:08:34.050Z"
+    },
+    {
+      "title": "Show HN: Pacer – Realtime Claude Code Usage Tracking / Pacing",
+      "url": "https://github.com/EricAndrechek/Pacer",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-20T16:23:20Z",
+      "fetched_at": "2026-08-21T02:08:34.050Z"
+    },
+    {
+      "title": "Creative Thinking by Claude Shannon",
+      "url": "https://www1.ece.neu.edu/~naderi/Claude%20Shannon.html",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-20T23:35:03Z",
+      "fetched_at": "2026-08-21T02:08:34.050Z"
+    },
+    {
+      "title": "Show HN: luoluoAI – OpenAI-compatible and Claude Messages API gateway",
+      "url": "https://api.luoluocoder.com/",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-20T23:27:44Z",
+      "fetched_at": "2026-08-21T02:08:34.050Z"
+    },
+    {
+      "title": "Show HN: Verified business dashboards inside ChatGPT and Claude via MCP Apps",
+      "url": "https://www.corpusiq.io/docs/hermes/mcp/mcp-apps-interactive-ui",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-20T20:45:36Z",
+      "fetched_at": "2026-08-21T02:08:34.050Z"
+    },
+    {
+      "title": "Show HN: ISLP textbook rebuilt from PDF into ePub, using Claude Code",
+      "url": "https://github.com/govarthenan/islp-epub",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-20T15:03:18Z",
+      "fetched_at": "2026-08-21T02:08:34.050Z"
+    },
+    {
+      "title": "SEO Skills AI – Universal Open-Source SEO Agent for Claude, Cursor, Windsurf",
+      "url": "https://github.com/seoskillsai/seo-skills-ai",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-20T14:11:51Z",
+      "fetched_at": "2026-08-21T02:08:34.050Z"
+    },
+    {
+      "title": "Show HN: Languageme – Learning new languages with Claude Code by dripping",
+      "url": "https://github.com/magiclex/languageme",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-20T12:42:34Z",
+      "fetched_at": "2026-08-21T02:08:34.050Z"
+    },
+    {
+      "title": "Nearly one in ten published Claude Code skills does not load",
+      "url": "https://toolproof.kynth.studio/census",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-20T11:24:20Z",
+      "fetched_at": "2026-08-21T02:08:34.050Z"
+    },
+    {
+      "title": "Claude Revived My Microsoft Band 2",
+      "url": "https://webenclave.com/posts/bringing-a-microsoft-band-2-back-from-the-dead/",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-20T05:11:32Z",
+      "fetched_at": "2026-08-21T02:08:34.050Z"
+    },
+    {
+      "title": "Claude driving an autonomous RC car [video]",
+      "url": "https://www.youtube.com/watch?v=jBpQiv-ZlVM",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-08-21T01:48:49Z",
+      "fetched_at": "2026-08-21T02:08:34.050Z"
+    },
+    {
+      "title": "Anthropic Expects to Match SpaceX's Record IPO Size or Top It",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-20/anthropic-expects-to-match-spacex-s-record-ipo-size-or-top-it",
+      "source": "hn",
+      "score": 7,
+      "content": "",
+      "published_at": "2026-08-20T18:39:42Z",
+      "fetched_at": "2026-08-21T02:08:34.785Z"
+    },
+    {
+      "title": "Is AI spend on OpenAI or Anthropic starting to eat into your runway?",
+      "url": "https://rails-agent.com/",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-20T22:23:16Z",
+      "fetched_at": "2026-08-21T02:08:34.785Z"
+    },
+    {
+      "title": "No, Anthropic Won't Be the Only Company Left",
+      "url": "https://forwardfuture.com/newsletter/originals/no-anthropic-won-t-be-the-only-company-left",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-20T16:14:29Z",
+      "fetched_at": "2026-08-21T02:08:34.785Z"
+    },
+    {
+      "title": "India Country Brief: The Anthropic Economic Index",
+      "url": "https://www.anthropic.com/research/india-brief-economic-index",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-08-20T10:04:12Z",
+      "fetched_at": "2026-08-21T02:08:34.785Z"
+    },
+    {
+      "title": "If You Weren't Worried About A.I., You Should Be",
+      "url": "https://www.nytimes.com/2026/08/13/opinion/ai-danger-openai-anthropic-models.html",
+      "source": "hn",
+      "score": 7,
+      "content": "",
+      "published_at": "2026-08-21T00:11:05Z",
+      "fetched_at": "2026-08-21T02:08:34.785Z"
+    },
+    {
+      "title": "Autolith: A programming agent with a live runtime",
+      "url": "https://www.lambda-symbolics.com/autolith",
+      "source": "hn",
+      "score": 20,
+      "content": "",
+      "published_at": "2026-08-20T15:40:57Z",
+      "fetched_at": "2026-08-21T02:08:35.259Z"
+    },
+    {
+      "title": "TrueForge – The open-source agent harness",
+      "url": "https://github.com/truefoundry/trueforge",
+      "source": "hn",
+      "score": 16,
+      "content": "",
+      "published_at": "2026-08-20T18:36:07Z",
+      "fetched_at": "2026-08-21T02:08:35.259Z"
+    },
+    {
+      "title": "Show HN: Future Crew's 1993 Second Reality, rebuilt by AI agents, no emulation",
+      "url": "https://www.secondreality1993.com/",
+      "source": "hn",
+      "score": 5,
+      "content": "",
+      "published_at": "2026-08-20T16:46:48Z",
+      "fetched_at": "2026-08-21T02:08:35.259Z"
+    },
+    {
+      "title": "Show HN: evepad – The missing IDE for building eve agents",
+      "url": "https://github.com/andrewckor/evepad",
+      "source": "hn",
+      "score": 5,
+      "content": "",
+      "published_at": "2026-08-20T13:23:34Z",
+      "fetched_at": "2026-08-21T02:08:35.259Z"
+    },
+    {
+      "title": "The tests your agent writes defend the code it saw. Bugs included",
+      "url": "https://news.ycombinator.com/item?id=49370920",
+      "source": "hn",
+      "score": 5,
+      "content": "",
+      "published_at": "2026-08-20T06:03:00Z",
+      "fetched_at": "2026-08-21T02:08:35.259Z"
+    },
+    {
+      "title": "OpenAI's Rogue AI Agent Hacked More Than Just Hugging Face",
+      "url": "https://www.wired.com/story/openais-rogue-ai-agent-hacked-more-than-just-hugging-face/",
+      "source": "hn",
+      "score": 5,
+      "content": "",
+      "published_at": "2026-08-20T18:58:25Z",
+      "fetched_at": "2026-08-21T02:08:35.259Z"
+    },
+    {
+      "title": "AI agent suggested installing a malware package. Engineer almost took its advice",
+      "url": "https://www.theregister.com/security/2026/08/20/ai-agent-suggested-installing-a-malware-package-engineer-almost-took-its-advice/5289849",
+      "source": "hn",
+      "score": 5,
+      "content": "",
+      "published_at": "2026-08-20T12:07:07Z",
+      "fetched_at": "2026-08-21T02:08:35.259Z"
+    },
+    {
+      "title": "Find what your analytics agent will get wrong in your dbt repo",
+      "url": "https://github.com/GetCassis/dbt-agent-readiness",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-08-20T13:43:36Z",
+      "fetched_at": "2026-08-21T02:08:35.259Z"
+    },
+    {
+      "title": "Agent Applications: A Reference Architecture for AI Agent Systems",
+      "url": "https://agentapplication.io",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-08-20T16:35:49Z",
+      "fetched_at": "2026-08-21T02:08:35.259Z"
+    },
+    {
+      "title": "One human. Agents. 3,913 merged PRs in 30 days",
+      "url": "https://github.com/kungfu-systems/site-libkungfu-dev/blob/main/docs/research/parallel-runtime-paths.md",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-08-20T14:43:47Z",
+      "fetched_at": "2026-08-21T02:08:35.259Z"
+    },
+    {
+      "title": "Show HN: TakoVM – Serverless file systems for agents",
+      "url": "https://tako-research.github.io/TakoVM/",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-08-21T00:23:30Z",
+      "fetched_at": "2026-08-21T02:08:35.259Z"
+    },
+    {
+      "title": "Infrastructure requirements for running agents in production",
+      "url": "https://www.tokengo.com/blog/infrastructure-for-agents-in-production",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-08-20T19:12:04Z",
+      "fetched_at": "2026-08-21T02:08:35.259Z"
+    },
+    {
+      "title": "Show HN: testmagic.link – Zero-setup magic link testing for coding agents",
+      "url": "https://testmagic.link",
+      "source": "hn",
+      "score": 3,
+      "content": "I built testmagic.link because Claude Code kept using my personal Gmail when testing magic-link authentication, filling my inbox with test emails.<p>I know there are existing email testing services, but the ones I found require signing up, getting credentials, and integrating an API. That felt like overkill when I just wanted to tell Claude Code: &quot;test the email sign-in using testmagic.link&quot;.<p>So I made testmagic.link. No signup, no API keys, no integration. It’s basically a one-liner with a domain that’s easy to remember. I also added an llms.txt file at the root, so agents instantly know how to read the inbox without me explaining it.<p>There’s also an optional mail-scanner simulation: add ?prefetch=1 to the inbox URL, and testmagic.link will GET each message’s magic link once before you open it, without following redirects — similar to how Outlook Safe Links or a corporate mail scanner might prefetch links. This is useful for catching magic-link flows that break when a security scanner visits a single-use link first.<p>Would love to hear your feedback, or if you&#x27;ve run into any other weird email auth edge cases I should simulate. I&#x27;ll be around to answer questions!",
+      "published_at": "2026-08-20T13:08:03Z",
+      "fetched_at": "2026-08-21T02:08:35.259Z"
+    },
+    {
+      "title": "200B Tokens Later: A Month of Letting AI Agents Decompile MW2",
+      "url": "https://momo5502.com/posts/2026-08-17-mw2-decompilation/",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-08-20T08:14:36Z",
+      "fetched_at": "2026-08-21T02:08:35.259Z"
+    },
+    {
+      "title": "Python Code Quality with Agents",
+      "url": "https://github.com/wemake-services/wemake-python-styleguide",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-08-20T07:32:30Z",
+      "fetched_at": "2026-08-21T02:08:35.259Z"
+    },
+    {
+      "title": "Internal Agents Map",
+      "url": "https://github.com/steel-experiments/internal-agents-map",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-20T17:50:19Z",
+      "fetched_at": "2026-08-21T02:08:35.259Z"
+    },
+    {
+      "title": "Show HN: SystemG – An agent-friendly general process composer",
+      "url": "https://sysg.dev",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-20T17:26:12Z",
+      "fetched_at": "2026-08-21T02:08:35.259Z"
+    },
+    {
+      "title": "Mindlas catches your coding agent drifting before the bad code",
+      "url": "https://github.com/Evolutionairy-AI/MINDLAS",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-20T14:05:55Z",
+      "fetched_at": "2026-08-21T02:08:35.259Z"
+    },
+    {
+      "title": "Show HN: Do-over, undo for AI agent shell commands",
+      "url": "https://github.com/CaydenChik/doover",
+      "source": "hn",
+      "score": 2,
+      "content": "Hello HN,<p>I built this after a coding agent deleted my files while tidying a project. Do-over plugs into Claude Code&#x27;s hooks and snapshots what a command is about to touch right before it runs.<p>I know what you&#x27;re thinking. Why don&#x27;t you just commit more often?<p>This tool doesn&#x27;t seek to replace git. What it does is:\n[1] Protect the stuff git doesn&#x27;t protect: your untracked&#x2F;ignored files and files that exist outside your repo (which is how a guy lost 50GB of data - Claude code issue tracker)\n[2] Protects you when git itself is weaponized by your agent: git checkout ., git clean -fd, and git reset --hard (a three year old Unity project was deleted this way - Claude Code issue tracker)\n[3] Protects you in the case when you&#x27;re just forgetful and don&#x27;t commit<p>It really is a simple safeguard to potential headaches. And it&#x27;s a last mile effort that secures what current measures can&#x27;t. That includes sandboxes, checkpoints, git.",
+      "published_at": "2026-08-20T06:42:36Z",
+      "fetched_at": "2026-08-21T02:08:35.259Z"
+    },
+    {
+      "title": "Browser automation agents with Pydantic AI and Playwright",
+      "url": "http://blog.pamelafox.org/2026/08/browser-automation-with-pydantic-ai.html",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-20T22:02:45Z",
+      "fetched_at": "2026-08-21T02:08:35.259Z"
+    },
+    {
+      "title": "ChatGPT search now uses the site:operator at scale",
+      "url": "https://simonwillison.net/2026/Aug/20/chatgpt-search-now-uses-the-siteoperator-at-scale/",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-08-20T23:57:32.000Z",
+      "fetched_at": "2026-08-21T02:08:32.663Z"
+    },
+    {
+      "title": "A shot-scraper-style JSON API on Bun 1.4's new Bun.WebView",
+      "url": "https://simonwillison.net/2026/Aug/20/bun-webview-json-api/",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-08-20T15:37:00.000Z",
+      "fetched_at": "2026-08-21T02:08:32.663Z"
+    },
+    {
+      "title": "smolmachines / smolvm as a sandbox for untrusted Python & JavaScript",
+      "url": "https://simonwillison.net/2026/Aug/19/smolmachines-untrusted-sandbox/",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-08-19T23:16:00.000Z",
+      "fetched_at": "2026-08-21T02:08:32.663Z"
+    },
+    {
+      "title": "Quoting Jeremy Morrell",
+      "url": "https://simonwillison.net/2026/Aug/19/jeremy-morrell/",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-08-19T22:56:31.000Z",
+      "fetched_at": "2026-08-21T02:08:32.663Z"
+    },
+    {
+      "title": "Conceptual integrity and counting lines of code",
+      "url": "https://simonwillison.net/2026/Aug/19/conceptual-integrity-and-counting-lines-of-code/",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-08-19T22:46:07.000Z",
+      "fetched_at": "2026-08-21T02:08:32.663Z"
+    },
+    {
+      "title": "FACET: Preserving Source Intent and Executable State in Terminal Task Synthesis",
+      "url": "https://huggingface.co/papers/2608.18580",
+      "source": "hf-daily-papers",
+      "score": 5,
+      "content": "Training terminal agents requires scalable executable supervision, yet synthesizing high-quality terminal tasks remains challenging. Each task couples an instruction, an initialized environment, a reference solution, and an executable verifier; if these artifacts are generated from inconsistent assumptions, the resulting task may be unsolvable or incorrectly evaluated. Meanwhile, multi-stage synthesis can discard the goals, dependencies, state transitions, and procedural constraints encoded in the original sources. We present FACET (Fine-grained Agentic Construction of Executable Tasks), a framework that addresses both information preservation and cross-artifact consistency. FACET reconstructs related agent skills into coherent, information-rich scenarios, then realizes and repairs the execution environment before generating the final task artifacts. The resulting container state serves as shared grounding for the instruction, solution, and verifier, while execution-based validation and targeted repair correct artifact-specific failures without unnecessarily regenerating valid components. FACET produces complex terminal tasks with dense executable checks, and successful trajectories collected from these tasks provide effective, data-efficient supervision. Fine-tuning models across multiple scales consistently improves performance on Terminal-Bench 2.1, while analyses of alternative generation schemes support the importance of environment-grounded construction for task validity and solution-verifier alignment. These results establish source-intent preservation and shared executable-state grounding as key principles for scalable terminal-task synthesis.",
+      "published_at": "2026-08-18T20:00:00.000Z",
+      "fetched_at": "2026-08-21T02:08:32.639Z"
+    },
+    {
+      "title": "EnvHarness: Awakening Static Worlds for Agent Learning",
+      "url": "https://huggingface.co/papers/2608.19880",
+      "source": "hf-daily-papers",
+      "score": 4,
+      "content": "LLM agents learn by interacting with environments, yet these environments are hand-built and static: blind to an agent's weaknesses, and quickly left behind as it improves. While recent environment generation methods attempt to address this, they require domain-specific pipelines, rely on expensive or unreliable verifiers, and still produce static environments. To alleviate the engineering burden of rebuilding environments from scratch, we propose Environment Harness (EnvHarness), a programmable layer of plug-in components that wraps a static environment to reshape its behavior without modifying the underlying logic. Operating through standard interfaces, EnvHarness applies across diverse domains while ensuring every reshaped environment retains its original verifier. To automate this process, we introduce EnvRigger, which treats the target policy as a black box, observing its execution trajectories to synthesize EnvHarness components targeting diagnosed flaws, and validating them via fresh rollouts. Across five benchmarks in four domains, EnvHarness outperforms both original environments and domain-specific environment generation pipelines, achieving up to a 9.0-point improvement on held-out instances with 9.8% fewer execution steps. Furthermore, EnvHarness provides a superior optimization signal for reinforcement learning, enabling continuous, targeted co-evolution of the policy and its environment.",
+      "published_at": "2026-08-19T20:00:00.000Z",
+      "fetched_at": "2026-08-21T02:08:32.639Z"
+    },
+    {
+      "title": "ForgeWM: Progressive Causal Training for Few-Step Action-Conditioned Video World Models",
+      "url": "https://huggingface.co/papers/2608.14022",
+      "source": "hf-daily-papers",
+      "score": 2,
+      "content": "Action-conditioned video world models require low-latency causal generation and reliable responses to game-native controls. Although causal distillation enables one- or few-step video synthesis, extending it to interactive world models remains challenging, as discrete keyboard states and continuous mouse motion must remain aligned with temporally compressed latent chunks during causal training and autoregressive rollout. We introduce ForgeWM, a progressive framework that transforms a bidirectional action-conditioned video generator into efficient few-step world models through domain adaptation, teacher-forced causal training, causal consistency distillation, and on-policy distribution matching with a bidirectional teacher. The resulting budget-specialized students operate at steady-state denoising budgets of 1, 2, and 4 steps. ForgeWM further supports a dual-path deployment protocol combining latency-critical interaction with optional replay-time refinement, where the one-step student re-noises and refines its saved draft. On paired Minecraft trajectories, ForgeWM leads the evaluated systems in Imaging Quality, reference-aligned motion-profile agreement, action-sign accuracy, and mouse-control accuracy, while achieving the lowest reference LPIPS; the same four-stage recipe transfers to gamepad-controlled FPS gameplay. Replay-time refinement matches four-step reference quality while remaining roughly three times closer to the experienced trajectory than regeneration from noise. These results demonstrate ForgeWM's effectiveness for controllable few-step video generation.",
+      "published_at": "2026-08-14T03:13:34.000Z",
+      "fetched_at": "2026-08-21T02:08:32.639Z"
+    },
+    {
+      "title": "WithEveryone: Unified Planning and Identity Grounding for Group Image Generation",
+      "url": "https://huggingface.co/papers/2608.20336",
+      "source": "hf-daily-papers",
+      "score": 1,
+      "content": "Identity-preserving image generation becomes increasingly unreliable when a scene must contain many specified people. Beyond retaining each identity, the model must bind every reference to a distinct person and location, while training-time identity losses must establish correspondence among several noisy predicted faces. We introduce WithEveryone, a unified framework for generating group images up to ten reference identities. WithEveryone injects each selected identity as an addressed token, predicts a structured identity--layout plan, and renders the plan as a visual condition. Its key objective, Layout-Grounded ID Loss, uses annotated face regions to supervise the intended identities directly, avoiding unstable embedding-based face matching; ID Representation Forcing additionally trains a prediction for each identity before image synthesis. On an identity-disjoint benchmark, WithEveryone achieves the highest target-context identity similarity, improving face similarity from 0.462 for GPT-Image-2 to 0.499, while reducing copy-paste artifacts from 0.169 to 0.055. It further covers 97.3\\% of the requested identities with a duplicate rate of only 2.8\\%. These results show that explicit identity--layout grounding enables identity-preserving generation to scale to larger groups without relying on direct reference-face copying.",
+      "published_at": "2026-08-19T20:00:00.000Z",
+      "fetched_at": "2026-08-21T02:08:32.639Z"
+    },
+    {
+      "title": "EXIMO: VLM Guided Exploration of VLA Policies",
+      "url": "https://huggingface.co/papers/2608.19891",
+      "source": "hf-daily-papers",
+      "score": 1,
+      "content": "How to efficiently finetune robot policies to learn new tasks on the fly? State of the art robotic manipulation policies are based on behaviour cloning of large vision-language-action (VLA) models with billions of parameters on huge teleoperation datasets. While this simple approach has enabled significant advances for robotic manipulation, finetuning of VLA policies for learning new tasks still remains an open problem. In particular, collecting teleoperation datasets requires hundreds of hours of expensive human labour and the alternative, reinforcement learning (RL), can be notoriously sample-inefficient especially for long-horizon tasks. In addition, RL with VLAs imposes several challenges due to the model's size and architectural design. In this work, we propose EXIMO, an efficient algorithm for finetuning of VLA policies. EXIMO operates in three stages: explore, imitate, and optimize. During the explore phase, EXIMO equips the VLA with a vision language model (VLM) that acts as a planner. The VLM thinks and breaks down challenging long-horizon problems into shorter ones for the VLA. The VLM, together with the VLA, is used to collect an orchestrated dataset on new tasks. During the imitate phase, the VLA is finetuned with the orchestrated data. Finally, during the optimize stage, we use residual off-policy RL to further finetune the policy. In our experiments, we ablate all three stages of EXIMO and show that it outperforms existing approaches significantly in terms of sample-efficiency and final performance.",
+      "published_at": "2026-08-19T20:00:00.000Z",
+      "fetched_at": "2026-08-21T02:08:32.639Z"
+    },
+    {
+      "title": "PolicyGuide: From Guarding One Action to Guiding the Whole Workflow for Policy-Compliant LLM Agents",
+      "url": "https://huggingface.co/papers/2608.19861",
+      "source": "hf-daily-papers",
+      "score": 1,
+      "content": "Customer-service LLM agents must follow organizational policy when acting on a user's behalf. Compliance failures arise from either forbidden actions, such as granting an ineligible change, or omitted procedural requirements, such as identification or confirmation. Runtime safeguards can intervene on risky actions, but action-local checks do not guide an agent through a multi-step procedure. Workflow-following systems support prescribed process execution, but primarily target workflow completion rather than safeguarding agent behavior. PolicyGuide instead compiles each domain policy into a workflow graph and invokes a proactive verifier at user-turn boundaries. From persisted graph state, the verifier reconciles open requests and returns step-specific remediation along a policy-compliant path. Across the τ^2-bench airline, retail, and telecom domains with a GPT-5.4 agent and verifier, PolicyGuide raises mean Pass^4 from 0.42 to 0.62, with the largest gain on telecom (0.19 to 0.61), the most workflow-structured domain. The same workflows transfer to Claude Sonnet 4.6 and Gemini 2.5 Pro agents. Complementary evaluations find the lowest observed attack-success rate under adversarial users and the strongest procedural compliance in an author-designed workflow-level validation.",
+      "published_at": "2026-08-19T20:00:00.000Z",
+      "fetched_at": "2026-08-21T02:08:32.639Z"
+    }
+  ]
+}
