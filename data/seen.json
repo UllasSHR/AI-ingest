@@ -1,9 +1,4 @@
 {
-  "https://www.digitalapplied.com/blog/llm-batch-api-pricing-landscape-2026": "2026-08-15",
-  "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions": "2026-08-15",
-  "https://github.com/metedata/Remarc": "2026-08-15",
-  "https://github.com/lajosdeme/mole": "2026-08-15",
-  "https://github.com/choiyounggi/cliclaw": "2026-08-15",
   "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/": "2026-08-16",
   "https://github.com/ACE-Engineering/ace-sidecar": "2026-08-16",
   "https://mooch.agency/say-less": "2026-08-16",
@@ -39,5 +34,12 @@
   "https://github.com/magiclex/languageme": "2026-08-21",
   "https://github.com/EricAndrechek/Pacer": "2026-08-21",
   "https://github.com/zachahn/vomit": "2026-08-21",
-  "https://epho.io": "2026-08-21"
+  "https://epho.io": "2026-08-21",
+  "https://github.com/DonkeyCut/Donkey": "2026-08-22",
+  "https://frigade.com/blog/we-replaced-grafana-with-a-claude-code-skill": "2026-08-22",
+  "https://github.com/proliferate-ai/proliferate": "2026-08-22",
+  "https://github.com/adnanakil/nobuzz/blob/main/README.md": "2026-08-22",
+  "https://github.com/gtapps/claude-code-hermit/": "2026-08-22",
+  "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/": "2026-08-22",
+  "https://code.claude.com/docs/en/output-styles": "2026-08-22"
 }
