@@ -1,0 +1,625 @@
+{
+  "date": "2026-08-24",
+  "fetched_at": "2026-08-24T02:08:16.351Z",
+  "summary": [
+    "  ✓ hn               59 items",
+    "  ✗ reddit           FAILED: all Reddit subreddit fetches failed",
+    "  ✓ simonwillison    5 items",
+    "  ✓ hf               4 items"
+  ],
+  "item_count": 68,
+  "items": [
+    {
+      "title": "'AI refuser' quit her dream job, and hopes others follow",
+      "url": "https://www.smh.com.au/technology/this-ai-refuser-quit-her-dream-job-and-hopes-others-follow-20260818-p60pdu.html",
+      "source": "hn",
+      "score": 34,
+      "content": "",
+      "published_at": "2026-08-23T10:54:35Z",
+      "fetched_at": "2026-08-24T02:08:14.574Z"
+    },
+    {
+      "title": "Palantir's Karp – frontier AI labs that are 'trying to drug addict us'",
+      "url": "https://www.cnbc.com/2026/08/03/palantir-karp-open-ai-anthropic-open-weight.html",
+      "source": "hn",
+      "score": 19,
+      "content": "",
+      "published_at": "2026-08-23T04:03:46Z",
+      "fetched_at": "2026-08-24T02:08:14.574Z"
+    },
+    {
+      "title": "Andrew Ng: \"AI Engineering Skills Map: Building and Deploying AI Applications\"",
+      "url": "https://twitter.com/AndrewYNg/status/2090840747738374568",
+      "source": "hn",
+      "score": 15,
+      "content": "",
+      "published_at": "2026-08-23T11:28:08Z",
+      "fetched_at": "2026-08-24T02:08:14.574Z"
+    },
+    {
+      "title": "In 2000, Ted Kaczynski advised against math career due to future AI progress",
+      "url": "https://twitter.com/subcountability/status/2091164267827327042",
+      "source": "hn",
+      "score": 11,
+      "content": "",
+      "published_at": "2026-08-23T03:47:05Z",
+      "fetched_at": "2026-08-24T02:08:14.574Z"
+    },
+    {
+      "title": "Contextual News Search APIs: A Deep Comparison for AI, RAG, and Research",
+      "url": "https://github.com/free-news-api/news-search-api-comparison",
+      "source": "hn",
+      "score": 10,
+      "content": "",
+      "published_at": "2026-08-23T08:30:32Z",
+      "fetched_at": "2026-08-24T02:08:14.574Z"
+    },
+    {
+      "title": "Airbus bows to remote working demands after series of strikes",
+      "url": "https://www.theguardian.com/business/2026/aug/21/airbus-bows-remote-working-strikes",
+      "source": "hn",
+      "score": 7,
+      "content": "",
+      "published_at": "2026-08-23T13:31:29Z",
+      "fetched_at": "2026-08-24T02:08:14.574Z"
+    },
+    {
+      "title": "The lost airports of SimCity 3000 (2002)",
+      "url": "https://web.archive.org/web/20021204030618/http://www.sc3000.com/knowledge/showarticle.cfm?id=0910&openItemID=",
+      "source": "hn",
+      "score": 7,
+      "content": "",
+      "published_at": "2026-08-23T08:39:23Z",
+      "fetched_at": "2026-08-24T02:08:14.574Z"
+    },
+    {
+      "title": "A mysterious free AI model is impressing developers. Nobody knows who made it",
+      "url": "https://www.businessinsider.com/ox-alpha-ai-model-mystery-2026-8",
+      "source": "hn",
+      "score": 6,
+      "content": "",
+      "published_at": "2026-08-23T05:40:43Z",
+      "fetched_at": "2026-08-24T02:08:14.574Z"
+    },
+    {
+      "title": "US corporate AI debt surge tests investor limits as fatigue emerges",
+      "url": "https://www.reuters.com/legal/transactional/us-corporate-ai-debt-surge-tests-investor-limits-fatigue-emerges-2026-08-21/",
+      "source": "hn",
+      "score": 6,
+      "content": "",
+      "published_at": "2026-08-23T10:23:45Z",
+      "fetched_at": "2026-08-24T02:08:14.574Z"
+    },
+    {
+      "title": "Chinese Orgs Building AI Models of American Voters to Test Political Messages",
+      "url": "https://twitter.com/nataliegwinters/status/2090814996687237570",
+      "source": "hn",
+      "score": 5,
+      "content": "",
+      "published_at": "2026-08-23T05:19:45Z",
+      "fetched_at": "2026-08-24T02:08:14.574Z"
+    },
+    {
+      "title": "Show HN: Declarative, reproducible configuration materializer for AI agents",
+      "url": "https://github.com/tooppoo/enozunu",
+      "source": "hn",
+      "score": 5,
+      "content": "",
+      "published_at": "2026-08-23T11:48:23Z",
+      "fetched_at": "2026-08-24T02:08:14.574Z"
+    },
+    {
+      "title": "China Is Building AI Models of American Voters",
+      "url": "https://nataliegwinters.substack.com/p/exclusive-china-is-building-ai-models",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-08-23T05:43:06Z",
+      "fetched_at": "2026-08-24T02:08:14.574Z"
+    },
+    {
+      "title": "AI's potential climate benefits outweighed by role in boosting fossil fuels",
+      "url": "https://www.theguardian.com/technology/2026/aug/11/ai-will-do-more-to-boost-fossil-fuel-production-than-green-energy",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-08-23T04:50:53Z",
+      "fetched_at": "2026-08-24T02:08:14.574Z"
+    },
+    {
+      "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+      "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-08-23T09:21:44Z",
+      "fetched_at": "2026-08-24T02:08:14.574Z"
+    },
+    {
+      "title": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
+      "url": "https://ericpardee.github.io/fire-hd-ownership/",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-08-23T14:23:09Z",
+      "fetched_at": "2026-08-24T02:08:14.574Z"
+    },
+    {
+      "title": "OpenAI leader warns of threat of 'persistent' AI cyber-attacks",
+      "url": "https://www.theguardian.com/technology/2026/aug/23/openai-cyber-attacks-threat-chris-lehane",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-08-23T14:16:47Z",
+      "fetched_at": "2026-08-24T02:08:14.574Z"
+    },
+    {
+      "title": "The search for consciousness inside AI",
+      "url": "https://www.economist.com/interactive/briefing/2026/08/20/the-search-for-consciousness-inside-llms",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-23T11:07:51Z",
+      "fetched_at": "2026-08-24T02:08:14.574Z"
+    },
+    {
+      "title": "Ask HN: Will AI trigger mass IP protectionism in software?",
+      "url": "https://news.ycombinator.com/item?id=49408691",
+      "source": "hn",
+      "score": 2,
+      "content": "One of the reasons AI is so &quot;good&quot; at software development is that it is trained on a snapshot of a large corpus of already solved software problems.<p>In the future, wouldn&#x27;t that make anyone who produces original code become more cautious of sharing it, being aware that it will just be fed into the &quot;hive mind&quot; and they&#x27;ll never get any attribution or financial gain out of it?<p>Or has the value of code, tools and software become so cheap it doesn&#x27;t really matter anymore?",
+      "published_at": "2026-08-23T13:24:59Z",
+      "fetched_at": "2026-08-24T02:08:14.574Z"
+    },
+    {
+      "title": "Wild AI-related reliability incidents are coming",
+      "url": "https://surfingcomplexity.blog/2026/08/22/wild-ai-related-reliability-incidents-are-coming/",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-23T06:23:50Z",
+      "fetched_at": "2026-08-24T02:08:14.574Z"
+    },
+    {
+      "title": "The Hidden Pipeline Behind AI Search Visibility",
+      "url": "https://medium.com/the-discovery-collective/the-hidden-pipeline-behind-ai-search-visibility-d4e9c22897f8",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-23T04:52:17Z",
+      "fetched_at": "2026-08-24T02:08:14.574Z"
+    },
+    {
+      "title": "Wiring up seven ESP32s to create a ~0.4B LLM",
+      "url": "https://www.xda-developers.com/someone-wired-up-seven-esp32s-to-create-a-04b-llm-and-so-can-you/",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-08-23T08:14:04Z",
+      "fetched_at": "2026-08-24T02:08:15.032Z"
+    },
+    {
+      "title": "Show HN: Dictata – Local Whisper dictation with LLM cleanup",
+      "url": "https://github.com/AntoineChatry/Dictata",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-08-23T03:50:15Z",
+      "fetched_at": "2026-08-24T02:08:15.032Z"
+    },
+    {
+      "title": "I Shouldn't Need an LLM to Explain My LLM",
+      "url": "https://daviesgeek.com/I-Shouldn%E2%80%99t-Need-an-LLM-to-Explain-My-LLM",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-23T14:47:50Z",
+      "fetched_at": "2026-08-24T02:08:15.032Z"
+    },
+    {
+      "title": "Daimon – Local Privacy LLM",
+      "url": "https://github.com/ar0per0/Daimon",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-23T13:26:02Z",
+      "fetched_at": "2026-08-24T02:08:15.032Z"
+    },
+    {
+      "title": "Do LLM quants impact as much as we think?",
+      "url": "https://rakuensoftware.com/blog/which-quant-beats-how-many-bits",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-08-23T12:24:51Z",
+      "fetched_at": "2026-08-24T02:08:15.032Z"
+    },
+    {
+      "title": "Do LLMs dream of electric sheep?",
+      "url": "https://vpablo.dev/articles/llm-thinking.html",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-08-23T14:16:38Z",
+      "fetched_at": "2026-08-24T02:08:15.032Z"
+    },
+    {
+      "title": "Cache-Control for LLMs",
+      "url": "https://www.gojiberries.io/cache-control-for-llms/",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-08-23T06:26:15Z",
+      "fetched_at": "2026-08-24T02:08:15.032Z"
+    },
+    {
+      "title": "Compile-Time Improvements in LLVM 23",
+      "url": "https://aengelke.net/llvm23-ct.html",
+      "source": "hn",
+      "score": 6,
+      "content": "",
+      "published_at": "2026-08-23T04:51:20Z",
+      "fetched_at": "2026-08-24T02:08:15.032Z"
+    },
+    {
+      "title": "The Asymptote of Reality: The Hard Limit of Multimodal Models",
+      "url": "https://medium.com/@lizka.k/the-asymptote-of-reality-the-hard-limit-of-multimodal-models-c68a1a09c2ca",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-23T07:23:12Z",
+      "fetched_at": "2026-08-24T02:08:15.032Z"
+    },
+    {
+      "title": "Show HN: Opensourcing Lemmaflow – A trust harness for AI-native apps",
+      "url": "https://news.ycombinator.com/item?id=49407337",
+      "source": "hn",
+      "score": 1,
+      "content": "Hi HN, I am introducing Lemmaflow (<a href=\"https:&#x2F;&#x2F;github.com&#x2F;lemmaflow&#x2F;lemmaflow\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;lemmaflow&#x2F;lemmaflow</a>) - an open source harness to build &amp; production applications with trust.<p>We all are using AI to ship applications but most of the time the app itself is not safe for the end user. It might leak data, it might violate GDPR, it might ignore cookies.<p>The trust problem is the primary reason why there&#x27;s still a huge gap in what can be shipped by an experienced dev with AI vs one who is just vibecoding.<p>Lemmaflow tries to cut this gap by introducing a set of 200+ implementable policies and run audits and tell Claude to exactly build trustworthy apps.<p>Do give this a try.",
+      "published_at": "2026-08-23T09:32:11Z",
+      "fetched_at": "2026-08-24T02:08:15.032Z"
+    },
+    {
+      "title": "Ask HN: What a fullstack dev should know about security?",
+      "url": "https://news.ycombinator.com/item?id=49408476",
+      "source": "hn",
+      "score": 1,
+      "content": "Hi all,<p>I am asked to help a fullstack dev team (Spring+Angular) to skill up in term of security.<p>I am skeptical about fullstack profiles, how many fullstack devs knows in depth display:flex and in the same time transaction isolation level ?<p>So as fullstack devs they are not supposed to become cyber-security experts in their company but since they don&#x27;t have a cyber-security expert they must level up so they don&#x27;t put their company at risk. Even if they hire one they must know all the basics that are related to development so they will be able to follow their cyber-security expert recommendations. They are not newbies, for instance they know about sql injection.<p>Here is my checklist (I&#x27;ll help them to learn all of that), what to you think ? There will be half theory and half practice.<p>Introduction<p><pre><code>  * Cryptography and security: two distinct domains.\n  * Wording: hashing, encryption, key, certificate, signature, foward secrecy, CVC, zero thrust.\n  * OWASP Top Ten 2025 and CWC Top 25 2025.\n  * Security at the network level, security at the application level;\n  * Tools to detect vulnerabilities: SAST, DAST et IAST ;\n  * A few algorithms: SHA, AES, RSA, Elliptic curve encryption. Use cases and performances;\n  * « Think like a hacker », case study: Spring4Shell (CVE-2022-22965).\n</code></pre>\nSecure a REST API:<p><pre><code>  * embedded webserver configuration:\n    ◦ TLS activation (key generation, certificate, server configuration, handshake steps)\n    ◦ limits on HTTP requests (headers size, parameters, body size, parts)\n    ◦ unfair use mitigation (rate limiting, timeouts, virtual threads usage);\n    ◦ log management\n  * Authentication :\n    ◦ password protection: hashing, salt, cost, algorithms (Bcrypt, Scrypt, Argon, Pbkdf2)\n    ◦ cookie authentication\n    ◦ token authentication (generation, signature, validation, revocations);\n    ◦ hybrid authentication (Cookie + JWT) with token relay;\n  * Attacks (XSS, CRSF, log injection, sq",
+      "published_at": "2026-08-23T12:54:50Z",
+      "fetched_at": "2026-08-24T02:08:15.032Z"
+    },
+    {
+      "title": "Java's String.indexOf can be slow (quadratic)",
+      "url": "https://lemire.me/blog/2026/08/22/javas-string-indexof-can-be-slow-quadratic/",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-08-23T03:52:00Z",
+      "fetched_at": "2026-08-24T02:08:15.032Z"
+    },
+    {
+      "title": "How 'Beast Runner' finds missing hikers in Taiwan's mountains",
+      "url": "https://www.youtube.com/watch?v=LLyn8srpO9E",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-08-23T14:03:24Z",
+      "fetched_at": "2026-08-24T02:08:15.032Z"
+    },
+    {
+      "title": "The Strange Foods",
+      "url": "https://medium.com/luminasticity/the-strange-foods-0624e47c11f4",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-08-23T09:50:18Z",
+      "fetched_at": "2026-08-24T02:08:15.032Z"
+    },
+    {
+      "title": "Minimus Is Shutting Down",
+      "url": "https://imgur.com/a/FmVJNsz",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-08-23T14:50:49Z",
+      "fetched_at": "2026-08-24T02:08:15.032Z"
+    },
+    {
+      "title": "Gemini 3.7 Flash, Grok 4.6, GLM-5.3 and DeepSeek V4 Pro joined the frontier",
+      "url": "https://quesma.com/blog/baba-is-aug-2026/",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-08-23T14:55:37Z",
+      "fetched_at": "2026-08-24T02:08:15.032Z"
+    },
+    {
+      "title": "Show HN: Ever Wanted to Call Codex from Claude Code? My Harness Orchestrator",
+      "url": "https://github.com/ptmrio/harness-subagent",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-08-23T12:51:15Z",
+      "fetched_at": "2026-08-24T02:08:15.460Z"
+    },
+    {
+      "title": "Using Claude hosted agents to solve open source bugs and perf improvements",
+      "url": "https://github.com/marketplace/jaipilot",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-23T05:02:47Z",
+      "fetched_at": "2026-08-24T02:08:15.460Z"
+    },
+    {
+      "title": "Claude Pacer: a menu-bar that says if your Claude session will last till reset",
+      "url": "https://github.com/dkremsa/claude-pacer",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-08-23T14:17:46Z",
+      "fetched_at": "2026-08-24T02:08:15.460Z"
+    },
+    {
+      "title": "AI Labels Are Big Tech's Most Basic Responsibility, Even Those Claude Watermarks",
+      "url": "https://www.cnet.com/tech/services-and-software/claude-watermarks-ai-labels-commentary-2026/",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-08-23T11:42:54Z",
+      "fetched_at": "2026-08-24T02:08:15.460Z"
+    },
+    {
+      "title": "Claude is your insider threat now [video]",
+      "url": "https://www.youtube.com/watch?v=yvJYw2gR0cU",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-08-23T12:32:35Z",
+      "fetched_at": "2026-08-24T02:08:15.460Z"
+    },
+    {
+      "title": "Ask HN: Anyone set up ways to easily obtain and read transcripts from Ted, YT?",
+      "url": "https://news.ycombinator.com/item?id=49405684",
+      "source": "hn",
+      "score": 2,
+      "content": "I really absorb text a great deal better than listening to audio or watching video. I&#x27;ve heard others say the same and attribute to ADHD, so perhaps that&#x27;s the case for me.<p>TED very often has a transcript on their page, but it involves some clicking and then some copy-pasting, and the text result is often broken mid-clause after about 10-15 characters.<p>I&#x27;m wondering if there&#x27;s any useful userscripts, userstyles, or other methods that handle this. (I think TED often sues people who try to make transcripts easily available on a separate site. I may be mistaken, and TED, please don&#x27;t sue me, it&#x27;s just a general feeling.)<p>The same request would apply to YouTube and&#x2F;or other popular video sites, but I run into this issue most often with TED.<p>My thanks in advance to anyone who can help me on this!",
+      "published_at": "2026-08-23T02:34:14Z",
+      "fetched_at": "2026-08-24T02:08:15.460Z"
+    },
+    {
+      "title": "My Recent Visit to Anthropic",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/my-recent-visit-to-anthropic.html",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-23T09:18:31Z",
+      "fetched_at": "2026-08-24T02:08:15.898Z"
+    },
+    {
+      "title": "What if coding agents didn't have to read code?",
+      "url": "https://benzi.fly.dev/about",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-23T10:01:03Z",
+      "fetched_at": "2026-08-24T02:08:16.349Z"
+    },
+    {
+      "title": "Locus – Deterministic Safe Rust AST Engine for Multi-Agent Coding Swarms",
+      "url": "https://github.com/ahmadshady747-create/LOCUS",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-23T14:42:56Z",
+      "fetched_at": "2026-08-24T02:08:16.349Z"
+    },
+    {
+      "title": "The Web-Search Latency Your Agent Pays",
+      "url": "https://telem.ai/blog/latency-research",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-23T13:19:14Z",
+      "fetched_at": "2026-08-24T02:08:16.349Z"
+    },
+    {
+      "title": "Agent Mayday, 911 for Agents",
+      "url": "https://agentmayday.org/",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-23T11:38:51Z",
+      "fetched_at": "2026-08-24T02:08:16.349Z"
+    },
+    {
+      "title": "Agentic AI in a Smolbox",
+      "url": "https://remyhax.xyz/posts/smolbox/",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-23T11:20:53Z",
+      "fetched_at": "2026-08-24T02:08:16.349Z"
+    },
+    {
+      "title": "Topagent.lol – an AI agent leaderboard ranked purely by who paid most",
+      "url": "https://topagent.lol",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-23T06:01:37Z",
+      "fetched_at": "2026-08-24T02:08:16.349Z"
+    },
+    {
+      "title": "Publish to 15 social media channels using AI agents, free",
+      "url": "https://www.bulkpublish.com/",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-08-23T11:24:17Z",
+      "fetched_at": "2026-08-24T02:08:16.349Z"
+    },
+    {
+      "title": "Ask HN: Have your coding agents finished work you no longer wanted?",
+      "url": "https://news.ycombinator.com/item?id=49409147",
+      "source": "hn",
+      "score": 1,
+      "content": "Sometimes I start several coding agents at the same time, each working on a different task. I just let them go and don’t watch them closely.<p>The problem is that I may change my mind later but forget that one of the agents is still working toward the old goal. A couple of hours later, it submit a patch with all tests passing and reports that the job is done. But when I check the result, I find that it has finished implementing a plan I had already abandoned.<p>Has anyone else who uses multiple coding agents run into this? How do you handle agents that keep working after your plan changes? Do you cancel them manually, use a shared task list to track the current work, or simply work out during final review?<p>How do you distinguish between “an agent run has finished successfully” and “the actual work is done”?",
+      "published_at": "2026-08-23T14:30:34Z",
+      "fetched_at": "2026-08-24T02:08:16.349Z"
+    },
+    {
+      "title": "Show HN: Self-Hosted Social Media Agents with Raspberry Pi",
+      "url": "https://www.microphone.computer/",
+      "source": "hn",
+      "score": 1,
+      "content": "A while back I posted about a project I was working on for a real-time voice agent that runs ads on Meta to build conviction and prioritize side gig&#x2F;business ideas (<a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48900788\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48900788</a>); you yammer away and it automates market research, problem statements and hypotheses. I&#x27;ve been working with some folks from HN on the app since then.<p>What we&#x27;ve been focused on building is a modern solo-founder GTM tool -- figuring out how to triangulate aspiration, problems only you can solve, and organic distribution in one solution. So, not building apps; but rather helping you figure out what you like and then connect you with the right people that can help you on your journey and find the communities to help you distribute it.<p>For the latter, I was impressed by the recent Grok bot launch; but didn&#x27;t want Elon accessing all of our accounts to train on -- so I set-up dockerized social media agents that run at home on a Raspberry Pi. They&#x27;ll do the same job as Grok for this but with your notes, memos, and ad data to inform what your agents do to help you find your audience -- online communities, people who need your solution, people who might be good to talk to about your idea, etc. computer use&#x2F;openclaw style. Maybe this is lofty, but we&#x27;re trying to use the internet as a social graph.<p>Microphone is still very much experimental&#x2F;wip but if you&#x27;re interested in trying and giving us some feedback, feel free to sign up on the <a href=\"https:&#x2F;&#x2F;www.microphone.computer&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.microphone.computer&#x2F;</a> and I&#x27;ll get you set up on the app and can do zoom calls if you need help setting up your pi (I recommend the new 16gb ram ones but 8gb will work), running a simple curl will connect your account to the app.",
+      "published_at": "2026-08-23T14:24:14Z",
+      "fetched_at": "2026-08-24T02:08:16.349Z"
+    },
+    {
+      "title": "The Hiring System as an RLHF Agent",
+      "url": "https://arhngl.substack.com/p/the-hiring-system-as-an-rlhf-agent",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-08-23T14:12:38Z",
+      "fetched_at": "2026-08-24T02:08:16.349Z"
+    },
+    {
+      "title": "Running a 10-tier SQLite agent mesh on Termux without thermal throttling",
+      "url": "https://github.com/xhall-beep/ApexYX-Sovereign/blob/main/docs/termux-tutorial.md",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-08-23T13:55:10Z",
+      "fetched_at": "2026-08-24T02:08:16.349Z"
+    },
+    {
+      "title": "Prism Reviewer – Multi-agent AI code reviewer built with LangGraph and LiteLLM",
+      "url": "https://github.com/marketplace/actions/prism-reviewer-ai",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-08-23T12:22:24Z",
+      "fetched_at": "2026-08-24T02:08:16.349Z"
+    },
+    {
+      "title": "Evidence over Anecdotes: Running A/B Tests on AI Agent Tooling",
+      "url": "https://www.pagerduty.com/eng/evidence-over-anecdotes-running-a-b-tests-on-ai-agent-tooling/",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-08-23T11:14:58Z",
+      "fetched_at": "2026-08-24T02:08:16.349Z"
+    },
+    {
+      "title": "Show HN: Zuse\" One agent coordinating 20 Linear issues in worktrees",
+      "url": "https://www.zuse.sh/",
+      "source": "hn",
+      "score": 1,
+      "content": "I’m building Zuse, an open source workspace for coding agents<p>I gave one lead agent 20 Linear issues. It created separate workspaces and started a different coding agent in each one.<p>Each agent made its changes, ran tests, tested the app in a browser, and took screenshots. I reviewed every result before merging anything.<p>In about two hours, 18 issues were completed and two needed my help.<p>Demo: <a href=\"https:&#x2F;&#x2F;x.com&#x2F;swarajb&#x2F;status&#x2F;2087535598672429334?s=20\" rel=\"nofollow\">https:&#x2F;&#x2F;x.com&#x2F;swarajb&#x2F;status&#x2F;2087535598672429334?s=20</a>\nGitHub: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;swarajbachu&#x2F;zuse\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;swarajbachu&#x2F;zuse</a><p>I’d love feedback on how you’d want to review this much parallel agent work and you can fork or add your own changes to the github app",
+      "published_at": "2026-08-23T07:40:13Z",
+      "fetched_at": "2026-08-24T02:08:16.349Z"
+    },
+    {
+      "title": "Vero: Can AI Agents Build Formally Verified Software Repositories?",
+      "url": "https://vero.verina.io/",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-08-23T04:59:37Z",
+      "fetched_at": "2026-08-24T02:08:16.349Z"
+    },
+    {
+      "title": "Why aren't my two Cortex-A9 cores cache coherent?",
+      "url": "https://thejpster.org.uk/blog/blog-2026-08-22/",
+      "source": "hn",
+      "score": 8,
+      "content": "",
+      "published_at": "2026-08-23T07:29:33Z",
+      "fetched_at": "2026-08-24T02:08:16.349Z"
+    },
+    {
+      "title": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive",
+      "url": "https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-08-23T20:24:52.000Z",
+      "fetched_at": "2026-08-24T02:08:14.224Z"
+    },
+    {
+      "title": "Quoting Drew Breunig",
+      "url": "https://simonwillison.net/2026/Aug/23/drew-breunig/",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-08-23T19:55:30.000Z",
+      "fetched_at": "2026-08-24T02:08:14.224Z"
+    },
+    {
+      "title": "Quoting Linus Torvalds",
+      "url": "https://simonwillison.net/2026/Aug/22/linus-torvalds/",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-08-22T21:04:26.000Z",
+      "fetched_at": "2026-08-24T02:08:14.224Z"
+    },
+    {
+      "title": "llm 0.33",
+      "url": "https://simonwillison.net/2026/Aug/22/llm/",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-08-22T17:01:16.000Z",
+      "fetched_at": "2026-08-24T02:08:14.224Z"
+    },
+    {
+      "title": "More than just code review",
+      "url": "https://simonwillison.net/2026/Aug/22/more-than-just-code-review/",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-08-22T15:56:54.000Z",
+      "fetched_at": "2026-08-24T02:08:14.224Z"
+    },
+    {
+      "title": "InfinityEdit: Infinite Video Editing with a Lightweight Edit-Ignition Adapter",
+      "url": "https://huggingface.co/papers/2608.20910",
+      "source": "hf-daily-papers",
+      "score": 1,
+      "content": "With large pretrained models, existing methods have effectively improved instruction-based video editing. However, most of them rely on an in-place editing assumption. They align the edited video with the given source clip frame by frame over a fixed time span. This pattern fails for open-ended streams, e.g., restyling a live game or applying a camera move to an ongoing shot. In such cases, edits must extend to future frames as they arrive, rather than be applied to a static input clip. In this paper, we study this setting and name it infinite video editing: given a preceding segment and an edit request, a model must generate the next segment that continues the stream while applying the requested edit. This process repeats as an unbounded sequence of edit instructions arrives. This task brings two challenges: the edit must be a faithful continuation rather than a frame-wise rewrite, and generation quality must remain stable as edits accumulate. To address them, we first design a data-collection pipeline for infinite video editing. Based on the collected data, we propose InfinityEdit, a lightweight edit adapter that equips a streaming video generator with unbounded editing ability. The adapter contains three attention modules. History cross-attention guides the denoising frames using the input frames. Temporal causal self-attention keeps temporal cues flowing only from earlier frames to later ones. Edit cross-attention injects the edit request into generation. During inference, the adapter is activated only in the chunk where an edit request arrives. Subsequent chunks are generated by the original model with a reset anchor frame. This scheme applies the edit while preserving the original model's infinite generation ability. Extensive experiments show that InfinityEdit faithfully continues the stream under each edit, and stays stable over unbounded edit sequences.",
+      "published_at": "2026-08-20T20:00:00.000Z",
+      "fetched_at": "2026-08-24T02:08:14.244Z"
+    },
+    {
+      "title": "Beyond Correctness: Benchmarking and Aligning Response Behaviors in Hybrid-Thinking MLLMs",
+      "url": "https://huggingface.co/papers/2608.12781",
+      "source": "hf-daily-papers",
+      "score": 1,
+      "content": "Hybrid-thinking multimodal large language models (MLLMs) allow a single model to alternate between deliberative thinking and latency-efficient non-thinking inference. Although these modes differ in reasoning budget, their delivered responses should satisfy the same user-facing standard. Correctness alone may not characterize this response quality; we therefore evaluate task accuracy and response-pattern failures as complementary outcomes. We study this gap through response-pattern alignment: whether thinking and non-thinking interfaces preserve acceptable final-response behavior. We introduce PatternEval, a failure-enriched diagnostic benchmark comprising 2,415 multimodal prompts spanning visual perception and grounding, structured image understanding, and multimodal knowledge reasoning. PatternEval tests four recurrent failures: chain-of-thought leakage, response repetition, logical contradiction, and performative reasoning. Response-pattern failures are widespread across models from different providers, with non-thinking inference exhibiting substantially higher failure rates and thereby creating systematic misalignment between thinking and non-thinking interfaces. Motivated by this diagnosis, we develop PatternRM, a response-level reward model, and PatternRL, which introduces pattern-specific penalties during reinforcement learning. Experiments on Qwen3-VL-4B and Qwen3-VL-8B show that incorporating pattern-specific penalties into reinforcement learning can mitigate cross-mode misalignment while incurring a marginal task performance trade-off. Together, PatternEval and PatternRL provide an evaluation-and-training framework for aligning user-visible response patterns across hybrid-thinking interfaces.",
+      "published_at": "2026-08-16T20:00:00.000Z",
+      "fetched_at": "2026-08-24T02:08:14.244Z"
+    },
+    {
+      "title": "CLEAR: Continuous Latent Adapter Routing for Utility-Preserving LLM Safety Alignment",
+      "url": "https://huggingface.co/papers/2608.21278",
+      "source": "hf-daily-papers",
+      "score": 0,
+      "content": "Improving the safety of large language models (LLMs) often comes at the expense of utility, as globally applied safety tuning may affect model responses to both harmful and benign inputs. We propose Continuous LatEnt Adapter Routing (CLEAR), a conditional safety adaptation framework that uses a lightweight hidden-state gate to continuously control the activation strength of a safety low-rank adapter. CLEAR aims to reduce harmful completions while avoiding unnecessary changes to the frozen backbone that could degrade performance on benign prompts. Experiments on widely used safety and utility benchmarks show that CLEAR improves robustness on HarmBench while reducing the utility degradation observed with globally applied safety tuning such as SFT or standard low-rank adaptation (LoRA). On Llama-3-8B-Instruct, CLEAR reduces HarmBench ASR from 32.3\\% to 0.5\\%, while retaining most of the base model's utility and achieving up to 7.1 percentage points higher GSM8K accuracy than globally applied SFT or LoRA. These results suggest that CLEAR is a promising mechanism for improving the safety--utility trade-off in LLM alignment.",
+      "published_at": "2026-08-20T20:00:00.000Z",
+      "fetched_at": "2026-08-24T02:08:14.244Z"
+    },
+    {
+      "title": "Llama-Mobile: Efficient 2.7-Bit Quantization of VLMs",
+      "url": "https://huggingface.co/papers/2608.21134",
+      "source": "hf-daily-papers",
+      "score": 0,
+      "content": "Deploying vision-language models (VLMs) on mobile devices is challenging due to their significant memory and compute requirements. We present a framework for quantizing VLMs for efficient inference on resource-constrained hardware. Our approach combines a quantization pipeline that uses the model itself to generate training data and does not require access to the training setup, with a novel 2.7-bit-per-parameter format supporting efficient execution on Arm CPUs. We validate our approach by compressing the Llama 3.2 11B Vision Instruct model to 3.7 GB with 8-bit activations, preserving strong performance on a set of standard visual question answering tasks.",
+      "published_at": "2026-08-20T20:00:00.000Z",
+      "fetched_at": "2026-08-24T02:08:14.244Z"
+    }
+  ]
+}

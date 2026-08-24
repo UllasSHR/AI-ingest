@@ -1,9 +1,4 @@
 {
-  "https://thomas-witt.com/blog/blog-subagent-model-pin/": "2026-08-17",
-  "https://github.com/vandith1/agent-guard": "2026-08-17",
-  "https://github.com/dburnett11155-rgb/Tokencompress": "2026-08-17",
-  "https://philippdubach.com/posts/kimi-k3-inside-claude-code/": "2026-08-17",
-  "https://platform.claude.com/docs/en/release-notes/system-prompts": "2026-08-17",
   "https://github.com/divadbaroon/claude-plugins": "2026-08-18",
   "https://github.com/anthropics/claude-code/issues/6235": "2026-08-18",
   "https://github.com/fu351/Doberman-Core": "2026-08-18",
@@ -42,5 +37,9 @@
   "https://www.npmjs.com/package/faberwright": "2026-08-23",
   "https://digg.com/tech/fktxxvtg": "2026-08-23",
   "https://skillworks.kynth.studio": "2026-08-23",
-  "https://structo.redbeardlab.com/": "2026-08-23"
+  "https://structo.redbeardlab.com/": "2026-08-23",
+  "https://github.com/ptmrio/harness-subagent": "2026-08-24",
+  "https://github.com/dkremsa/claude-pacer": "2026-08-24",
+  "https://github.com/marketplace/jaipilot": "2026-08-24",
+  "https://github.com/free-news-api/news-search-api-comparison": "2026-08-24"
 }
