@@ -1,8 +1,4 @@
 {
-  "https://github.com/divadbaroon/claude-plugins": "2026-08-18",
-  "https://github.com/anthropics/claude-code/issues/6235": "2026-08-18",
-  "https://github.com/fu351/Doberman-Core": "2026-08-18",
-  "https://github.com/inkshell/inkshell/": "2026-08-18",
   "https://voidleap.com/": "2026-08-19",
   "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion": "2026-08-19",
   "https://code.claude.com/docs/en/changelog": "2026-08-19",
@@ -41,5 +37,10 @@
   "https://github.com/ptmrio/harness-subagent": "2026-08-24",
   "https://github.com/dkremsa/claude-pacer": "2026-08-24",
   "https://github.com/marketplace/jaipilot": "2026-08-24",
-  "https://github.com/free-news-api/news-search-api-comparison": "2026-08-24"
+  "https://github.com/free-news-api/news-search-api-comparison": "2026-08-24",
+  "https://github.com/l3a0/claude-plugins": "2026-08-25",
+  "https://github.com/rainmanjam/poka-yoke": "2026-08-25",
+  "https://ide.gitmir.com/opensource": "2026-08-25",
+  "https://github.com/xhluca/session-migrate": "2026-08-25",
+  "https://github.com/thiagotigaz/ocr-it": "2026-08-25"
 }
