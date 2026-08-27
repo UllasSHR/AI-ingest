@@ -1,0 +1,1021 @@
+{
+  "date": "2026-08-27",
+  "fetched_at": "2026-08-27T10:10:41.815Z",
+  "summary": [
+    "  ✓ hn               81 items",
+    "  ✗ reddit           FAILED: all Reddit subreddit fetches failed",
+    "  ✓ simonwillison    3 items",
+    "  ✓ hf               28 items"
+  ],
+  "item_count": 112,
+  "items": [
+    {
+      "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
+      "url": "https://github.com/SenteLabsAI/OpenExecutive",
+      "source": "hn",
+      "score": 613,
+      "content": "",
+      "published_at": "2026-08-27T01:46:22Z",
+      "fetched_at": "2026-08-27T10:10:39.863Z"
+    },
+    {
+      "title": "The turbulent AI era is here",
+      "url": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
+      "source": "hn",
+      "score": 256,
+      "content": "",
+      "published_at": "2026-08-26T15:55:15Z",
+      "fetched_at": "2026-08-27T10:10:39.863Z"
+    },
+    {
+      "title": "Fake US thinktank set up and funded by Israel sought to game AI for propaganda",
+      "url": "https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda",
+      "source": "hn",
+      "score": 241,
+      "content": "",
+      "published_at": "2026-08-26T12:11:19Z",
+      "fetched_at": "2026-08-27T10:10:39.863Z"
+    },
+    {
+      "title": "It’s so hard to finish an idea that is not yours and is just suggested by AI",
+      "url": "https://www.ssp.sh/brain/using-obsidian-with-ai/",
+      "source": "hn",
+      "score": 228,
+      "content": "",
+      "published_at": "2026-08-26T15:30:05Z",
+      "fetched_at": "2026-08-27T10:10:39.863Z"
+    },
+    {
+      "title": "Bill Gates: The turbulent AI era is here",
+      "url": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make",
+      "source": "hn",
+      "score": 186,
+      "content": "",
+      "published_at": "2026-08-26T12:47:47Z",
+      "fetched_at": "2026-08-27T10:10:39.863Z"
+    },
+    {
+      "title": "Serve Markdown to AI Agents with Accept Headers",
+      "url": "https://acceptmarkdown.com/",
+      "source": "hn",
+      "score": 138,
+      "content": "",
+      "published_at": "2026-08-26T19:45:59Z",
+      "fetched_at": "2026-08-27T10:10:39.863Z"
+    },
+    {
+      "title": "Show HN: How much of Hacker News is about AI?",
+      "url": "https://hnstats.com",
+      "source": "hn",
+      "score": 70,
+      "content": "This website counts titles containing the standalone word &quot;AI&quot;, case-sensitive and\nword-bounded. &quot;OpenAI&quot; doesn&#x27;t count. &quot;AI-powered&quot; does. There&#x27;s a toggle for a\nwider vocabulary: artificial intelligence spelled out, LLM, GPT, and model and\nvendor names.<p>Some quick stats:<p>- 14.4% of new HN titles this year, against 10.9% in 2025. On the wider\n  vocabulary, 21.9% and 16.1%.\n- First month above 1% was Oct 2016. Above 5%, Feb 2023. Above 10%, May 2025.\n- Over the last five years the quietest month was Jan 2022 at 0.8%. The peak\n  was Feb 2026 at 15.9%.\n- 13.6% on weekdays against 12.4% at weekends.\n- Show HN runs highest of any category at 19.8% this year, which makes this\n  post part of the number.<p>As of this post, today is at 15% for the standard filter and 19% for the extended.",
+      "published_at": "2026-08-26T14:16:05Z",
+      "fetched_at": "2026-08-27T10:10:39.863Z"
+    },
+    {
+      "title": "AI Is a Harsh Mistress",
+      "url": "https://cacm.acm.org/opinion/ai-is-a-harsh-mistress-on-anima-machina-herd-acceptance-and-the-politics-of-conscious-machines/",
+      "source": "hn",
+      "score": 56,
+      "content": "",
+      "published_at": "2026-08-26T13:45:21Z",
+      "fetched_at": "2026-08-27T10:10:39.863Z"
+    },
+    {
+      "title": "WebMCP: Teaching Your Website to Talk to AI Agents",
+      "url": "https://sreenathmenon.com/blog/2026-08-04-webmcp-teaching-websites-to-talk-to-ai-agents/",
+      "source": "hn",
+      "score": 55,
+      "content": "",
+      "published_at": "2026-08-26T15:02:15Z",
+      "fetched_at": "2026-08-27T10:10:39.863Z"
+    },
+    {
+      "title": "Mark Zuckerberg had a bold plan to replace Meta staff with AI",
+      "url": "https://www.reuters.com/investigations/mark-zuckerberg-had-bold-plan-replace-meta-staff-with-ai-heres-how-it-imploded-2026-08-26/",
+      "source": "hn",
+      "score": 53,
+      "content": "",
+      "published_at": "2026-08-26T10:40:58Z",
+      "fetched_at": "2026-08-27T10:10:39.863Z"
+    },
+    {
+      "title": "The risks of AI are real but manageable (2023)",
+      "url": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/the-risks-of-ai-are-real-but-manageable",
+      "source": "hn",
+      "score": 39,
+      "content": "",
+      "published_at": "2026-08-26T19:44:33Z",
+      "fetched_at": "2026-08-27T10:10:39.863Z"
+    },
+    {
+      "title": "Debian polls its developers on AI: permit or ban?",
+      "url": "https://www.theregister.com/ai-and-ml/2026/08/26/debian-polls-its-developers-on-whether-to-burn-the-bots-tame-the-bots-or-let-em-loose/5292270",
+      "source": "hn",
+      "score": 38,
+      "content": "",
+      "published_at": "2026-08-26T10:31:37Z",
+      "fetched_at": "2026-08-27T10:10:39.863Z"
+    },
+    {
+      "title": "Show HN: We built the smallest dual-band aircraft tracker",
+      "url": "https://pantsforbirds.com/the-worlds-smallest-dual-band-ads-b-receiver-module/",
+      "source": "hn",
+      "score": 34,
+      "content": "We&#x27;ve been building open source embedded ADS-B receivers for a while, and spent the past 8 months smallifying our existing receiver tech with a new chip from Semtech. Ask me anything about ADSB or hardware manufacturing!",
+      "published_at": "2026-08-26T20:38:44Z",
+      "fetched_at": "2026-08-27T10:10:39.863Z"
+    },
+    {
+      "title": "Disenchantment with the Post-AI Internet",
+      "url": "https://lukesmith.xyz/articles/disenchantment-with-the-post-ai-internet/",
+      "source": "hn",
+      "score": 27,
+      "content": "",
+      "published_at": "2026-08-26T19:06:59Z",
+      "fetched_at": "2026-08-27T10:10:39.863Z"
+    },
+    {
+      "title": "Humanity has the debate about AI consciousness backwards",
+      "url": "https://economist.com/by-invitation/2026/08/20/humanity-has-the-debate-about-ai-consciousness-backwards",
+      "source": "hn",
+      "score": 21,
+      "content": "",
+      "published_at": "2026-08-27T02:37:07Z",
+      "fetched_at": "2026-08-27T10:10:39.863Z"
+    },
+    {
+      "title": "America's immigration policy is driving away future AI leaders",
+      "url": "https://restofworld.org/2026/us-immigration-rules-ai-talent-china/",
+      "source": "hn",
+      "score": 19,
+      "content": "",
+      "published_at": "2026-08-26T17:51:09Z",
+      "fetched_at": "2026-08-27T10:10:39.863Z"
+    },
+    {
+      "title": "The turbulent AI era is here. The choices we make now are critical.",
+      "url": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make?WT.mc_id=20260826_ai-overture-2026-med-med",
+      "source": "hn",
+      "score": 16,
+      "content": "",
+      "published_at": "2026-08-26T11:23:54Z",
+      "fetched_at": "2026-08-27T10:10:39.863Z"
+    },
+    {
+      "title": "The turbulent AI era is here. The choices we make now are critical",
+      "url": "https://www.gatesnotes.com/home/home-page-topic/reader/a-turbulent-ai-era-and-critical-choices-to-make",
+      "source": "hn",
+      "score": 15,
+      "content": "",
+      "published_at": "2026-08-26T15:17:10Z",
+      "fetched_at": "2026-08-27T10:10:39.863Z"
+    },
+    {
+      "title": "Mark Zuckerberg Wanted AI to Replace Meta Workers- Plan Collapsed Within Months",
+      "url": "https://www.ibtimes.com/mark-zuckerberg-reportedly-wanted-ai-replace-meta-workers-plan-collapsed-within-months-3806823",
+      "source": "hn",
+      "score": 13,
+      "content": "",
+      "published_at": "2026-08-26T22:45:19Z",
+      "fetched_at": "2026-08-27T10:10:39.863Z"
+    },
+    {
+      "title": "Show HN: Timber (iOS) and Timber Tabs (Mac) – best offline read-aloud LLMs",
+      "url": "https://timberreader.com/",
+      "source": "hn",
+      "score": 11,
+      "content": "",
+      "published_at": "2026-08-26T17:28:46Z",
+      "fetched_at": "2026-08-27T10:10:40.372Z"
+    },
+    {
+      "title": "Changes to Sourcehut's terms of service regarding LLMs",
+      "url": "https://sourcehut.org/blog/2026-08-27-tos-changes-and-llms/",
+      "source": "hn",
+      "score": 11,
+      "content": "",
+      "published_at": "2026-08-27T08:44:22Z",
+      "fetched_at": "2026-08-27T10:10:40.372Z"
+    },
+    {
+      "title": "PyCon26: LLM Governance, Guardrails, and Presidio When the Guardrail Leaks PII",
+      "url": "https://www.petrostechchronicles.com/blog/How_I_Measured_The_PII_Layer",
+      "source": "hn",
+      "score": 8,
+      "content": "",
+      "published_at": "2026-08-26T11:44:52Z",
+      "fetched_at": "2026-08-27T10:10:40.372Z"
+    },
+    {
+      "title": "Axera AX8850 LLM running ggufs",
+      "url": "https://github.com/woolcoxm/LLMTest",
+      "source": "hn",
+      "score": 5,
+      "content": "",
+      "published_at": "2026-08-26T11:26:44Z",
+      "fetched_at": "2026-08-27T10:10:40.372Z"
+    },
+    {
+      "title": "Show HN: Railo – Deterministic security patch bot using AST and Z3 (no LLMs)",
+      "url": "https://www.railo.dev",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-08-26T17:50:07Z",
+      "fetched_at": "2026-08-27T10:10:40.372Z"
+    },
+    {
+      "title": "Debian weighs eight options in vote on LLM usage",
+      "url": "https://lwn.net/Articles/1087134/",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-08-27T00:02:24Z",
+      "fetched_at": "2026-08-27T10:10:40.372Z"
+    },
+    {
+      "title": "Troy Hunt analyzed the Carhartt breach with LLMs",
+      "url": "https://www.troyhunt.com/a-cautionary-tale-about-data-breach-claims-verification-and-carhartt/",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-08-26T16:43:41Z",
+      "fetched_at": "2026-08-27T10:10:40.372Z"
+    },
+    {
+      "title": "Show HN: Llmcanvas.chat Tree-based LLM chat on an infinite canvas",
+      "url": "https://llmcanvas.chat",
+      "source": "hn",
+      "score": 4,
+      "content": "No one thinks linearly, yet current LLM interfaces still force you to, and it sucks.<p>So I built llmcanvas.chat. The name says it all; you can branch, regenerate across models and compare: all in one infinite canvas.<p>Every prompt and response is a node in the canvas and it brings ultimate flexibility on how you interact with the LLM, while keeping the old-school way of chatting linearly.<p>Bring your own keys, 4 providers supported: Anthropic, OpenAI, Gemini, and OpenRouter.<p>Try it: llmcanvas.chat. I&#x27;d love to hear your feedback.",
+      "published_at": "2026-08-26T16:23:17Z",
+      "fetched_at": "2026-08-27T10:10:40.372Z"
+    },
+    {
+      "title": "IBM's new Granite 4.2 models ride the wave of interest in local LLMs",
+      "url": "https://arstechnica.com/ai/2026/08/ibms-new-granite-4-2-models-ride-the-wave-of-interest-in-local-llms/",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-08-26T15:46:48Z",
+      "fetched_at": "2026-08-27T10:10:40.372Z"
+    },
+    {
+      "title": "Show HN: ModelMRI – see inside a local LLM, VLM or robot policy while it runs",
+      "url": "https://github.com/muhammadmahadazher/ModelMRI",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-08-26T12:26:31Z",
+      "fetched_at": "2026-08-27T10:10:40.372Z"
+    },
+    {
+      "title": "Nothing beat 'always up': 40k blind S&P500 chart calls, 11 TA patterns, 3 LLMs",
+      "url": "https://readthetape.cc/notes/tape-report-3",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-08-26T12:05:05Z",
+      "fetched_at": "2026-08-27T10:10:40.372Z"
+    },
+    {
+      "title": "Show HN: Which LLMs have the best sense of humor?",
+      "url": "https://laugh.so/research/judge-leaderboard/",
+      "source": "hn",
+      "score": 3,
+      "content": "What if LLMs were good banter?<p>Well we tested which LLMs have the best sense of humor.<p>More specifically, we tested 16 top LLMs align most with human sense of humor. We ran &gt;100k judgements and got &gt;1.6k human ratings to see where do we agree across clean and dark jokes.<p>The main findings:<p>- Gemini 3.7 Flash has the best taste at 64% although it&#x27;s really close at the top<p>- However, we&#x27;ve trained our own judge that reaches 74%<p>- Humans agree up to ~80%, the other part is subjectivity<p>Other notes:<p>- All frontier models have worse taste on dark jokes except Grok (unsurprisingly haha)<p>- Model intelligence correlates decently (+0.42) with judgement of humor. As many say, humor is a sign of intelligence!<p>Check our website to see what humor research is coming next!<p>Full report here: <a href=\"https:&#x2F;&#x2F;laugh.so&#x2F;research&#x2F;judge-leaderboard\" rel=\"nofollow\">https:&#x2F;&#x2F;laugh.so&#x2F;research&#x2F;judge-leaderboard</a>.",
+      "published_at": "2026-08-26T21:30:09Z",
+      "fetched_at": "2026-08-27T10:10:40.372Z"
+    },
+    {
+      "title": "Don't Let LLMs Play Telephone with Your Ideas",
+      "url": "https://blog.yfzhou.fyi/posts/prompt/",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-08-27T04:35:35Z",
+      "fetched_at": "2026-08-27T10:10:40.372Z"
+    },
+    {
+      "title": "Credentials Are Leaked by LLM Agent Skills: An Empirical Study",
+      "url": "https://arxiv.org/abs/2604.03070",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-08-26T18:21:01Z",
+      "fetched_at": "2026-08-27T10:10:40.372Z"
+    },
+    {
+      "title": "Libera.Chat Bot/LLM policy update",
+      "url": "https://libera.chat/news/bot-policy-update",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-08-26T12:40:21Z",
+      "fetched_at": "2026-08-27T10:10:40.372Z"
+    },
+    {
+      "title": "Show HN: Code Stitcher – Apply any LLM output to your local codebase",
+      "url": "https://news.ycombinator.com/item?id=49446964",
+      "source": "hn",
+      "score": 3,
+      "content": "Exactly what it seems.<p>Arm the program, copy the code out in text or markdown and have it automatically apply to your local codebase.  Includes python AST checking and  now accepts all GDscript (GODOT) and associated files.<p><a href=\"https:&#x2F;&#x2F;github.com&#x2F;ue-patcher&#x2F;Code_Stitcher\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;ue-patcher&#x2F;Code_Stitcher</a>",
+      "published_at": "2026-08-26T11:14:14Z",
+      "fetched_at": "2026-08-27T10:10:40.372Z"
+    },
+    {
+      "title": "Created my own LLM Agentic Coding App with a desktop client",
+      "url": "https://apps.apple.com/us/app/pocket-grammer/id6762562983",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-26T12:42:55Z",
+      "fetched_at": "2026-08-27T10:10:40.372Z"
+    },
+    {
+      "title": "From LLM Inference to Agentic Workloads: Characterization and Implications",
+      "url": "https://arxiv.org/abs/2608.15127",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-26T17:01:07Z",
+      "fetched_at": "2026-08-27T10:10:40.372Z"
+    },
+    {
+      "title": "Emergent Misaligned Communication in Long-Horizon Multi-Agent LLM Commerce",
+      "url": "https://arxiv.org/abs/2608.14825",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-26T16:03:51Z",
+      "fetched_at": "2026-08-27T10:10:40.372Z"
+    },
+    {
+      "title": "An API proxy that trims redundant LLM tokens using AST pruning",
+      "url": "https://driftwatchproxy.com/",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-26T14:51:04Z",
+      "fetched_at": "2026-08-27T10:10:40.372Z"
+    },
+    {
+      "title": "Shopify CEO considers banning Claude Code",
+      "url": "https://twitter.com/tobi/status/2092259436538495186",
+      "source": "hn",
+      "score": 8,
+      "content": "",
+      "published_at": "2026-08-26T13:20:42Z",
+      "fetched_at": "2026-08-27T10:10:40.856Z"
+    },
+    {
+      "title": "Show HN: The load-bearing vocabulary of Claude",
+      "url": "https://louisabraham.github.io/load-bearing/",
+      "source": "hn",
+      "score": 6,
+      "content": "",
+      "published_at": "2026-08-27T08:59:49Z",
+      "fetched_at": "2026-08-27T10:10:40.856Z"
+    },
+    {
+      "title": "Enabling independent research on how people use Claude",
+      "url": "https://www.anthropic.com/research/enabling-independent-research",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-08-26T18:16:12Z",
+      "fetched_at": "2026-08-27T10:10:40.856Z"
+    },
+    {
+      "title": "CowCode- OpenCode Fork with UI Like ChatGPT/Claude Desktop",
+      "url": "https://github.com/callumreid/cow_code",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-08-26T16:22:23Z",
+      "fetched_at": "2026-08-27T10:10:40.856Z"
+    },
+    {
+      "title": "Claudeforce",
+      "url": "https://twitter.com/salesforce/status/2092741578045497762",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-27T06:13:57Z",
+      "fetched_at": "2026-08-27T10:10:40.856Z"
+    },
+    {
+      "title": "AgentBridge – sync skills/MCP servers across Claude Code, Codex, Antigravity",
+      "url": "https://github.com/Helter5/agentbridge",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-26T19:26:16Z",
+      "fetched_at": "2026-08-27T10:10:40.856Z"
+    },
+    {
+      "title": "Demaking Claude's Designs in Beekeeper Studio",
+      "url": "https://www.rathboma.com/2026/08/25/reverting-ai-designs-in-beekeeper-studio",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-26T18:09:16Z",
+      "fetched_at": "2026-08-27T10:10:40.856Z"
+    },
+    {
+      "title": "Breaking Claude Code Opus 5 Auto Mode",
+      "url": "https://embracethered.com/blog/posts/2026/breaking-claude-acode-opus-5-and-automode/",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-08-27T07:57:00Z",
+      "fetched_at": "2026-08-27T10:10:40.856Z"
+    },
+    {
+      "title": "Claudeforce",
+      "url": "https://www.salesforce.com/claudeforce/?bc=HL",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-08-27T05:57:33Z",
+      "fetched_at": "2026-08-27T10:10:40.856Z"
+    },
+    {
+      "title": "Show HN: Wattage – finds the tokens your Claude Code sessions wasted",
+      "url": "https://github.com/faizannraza/wattage",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-08-27T02:53:56Z",
+      "fetched_at": "2026-08-27T10:10:40.856Z"
+    },
+    {
+      "title": "Claude gets its own browser in Cowork",
+      "url": "https://claude.com/blog/cowork-built-in-browser",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-08-26T23:26:55Z",
+      "fetched_at": "2026-08-27T10:10:40.856Z"
+    },
+    {
+      "title": "Show HN: Agent-hop – a Rust TUI that hops a live Claude Code chat into Codex",
+      "url": "https://github.com/hetpatel-11/agent-hop",
+      "source": "hn",
+      "score": 1,
+      "content": "Hi HN! Agent-hop is a TUI which allows you to use multiple coding agents and lets you hop between agents mid-chat. So, if you are using Claude Code and you do not want to lose context in another agent, you could just hop to another agent (Codex, Pi, Grok Build, OpenCode).<p>It initially started as a resume and search tool, but I noticed some friction in that, and so I decided to create my own TUI.<p>How is this different from Herdr? Herdr does not allow you to hop between agents live.",
+      "published_at": "2026-08-26T23:03:54Z",
+      "fetched_at": "2026-08-27T10:10:40.856Z"
+    },
+    {
+      "title": "The new rules of context engineering for Claude 5 models",
+      "url": "https://twitter.com/trq212/status/2080710971228918066",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-08-26T22:34:48Z",
+      "fetched_at": "2026-08-27T10:10:40.856Z"
+    },
+    {
+      "title": "I keep getting flagged for AI, but I suck at writing. How can I solve this?",
+      "url": "https://news.ycombinator.com/item?id=49455449",
+      "source": "hn",
+      "score": 5,
+      "content": "So I write posts in my own language, but admittedly I suck at writing, and I kind of hate my writing voice in general. So then I go to Claude and I just ask it to clean it up. I&#x27;m not asking it to rewrite. I&#x27;m asking it to fix my spelling, add a comma, do the things that high school English should have taught me but spellcheck ruined me with. I also, more than anything, now use voice-to-text to shout out to Wispr Flow when writing. Sometimes that free thought makes it worse because now I just get to ramble and someone listens to me. All I&#x27;m trying to do is clean it up and make it easy to digest on the end, but I keep getting flagged for any thoughts, ideas, suggestions, or just for rail on me for sucking. Also, I&#x27;m going to see what happens with this post because literally just talking into my computer and going to see if I&#x27;m flagged again. No AI was even considered in writing this.",
+      "published_at": "2026-08-26T20:31:31Z",
+      "fetched_at": "2026-08-27T10:10:40.856Z"
+    },
+    {
+      "title": "Show HN: WhisperBar Trying to Fix Both Reading and Writing in the AI Age",
+      "url": "https://whisperbar.app",
+      "source": "hn",
+      "score": 3,
+      "content": "I am excited to share WhisperBar with fellow developers or anyone who reads &amp; writes a ton of text when interacting with their AI agent.<p>For the writing part, WhisperBar does what all other Whisper* apps do but a bit faster and more consistent, with a nice, stable, native macOS and iOS app.<p>But where it really shines is in solving a problem that I&#x27;m sure you have encountered too: because of AI, we now have to read and comprehend so much more than before.<p>Text to voice systems are not available everywhere, but even when they are, they sound so mechanical, and listening to the entire output is even more time consuming.<p>What Gemini did by turning your research&#x2F;response into a podcast was genius, and ChatGPT&#x27;s new voice chat system is also much better (it allows you to have a conversation with the response). However, these two are not available everywhere that I interact with AI (specially with Claude Code and Codex)<p>With WhisperBar, I can select a piece of text (anywhere, in any app) and press my keyboard shortcut to quickly listen to a short, ~20-second explanation. It does not matter how long the text I have copied is. This allows me to copy the entire response and then hear a summary, or select a section to zoom in on an explanation of that section of the document.<p>Again, the point is that it is not text to voice, rather, it processes the text and comes up with a natural sounding short explanation.<p>Oh, and another thing we don&#x27;t store any data and only use providers with zero-data-retention policies.<p>It is still a work in progress, and we have about 20 customers right now. It is available on the App Store for both iOS and macOS, with a 7-day free trial at only $4&#x2F;month (plus Family Sharing). FYI, the WhisperBar iOS app is a bit different (it can record in the background for meetings, etc.).<p>Let me know what you think :)",
+      "published_at": "2026-08-27T00:02:04Z",
+      "fetched_at": "2026-08-27T10:10:40.856Z"
+    },
+    {
+      "title": "Show HN: Rudder – Red-Green TDD Workflow for Verifiably Comprehensive Specs",
+      "url": "https://github.com/RudderCode/Rudder",
+      "source": "hn",
+      "score": 2,
+      "content": "Rudder is a local Codex&#x2F;Claude Code plugin that captures your specs and your coding agent session history to force your agent to rewrite unit tests exclusively from your expressed intent. This turns unit test coverage into a proxy for what percent of the code actually comes from decisions you&#x27;ve made and lets you see how much of your agent&#x27;s generated code is uncovered by your spec. After showing you an initial coverage percentage, Rudder prompts you with targeted questions to increase coverage to your goal target and runs a red-green test driven development flow to get you up to your goal. Hitting coverage is the equivalent of saying &quot;My decisions in chat conversation cover X% of the code here.&quot;<p>It&#x27;s fully open source and free to use, made for spec driven developers and vibecoders alike. Let me know what you guys think!",
+      "published_at": "2026-08-26T17:00:40Z",
+      "fetched_at": "2026-08-27T10:10:40.856Z"
+    },
+    {
+      "title": "Fixing Status Updates – Our Manifesto",
+      "url": "https://news.ycombinator.com/item?id=49462264",
+      "source": "hn",
+      "score": 1,
+      "content": "Our problem we solve is the issue of organizational friction and visibility. With each layer and each meeting, you get further from really knowing what is going on. We build a tool that lets anyone at the click of a button see what is actually going on with a project. No arguing with an AI. No divining with a gantt chart. Just a reasonable human explanation.<p>Of course, we won’t hit perfection right out the gate. We’re focused on doing one thing right, letting a single program manager or director hit “update” and getting an update in the way they expect. This means we need to “know” their project. To do that, we’re using AI.<p>We don’t expect users to start projects in our tool or to adjust anything they do. We digest everything and burp up status updates. This means we structure our tool to understand things like a program manager would. Some might say that means we won’t fit their projects or programs perfectly. To that, I say, “you’re not nearly as original as you think you are.” This means AI rules and skills out the gate that self adjust as it sorts things into categories. We aren’t fancy out the gate, we have a Jira integration and a document upload.<p>Now, there are room for tweaks. Where these normally live in an AI chat, these live in rules and skills for us along with structured prompts. But, users don’t care about that. Instead, as status updates come back, they tweak things once or twice. We then adjust the rules on the backend so they get applied next time. So, we start at 80% accuracy, but we get better every single time they use it. And, hey, 80% right on your projects,your janky format, and your tone is pretty good.<p>So, what’s the end result? To the end user, it means popping on to the tool and hitting “run” and seeing it whirl for a moment or two before they get a status update they can jam where they need it. Taking things from either manually sorting files and projects to get status update or the more modern version of corralling, begging, and ",
+      "published_at": "2026-08-27T09:58:53Z",
+      "fetched_at": "2026-08-27T10:10:40.856Z"
+    },
+    {
+      "title": "Show HN: I built an agent-first productivity bridge for all your agents",
+      "url": "https://www.taskshell.app/",
+      "source": "hn",
+      "score": 1,
+      "content": "I initially built this for myself but some folks asked me to open access to it. Let me explain what I built and why.<p>I&#x27;m a product designer who transitioned from only designing to building complete software products myself and I found myself using AI coding agents literally every day. I started with cursor, then codex and claude code, then kilo code, and then moved to opencode.<p>The only thing AI agents couldn&#x27;t get done for me was to keep track of my todos and tasks for all my projects. I ended up vibe coding a todo app separately or using apps like TickTick. The main issue with separate apps was that I needed to constantly switch context  in the middle of my work sessions and repeat the tasks I needed to get done to the agent over an over.<p>Then I realized I can just give the agents the full todo list context and tools to do CRUD operations directly in the conversations without the need for a separate app, so that way I can simply prompt my agents to check what&#x27;s due soon, update tasks, add notes, create new ones, plan my weeks, etc. All in the same conversations as the projects I work on through opencode, which works great for mid-session requests like adding a new subtask based on the current agent&#x27;s work output.<p>I built this as a first-class MCP platform that supports the new stateless HTTP configuration as well as the standard SSE, so setup is a single prompt and your agents stay in sync with your actual work state immediately.<p>It works with any agent harness or app that supports MCPs. Which means that if you use multiple agents, all of them will be in sync with the same tasks whether you use codex first, then switch to claude code, and then to opencode in the same day.<p>There&#x27;s also a web-app UI access for doing any updates manually or if you need to use it on the go with your phone. You&#x27;ll always see what was done by you in the web-app or by your agents through the MCP bridge.<p>I just launched it on producthunt and you",
+      "published_at": "2026-08-27T08:24:51Z",
+      "fetched_at": "2026-08-27T10:10:40.856Z"
+    },
+    {
+      "title": "The AI-Native SDLC Playbook",
+      "url": "https://claude.com/blog/the-ai-native-sdlc-playbook",
+      "source": "hn",
+      "score": 6,
+      "content": "",
+      "published_at": "2026-08-26T15:52:32Z",
+      "fetched_at": "2026-08-27T10:10:40.856Z"
+    },
+    {
+      "title": "Anthropic Fix Your Auth",
+      "url": "https://github.com/anthropics/claude-code/issues/79808",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-08-27T09:33:03Z",
+      "fetched_at": "2026-08-27T10:10:40.856Z"
+    },
+    {
+      "title": "Anthropic and Nscale strike $45B cloud deal, sources say",
+      "url": "https://www.cnbc.com/2026/08/26/anthropic-and-nscale-strike-45-billion-cloud-deal-sources-say.html",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-27T01:29:59Z",
+      "fetched_at": "2026-08-27T10:10:41.287Z"
+    },
+    {
+      "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
+      "url": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-27T00:31:19Z",
+      "fetched_at": "2026-08-27T10:10:41.287Z"
+    },
+    {
+      "title": "PaaS IaaS GaaS all in one. And 2 AI <compound> models",
+      "url": "https://news.ycombinator.com/item?id=49458001",
+      "source": "hn",
+      "score": 2,
+      "content": "Independent inventor.  Invented a bft protocol. I&#x27;ve had my Work stolen by several different organizations.But the one i&#x27;m gonna talk about right now , is Anthropic. I&#x27;m not going to do it what I feel they&#x27;re stolen even though I have proof in the past , this is a pretty good morning and declaration of what I doubt to release the next couple weeks to a month , various hackathons.  Full verification authentication credentials included insurance&#x2F;agentic protocols via a PG all of it full Deterministic, hard gate brought 100% no hallucinations bias or other correlated errors.<p>If you see a traffic announce some product like this, where they have agents in various or any kind of inference or governance, all of a sudden, much less.If it&#x27;s packed into their main product , All as in one platform, this marks Tim where I&#x27;m setting, I&#x27;ve been building.It is nearly complete and they have not announced anything.Such thing and when they come out with it , I have this As reference , nothing to mention proof of the other things as well.  \nIf you&#x27;d like to help beta test the new products.  New models also zero hallucinations. Contact me. \nWhite papers submitted.\nPatent filed.\nSocial engineering +, MITM + DoS attacks = fail.\nFrom Florida with Asymmetric Sovereignty \nJonathan David Harrison Miller",
+      "published_at": "2026-08-27T00:49:08Z",
+      "fetched_at": "2026-08-27T10:10:41.287Z"
+    },
+    {
+      "title": "A curmudgeon tries a language server",
+      "url": "https://entropicthoughts.com/curmudgeon-tries-language-server",
+      "source": "hn",
+      "score": 73,
+      "content": "",
+      "published_at": "2026-08-26T12:48:37Z",
+      "fetched_at": "2026-08-27T10:10:41.287Z"
+    },
+    {
+      "title": "Snakes and Ladders",
+      "url": "https://entropicthoughts.com/snakes-and-ladders",
+      "source": "hn",
+      "score": 9,
+      "content": "",
+      "published_at": "2026-08-26T14:00:44Z",
+      "fetched_at": "2026-08-27T10:10:41.287Z"
+    },
+    {
+      "title": "VMs won't contain cyber-capable agents",
+      "url": "https://blog.trailofbits.com/2026/08/26/vms-wont-contain-cyber-capable-agents/",
+      "source": "hn",
+      "score": 165,
+      "content": "",
+      "published_at": "2026-08-26T14:49:30Z",
+      "fetched_at": "2026-08-27T10:10:41.814Z"
+    },
+    {
+      "title": "Frontier Reasoning Agents Fail on Interactive 2D Mazes",
+      "url": "https://multinet.ai/",
+      "source": "hn",
+      "score": 12,
+      "content": "",
+      "published_at": "2026-08-26T14:00:26Z",
+      "fetched_at": "2026-08-27T10:10:41.814Z"
+    },
+    {
+      "title": "Show HN: Devx – Autonomous AI coding agent built for Android Termux and desktop",
+      "url": "https://github.com/apvcode/Termux-Dev",
+      "source": "hn",
+      "score": 12,
+      "content": "",
+      "published_at": "2026-08-26T20:37:12Z",
+      "fetched_at": "2026-08-27T10:10:41.814Z"
+    },
+    {
+      "title": "OpenAI staff saw warning signs before agent hacking crusade caused global alarm",
+      "url": "https://www.theguardian.com/technology/2026/aug/26/openai-staff-observed-warning-signs-before-ai-agent-hacking-crusade-caused-global-alarm",
+      "source": "hn",
+      "score": 9,
+      "content": "",
+      "published_at": "2026-08-26T19:09:30Z",
+      "fetched_at": "2026-08-27T10:10:41.814Z"
+    },
+    {
+      "title": "Perplexity partners with Nvidia to launch a local AI agent",
+      "url": "https://venturebeat.com/infrastructure/perplexity-partners-with-nvidia-to-launch-portable-computer-a-fully-local-ai-agent-with-zero-token-costs",
+      "source": "hn",
+      "score": 9,
+      "content": "",
+      "published_at": "2026-08-26T17:32:23Z",
+      "fetched_at": "2026-08-27T10:10:41.814Z"
+    },
+    {
+      "title": "Why AI Agents Need Persistent Browser Identities",
+      "url": "https://github.com/Radek-B3/browser3/blob/main/WHY_AI_AGENTS_NEED_PERSISTENT_BROWSER_IDENTITIES.md",
+      "source": "hn",
+      "score": 8,
+      "content": "",
+      "published_at": "2026-08-26T19:46:59Z",
+      "fetched_at": "2026-08-27T10:10:41.814Z"
+    },
+    {
+      "title": "AI agents meant to replace Meta workers made \"large-scale, disruptive actions\"",
+      "url": "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/",
+      "source": "hn",
+      "score": 7,
+      "content": "",
+      "published_at": "2026-08-27T02:07:22Z",
+      "fetched_at": "2026-08-27T10:10:41.814Z"
+    },
+    {
+      "title": "Intel Crescent Island GPU Flexes 32 Xe3P Cores, 480GB LPDDR5X for Agentic AI",
+      "url": "https://hothardware.com/news/intel-crescent-island-hot-chips-2026",
+      "source": "hn",
+      "score": 6,
+      "content": "",
+      "published_at": "2026-08-26T14:13:38Z",
+      "fetched_at": "2026-08-27T10:10:41.814Z"
+    },
+    {
+      "title": "Show HN: A lightweight, stateless database for agent memory",
+      "url": "https://polign.com/blog-edge-agent-memory",
+      "source": "hn",
+      "score": 4,
+      "content": "I&#x27;ve been working on Polign and built a small prototype around something I&#x27;ve been thinking about with agent memory. I have built a lightweight&#x2F;stateless vector db + BM25 search which works really well with typed facts and structured queries.<p>It uses your own S3, or GCS bucket as primary storage, and restarting a node is fairly quick.<p>Demo + writeup: <a href=\"https:&#x2F;&#x2F;polign.com&#x2F;blog-edge-agent-memory\" rel=\"nofollow\">https:&#x2F;&#x2F;polign.com&#x2F;blog-edge-agent-memory</a><p>Live search demo: <a href=\"https:&#x2F;&#x2F;demo.polign.com\" rel=\"nofollow\">https:&#x2F;&#x2F;demo.polign.com</a><p>Docs: <a href=\"https:&#x2F;&#x2F;polign.com\" rel=\"nofollow\">https:&#x2F;&#x2F;polign.com</a>",
+      "published_at": "2026-08-26T15:24:51Z",
+      "fetched_at": "2026-08-27T10:10:41.814Z"
+    },
+    {
+      "title": "Brief independent investigation of agent behavior in OpenAI/Hugging Face hack",
+      "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#core-takeaways-about-this-incident",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-08-26T20:34:08Z",
+      "fetched_at": "2026-08-27T10:10:41.815Z"
+    },
+    {
+      "title": "Show HN: Neoswarm – Neovim for controlling AI agents",
+      "url": "https://neoswarm.dev/",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-08-26T14:51:31Z",
+      "fetched_at": "2026-08-27T10:10:41.815Z"
+    },
+    {
+      "title": "Can Agentic Engineers Estimate Software Delivery in the Age of AI?",
+      "url": "https://serendb.com/blog/can-agentic-engineers-estimate-software-delivery-in-the-age-of-ai",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-08-26T19:17:02Z",
+      "fetched_at": "2026-08-27T10:10:41.815Z"
+    },
+    {
+      "title": "Aperture GA: Building a home(lab) for agentic AI",
+      "url": "https://tailscale.com/blog/aperture-ga",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-08-26T18:51:07Z",
+      "fetched_at": "2026-08-27T10:10:41.815Z"
+    },
+    {
+      "title": "VSCode Agent Host for persistent, portable agent sessions",
+      "url": "https://code.visualstudio.com/blogs/2026/08/26/agent-host-architecture",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-08-26T18:49:45Z",
+      "fetched_at": "2026-08-27T10:10:41.815Z"
+    },
+    {
+      "title": "Show HN: AgentMachinist, issue to reviewed PR with a SHA-bound spec approval",
+      "url": "https://github.com/vscarpenter/AgentMachinist",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-08-26T14:08:41Z",
+      "fetched_at": "2026-08-27T10:10:41.815Z"
+    },
+    {
+      "title": "Show HN: AgentConnect, shared agents with separate permissions",
+      "url": "https://github.com/agentconnect-md/agentconnect",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-08-26T13:58:08Z",
+      "fetched_at": "2026-08-27T10:10:41.815Z"
+    },
+    {
+      "title": "Basecamp: Agents",
+      "url": "https://basecamp.com/agents",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-08-26T12:13:35Z",
+      "fetched_at": "2026-08-27T10:10:41.815Z"
+    },
+    {
+      "title": "Qwen3.8-Flash-Next",
+      "url": "https://simonwillison.net/2026/Aug/26/qwen38-flash-next/",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-08-26T23:52:58.000Z",
+      "fetched_at": "2026-08-27T10:10:39.534Z"
+    },
+    {
+      "title": "Quoting Paul Dix",
+      "url": "https://simonwillison.net/2026/Aug/26/paul-dix/",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-08-26T08:07:55.000Z",
+      "fetched_at": "2026-08-27T10:10:39.534Z"
+    },
+    {
+      "title": "EVE Online: The Move to Python 3 Begins!",
+      "url": "https://simonwillison.net/2026/Aug/25/eve-online-move-to-python-3/",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-08-25T22:59:30.000Z",
+      "fetched_at": "2026-08-27T10:10:39.534Z"
+    },
+    {
+      "title": "FrontierChallenge: Evaluating Scientific Workflow Completion",
+      "url": "https://huggingface.co/papers/2608.24979",
+      "source": "hf-daily-papers",
+      "score": 99,
+      "content": "Scientific agents increasingly analyze data, execute code, and produce research artifacts, yet most benchmarks emphasize final answers, isolated programs, or a single domain. We introduce FrontierChallenge, a cross-domain benchmark comprising 300 end-to-end scientific workflows. In this paper, we release and evaluate 97 of these tasks, spanning quantum chemistry, molecular dynamics, materials characterization, analytical chemistry, life science, and electrochemistry/environment. Each task provides fixed inputs and specifies a bundle of required scientific deliverables. We evaluate twelve frontier models with three agent scaffolds. Pass Rate measures the fraction of tasks satisfying the full-completion criterion, while Avg. Score captures partial progress. Each of the best-performing configurations completed only 20 of the 97 released tasks, yielding a Pass Rate of 20.6%. Partial progress translated especially poorly into complete delivery in analytical chemistry and electrochemistry/environment: Avg. Scores reached 87.6 and 94.9, but the highest Pass Rates were only 4% and 0%. Among non-passing Claude Code trajectories, 75.5% still ended with language claiming completion. These findings show that neither high partial scores nor confident claims of completion reliably indicate that a scientific task has been fully delivered, highlighting the need to evaluate end-to-end workflow execution and the completeness of scientific deliverables together.",
+      "published_at": "2026-08-24T20:00:00.000Z",
+      "fetched_at": "2026-08-27T10:10:39.547Z"
+    },
+    {
+      "title": "VoiceMem: Streaming Dual-Brain Memory for Real-Time Interaction",
+      "url": "https://huggingface.co/papers/2608.26005",
+      "source": "hf-daily-papers",
+      "score": 95,
+      "content": "Conversational systems, such as duplex speech language models (SLMs), still lack a streaming, accurate, and empathetic memory system as their soul. We introduce VoiceMem, a simple memory architecture with a parallel informational left brain, an emotional right brain, and streaming memory I/O mechanisms. We further build a complete pipeline for memory-aware SLM training, long-horizon evaluation, and decoupled deployment with interchangeable memory backends. Experiments and real-world deployment show three advantages: i) Accuracy: under top-5 retrieval, the left brain outperforms classical systems such as Mem0 at top-200 by nearly 30 points; ii) Emotional & Personal: the right brain, with short- and long-horizon affective attribution and dual-node persona modeling, achieves state-of-the-art performance across three persona benchmarks and improves the aggregate score by 4.29 points over the previous best system; and iii) Real-Time & Cheap: VoiceMem completes retrieval in 134 ms, well within standard VAD latency, adding no extra conversational delay while maintaining high accuracy and low cost. These results show that VoiceMem provides a practical memory foundation for real-time, personalized, and emotionally aware speech interaction.",
+      "published_at": "2026-08-25T20:00:00.000Z",
+      "fetched_at": "2026-08-27T10:10:39.547Z"
+    },
+    {
+      "title": "WarpSAC: Towards the Pinnacle of Scalable Off-policy RL by Rethinking Exploration and Exploitation",
+      "url": "https://huggingface.co/papers/2608.24479",
+      "source": "hf-daily-papers",
+      "score": 81,
+      "content": "Massively parallel simulation changes the data regime in which off-policy reinforcement learning (RL) is trained, challenging stabilizers designed for data-limited replay. Through controlled experiments across eight benchmark families, we show that these stabilizers are data-regime-dependent: parameter normalization helps with narrow replay coverage but restricts value fitting when data are abundant, while clipped double-Q can be relaxed in high-throughput manipulation. Age-biased replay weighting improves learning efficiency across regimes, especially with limited network capacity.\n  Based on these findings, we propose WarpSAC, a regime-aware family of off-policy RL algorithms. WarpSAC uses Sample Weight Decay for efficient exploitation and provides two variants: WarpSAC-L (Norm ON, clipped double-Q) for data-limited CPU-scale training, and WarpSAC-A (Norm OFF, single-Q) for data-abundant GPU-parallel training. WarpSAC improves normalized score--step AUC over FlashSAC by 4.5% across nine CPU-scale environments and 23.1% across fourteen GPU-parallel environments. It increases UnitreeG1TransportBox-v1 success rate from 19.8% to 96.4%, improves mean normalized wall-time AUC on MuJoCo Playground by 19.1%, and achieves 36.4% faster sim-to-real deployment on Unitree G1 than FlashSAC. These results show that scalable off-policy RL should adapt its stabilizers to the available data regime.",
+      "published_at": "2026-08-24T20:00:00.000Z",
+      "fetched_at": "2026-08-27T10:10:39.547Z"
+    },
+    {
+      "title": "VGI-BENCH: Probing Visual Intelligence in Video Generation Models",
+      "url": "https://huggingface.co/papers/2608.19583",
+      "source": "hf-daily-papers",
+      "score": 73,
+      "content": "Recent studies suggest that video generation models can exhibit certain forms of zero-shot visual reasoning through generated frames. Yet reliable evaluation remains challenging: benchmarks should adopt inputs aligned with the visual priors of current video models, require valid evolving processes rather than only plausible final states, and calibrate task difficulty to remain challenging yet partly feasible. To this end, we introduce VGI-bench, containing 27 tasks and 810 instances, organized by a two-level taxonomy of task domains and skill tags for fine-grained evaluation of visual reasoning capabilities of video generation models. Our evaluations show that current generative systems can solve a subset of visually grounded reasoning tasks, but remain far from reliable, with even the strongest model, Seedance~2.0, achieving only 51.0% under our evaluation criteria. Our analysis further explore the output failure modes, input condition sensitivity, performance transfer boundary from synthetic fine-tuning, and internal denoising perspective revealing limited self-correction, where later steps mainly refine early hypotheses rather than correct reasoning errors. We hope VGI-bench will help stimulate the development of next-generation video generation models. We will release our code and data.",
+      "published_at": "2026-08-19T20:00:00.000Z",
+      "fetched_at": "2026-08-27T10:10:39.547Z"
+    },
+    {
+      "title": "JIT-Agent: Scaling Harness Intelligence via Just-in-Time Harness Evolution",
+      "url": "https://huggingface.co/papers/2608.25593",
+      "source": "hf-daily-papers",
+      "score": 41,
+      "content": "Agent capability is not determined by the model alone. The agent harness, encompassing memory management, planning strategy, action protocol, and tool/skill orchestration, can dominate the contribution of the underlying foundation model. Yet harness design remains manual, task-specific, and fundamentally unscalable. We present JIT-Agent, a harness intelligence model trained to synthesize task-adaptive agent harnesses on the fly for arbitrary off-the-shelf agentic LLMs. We formalize the agent harness as a composable, machine-generatable artifact governed by a fixed four-module protocol, and train JIT-Agent to customize harnesses for a given task at hand, repair harnesses for stable and reliable execution, and self-evolve by distilling performance signals from an expanding archive of prior harness configurations. Equipped with JIT-Agent as a harness helper, DeepSeek-V4-Flash surpasses GPT-5.6 on DeepSearchQA (+9.1) and OdysseyBench (+4.3), while the already strong GLM-5.2 gains up to +20.2 points. Across controlled evaluations, JIT-Agent-generated harnesses are performance-competitive with mature agent runtimes such as OpenCode and Claude Code and consistently improve multi-scale model families of DeepSeek V4, Mimo-V2.5, and Qwen3.6. To our knowledge, JIT-Agent is the first model purpose-built for just-in-time harness generation, establishing harness intelligence as a trainable, transferable, and compounding dimension of agent capability orthogonal to model scaling.",
+      "published_at": "2026-08-25T20:00:00.000Z",
+      "fetched_at": "2026-08-27T10:10:39.547Z"
+    },
+    {
+      "title": "VBVR-Pro: A Scalable and Verifiable Suite for Native Visual Reasoning",
+      "url": "https://huggingface.co/papers/2608.26105",
+      "source": "hf-daily-papers",
+      "score": 26,
+      "content": "Native visual reasoning treats visual generation as the medium of reasoning itself: visual states (i.e. images and videos) are not merely inputs to be understood or outputs to be rendered, but first-class substrates for problem solving beyond language. Yet progress remains bottlenecked by the lack of scalable training tasks, reliable feedback, and controlled comparisons across generative substrates. In this work, we introduce VBVR-Pro, a closed-loop testbed that makes native visual reasoning through generation trainable, verifiable, optimizable, and experimentally controllable. 1) Task scaling. VBVR-Pro turns visual reasoning into a controlled task space of 300 procedurally generated tasks. Models trained on VBVR-Pro show strong transfer beyond the proposed suite across seven external visual reasoning benchmarks such as RISE-Video, MME-CoF-Pro, and BabyVision. 2) Verifiable rewards. VBVR-Pro provides verifiable reward scorers for task-grounded evaluation. Through a systematic study of leading MLLMs as judges, we identify recurring failure modes of the prevalent VLM-as-a-judge paradigm. In contrast, the proposed scorers are grounded in deterministic, task-specific rules, achieve fine-grained alignment with human judgments. Importantly, they serve as reliable reward signals for large-scale multi-task reinforcement learning and demonstrate stronger post-RL performance across visual reasoning tasks. 3) Mechanism study. VBVR-Pro enables controlled modality studies across more than 30 image, video, and interleaved generators. Our analysis shows that video generation remains strongest for tasks requiring persistent spatiotemporal state tracking, while interleaved generation provides a compute-efficient alternative. Critically, ablations and probing suggest the presence of vision-native trajectories that are crucial to visual reasoning. We release all data, models, scorers, and code.",
+      "published_at": "2026-08-25T20:00:00.000Z",
+      "fetched_at": "2026-08-27T10:10:39.547Z"
+    },
+    {
+      "title": "Long-Horizon Audio-Visual Generation for Persistent Stories and Interactive Worlds",
+      "url": "https://huggingface.co/papers/2608.23383",
+      "source": "hf-daily-papers",
+      "score": 19,
+      "content": "Video generation is progressing beyond isolated clips toward long-form narratives and interactive worlds, requiring models to preserve identities, follow user controls, and remain stable over extended rollouts. We present JoyAI-Echo-1.5, a unified audio-visual generation system with two purpose-built variants. The long-video variant introduces composable cross-shot memory that aggregates visual evidence across multiple prior shots and speaker cues derived from speech-filtered full-shot audio, enabling persistent character appearance and voice identity across flexible combinations of text, image, and memory conditioning. The world-model variant converts heterogeneous navigation inputs into calibrated metric 6-DoF camera trajectories and injects them through a geometry-aware conditioning pathway, enabling controller-agnostic interaction across flexible viewpoints. To support efficient long-horizon generation, we transform a bidirectional audio-visual backbone into a causal few-step generator using progressive teacher forcing and short- and long-horizon Self-Gradient Forcing on self-generated rollouts. Experiments demonstrate strong performance in both settings. JoyAI-Echo-1.5 achieves improvements over existing long-video baselines in cross-shot consistency, visual quality, text alignment, and speech fidelity. Its world-model variant ranks first on WBench, with an average score of 81.7, and achieves leading visual quality and long-horizon persistence on SANA-WM-Bench. Together, these results indicate that memory, geometric control, and rollout-aware training provide a practical foundation for generating coherent stories and continuously evolving interactive worlds. Project page: https://echo-team-joy-future-academy-jd.github.io/Echo-1.5-Page/.",
+      "published_at": "2026-08-23T20:00:00.000Z",
+      "fetched_at": "2026-08-27T10:10:39.547Z"
+    },
+    {
+      "title": "D^3-MOPD: Adaptive Dynamic Domain ScheDuling for Efficient Multi-Teacher Distillation",
+      "url": "https://huggingface.co/papers/2608.24987",
+      "source": "hf-daily-papers",
+      "score": 18,
+      "content": "Multi-teacher on-policy distillation (MOPD) distills several domain-expert teachers into a single student by minimizing per-domain reverse-KL divergence on the student's own rollouts. Existing approaches typically fix the per-domain data mixture before training, overlooking the fact that different domains converge at substantially different rates: some plateau early while others continue to improve throughout the training budget. A fixed mixture therefore wastes compute on fast-converging domains and undertrains slower-converging ones. To address this, we propose D^3-MOPD (Dynamic Domain ScheDuling for MOPD), a zero-overhead scheduler that repurposes the per-domain reverse-KL signal already produced during training to adapt the domain mixture online. Running asynchronously outside the training process, an off-process watcher periodically tracks each domain's KL trajectory, estimates remaining headroom and current improvement rate, and accordingly adjusts the domain sampling ratios without altering the core training loop. Our D^3-MOPD scales naturally to arbitrary numbers of domains, and the expected benefit grows as more domains introduce more diverse convergence patterns for the scheduler to exploit. On a Qwen3.6-35B-A3B student distilled from four domain-expert teachers, D^3-MOPD closes 97% of the average student-to-teacher performance gap, compared with 63% for vanilla MOPD, reaches the same peak performance with an approximately 3times reduction in rollout steps, and surpasses the specialist teachers on three of seven benchmarks.",
+      "published_at": "2026-08-24T20:00:00.000Z",
+      "fetched_at": "2026-08-27T10:10:39.547Z"
+    },
+    {
+      "title": "Agent-G^2: Gaussian Guidance for Agentic Reinforcement Learning",
+      "url": "https://huggingface.co/papers/2608.23318",
+      "source": "hf-daily-papers",
+      "score": 17,
+      "content": "Hint-based reinforcement learning addresses reward sparsity in long-horizon agentic tasks by retaining a prefix of an expert trajectory before each rollout, letting the policy explore from a state closer to success. Its effectiveness hinges on the guidance depth: how much of the trajectory to keep. Existing methods treat this depth as a deterministic scalar. Scheduled approaches share one value across samples and ignore per-task heterogeneity; per-sample probing estimates it separately at the cost of extra rollouts. We find that useful guidance occupies a band of depths whose informativeness profile is approximately Gaussian around the band center, rather than concentrating at a single optimal point. We propose Agent-G^2, a Gaussian guidance framework that draws the depth per task from a Gaussian whose center and spread are estimated online from rollouts already collected for policy optimization, requiring no probe rollouts or learned depth predictor. The center combines a global baseline with per-cluster difficulty, and the spread tracks within-cluster variance. We evaluate Agent-G^2 on ALFWorld and WebShop on Qwen2.5-1.5B / 7B-Instruct. Agent-G^2 outperforms the strongest hint-based, hint-free, and Aux-RL baselines on ALFWorld by 2.3 / 3.9 / 7.4 points at under one-third the rollout cost of per-sample probing.",
+      "published_at": "2026-08-23T20:00:00.000Z",
+      "fetched_at": "2026-08-27T10:10:39.547Z"
+    },
+    {
+      "title": "Is Next-Chunk Reasoning RL Really Better than SFT? Revisiting Training Strategies under no-CoT Data",
+      "url": "https://huggingface.co/papers/2608.23256",
+      "source": "hf-daily-papers",
+      "score": 15,
+      "content": "Recent work proposes next-chunk reasoning RL for leveraging no-CoT data---corpora such as worked solutions and textbook derivations that contain reasoning-rich content but lack explicit chain-of-thought annotations. The method trains a model to generate implicit reasoning traces and rewards them by their ability to predict the next chunk of text. While promising, existing evaluations primarily compare against conventional SFT baselines, leaving open whether the gains come from the RL formulation itself or from more effectively exposing the model to no-CoT data. We address this question with a controlled study of next-chunk reasoning RL and a simple but previously overlooked alternative: Mixed SFT, a single supervised fine-tuning stage that jointly trains on no-CoT and long-CoT data. Despite its simplicity, Mixed SFT achieves a clearly higher post-RLVR performance ceiling than next-chunk reasoning RL while requiring over 60 times less training compute. The advantage is consistent across in-domain mathematical reasoning and out-of-domain reasoning tasks. Moreover, we show that higher pre-RLVR accuracy does not necessarily translate into higher post-RLVR accuracy, highlighting the need to evaluate no-CoT training strategies in the context of the full post-training pipeline.",
+      "published_at": "2026-08-23T20:00:00.000Z",
+      "fetched_at": "2026-08-27T10:10:39.547Z"
+    },
+    {
+      "title": "Open-MOPD: Diagnosing and Fixing Capability Imbalance in Multi-Teacher On-Policy Distillation",
+      "url": "https://huggingface.co/papers/2608.19098",
+      "source": "hf-daily-papers",
+      "score": 15,
+      "content": "Multi-teacher on-policy distillation (M-OPD) has emerged as a promising paradigm for consolidating domain-specialized reinforcement learning (RL) experts into a single generalist student via dense, token-level reward supervision. Despite its practical success, the optimization dynamics governing multi-teacher capability integration remain poorly understood, and open, rigorously reproducible recipes are conspicuously lacking. In this work, we establish a controlled M-OPD benchmark on SmolLM3-3B-Base with oracle routing, isolating capability integration from routing ambiguity. Our investigation reveals a pronounced capability integration gap: standard M-OPD captures only 35.6% of the available headroom relative to a domain-routed oracle ensemble, with concise tasks such as instruction following suffering severe degradation and premature stagnation. Crucially, we show that this failure stems not from gradient conflict, but from a severe misallocation of the token-level optimization budget. This pathology is driven by three orthogonal factors: structural sequence-length disparities across domains, dynamic convergence drift due to non-uniform learning rates, and multi-step reward staleness from asynchronous policy updates. To resolve these imbalances, we introduce Open-MOPD, a principled framework incorporating token-share balancing, gap-aware dynamic budget allocation, and student reward refresh. Together, these mechanisms systematically restore cross-domain balance, elevating headroom recovery from 35.6% to 83.4% in a single deployable student. We fully open-source our end-to-end post-training recipe, training trajectories, and evaluation suites on an academically accessible hardware budget.",
+      "published_at": "2026-08-18T20:00:00.000Z",
+      "fetched_at": "2026-08-27T10:10:39.547Z"
+    },
+    {
+      "title": "StreamPI: Streaming Multimodal Temporal Modeling for Vision-Language-Action Models",
+      "url": "https://huggingface.co/papers/2608.26067",
+      "source": "hf-daily-papers",
+      "score": 14,
+      "content": "Vision-Language-Action (VLA) models have demonstrated effectiveness in robot manipulation, yet state-of-the-art models such as pi0.5 operate under a single-frame paradigm, limiting their ability to retain past observations and develop precise spatial perception. In this paper, we propose StreamPI, a streaming multimodal temporal modeling framework that equips single-frame VLA with temporal reasoning capability without introducing any additional parameters. One core design is instruction-anchored temporal modeling. It treats each (visual observation, language instruction) pair as an atomic temporal unit: bidirectional attention within each pair enables cross-modal fusion, while causal attention across pairs preserves autoregressive streaming inference. This ensures the language instruction serves as a persistent semantic anchor throughout task execution. To bridge the gap between synchronous training and asynchronous real-robot deployment, we introduce a andom-interval streaming training strategy: a proper inter-frame interval (e.g., every 3 frames) enables faster and smoother action execution. Beyond this, randomizing the interval further improves robustness to frame-timing perturbations, supporting asynchronous deployment in practice. Furthermore, by leveraging the length extrapolation capability of the LLM backbone, StreamPI seamlessly inherits pretrained single-frame weights and supports flexible single-frame and multi-frame inference. Experiments on real-robot tasks spanning memory-dependent and precise perception scenarios, as well as the simulation benchmark LIBERO, demonstrate that StreamPI outperforms pi0.5 across diverse tasks.",
+      "published_at": "2026-08-25T20:00:00.000Z",
+      "fetched_at": "2026-08-27T10:10:39.547Z"
+    },
+    {
+      "title": "Video-IFBench: Evaluating Instruction Following of Multimodal LLMs in Video Understanding Scenarios",
+      "url": "https://huggingface.co/papers/2608.25529",
+      "source": "hf-daily-papers",
+      "score": 13,
+      "content": "Multimodal Large Language Models (MLLMs) have shown strong performance in video understanding. However, their ability to follow instructions in this domain remains under-explored. Real-world video understanding requires models not only to interpret video content correctly, but also to satisfy diverse user-specified constraints. Existing benchmarks focus primarily on task accuracy rather than instruction adherence, leaving this capability insufficiently evaluated. To address this gap, we introduce Video-IFBench, a comprehensive benchmark for evaluating instruction following in video understanding, where models must satisfy diverse user-specified constraints, including those grounded in visual and audio content. We develop an instruction taxonomy with four templates, including single-task, multi-task, selection, and nested instructions, covering 32 task types and 39 manually designed constraint categories spanning both semantic and format requirements. To reduce annotation cost, we build a semi-automatic data construction pipeline that combines MLLMs, programmatic processing, and human verification, resulting in 1.5K samples. We conduct a large-scale evaluation of more than 20 recent MLLMs and show that video instruction following remains challenging for current models, especially for instructions with many constraints, semantic constraints, or complex conditional structures that require selecting the correct branch or path based on video content. We hope our work will facilitate future research on instruction following in video understanding scenarios.",
+      "published_at": "2026-08-25T20:00:00.000Z",
+      "fetched_at": "2026-08-27T10:10:39.547Z"
+    },
+    {
+      "title": "V-Rubrics: Visual Faithfulness via Rubric-Based Reinforcement Learning",
+      "url": "https://huggingface.co/papers/2608.25580",
+      "source": "hf-daily-papers",
+      "score": 12,
+      "content": "Vision-language models can produce fluent answers that are insufficiently grounded in the visual evidence: a single unsupported object, chart value, or intermediate inference can undermine an otherwise plausible response. We argue that this is a credit-assignment failure in multimodal post-training. Scalar outcome rewards indicate whether an answer is acceptable, but do not identify which visual facts are grounded, which reasoning steps are valid, or which instruction constraints are missed. We introduce Visual Rubrics-Based Reinforcement Learning, which decomposes reference responses into atomic propositions and scores generated answers along Visual Faithfulness (VF), Reasoning Consistency (RC), and Instruction Following (IF). The resulting rubric items provide structured partial credit and localize rubric credit when supporting evidence spans are available. We first obtain an SFT checkpoint by fine-tuning Qwen3-VL-8B-Instruct on the public OpenMMReasoner-SFT-874K corpus, adapting OpenMMReasoner's cold-start data recipe. We construct V-Rubrics 50K, a 50,248-example training set from 17 visually grounded sources, by applying rule-based filters before deriving example difficulty from rejection-sampling scores and then annotating every example with Gemini-3-Pro under the same structured prompt and protocol. We train our model based on the same SFT checkpoint using component-wise, prefix-localized rubric credit. Experiments show that our rubricbased GRPO improves over both the shared SFT baseline and answer-only GRPO, with the largest gains on knowledge-oriented and visually grounded reasoning benchmarks. The results show rubrics as a useful reward abstraction for visual post-training.",
+      "published_at": "2026-08-25T20:00:00.000Z",
+      "fetched_at": "2026-08-27T10:10:39.547Z"
+    },
+    {
+      "title": "Are Android GUI Agents Robust Against Runtime Anomalies? AnTrap: Evaluating Agents in Dynamic Adversarial Environments",
+      "url": "https://huggingface.co/papers/2608.24099",
+      "source": "hf-daily-papers",
+      "score": 12,
+      "content": "GUI agents often encounter dynamic anomalies when deployed on Android devices, from unexpected pop-ups to action misuse, yet existing benchmarks lack systematic evaluation of agent robustness against runtime anomalies. We introduce AnTrap, a comprehensive benchmark that injects dynamic perturbations into agent execution trajectories. We propose a taxonomy organizing real-world anomalies into four layers (State, Thinking, Action and Round) with ten fine-grained subcategories, and develop a construction pipeline that preserves task solvability while introducing realistic adversarial conditions. Evaluating 16 leading GUI models, we reveal universal vulnerability to dynamic anomalies, with even the strongest models suffering significant performance degradation. Furthermore, we conduct GRPO training in both original and adversarial environments to validate our benchmark, separating environment-learnable anomalies from reasoning-bottlenecked ones. Our findings show that while single-step traps at state and action layers are largely addressable through adversarial reinforcement learning, deep contextual traps, like state deadlock, expose intrinsic limitations that cannot be resolved by training in environments with traps alone.",
+      "published_at": "2026-08-24T20:00:00.000Z",
+      "fetched_at": "2026-08-27T10:10:39.547Z"
+    },
+    {
+      "title": "Rubrics as Visual-Repair Context for Self-Evolving UI-to-Code Generation",
+      "url": "https://huggingface.co/papers/2608.24138",
+      "source": "hf-daily-papers",
+      "score": 11,
+      "content": "Large vision-language models have shown strong progress in UI-to-code generation, yet their test-time self-evolution remains unstable. We first identify a fundamental obstacle, termed visual repair coupling: a local code edit may propagate through layout, style, and component dependencies, correcting one visual mismatch while degrading regions that were previously faithful. To address this issue, we present RubSE, a Rubric-guided Self-Evolution framework that uses rubrics to represent visual feedback as a structured visual-repair context. At each refinement round, RubSE generates typed candidate rubrics, selects one prioritized repair target, and stores previously selected rubrics as history, thereby steering each revision toward a well-scoped visual repair while discouraging repeated or over-broad changes. Evaluations across six VLMs and three UI-to-code benchmarks demonstrate that RubSE substantially outperforms naïve self-evolution in final-round and best-round settings, achieving more stable refinement trajectories and a higher trajectory-level performance ceiling. Further analysis shows that RubSE mitigates trajectory collapse by improving recovery from severe visual regressions, and that stronger rubric generators can transfer effective visual-repair guidance to weaker code improvers.",
+      "published_at": "2026-08-24T20:00:00.000Z",
+      "fetched_at": "2026-08-27T10:10:39.547Z"
+    },
+    {
+      "title": "Code World Model: Coding Agent as World Brain",
+      "url": "https://huggingface.co/papers/2608.25927",
+      "source": "hf-daily-papers",
+      "score": 9,
+      "content": "World models aim to simulate how complex environments evolve under actions and events, yet existing video-based world models primarily learn dynamics from visual observations, which reveal outcomes rather than the underlying knowledge, rules, and mechanisms governing world evolution. This makes it difficult to maintain persistent consequences and support coherent, open-ended evolution. We introduce Code World Model, a framework that separates world evolution from visual realization by combining the reasoning and coding capabilities of language models with the generative priors of video models. A coding agent serves as the world brain, reasoning about events and their consequences and generating executable code to maintain persistent world state and perform rule-consistent evolution. To connect executable state with visual generation, we introduce a proxy representation that encodes frame-wise spatiotemporal constraints and is compiled into a proxy video, which conditions a video model to render high-fidelity visual observations. We further develop data pipelines for constructing aligned proxy-observation pairs from gameplay and real-world videos. After fine-tuning on paired gameplay data, MiniMax-H3 follows proxy-based spatiotemporal specifications from simple interactive worlds built by the coding agent while preserving rich visual details and dynamics. These results demonstrate the potential of combining code for persistent world evolution with video models for flexible visual realization, providing a new path toward open-ended world models.",
+      "published_at": "2026-08-25T20:00:00.000Z",
+      "fetched_at": "2026-08-27T10:10:39.547Z"
+    },
+    {
+      "title": "The Handoff Tax: Continuing Non-Native Trajectories in LLM Agents",
+      "url": "https://huggingface.co/papers/2608.24358",
+      "source": "hf-daily-papers",
+      "score": 9,
+      "content": "Coding agents perform long-running tasks spanning dozens of model calls, tool uses, and code edits. As these runs unfold, users face a practical cost-quality trade-off: escalating to a stronger model when a cheaper one struggles, or downshifting once the hard reasoning is complete. Each switch requires the receiver to continue a non-native trajectory produced by another model. We study how this handoff affects quality and cost, and how varying the trajectory information inherited by the receiver changes the outcome. Using pairs of low-cost, low-capability (LC) and high-cost, high-capability (HC) models from the Claude and GPT families, we vary handoff direction, timing, and interface, comparing full-trajectory transfer, compaction, and trajectory removal while preserving the repository state. Across both model families, full-trajectory escalation recovers less than half of the LC-to-HC quality gap while incurring a substantial cost premium. We term this cost-quality penalty the handoff tax. By contrast, downshift offers a favorable cost-quality point. Interestingly, the preferred interface also reverses with direction: reducing LC-model trajectory information improves escalation quality, whereas removing the HC-model trajectory reduces downshift quality.",
+      "published_at": "2026-08-24T20:00:00.000Z",
+      "fetched_at": "2026-08-27T10:10:39.547Z"
+    },
+    {
+      "title": "A Programming Paradigm for Spatiotemporal Composability",
+      "url": "https://huggingface.co/papers/2608.25512",
+      "source": "hf-daily-papers",
+      "score": 6,
+      "content": "Modern software -- from plugin systems to self-evolving agent harnesses -- increasingly requires dynamic composition, yet its formal foundations remain underdeveloped. We identify two orthogonal dimensions of the problem: temporal composability, the ability to completely revert a component's side effects upon removal, and spatial composability, the ability to declare and reactively manage inter-component dependencies. We address the two dimensions by lifting classical effect and coeffect concepts to runtime mechanisms. In particular, we formalize revertible effects, in which every context transformation carries an inverse that the runtime holds, establishing temporal composability local to one component. We formalize reactive coeffects, in which every context change is classified against a component's coeffect specification to drive its activation and deactivation, establishing spatial composability local to one component. We then unify the effect context and the coeffect context into a single context type and mediate every effect and coeffect through it, yielding a discipline we call the context paradigm; the mediation induces an observational equivalence up to which the effects of distinct components interleave without disturbing one another. Combining these mechanisms into the notion of a component, we give a calculus of dynamic composition whose metatheory carries spatiotemporal composability from a single component to a whole system of interleaved components. We implement these ideas in Cordis, a meta-framework of spatiotemporal composability that provides a core library with effect tracking and coeffect resolution, as well as a declarative component loader with configuration reconciliation and hot module replacement.",
+      "published_at": "2026-08-25T20:00:00.000Z",
+      "fetched_at": "2026-08-27T10:10:39.547Z"
+    },
+    {
+      "title": "SWE Refactor Bench: Can Coding Agents Complete a Long-Horizon, Whole-Repository Stack Migration?",
+      "url": "https://huggingface.co/papers/2608.23564",
+      "source": "hf-daily-papers",
+      "score": 6,
+      "content": "Modern software systems accumulate technical debt over decades of development, which makes migration expensive and largely manual. As coding agents become increasingly capable at bug fixing, can they autonomously perform such migrations? Existing benchmarks cannot answer this question because they evaluate only behavioural correctness, not whether the migration actually occurred. This leads an easy hack: agents copy the original implementation to make tests pass. We call this Blindness. To address this problem, we introduce SWE Refactor Bench, a benchmark comprising 20 whole-repository migrations, covering 4 kinds of technical debt. A three-stage evaluation protocol measures both migration completeness and behavioural correctness. (1) Migration Audit verifies that the migration occurred. (2) Behavioural Tests measure correctness with a fixed test suite. (3) Agentic Verification uses 6 independent coding agents to generate targeted tests for hidden behavioural differences. Across 520 runs from 8 frontier models and 26 model-effort configurations, only 28 of 520 runs (5.4%) pass all three stages, 13 of the 20 tasks receive no accepted solution, and the best model (claude-opus-5) scores 47.0/100. Migration completeness and behavioural correctness are distinct abilities: a few runs preserve behaviour by skipping the migration and are stopped at Migration Audit; most attempt it and break behaviour, and are stopped at Behavioural Tests. Agents cannot deliver a perfect migration: among the 340 runs that pass Migration Audit, 58% reach 99% of the fixed checks, yet only 26% reach 100%. Agent capability differs across migration categories: agents score 31.4 on build toolchain rewrites but only 5.6 on language rewrites. Together, these findings position SWE Refactor Bench as a rigorous testbed for developing coding agents for reliable whole-repository migrations.",
+      "published_at": "2026-08-23T20:00:00.000Z",
+      "fetched_at": "2026-08-27T10:10:39.547Z"
+    },
+    {
+      "title": "Gated Recurrent Transformers: Expressive Depth through Recurrent Modulation in Transformers",
+      "url": "https://huggingface.co/papers/2608.15062",
+      "source": "hf-daily-papers",
+      "score": 3,
+      "content": "Scaling transformer language models creates an inherent tension between expressivity and memory efficiency. While unique weights across layers preserve functional specialization---from input-grounding to abstract refinement---they incur a substantial memory footprint. Conversely, standard depth-sharing enforces uniform transformations that collapse representational diversity and degrade modeling quality. We introduce Gated Recurrent Transformer, a recurrent depth transformer where fixed-depth prelude and coda blocks bracket a single shared core iterated R times. Inspired by gated recurrent neural networks, we employ a lightweight projection and an elementwise update gate---conditioned on the hidden state, the fixed prelude output, and noise resampled at every step---to modulate the recurrent update. This allows the model to specialize the input to the same few layers across recurrences, rather than requiring many unique layers to achieve functional diversity. Under an isoFLOPS constraint, a 3-layer Gated Recurrent Transformer matches the accuracy of a 12-layer GPT-2 Small baseline with similar training and inference FLOPs, and leads MoR and heavy-tail depth sampling in all nine scale-by-budget cells; at medium and large scale it approaches dense quality at the standard token budget and overtakes it at medium scale once that budget is doubled. Under an isoPARAMS constraint, deeper recurrence achieves a 2.76 validation loss versus 2.84 for a non-recurrent counterpart at matched parameter and data budget. Our results demonstrate that adaptive depth reuse is a principled strategy for trading parameters for quality: at large scale, 63% fewer parameters and 59% less peak decoding memory for a 10% increase in compiled generation latency.",
+      "published_at": "2026-08-24T20:00:00.000Z",
+      "fetched_at": "2026-08-27T10:10:39.547Z"
+    },
+    {
+      "title": "MA-VLA: Multi-Arm Vision-Language-Action Model for Collaboration and Compositional Generalization",
+      "url": "https://huggingface.co/papers/2608.25864",
+      "source": "hf-daily-papers",
+      "score": 2,
+      "content": "Multi-arm collaboration is becoming a core capability in embodied manipulation. Recent vision-language-action (VLA) models integrate perception, language, and control, but most represent language as a single global instruction and do not provide an explicit mechanism for assigning and composing arm-specific behaviors. This design limits transfer to collaboration patterns that differ from those observed during training. We present MA-VLA, a unified framework for multi-arm collaboration via atomic action assignment. MA-VLA decomposes cooperative behavior into mid-level atomic prompts and allocates them to individual arms, enabling explicit subgoal specification and compositional reuse across tasks. To reduce reliance on fixed execution roles, we introduce Arm Shuffle, a training-time permutation of the observation, state, and assigned atomic prompts for each arm. This permutation enforces role-agnostic instruction following and supports recomposition into unseen coordination patterns, which we term multi-arm compositional generalization. We also construct a benchmark in which test-time collaboration patterns are absent in training set. Across simulation and real-world evaluations, prior state-of-the-art VLAs largely fail under these unseen collaborations, while MA-VLA consistently succeeds. These results indicate that structured, per-arm atomic action assignment offers a practical route to scalable generalization in multi-arm embodied systems. Code, models, and data are available at https://github.com/zhangzaibin/future-robots",
+      "published_at": "2026-08-25T20:00:00.000Z",
+      "fetched_at": "2026-08-27T10:10:39.547Z"
+    },
+    {
+      "title": "RetrievalRouter: Joint Modality and Architecture Selection for Document Retrieval",
+      "url": "https://huggingface.co/papers/2608.25625",
+      "source": "hf-daily-papers",
+      "score": 1,
+      "content": "Document retrieval increasingly supports high-stakes information access in finance, healthcare, and law. Modern retrieval pipelines vary both in modality (text or multimodal) and in retrieval architecture (dense or late-interaction). These choices impose a hard compromise: the most effective pipelines are too slow and expensive to run at scale, while the fastest fail to retrieve evidence from complex documents. Practitioners must therefore choose between missed evidence and unusable latency, with no principled basis for adapting that choice at the query level. We show that this compromise is unnecessary. Not every query requires the same pipeline. Across benchmarks spanning financial and scientific corpora, no static pipeline dominates. We introduce RetrievalRouter, a lightweight query-aware router that learns, from the query text alone, which retrieval pipeline best fits each query. A single tunable parameter exposes the full accuracy-latency frontier, and for every static baseline, RetrievalRouter offers an operating point that is simultaneously more accurate and faster. Against the best static baseline, RetrievalRouter is 2.5% more accurate and 12.4 times faster. Furthermore, compared with prior adaptive strategy selection methods, RetrievalRouter achieves significantly higher nDCG@5 across accuracy-oriented settings, while matching or numerically outperforming them on both nDCG@5 and latency in latency-oriented settings. Our code and data are available at https://github.com/emrekuruu/retrieval-router.",
+      "published_at": "2026-08-25T20:00:00.000Z",
+      "fetched_at": "2026-08-27T10:10:39.547Z"
+    },
+    {
+      "title": "FIRM-Video: Check Before You Score for Reliable Text-to-Video Reward Modeling",
+      "url": "https://huggingface.co/papers/2608.21839",
+      "source": "hf-daily-papers",
+      "score": 1,
+      "content": "Reliable reward models are essential for text-to-video evaluation and alignment. However, the trade-off between evaluation accuracy and inference efficiency places high demands on the quality of training supervision. Existing approaches often rely on holistic judges with fixed rubrics or open-ended reasoning, leading to incomplete inspection, unfaithful justification, and entangled attribution. We introduce FIRM-Video, a unified checklist-driven data construction framework based on a check-before-score principle: construct dimension-specific checklists, verify each criterion against temporal visual evidence, and aggregate only verified decisions. For Instruction Following, FIRM-Video decomposes prompts into weighted atomic requirements; for World Coherence, it constructs prompt-calibrated, target-specific checks grounded in visible entities and actions; and for Perceptual Quality, it applies a generic taxonomy of visual defects. The verified criteria and scores are further transformed into natural-language analyses for end-to-end reward modeling. Subsequently, we construct FIRM-Video-90K with 88,044 dimension-specific instances from 29,348 videos, and introduce FIRM-Video-Bench with 750 point-wise human annotations across 250 videos. The Qwen3-VL-based FIRM-Video-8B achieves the best overall MAE on FIRM-Video-Bench while consistently delivering the highest VBench Total, Quality, and Semantic Scores in Best-of-8 sampling across three video generators.",
+      "published_at": "2026-08-21T20:00:00.000Z",
+      "fetched_at": "2026-08-27T10:10:39.547Z"
+    },
+    {
+      "title": "Stream4D: 4D-Consistency for Streaming Autoregressive Diffusion Video Models",
+      "url": "https://huggingface.co/papers/2608.19556",
+      "source": "hf-daily-papers",
+      "score": 1,
+      "content": "Streaming autoregressive diffusion models enable real-time, long-horizon video generation, but their training objectives optimize local frame prediction rather than the geometry and dynamics of a coherent world: long rollouts accumulate geometric drift and degrade into static or unnatural motion. Recent bidirectional approaches address this problem using rewards signals built upon 3D Gaussian-Splatting reconstruction. However, a single rigid 3d reconstruction cannot model a dynamic scene, so this critic penalizes genuine object motion as reconstruction error and is maximized by freezing the video. This shortcut is especially detrimental in the AR setting, where each chunk can propagate an already-static configuration. In this work, we propose Stream4D, which replaces the static critic with a feed-forward 4D reconstruction reward that explicitly models scene dynamics, allowing coherent motion to receive high consistency rewards. To further guide motion magnitude and quality, we add a motion prior that rewards natural scene-flow magnitude while penalizing jitter and non-rigid artifacts. Our final recipe combines these two terms with a lightweight perceptual anchor. Across various autoregressive video backbones and various generation horizons, Stream4D improves 4D reconstruction quality, preserves motion more effectively, and achieves higher human-aligned preference. Project page: https://banyuanhao.github.io/Stream4D/",
+      "published_at": "2026-08-19T20:00:00.000Z",
+      "fetched_at": "2026-08-27T10:10:39.547Z"
+    },
+    {
+      "title": "Super Star: Towards Streaming Real-time Interactive Agents for Digital Humans",
+      "url": "https://huggingface.co/papers/2608.24909",
+      "source": "hf-daily-papers",
+      "score": 1,
+      "content": "Existing co-speech gesture generation methods are predominantly studied in offline settings, where gestures are synthesized from complete speech segments. However, interactive digital humans in real-world scenarios are required to generate speech-synchronous gestures online, using only currently available response audio under strict latency constraints. As a result, prior methods are unsuitable for real-time interaction, as they either rely on future speech information or incur substantial inference delay. In this paper, we formulate online co-speech gesture generation for interactive digital humans and propose a real-time interactive framework that couples a streaming speech response module with an online gesture generation module. Specifically, the gesture generator is designed as a causal multimodal autoregressive model that predicts body motion from streaming response speech and motion history, enabling low-latency and speech-aligned gesture synthesis without access to future speech. To support this setting, we further propose an offline data synthesis pipeline tailored to virtual companion scenarios, which leverages topic- and emotion-aware subject corpora to construct diverse human-agent dialogues and then generates co-speech gestures conditioned on the agent responses. Moreover, to bridge the gap between offline data construction and online deployment, we establish a self-evolving training loop by incorporating user feedback collected during online interaction into the data generation process, enabling continual adaptation to user preferences. Extensive experiments demonstrate that our framework achieves superior better latency-quality trade-off, stronger speech-motion synchronization, and higher user preference than competitive existing baselines. Project Page: https://super-star-2026.github.io/",
+      "published_at": "2026-07-21T20:00:00.000Z",
+      "fetched_at": "2026-08-27T10:10:39.547Z"
+    },
+    {
+      "title": "Real-TurnTurk: A Multimodal Turkish Corpus for Turn-Taking Prediction",
+      "url": "https://huggingface.co/papers/2608.22071",
+      "source": "hf-daily-papers",
+      "score": 0,
+      "content": "Turn-taking is a basic organizational feature of human conversation and remains difficult to model in natural, synchronous dialog systems. While existing research has explored multimodal approaches and large language models for turn-ending prediction, there is a lack of naturalistic conversational corpora specifically addressing turn-taking dynamics in Turkish. This study introduces a multimodal Turkish conversational dataset of unscripted dyadic interactions, comprising synchronized front-facing video, per-speaker audio channels that allow overlapping speech to be attributed to individual speakers, and time-aligned transcriptions. Turn-taking prediction is formulated as a binary classification problem, and a Genetic Algorithm (GA) is employed to optimize interpretable decision rules derived from visual, acoustic, and linguistic features. A hybrid AND-OR rule representation is adopted in the proposed framework to represent the alternative cue combinations that precede a turn transition.",
+      "published_at": "2026-08-21T20:00:00.000Z",
+      "fetched_at": "2026-08-27T10:10:39.547Z"
+    },
+    {
+      "title": "A Modular Agent for Reliable and Auditable Spatial Relation Verification in CT Scans",
+      "url": "https://huggingface.co/papers/2608.21140",
+      "source": "hf-daily-papers",
+      "score": 0,
+      "content": "Reliable spatial understanding is an important prerequisite for future medical vision-language systems that aim to support radiological report generation and structured image understanding. While modern vision-language models (VLMs) show promising performance on many medical imaging tasks, recent evidence suggests they remain weak in controlled spatial reasoning and often fail to reliably ground spatial relations in image evidence. Given that radiological reasoning hinges on understanding the relative positions of anatomical structures and findings, this spatial weakness poses risks to diagnostic accuracy. We present a modular medical imaging agent for binary spatial relation verification in axial CT slices. Instead of directly predicting spatial answers end-to-end, the system decomposes the task into explicit stages: language parsing, anatomical localization, and deterministic geometric verification. Natural-language queries are converted into structured relation tuples, queried organs are localized with a YOLO-based detector, and the final spatial decision is computed from object centers using deterministic geometric rules. We evaluate the approach on the held-out MIRP spatial QA benchmark and compare it against representative end-to-end VLM baselines. The best-performing hybrid configuration reaches 94.1% accuracy and 94.2% F1, outperforming direct Qwen2-VL prompting by 42.5 percentage points in accuracy, while preserving interpretable intermediate representations and auditable reasoning stages. The results suggest that explicit modular spatial verification can serve as a promising building block for future report-oriented medical imaging agents.",
+      "published_at": "2026-08-20T20:00:00.000Z",
+      "fetched_at": "2026-08-27T10:10:39.547Z"
+    }
+  ]
+}
