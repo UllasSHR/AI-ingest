@@ -1,0 +1,751 @@
+{
+  "date": "2026-08-30",
+  "fetched_at": "2026-08-30T05:42:20.964Z",
+  "summary": [
+    "  ✓ hn               80 items",
+    "  ✗ reddit           FAILED: all Reddit subreddit fetches failed",
+    "  ✓ simonwillison    2 items",
+    "  ✓ hf               0 items"
+  ],
+  "item_count": 82,
+  "items": [
+    {
+      "title": "Debian votes to allow \"responsible use of generative AI\"",
+      "url": "https://lwn.net/Articles/1091231/",
+      "source": "hn",
+      "score": 476,
+      "content": "",
+      "published_at": "2026-08-29T14:02:10Z",
+      "fetched_at": "2026-08-30T05:42:19.102Z"
+    },
+    {
+      "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
+      "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+      "source": "hn",
+      "score": 321,
+      "content": "",
+      "published_at": "2026-08-29T17:19:47Z",
+      "fetched_at": "2026-08-30T05:42:19.102Z"
+    },
+    {
+      "title": "The growing divide between AI hype and software engineering reality",
+      "url": "https://optimizedbyotto.com/post/why-open-source-projects-ban-ai/",
+      "source": "hn",
+      "score": 60,
+      "content": "",
+      "published_at": "2026-08-29T16:16:32Z",
+      "fetched_at": "2026-08-30T05:42:19.102Z"
+    },
+    {
+      "title": "Open Oscar Server: open-source server compatible with AIM and ICQ clients",
+      "url": "https://github.com/mk6i/open-oscar-server",
+      "source": "hn",
+      "score": 17,
+      "content": "",
+      "published_at": "2026-08-30T00:33:35Z",
+      "fetched_at": "2026-08-30T05:42:19.102Z"
+    },
+    {
+      "title": "Meta Project OT plan to replace employees with AI agents",
+      "url": "https://www.thestreet.com/technology/mark-zuckerberg-shocking-message-meta-employee-layoffs-artificial-intelligence",
+      "source": "hn",
+      "score": 12,
+      "content": "",
+      "published_at": "2026-08-30T02:01:08Z",
+      "fetched_at": "2026-08-30T05:42:19.102Z"
+    },
+    {
+      "title": "I hate AI images and music",
+      "url": "https://mat.leaflet.pub/3mu35coarbs2o",
+      "source": "hn",
+      "score": 8,
+      "content": "",
+      "published_at": "2026-08-29T17:00:28Z",
+      "fetched_at": "2026-08-30T05:42:19.102Z"
+    },
+    {
+      "title": "American Airlines' Legendary Mechanic Passes Away at 100 After 80-Year Career",
+      "url": "https://simpleflying.com/american-airlines-mechanic-passes-away-100-record-80-years/",
+      "source": "hn",
+      "score": 5,
+      "content": "",
+      "published_at": "2026-08-29T21:25:17Z",
+      "fetched_at": "2026-08-30T05:42:19.102Z"
+    },
+    {
+      "title": "Debian AI vote: Option 5 \"Responsible use of GenAI\" won",
+      "url": "https://www.debian.org/vote/2026/vote_002#texte",
+      "source": "hn",
+      "score": 5,
+      "content": "",
+      "published_at": "2026-08-29T10:09:52Z",
+      "fetched_at": "2026-08-30T05:42:19.102Z"
+    },
+    {
+      "title": "Calibre eBook manager lets you generate AI book covers",
+      "url": "https://www.omgubuntu.co.uk/2026/08/calibre-ebook-ai-covers",
+      "source": "hn",
+      "score": 5,
+      "content": "",
+      "published_at": "2026-08-29T14:19:04Z",
+      "fetched_at": "2026-08-30T05:42:19.102Z"
+    },
+    {
+      "title": "Major security weaknesses found in leading open AI models",
+      "url": "https://uwaterloo.ca/news/media/major-security-weaknesses-found-leading-open-ai-models",
+      "source": "hn",
+      "score": 5,
+      "content": "",
+      "published_at": "2026-08-29T14:15:36Z",
+      "fetched_at": "2026-08-30T05:42:19.102Z"
+    },
+    {
+      "title": "Backlash Against AI Data Centers Is Real, Organic, Widespread",
+      "url": "https://www.yahoo.com/news/politics/articles/backlash-against-ai-data-centers-115222320.html",
+      "source": "hn",
+      "score": 5,
+      "content": "",
+      "published_at": "2026-08-29T13:52:40Z",
+      "fetched_at": "2026-08-30T05:42:19.102Z"
+    },
+    {
+      "title": "AI surveillance in schools raises safety and equity concerns",
+      "url": "https://www.brookings.edu/articles/ai-surveillance-in-schools-raises-safety-and-equity-concerns/",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-08-29T22:15:32Z",
+      "fetched_at": "2026-08-30T05:42:19.102Z"
+    },
+    {
+      "title": "Show HN: AI Agents for Osint/Sigint",
+      "url": "https://www.makralabs.org/about",
+      "source": "hn",
+      "score": 4,
+      "content": "The goal was to bring down the cost at the context eng. level. We do it with Layout Memoization.<p>Instead of dumping HTML into the context window, we have built a continual learning browser harness (read only for now).<p>We have built an early prototype for you to try out, where you can:<p>1. Spins up a browser instance\n2. Extract any structured or tabular data from anywhere on the open-web\n3. And you can do all this at the cost of a vector search<p>Would love to hear your thoughts on this. Thanks for taking the time to read it.",
+      "published_at": "2026-08-29T21:39:05Z",
+      "fetched_at": "2026-08-30T05:42:19.102Z"
+    },
+    {
+      "title": "Google further buries search results under AI mode",
+      "url": "https://www.theverge.com/tech/986364/google-search-ai-overviews-auto-expand",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-08-29T15:21:06Z",
+      "fetched_at": "2026-08-30T05:42:19.102Z"
+    },
+    {
+      "title": "Show HN: Kith – AI clinical notes for therapists from ambient session audio",
+      "url": "https://www.kith.space",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-08-29T08:16:03Z",
+      "fetched_at": "2026-08-30T05:42:19.102Z"
+    },
+    {
+      "title": "An infinite and interactive AI generated live stream of slop",
+      "url": "https://skunkworks.levels.io/infinite-slop/",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-08-29T18:47:07Z",
+      "fetched_at": "2026-08-30T05:42:19.102Z"
+    },
+    {
+      "title": "I tried vibe-coding a memory tool for AI and stared into the abyss of philosophy",
+      "url": "https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-08-29T06:09:06Z",
+      "fetched_at": "2026-08-30T05:42:19.102Z"
+    },
+    {
+      "title": "The Internet Archive's Vintage AI Collection",
+      "url": "https://archive.org/details/vintageai",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-08-30T05:00:51Z",
+      "fetched_at": "2026-08-30T05:42:19.102Z"
+    },
+    {
+      "title": "OpenContext – Persistent, project-local memory for AI coding agents via MCP",
+      "url": "https://www.opencntx.dev/",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-08-29T23:24:44Z",
+      "fetched_at": "2026-08-30T05:42:19.102Z"
+    },
+    {
+      "title": "Three mistakes of new AI teams",
+      "url": "https://softwaredoug.com/blog/2026/08/29/ai-team-mistakes.html",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-08-29T16:45:09Z",
+      "fetched_at": "2026-08-30T05:42:19.102Z"
+    },
+    {
+      "title": "LLMs are making me lose my savviness",
+      "url": "https://pgaleone.eu/ai/2026/08/29/losing-savviness/",
+      "source": "hn",
+      "score": 54,
+      "content": "",
+      "published_at": "2026-08-29T18:38:52Z",
+      "fetched_at": "2026-08-30T05:42:19.574Z"
+    },
+    {
+      "title": "Show HN: Tokensift, an open-sourced token-efficiency linter for LLM prompts",
+      "url": "https://github.com/ritenv/tokensift",
+      "source": "hn",
+      "score": 6,
+      "content": "",
+      "published_at": "2026-08-29T06:33:51Z",
+      "fetched_at": "2026-08-30T05:42:19.574Z"
+    },
+    {
+      "title": "Is the LLM smart or are you not?",
+      "url": "https://blog.troed.se/posts/the-anchoring-effect-and-cognitive-simplicity/",
+      "source": "hn",
+      "score": 5,
+      "content": "",
+      "published_at": "2026-08-29T17:13:36Z",
+      "fetched_at": "2026-08-30T05:42:19.574Z"
+    },
+    {
+      "title": "Building an LLM runtime in 700 lines of C",
+      "url": "https://github.com/ryanssenn/gemma4.c",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-08-29T13:10:09Z",
+      "fetched_at": "2026-08-30T05:42:19.574Z"
+    },
+    {
+      "title": "SwarmWorld: Stigmergic technological evolution in societies of LLM agents",
+      "url": "https://arxiv.org/abs/2608.26081",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-08-29T14:59:33Z",
+      "fetched_at": "2026-08-30T05:42:19.574Z"
+    },
+    {
+      "title": "How cats.txt showed llms.txt evidence is GEO astrology",
+      "url": "https://markwilliamscook.substack.com/p/how-catstxt-showed-llmstxt-evidence",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-08-29T23:29:48Z",
+      "fetched_at": "2026-08-30T05:42:19.574Z"
+    },
+    {
+      "title": "Results for LLM usage in Debian (vote)",
+      "url": "https://lists.debian.org/debian-vote/2026/08/msg00360.html",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-08-29T11:01:02Z",
+      "fetched_at": "2026-08-30T05:42:19.574Z"
+    },
+    {
+      "title": "Beyond the Editing Canvas: Evidence Divergence in Ooxml-to-LLM Ingestion",
+      "url": "https://arxiv.org/abs/2608.25880",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-08-29T06:07:07Z",
+      "fetched_at": "2026-08-30T05:42:19.574Z"
+    },
+    {
+      "title": "PLCBench: Can Autonomous LLM Agents Turn PLC Access into Sustained Physical",
+      "url": "https://arxiv.org/abs/2608.26882",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-30T05:07:07Z",
+      "fetched_at": "2026-08-30T05:42:19.574Z"
+    },
+    {
+      "title": "Mac extension (panel/pill/nub) to show LLM usage",
+      "url": "https://github.com/abhayKashyap03/usage-notch",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-30T05:06:14Z",
+      "fetched_at": "2026-08-30T05:42:19.574Z"
+    },
+    {
+      "title": "Ask HN: Hard Mode for LLMs",
+      "url": "https://news.ycombinator.com/item?id=49495324",
+      "source": "hn",
+      "score": 2,
+      "content": "Does anyone have any experience or results with using system prompts that intentionally make LLMs more annoying to encourage better habits?<p>I believe that consistently using an LLM for creative or solution building tasks will:\n - degrade critical thinking skills\n - degrade knowledge\n - encourage apathy\n - degrade knowledge acquisition skills\n - trades short term benefit for heavy long term loss<p>I do believe an LLM can be very useful if used correctly.<p>There are (controversial) plugins for various editors called Hard Mode or Guru Mode, which are designed to make the editor harder in the short term in order to improve skills in the long term, by enforcing good habits. They remove functionality which can be considered &quot;brain-off&quot; and slow. A classic example is hitting j 10 times to go 10 lines down, when 10j is much faster. You could argue that there is a mental context-switching time cost, but creating the habit would hopefully reduce it.<p>Could a Hard Mode equivalent be added to the system prompt of any assistant AI that minimises the long term cost stated above?<p>Some initial thoughts about options could be:<p>Changing the overall role of the LLM:\n&gt;&gt; &quot;You are a helpful assistant&quot; -&gt; &quot;You are a helpful mentor&quot;<p>This might cause the LLM to make sure it is trying to teach the User rather than focusing on task completion.<p>Reducing creative output to improve critical thinking:<p>&gt;&gt; &quot;Do not generate any creative output. Only review what the user has created themselves.&quot;<p>This would make sure that the user has had to create text, code, or a solution and the LLM is just reviewing their effort.<p>Specifying knowledge dependency to stop knowledge degradation:<p>If an LLM uses inherent trained knowledge to solve a problem without mentioning that knowledge, this could lead to knowledge degradation of the User because they are basing answers on things they are unaware of. I&#x27;m not sure about this one actually",
+      "published_at": "2026-08-30T03:05:48Z",
+      "fetched_at": "2026-08-30T05:42:19.574Z"
+    },
+    {
+      "title": "A local scrubber for text you're about to send to an LLM",
+      "url": "https://github.com/Sushmey/Redact/tree/main",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-29T17:29:10Z",
+      "fetched_at": "2026-08-30T05:42:19.574Z"
+    },
+    {
+      "title": "OpenLake: Fast, Durable Storage for LLM Inference and Training",
+      "url": "https://www.theopenlake.com/blog/introducing-openlake",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-29T15:00:32Z",
+      "fetched_at": "2026-08-30T05:42:19.574Z"
+    },
+    {
+      "title": "Stripe LLMS.txt with note to install latest",
+      "url": "https://docs.stripe.com/llms.txt",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-29T14:29:18Z",
+      "fetched_at": "2026-08-30T05:42:19.574Z"
+    },
+    {
+      "title": "A Disillusioned Software Engineer explains LLMs to a Babylonian Scribe",
+      "url": "https://avocadoslaw.substack.com/p/babylon-3pm",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-29T14:00:12Z",
+      "fetched_at": "2026-08-30T05:42:19.574Z"
+    },
+    {
+      "title": "Postscriptum on LLMs: pelicans on bicycles with a twist",
+      "url": "https://danilo.segan.org/blog/llm/postscript-pelicans-on-bicycles",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-08-29T21:22:55Z",
+      "fetched_at": "2026-08-30T05:42:19.574Z"
+    },
+    {
+      "title": "What we optimise for when we reach for an LLM",
+      "url": "https://exploring-better-ways.bellroy.com/what-we-optimise-for-when-we-reach-for-an-llm.html",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-08-29T10:54:09Z",
+      "fetched_at": "2026-08-30T05:42:19.574Z"
+    },
+    {
+      "title": "LightSwitch – In-Network and Photonic LLM Inference in Transit",
+      "url": "https://github.com/pisantifrancesco89/Project-LightSwitch",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-08-29T09:51:22Z",
+      "fetched_at": "2026-08-30T05:42:19.574Z"
+    },
+    {
+      "title": "Ask HN: How to break Claude Code addiction?",
+      "url": "https://news.ycombinator.com/item?id=49491745",
+      "source": "hn",
+      "score": 12,
+      "content": "TL;DR: How can I break my workaholic Claude Code  addiction?<p>Hello HN users, I really appreciate you reading this. I can&#x27;t think of a better audience for this question. If this issue has affected you in any way, I would be really thankful to you if you could leave a comment on this post.<p>MY GOAL:\nto be able to consistently do an acceptable day&#x27;s work as a professional software engineer, keeping a reasonably good understanding of the parts of the code that I changed that day, ending the day roughly on time, feeling like I did enough, feeling like I can forget about work until the next workday.<p>MY PROBLEM:\nI find that as the workday goes on and time runs out, my style of programming gets further from LLM-assisted coding (me designing and writing code, talking to Claude Code only when I get stuck) and closer to pure vibe-coding (where I don&#x27;t even review the code it writes until a big chunk has built up at which point I&#x27;m likely to abandon it, unless it&#x27;s really useful in which case I&#x27;ll painstakingly review it and try to understand it and usually have to make a lot of changes to get it how I want it - sometimes I&#x27;ll still have to abandon it if it&#x27;s too confusing or large). This leads to me spending hours and hours on vibe-coding sessions on workday evenings, after the workday is over. In the pre-Claude-Code era, working that late (with no external pressure) was much rarer for me. This leaves me feeling drained, frustrated, and with less time to look after myself and live my life.<p>My work-life balance before was actually pretty good, so the shift in the last year or so has alarmed me.<p>I think the fundamental problem is that vibe coding doesn&#x27;t feel as &quot;hard&quot; as work, so I can just keep doing, but essentially I&#x27;m just sitting at the computer working and not participating in my personal life long after the workday is officially over. Another factor is that I have too much autonomy at the moment and wor",
+      "published_at": "2026-08-29T17:43:13Z",
+      "fetched_at": "2026-08-30T05:42:19.574Z"
+    },
+    {
+      "title": "Ask HN: Why do we need MCP?",
+      "url": "https://news.ycombinator.com/item?id=49488654",
+      "source": "hn",
+      "score": 8,
+      "content": "Why not just publish your API docs and let the client&#x27;s bot chain together what calls need to be made.<p>You could even repurpose the MCP so you only ever produce the API documentation as EVERY response. No LLM necessary.",
+      "published_at": "2026-08-29T10:26:48Z",
+      "fetched_at": "2026-08-30T05:42:19.574Z"
+    },
+    {
+      "title": "Warp builds self-improving agents on Claude",
+      "url": "https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude",
+      "source": "hn",
+      "score": 56,
+      "content": "",
+      "published_at": "2026-08-29T19:09:33Z",
+      "fetched_at": "2026-08-30T05:42:20.025Z"
+    },
+    {
+      "title": "Claude permanently raising weekly limits by 25%",
+      "url": "https://bsky.app/profile/anthropicbot.bsky.social/post/3muaaxs5nx424",
+      "source": "hn",
+      "score": 25,
+      "content": "",
+      "published_at": "2026-08-29T16:37:05Z",
+      "fetched_at": "2026-08-30T05:42:20.025Z"
+    },
+    {
+      "title": "Claude Code is going reduce limits by 25% from September 14",
+      "url": "https://twitter.com/ClaudeDevs/status/2093742321473065266",
+      "source": "hn",
+      "score": 24,
+      "content": "",
+      "published_at": "2026-08-29T17:27:31Z",
+      "fetched_at": "2026-08-30T05:42:20.025Z"
+    },
+    {
+      "title": "Researcher Tricked Claude, Codex and Hermes into Running Malware",
+      "url": "https://startupfortune.com/researcher-alon-hertz-tricked-claude-codex-and-hermes-into-running-malware/",
+      "source": "hn",
+      "score": 12,
+      "content": "",
+      "published_at": "2026-08-29T08:24:36Z",
+      "fetched_at": "2026-08-30T05:42:20.025Z"
+    },
+    {
+      "title": "Anthropic's Claude for Mac desktop app now has built-in browser",
+      "url": "https://thenewstack.io/claude-built-in-browser-cowork/",
+      "source": "hn",
+      "score": 5,
+      "content": "",
+      "published_at": "2026-08-30T01:08:27Z",
+      "fetched_at": "2026-08-30T05:42:20.025Z"
+    },
+    {
+      "title": "Claude Code can be tricked simply by asking it to summarize a website",
+      "url": "https://www.theregister.com/research/2026/08/28/researcher-shows-how-claude-code-can-be-tricked-simply-by-asking-it-to-summarize-a-website/5293372",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-08-29T11:46:15Z",
+      "fetched_at": "2026-08-30T05:42:20.025Z"
+    },
+    {
+      "title": "Show HN: Itsuki – shared memory for Claude Code, Cursor and 24 other AI tools",
+      "url": "https://itsuki.app/",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-08-29T07:50:32Z",
+      "fetched_at": "2026-08-30T05:42:20.025Z"
+    },
+    {
+      "title": "Breaking Claude Code Opus 5 Auto Mode",
+      "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-08-30T05:04:10Z",
+      "fetched_at": "2026-08-30T05:42:20.025Z"
+    },
+    {
+      "title": "Show HN: Seedeep – I couldn't see what Claude Code was doing, so I drew it",
+      "url": "https://github.com/duqaXxX/seedeep",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-08-29T15:36:09Z",
+      "fetched_at": "2026-08-30T05:42:20.025Z"
+    },
+    {
+      "title": "How Boris Uses Claude Code",
+      "url": "https://howborisusesclaudecode.com",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-08-29T13:36:36Z",
+      "fetched_at": "2026-08-30T05:42:20.025Z"
+    },
+    {
+      "title": "From single call to agents: five new Claude capabilities available in MS Foundry",
+      "url": "https://devblogs.microsoft.com/foundry/five-new-claude-capabilities-now-available-in-foundry/",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-29T18:42:27Z",
+      "fetched_at": "2026-08-30T05:42:20.025Z"
+    },
+    {
+      "title": "Show HN: AI Harness that lets a graph of Codex and Claude intercommunicate",
+      "url": "https://github.com/rysh-ai/rysh-cli-code",
+      "source": "hn",
+      "score": 1,
+      "content": "Hello Everyone,<p>I have been working on Rysh (Apache 2.0 licence), a new AI harnessing tool that lets you have the followings<p>1. Build fleet of agents that communicates to each other (CEO -&gt; 5 Managers -&gt; 20 Worker Agents ). Just talk to CEO agent to finish your tasks. It coordinates managers and managers coordinates their own workers\n2. Build fleet of Claude agents where each communicates to each other and they write an Agent Board about their progress. You can watch the slack-like messages on the Agent Board and see how they are progressing.\n3. Do Graph engineering. I published a white paper that includes 15 Graph Engineering patterns. All can be implemented with Rysh\n4. Do Loop Engineering with Leash. Define a goal and budget (e.g. $5), and it will try to finish before consuming all budget. If it cannot finish it in the budget, it write the findings and prepare the next run, and wait your new budget\n5. It provides MCP tunnelling. You don&#x27;t need to publish your REST API, it will hide it via tunnelling and will share it with other agent end points\n6. You can use it as Assistant like OpenClaw, and access it through Slack, Whatsapp etc.\n7. It does automatic secret reduction, which helps you keep your secrets in your local. Your secrets never reaches out to AI agents. They are obscured.<p>I would be happy if you have a look and give me some feedbacks<p>Thanks!",
+      "published_at": "2026-08-29T18:34:03Z",
+      "fetched_at": "2026-08-30T05:42:20.025Z"
+    },
+    {
+      "title": "A local bridge for bidirectional collaboration between Claude Code and Codex",
+      "url": "https://github.com/raysonmeng/agent-bridge",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-08-29T12:05:55Z",
+      "fetched_at": "2026-08-30T05:42:20.025Z"
+    },
+    {
+      "title": "Show HN: Memnest, local-first memory shared by pi, Claude Code and Codex",
+      "url": "https://github.com/Blue-B/memnest",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-08-30T03:04:35Z",
+      "fetched_at": "2026-08-30T05:42:20.025Z"
+    },
+    {
+      "title": "Cut Claude Code Bill by Routing to DeepSeek or Grok",
+      "url": "https://news.ycombinator.com/item?id=49488963",
+      "source": "hn",
+      "score": 1,
+      "content": "Tried this with Leanroute.dev MCP, it really works. Posted a blog post about this - https:&#x2F;&#x2F;leanroute.dev&#x2F;blog&#x2F;cut-claude-code-bills-60-percent-multi-provider-routing<p>Try it out and let me know.",
+      "published_at": "2026-08-29T11:18:02Z",
+      "fetched_at": "2026-08-30T05:42:20.025Z"
+    },
+    {
+      "title": "Muraqib, free nightly QA that lets Claude open a fix PR when tests fail",
+      "url": "https://github.com/holistis/muraqib",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-08-29T08:44:08Z",
+      "fetched_at": "2026-08-30T05:42:20.025Z"
+    },
+    {
+      "title": "Pentagon's blacklisting of Anthropic was unlawful, US judge rules",
+      "url": "https://www.theguardian.com/technology/2026/aug/28/us-court-rules-pentagon-anthropic-ban-illegal-trump-claude-ai",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-29T08:33:38Z",
+      "fetched_at": "2026-08-30T05:42:20.025Z"
+    },
+    {
+      "title": "Music publishers sue Anthropic, allege \"blantant theft\" of copyrighted music",
+      "url": "https://www.axios.com/2026/08/29/anthropic-sony-warner-music-copyright",
+      "source": "hn",
+      "score": 17,
+      "content": "",
+      "published_at": "2026-08-29T17:28:53Z",
+      "fetched_at": "2026-08-30T05:42:20.512Z"
+    },
+    {
+      "title": "Sony Music and Warner Chappell Are Suing Anthropic",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
+      "source": "hn",
+      "score": 9,
+      "content": "",
+      "published_at": "2026-08-29T18:28:11Z",
+      "fetched_at": "2026-08-30T05:42:20.512Z"
+    },
+    {
+      "title": "Anthropic was illegally blacklisted by the Trump administration, court rules",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
+      "source": "hn",
+      "score": 5,
+      "content": "",
+      "published_at": "2026-08-30T01:07:10Z",
+      "fetched_at": "2026-08-30T05:42:20.512Z"
+    },
+    {
+      "title": "Sony Music, Warner sue Anthropic, alleging a \"brazen campaign\" of intellectual",
+      "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-08-29T22:07:07Z",
+      "fetched_at": "2026-08-30T05:42:20.512Z"
+    },
+    {
+      "title": "Will it be Anthropic or X AI after Cursor getting no access to OpenAI?",
+      "url": "https://www.cnbc.com/2026/08/29/openai-cursor-spacex-model-access.html",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-08-29T21:03:16Z",
+      "fetched_at": "2026-08-30T05:42:20.512Z"
+    },
+    {
+      "title": "Will financing bottleneck AI compute? An Anthropic case study",
+      "url": "https://epochai.substack.com/p/will-financing-bottleneck-ai-compute",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-08-29T21:41:20Z",
+      "fetched_at": "2026-08-30T05:42:20.512Z"
+    },
+    {
+      "title": "Judge blocks Pentagon blacklist of Anthropic as a supply-chain risk",
+      "url": "https://fedscoop.com/anthropic-government-ban-court-ruling/",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-08-29T18:03:48Z",
+      "fetched_at": "2026-08-30T05:42:20.512Z"
+    },
+    {
+      "title": "Automated researchers can reliably mitigate alignment failures",
+      "url": "https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-08-29T09:30:20Z",
+      "fetched_at": "2026-08-30T05:42:20.512Z"
+    },
+    {
+      "title": "Domain-Driven Agents",
+      "url": "https://coldtake.dev/blog/domain-driven-agents",
+      "source": "hn",
+      "score": 70,
+      "content": "",
+      "published_at": "2026-08-29T19:28:28Z",
+      "fetched_at": "2026-08-30T05:42:20.963Z"
+    },
+    {
+      "title": "The Rise and Fall of Agent Civilizations",
+      "url": "https://www.dwarkesh.com/p/openai-huggingface",
+      "source": "hn",
+      "score": 14,
+      "content": "",
+      "published_at": "2026-08-29T23:43:24Z",
+      "fetched_at": "2026-08-30T05:42:20.963Z"
+    },
+    {
+      "title": "Show HN: Visual workspace to design and operate daily multi-agent workflows",
+      "url": "https://github.com/ringlochid/oh-my-subagents",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-08-29T13:41:19Z",
+      "fetched_at": "2026-08-30T05:42:20.963Z"
+    },
+    {
+      "title": "Agentic SQL for Free: Qwen3.8 27B and DuckDB",
+      "url": "https://motherduck.com/blog/Agentic-SQL-for-Free-with-Qwen3.8-27B-and-DuckDB/",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-08-29T13:50:28Z",
+      "fetched_at": "2026-08-30T05:42:20.963Z"
+    },
+    {
+      "title": "Rig – Agentic Workflows in Rust",
+      "url": "https://github.com/0xplaygrounds/rig",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-08-29T13:22:03Z",
+      "fetched_at": "2026-08-30T05:42:20.963Z"
+    },
+    {
+      "title": "Show HN: DeepSeekGUI – A Windows desktop client for DeepSeek's coding agent",
+      "url": "https://github.com/See-Sol-Lab/DeepSeekGUI",
+      "source": "hn",
+      "score": 4,
+      "content": "Hi HN, I built a desktop client for DeepSeek Harness (DeepSeek&#x27;s open-source coding agent).<p>V1 wraps the official Harness Web UI in an Electron shell with some desktop additions — installer, system tray, built-in browser panel (visible Edge, so you can watch the agent browse), and a sandboxed terminal. One-click install, just need an API key.<p>V2 is in development — replacing the upstream Web UI with a custom workbench built for desktop.<p>Source available under PolyForm Perimeter. Would love feedback on what you&#x27;d want from a desktop coding agent client.",
+      "published_at": "2026-08-29T11:02:05Z",
+      "fetched_at": "2026-08-30T05:42:20.963Z"
+    },
+    {
+      "title": "Jeffy Loop What if coding agents had to prove they were done?",
+      "url": "https://github.com/lenamonj/jeffy-loop",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-08-30T00:03:30Z",
+      "fetched_at": "2026-08-30T05:42:20.963Z"
+    },
+    {
+      "title": "We Ran Code Inside Fortune 500s Using Files They Published for AI Agents",
+      "url": "https://medium.com/@alonhertz1/data-became-code-we-ran-code-inside-fortune-500s-using-files-they-published-for-ai-agents-0cd67ffbbffc",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-08-29T09:23:17Z",
+      "fetched_at": "2026-08-30T05:42:20.963Z"
+    },
+    {
+      "title": "Show HN: Stop That Shit – a guard against unrequested hashes from coding agents",
+      "url": "https://github.com/lennney/stop-that-shit",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-08-29T19:41:45Z",
+      "fetched_at": "2026-08-30T05:42:20.963Z"
+    },
+    {
+      "title": "Telling an agent to be honest isn't enough",
+      "url": "https://www.habchy.dev/writing/telling-an-agent-to-be-honest-isnt-enough",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-08-29T18:00:18Z",
+      "fetched_at": "2026-08-30T05:42:20.963Z"
+    },
+    {
+      "title": "I Built a Headless Browser for AI Agents in Rust. No Chromium, No V8",
+      "url": "https://medium.com/@Koukyosyumei/i-built-a-headless-browser-for-ai-agents-entirely-in-rust-no-chromium-no-v8-3750908b8145",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-08-29T16:53:51Z",
+      "fetched_at": "2026-08-30T05:42:20.963Z"
+    },
+    {
+      "title": "Would you share your weirdest agent logs with AI safety researchers?",
+      "url": "https://www.reddit.com/r/AI_Agents/comments/1w1nuzb/whats_your_weirdest_ai_agent_log/",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-08-29T14:43:57Z",
+      "fetched_at": "2026-08-30T05:42:20.963Z"
+    },
+    {
+      "title": "Build Your Customer Service Team with AI Agents",
+      "url": "https://aimujib.com/",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-30T00:49:35Z",
+      "fetched_at": "2026-08-30T05:42:20.963Z"
+    },
+    {
+      "title": "Show HN: AgentBridge – Let one AI think while another AI writes the code",
+      "url": "https://github.com/IndexFlowing/AgentBridge",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-29T08:35:00Z",
+      "fetched_at": "2026-08-30T05:42:20.963Z"
+    },
+    {
+      "title": "Veryfront Code – Full-Stack AI Apps and Agents with TypeScript and React",
+      "url": "https://github.com/veryfront/veryfront-code",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-08-30T05:20:19Z",
+      "fetched_at": "2026-08-30T05:42:20.963Z"
+    },
+    {
+      "title": "Introducing Hy4 Preview",
+      "url": "https://simonwillison.net/2026/Aug/29/hy4/",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-08-29T23:53:13.000Z",
+      "fetched_at": "2026-08-30T05:42:18.717Z"
+    },
+    {
+      "title": "Just a rumour of a bug is enough to find a security exploit these days",
+      "url": "https://simonwillison.net/2026/Aug/28/just-a-rumour-of-a-bug/",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-08-28T22:12:02.000Z",
+      "fetched_at": "2026-08-30T05:42:18.717Z"
+    }
+  ]
+}
