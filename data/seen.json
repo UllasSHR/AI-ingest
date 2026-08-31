@@ -1,8 +1,4 @@
 {
-  "https://github.com/ptmrio/harness-subagent": "2026-08-24",
-  "https://github.com/dkremsa/claude-pacer": "2026-08-24",
-  "https://github.com/marketplace/jaipilot": "2026-08-24",
-  "https://github.com/free-news-api/news-search-api-comparison": "2026-08-24",
   "https://github.com/l3a0/claude-plugins": "2026-08-25",
   "https://github.com/rainmanjam/poka-yoke": "2026-08-25",
   "https://ide.gitmir.com/opensource": "2026-08-25",
@@ -38,5 +34,13 @@
   "https://github.com/Blue-B/memnest": "2026-08-30",
   "https://bsky.app/profile/anthropicbot.bsky.social/post/3muaaxs5nx424": "2026-08-30",
   "https://thenewstack.io/claude-built-in-browser-cowork/": "2026-08-30",
-  "https://github.com/ritenv/tokensift": "2026-08-30"
+  "https://github.com/ritenv/tokensift": "2026-08-30",
+  "https://github.com/modiqo/spewer": "2026-08-31",
+  "https://news.ycombinator.com/item?id=49499700": "2026-08-31",
+  "https://www.theregister.com/research/2026/08/28/researcher-shows-how-claude-code-can-be-tricked-simply-by-asking-it-to-summarize-a-website/5293372": "2026-08-31",
+  "https://doug.sh/posts/give-your-coding-agent-a-journal/": "2026-08-31",
+  "https://igupta.in/blog/why-i-am-no-longer-letting-claude-code-add-itself-as-coauthor/": "2026-08-31",
+  "https://news.ycombinator.com/item?id=49497992": "2026-08-31",
+  "https://twitter.com/chandlerwilcox/status/2093742530659766324": "2026-08-31",
+  "https://github.com/anthropics/claude-code/issues/66504": "2026-08-31"
 }
