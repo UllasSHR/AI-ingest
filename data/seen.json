@@ -1,9 +1,4 @@
 {
-  "https://github.com/l3a0/claude-plugins": "2026-08-25",
-  "https://github.com/rainmanjam/poka-yoke": "2026-08-25",
-  "https://ide.gitmir.com/opensource": "2026-08-25",
-  "https://github.com/xhluca/session-migrate": "2026-08-25",
-  "https://github.com/thiagotigaz/ocr-it": "2026-08-25",
   "https://github.com/Wolfe-Jam/slash-tokens": "2026-08-26",
   "https://github.com/receptron/mulmoterminal": "2026-08-26",
   "https://pgbot.dev/": "2026-08-26",
@@ -42,5 +37,10 @@
   "https://igupta.in/blog/why-i-am-no-longer-letting-claude-code-add-itself-as-coauthor/": "2026-08-31",
   "https://news.ycombinator.com/item?id=49497992": "2026-08-31",
   "https://twitter.com/chandlerwilcox/status/2093742530659766324": "2026-08-31",
-  "https://github.com/anthropics/claude-code/issues/66504": "2026-08-31"
+  "https://github.com/anthropics/claude-code/issues/66504": "2026-08-31",
+  "https://news.ycombinator.com/item?id=49515667": "2026-09-01",
+  "https://blume.codes": "2026-09-01",
+  "https://news.ycombinator.com/item?id=49509142": "2026-09-01",
+  "https://github.com/gregsramblings/claude-red-bar": "2026-09-01",
+  "https://jameskomo.github.io/config-drift-checker/": "2026-09-01"
 }
