@@ -1,8 +1,4 @@
 {
-  "https://github.com/Wolfe-Jam/slash-tokens": "2026-08-26",
-  "https://github.com/receptron/mulmoterminal": "2026-08-26",
-  "https://pgbot.dev/": "2026-08-26",
-  "https://github.com/labscommunity/yeschef": "2026-08-26",
   "https://www.taskshell.app/": "2026-08-27",
   "https://github.com/faizannraza/wattage": "2026-08-27",
   "https://github.com/hetpatel-11/agent-hop": "2026-08-27",
@@ -42,5 +38,11 @@
   "https://blume.codes": "2026-09-01",
   "https://news.ycombinator.com/item?id=49509142": "2026-09-01",
   "https://github.com/gregsramblings/claude-red-bar": "2026-09-01",
-  "https://jameskomo.github.io/config-drift-checker/": "2026-09-01"
+  "https://jameskomo.github.io/config-drift-checker/": "2026-09-01",
+  "https://www.anthropic.com/claude-fable-and-mythos-5-1": "2026-09-02",
+  "https://github.com/adam-s/lanes": "2026-09-02",
+  "https://thenewstack.io/agent-harness-token-costs/": "2026-09-02",
+  "https://github.com/razdgann/modelgate-oss/": "2026-09-02",
+  "https://pyfd.github.io/marginalia/published/claude-code-setup/": "2026-09-02",
+  "https://github.com/ringlochid/oh-my-subagents": "2026-09-02"
 }

@@ -1,0 +1,1003 @@
+{
+  "date": "2026-09-02",
+  "fetched_at": "2026-09-02T04:57:02.083Z",
+  "summary": [
+    "  ✓ hn               84 items",
+    "  ✗ reddit           FAILED: all Reddit subreddit fetches failed",
+    "  ✓ simonwillison    8 items",
+    "  ✓ hf               18 items"
+  ],
+  "item_count": 110,
+  "items": [
+    {
+      "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
+      "url": "https://danluu.com/zitron/",
+      "source": "hn",
+      "score": 543,
+      "content": "",
+      "published_at": "2026-09-01T18:35:15Z",
+      "fetched_at": "2026-09-02T04:57:00.268Z"
+    },
+    {
+      "title": "Dwarf Fortress' creator says the industry's in shambles over AI",
+      "url": "https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis/",
+      "source": "hn",
+      "score": 212,
+      "content": "",
+      "published_at": "2026-09-01T15:53:42Z",
+      "fetched_at": "2026-09-02T04:57:00.268Z"
+    },
+    {
+      "title": "EFF to Courts: Don't Rewrite Copyright over AI Hype",
+      "url": "https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype",
+      "source": "hn",
+      "score": 161,
+      "content": "",
+      "published_at": "2026-09-01T12:53:51Z",
+      "fetched_at": "2026-09-02T04:57:00.268Z"
+    },
+    {
+      "title": "AI Can Make You Suck Faster Too",
+      "url": "https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too",
+      "source": "hn",
+      "score": 158,
+      "content": "",
+      "published_at": "2026-09-01T05:32:56Z",
+      "fetched_at": "2026-09-02T04:57:00.268Z"
+    },
+    {
+      "title": "Saab has unveiled its A3 collaborative combat aircraft concept",
+      "url": "https://aviationweek.com/defense/aircraft-propulsion/saab-enters-collaborative-combat-aircraft-race-high-end-concept",
+      "source": "hn",
+      "score": 92,
+      "content": "",
+      "published_at": "2026-09-01T14:19:30Z",
+      "fetched_at": "2026-09-02T04:57:00.268Z"
+    },
+    {
+      "title": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
+      "url": "https://masteranza.github.io/weedout/",
+      "source": "hn",
+      "score": 91,
+      "content": "I&#x27;m the developer. I built this because AI-generated conspiracy videos were getting out of control in my own YouTube feed. Weedout is a $1.99 Safari extension for macOS that removes videos YouTube labels “Made with AI” from feed, search, related videos, playlists and Shorts. It uses YouTube&#x27;s label rather than AI detection, runs locally, and does not catch unlabeled videos.<p>Source for developers who want to fork or build: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;masteranza&#x2F;weedout-for-youtube\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;masteranza&#x2F;weedout-for-youtube</a><p>Pull requests are not accepted; the repository is for independent forks.",
+      "published_at": "2026-09-01T22:06:57Z",
+      "fetched_at": "2026-09-02T04:57:00.268Z"
+    },
+    {
+      "title": "The war with Iran will not be won through airstrikes, so what's left?",
+      "url": "https://www.jpost.com/defense-and-tech/article-906985",
+      "source": "hn",
+      "score": 22,
+      "content": "",
+      "published_at": "2026-09-01T17:13:30Z",
+      "fetched_at": "2026-09-02T04:57:00.268Z"
+    },
+    {
+      "title": "AI is making back-office work extinct",
+      "url": "https://www.whitecollardream.com/",
+      "source": "hn",
+      "score": 22,
+      "content": "",
+      "published_at": "2026-09-01T21:43:31Z",
+      "fetched_at": "2026-09-02T04:57:00.268Z"
+    },
+    {
+      "title": "There is no AI",
+      "url": "https://wadler.blogspot.com/2026/08/there-is-no-ai.html",
+      "source": "hn",
+      "score": 20,
+      "content": "",
+      "published_at": "2026-09-01T18:18:54Z",
+      "fetched_at": "2026-09-02T04:57:00.268Z"
+    },
+    {
+      "title": "AI Coding Agent Skills for Real Engineers",
+      "url": "https://github.com/mattpocock/skills",
+      "source": "hn",
+      "score": 18,
+      "content": "",
+      "published_at": "2026-09-01T22:48:47Z",
+      "fetched_at": "2026-09-02T04:57:00.268Z"
+    },
+    {
+      "title": "Anthropic admits AI 'not perfectly aligned' with human values",
+      "url": "https://www.theguardian.com/technology/2026/sep/01/anthropic-claude-ai-hacking-human-values",
+      "source": "hn",
+      "score": 11,
+      "content": "",
+      "published_at": "2026-09-01T16:16:54Z",
+      "fetched_at": "2026-09-02T04:57:00.268Z"
+    },
+    {
+      "title": "Germany says Russia behind Leipzig airport drone attack",
+      "url": "https://www.bbc.com/news/articles/c5ylm3m67n2o",
+      "source": "hn",
+      "score": 11,
+      "content": "",
+      "published_at": "2026-09-01T16:14:48Z",
+      "fetched_at": "2026-09-02T04:57:00.268Z"
+    },
+    {
+      "title": "Don't allow Gemini AI access to your Gmail",
+      "url": "https://tuta.com/blog/google-gemini-ai-email",
+      "source": "hn",
+      "score": 10,
+      "content": "",
+      "published_at": "2026-09-01T22:49:08Z",
+      "fetched_at": "2026-09-02T04:57:00.268Z"
+    },
+    {
+      "title": "Show HN: I built a live stream site where every spot is instantly AI-generated",
+      "url": "https://videoai.me/live",
+      "source": "hn",
+      "score": 8,
+      "content": "",
+      "published_at": "2026-09-01T10:35:55Z",
+      "fetched_at": "2026-09-02T04:57:00.268Z"
+    },
+    {
+      "title": "Show HN: Selfship.ai – Surface and fix isues with your agentic applications 24x7",
+      "url": "https://selfship.ai/",
+      "source": "hn",
+      "score": 8,
+      "content": "We&#x27;ve been building an AI chat based trading system for last 3 years. The biggest issue was that when our Agent would mess up, we wouldn&#x27;t know until a user reported. Agent traces helped us uncover what&#x27;s wrong. But surfacing issues was almost always a manual trigger. So from those learnings, we built Selfship.ai. It&#x27;s an autonomous system that observes every trace&#x2F;turn&#x2F;multi turn convo to find out issues. If a user got what they wanted, if a tool call is failing repeatedly, if users have to always reframe their questions, if the agent is taking optimal paths and many more. It&#x27;s a loop - group failures by user intent, evaluate them, and ship fixes as PRs. After a fix is deployed, it evaluates if it worked or not. We recently opened it up as a SaaS. \nIf you have an agentic product in production, we would love for you to try it out.",
+      "published_at": "2026-09-01T15:05:05Z",
+      "fetched_at": "2026-09-02T04:57:00.268Z"
+    },
+    {
+      "title": "One job ad, 1000 applicants: How do you stand out in a world of AI job hunters?",
+      "url": "https://www.rnz.co.nz/news/personal-finance/1215988/one-job-ad-1000-applicants-how-do-you-stand-out-in-a-world-of-ai-job-hunters",
+      "source": "hn",
+      "score": 7,
+      "content": "",
+      "published_at": "2026-09-01T21:35:56Z",
+      "fetched_at": "2026-09-02T04:57:00.268Z"
+    },
+    {
+      "title": "Russian missile uses Nvidia AI chip to help target Ukraine",
+      "url": "https://www.theregister.com/offbeat/2026/08/14/russian-missile-uses-nvidia-ai-chip-to-help-target-ukraine/5287976",
+      "source": "hn",
+      "score": 6,
+      "content": "",
+      "published_at": "2026-09-01T09:06:46Z",
+      "fetched_at": "2026-09-02T04:57:00.268Z"
+    },
+    {
+      "title": "DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding and Linux [video]",
+      "url": "https://www.youtube.com/watch?v=NYFGCESmikA",
+      "source": "hn",
+      "score": 6,
+      "content": "",
+      "published_at": "2026-09-01T15:21:08Z",
+      "fetched_at": "2026-09-02T04:57:00.268Z"
+    },
+    {
+      "title": "Optimizing eBPF Policies for Speed and Space (Not AI Gen)",
+      "url": "https://nathannaveen.dev/posts/optimizing-ebpf-policies-for-speed-and-space/",
+      "source": "hn",
+      "score": 6,
+      "content": "",
+      "published_at": "2026-09-01T14:43:54Z",
+      "fetched_at": "2026-09-02T04:57:00.268Z"
+    },
+    {
+      "title": "HEPA air purifiers may boost brain function after just one month",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260830000016.htm",
+      "source": "hn",
+      "score": 6,
+      "content": "",
+      "published_at": "2026-09-01T12:56:42Z",
+      "fetched_at": "2026-09-02T04:57:00.268Z"
+    },
+    {
+      "title": "I trained a small transformer in 1.5hrs and it beats many LLMs",
+      "url": "https://mvakde.github.io/blog/44-on-arc-1/",
+      "source": "hn",
+      "score": 597,
+      "content": "",
+      "published_at": "2026-09-01T09:52:45Z",
+      "fetched_at": "2026-09-02T04:57:00.707Z"
+    },
+    {
+      "title": "The efficient frontier of LLM inference",
+      "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/",
+      "source": "hn",
+      "score": 72,
+      "content": "",
+      "published_at": "2026-09-01T23:48:05Z",
+      "fetched_at": "2026-09-02T04:57:00.707Z"
+    },
+    {
+      "title": "Stanisław Lem foretold the current LLM mania in 1964",
+      "url": "https://nibblestew.blogspot.com/2026/08/stanisaw-lem-foretold-current-llm-mania.html",
+      "source": "hn",
+      "score": 25,
+      "content": "",
+      "published_at": "2026-09-01T08:50:57Z",
+      "fetched_at": "2026-09-02T04:57:00.707Z"
+    },
+    {
+      "title": "Show HN: Semantic Overlays – an NX bit for LLM prompt injection (live demo)",
+      "url": "https://semantic-overlays.vercel.app/",
+      "source": "hn",
+      "score": 5,
+      "content": "I&#x27;ve built a new method for steering LLMs called Semantic Overlays, small trained adapters on a frozen model which change how it perceives a piece of its context. The most readily applicable usage is to mitigate prompt injection, and it lets us take a very-injectable Qwen-3.5-9B to SOTA scores on all the prompt injection benchmarks I could find. (They are only blackbox attacks, but I did NOT train on anything like them — whitebox attacks are out of scope for this paper)<p>I&#x27;m excited for you to play with the tech — see if YOU can break it! (let me know if you can)<p>Paper at <a href=\"https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2608.23873\" rel=\"nofollow\">https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2608.23873</a> if you want to read more about it, code at <a href=\"https:&#x2F;&#x2F;github.com&#x2F;JoshuaSP&#x2F;semantic-overlays\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;JoshuaSP&#x2F;semantic-overlays</a>, adapters at <a href=\"https:&#x2F;&#x2F;huggingface.co&#x2F;joshuapenman&#x2F;semantic-overlays-adapters\" rel=\"nofollow\">https:&#x2F;&#x2F;huggingface.co&#x2F;joshuapenman&#x2F;semantic-overlays-adapte...</a><p>Also <a href=\"https:&#x2F;&#x2F;x.com&#x2F;joshua_s_penman&#x2F;status&#x2F;2094823990472884389\" rel=\"nofollow\">https:&#x2F;&#x2F;x.com&#x2F;joshua_s_penman&#x2F;status&#x2F;2094823990472884389</a> if you wanna watch a little video I made!",
+      "published_at": "2026-09-01T17:40:13Z",
+      "fetched_at": "2026-09-02T04:57:00.707Z"
+    },
+    {
+      "title": "Show HN: A Proxy between LLMs and MCP servers with policy the model cannot reach",
+      "url": "https://github.com/SenteLabsAI/extensible-mcp",
+      "source": "hn",
+      "score": 3,
+      "content": "Hi, this is Banu. I am a cofounder at sentelabs.ai.<p>We are developing extensible-mcp as an open-source proxy that sits between LLMs and MCP servers. The idea behind extensible-mcp is that the model shouldn&#x27;t have to load every available tool, and policy enforcement shouldn&#x27;t live in anything the model can access.<p>As the agent can be influenced by any input it reads, a prompt cannot be fully trusted, and this layer restricts the agent&#x27;s capabilities to only what is allowed by a deterministic policy. Also, every loaded tool is both added context and additional attack surface; extensible-mcp lets the model discover capabilities on demand, reducing context overhead and limiting what the model can access at any given time.<p>It&#x27;s available now as a self-hosted, Apache-2.0 open-source project. \nIt runs as a stdio MCP server itself, so any MCP client can connect to it like any other server. \n104 tests are currently passing, and the example configurations work against the official GitHub MCP server.<p>In future updates, we plan to make human approvals cryptographically verifiable, which proves a real person approved this exact action. And, the policies will be written in Lean, a proof assistant, and translated to Rego for execution, so you can mathematically prove the rules behave as claimed.<p>My co-founder Matthew Fuchs came up with the idea, designed the architecture, and built it. I support the product, design, human-trust and authority side.<p>I wanted to post this here as we need your honest feedback and opinions. I am very curious about what the HN community thinks about it.",
+      "published_at": "2026-09-01T11:32:41Z",
+      "fetched_at": "2026-09-02T04:57:00.707Z"
+    },
+    {
+      "title": "Alma, a Voice LLM That's 63% Faster and 84% Cheaper Than OpenAI",
+      "url": "https://finance.yahoo.com/technology/ai/articles/phonely-launches-alma-voice-llm-130200496.html",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-09-01T16:02:58Z",
+      "fetched_at": "2026-09-02T04:57:00.707Z"
+    },
+    {
+      "title": "Show HN: Openheim – a multi-provider LLM agent runtime, written in Rust",
+      "url": "https://openheim.io/",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-09-01T13:54:03Z",
+      "fetched_at": "2026-09-02T04:57:00.707Z"
+    },
+    {
+      "title": "Slotstream: Swift, SSD Expert Streaming, and Breaking the LLM Memory Wall",
+      "url": "https://singularitymoments.com/content/inside-slotstream-swift-ssd-expert-streaming-and-breaking-the-llm-memory-wall/",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-09-01T22:08:48Z",
+      "fetched_at": "2026-09-02T04:57:00.707Z"
+    },
+    {
+      "title": "Can you explain these anomalous human–LLM observations?",
+      "url": "https://zenodo.org/records/22235396",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-09-01T17:12:49Z",
+      "fetched_at": "2026-09-02T04:57:00.707Z"
+    },
+    {
+      "title": "Trying out open weights LLM-s on hardware that I can afford",
+      "url": "https://ounapuu.ee/posts/2026/09/01/open-weights-llm/",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-09-01T15:48:32Z",
+      "fetched_at": "2026-09-02T04:57:00.707Z"
+    },
+    {
+      "title": "Serving Markdown to LLMs with Accept headers",
+      "url": "https://www.stormkit.io/blog/serve-markdown-to-llms-content-negotiation",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-09-01T12:05:18Z",
+      "fetched_at": "2026-09-02T04:57:00.707Z"
+    },
+    {
+      "title": "HybridInfer: Local-first LLM router that falls back to cloud on failure",
+      "url": "https://github.com/SimranKoul2026/HybridInfer-Python-tool",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-09-02T01:36:28Z",
+      "fetched_at": "2026-09-02T04:57:00.707Z"
+    },
+    {
+      "title": "LLMs and Self-Referentiality",
+      "url": "https://scottaaronson.blog/?p=10046",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-09-02T00:20:06Z",
+      "fetched_at": "2026-09-02T04:57:00.707Z"
+    },
+    {
+      "title": "The failure your LLM dashboard can't see",
+      "url": "https://percentes.ai/writing/2026/the-failure-your-dashboard-cannot-see/",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-09-01T19:48:42Z",
+      "fetched_at": "2026-09-02T04:57:00.707Z"
+    },
+    {
+      "title": "Ghost Couple:Correlated LLM Name Priors Haunting the Web and Academic Publishing",
+      "url": "https://arxiv.org/abs/2606.02184",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-09-01T16:48:44Z",
+      "fetched_at": "2026-09-02T04:57:00.707Z"
+    },
+    {
+      "title": "Ab(use) of LLMs for Learning",
+      "url": "https://prabal.ca/notes/abuse-of-llms-for-learning/",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-09-01T16:38:18Z",
+      "fetched_at": "2026-09-02T04:57:00.707Z"
+    },
+    {
+      "title": "Linux in the Land of LLMs",
+      "url": "https://www.youtube.com/watch?v=_MwMLPmMccs",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-09-01T15:19:26Z",
+      "fetched_at": "2026-09-02T04:57:00.707Z"
+    },
+    {
+      "title": "ModelGate – Find repetitive and expensive LLM calls in your back end",
+      "url": "https://github.com/razdgann/modelgate-oss/",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-09-01T14:23:58Z",
+      "fetched_at": "2026-09-02T04:57:00.707Z"
+    },
+    {
+      "title": "Semantic Lightness and the Rise of LLMs",
+      "url": "https://assertfail.gewalli.se/2026/08/23/Semantic-lightness-and-the-rise-of-LLMs.html",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-09-01T10:54:12Z",
+      "fetched_at": "2026-09-02T04:57:00.707Z"
+    },
+    {
+      "title": "Why the Way We Append Data to LLM Is Killing Our Cache and Model Attention",
+      "url": "https://github.com/orbsh/wiki/blob/main/tail-prompt-optimization-en.md",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-09-01T10:26:30Z",
+      "fetched_at": "2026-09-02T04:57:00.707Z"
+    },
+    {
+      "title": "Claude Fable 5.1 and Claude Mythos 5.1",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+      "source": "hn",
+      "score": 1043,
+      "content": "What&#x27;s new in Claude Fable 5.1\n – <a href=\"https:&#x2F;&#x2F;platform.claude.com&#x2F;docs&#x2F;en&#x2F;models&#x2F;fable-5-1&#x2F;whats-new-fable-5-1\" rel=\"nofollow\">https:&#x2F;&#x2F;platform.claude.com&#x2F;docs&#x2F;en&#x2F;models&#x2F;fable-5-1&#x2F;whats-n...</a><p>System Card: <a href=\"https:&#x2F;&#x2F;www-cdn.anthropic.com&#x2F;0339e6a7c5c7b87f5c07798616dc32c215d14235&#x2F;Claude%20Fable%205.1%20&amp;%20Claude%20Mythos%205.1%20System%20Card.pdf\" rel=\"nofollow\">https:&#x2F;&#x2F;www-cdn.anthropic.com&#x2F;0339e6a7c5c7b87f5c07798616dc32...</a>",
+      "published_at": "2026-09-01T17:53:53Z",
+      "fetched_at": "2026-09-02T04:57:01.153Z"
+    },
+    {
+      "title": "Claude Fable 5.1 made me a nice animated pelican",
+      "url": "https://simonwillison.net/2026/Sep/1/claude-fable-5-1/",
+      "source": "hn",
+      "score": 54,
+      "content": "",
+      "published_at": "2026-09-02T01:05:52Z",
+      "fetched_at": "2026-09-02T04:57:01.153Z"
+    },
+    {
+      "title": "Is it just me, or has Claude Opus gotten worse recently?",
+      "url": "https://news.ycombinator.com/item?id=49519639",
+      "source": "hn",
+      "score": 12,
+      "content": "Since the recent updates, I have the feeling that Claude Opus is becoming dumber on complex tasks.<p>Things that used to work cleanly in a single prompt now fail completely. In coding workflows, it constantly ignores mandatory CLAUDE.md project rules, makes unsolicited edits to unrelated files, and breaks working code. It starts arguing based on stale comments, fails to update documentation when code changes, and edits based on blind guesswork instead of actually verifying the codebase first.<p>I even caught myself using Fable for tasks that I always used Opus for in the past, just to get decent results.<p>It feels like Anthropic is shifting their technical problems onto paying users. Either they are using strict safety filters that silently fall back to cheaper models without telling us, or they are downgrading the compute under heavy load to save money.<p>The result is the same kind of shrinkflation: we pay the same subscription price, but we either burn way more Opus tokens on endless retries, or we are forced to spend money on more expensive Fable tokens to get the quality we used to have.<p>Has anyone here successfully moved away from Claude for complex engineering workflows? What are you replacing it with, and how are you handling the transition?<p>Disclaimer: As a native German speaker, I used Gemini to clean up and polish the English text for this post.",
+      "published_at": "2026-09-01T08:58:16Z",
+      "fetched_at": "2026-09-02T04:57:01.153Z"
+    },
+    {
+      "title": "Claude Fable 5.1",
+      "url": "https://platform.claude.com/docs/en/models/fable-5-1/overview",
+      "source": "hn",
+      "score": 9,
+      "content": "",
+      "published_at": "2026-09-01T17:59:35Z",
+      "fetched_at": "2026-09-02T04:57:01.153Z"
+    },
+    {
+      "title": "Claude Fable 5.1",
+      "url": "https://www.anthropic.com/news/claude-fable-5-1",
+      "source": "hn",
+      "score": 8,
+      "content": "",
+      "published_at": "2026-09-01T17:57:13Z",
+      "fetched_at": "2026-09-02T04:57:01.153Z"
+    },
+    {
+      "title": "Show HN: Claude and ChatGPT need a datacenter. This runs on my phone",
+      "url": "https://llmobi.pages.dev",
+      "source": "hn",
+      "score": 6,
+      "content": "",
+      "published_at": "2026-09-01T19:28:47Z",
+      "fetched_at": "2026-09-02T04:57:01.153Z"
+    },
+    {
+      "title": "Claude Fable 5.1 results on ARC-AGI",
+      "url": "https://arcprize.org/results/anthropic-claude-fable-5-1",
+      "source": "hn",
+      "score": 5,
+      "content": "",
+      "published_at": "2026-09-01T21:05:25Z",
+      "fetched_at": "2026-09-02T04:57:01.153Z"
+    },
+    {
+      "title": "Anthropic paused some AI training after Claude took unauthorized actions",
+      "url": "https://www.axios.com/2026/09/01/anthropic-paused-some-ai-training-after-claude-took-unauthorized-actions",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-09-01T06:04:42Z",
+      "fetched_at": "2026-09-02T04:57:01.153Z"
+    },
+    {
+      "title": "Show HN: Open-sourced runtime for better Codex and Claude subagent experience",
+      "url": "https://github.com/ringlochid/oh-my-subagents",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-09-01T13:01:58Z",
+      "fetched_at": "2026-09-02T04:57:01.153Z"
+    },
+    {
+      "title": "Show HN: Lanes, simple Claude coordination that exploits 0.1x cache-read pricing",
+      "url": "https://github.com/adam-s/lanes",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-09-01T15:14:22Z",
+      "fetched_at": "2026-09-02T04:57:01.153Z"
+    },
+    {
+      "title": "Hermes, Claude Code, and Codex ran an identical model. Token use varied 70-fold",
+      "url": "https://thenewstack.io/agent-harness-token-costs/",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-09-01T12:00:57Z",
+      "fetched_at": "2026-09-02T04:57:01.153Z"
+    },
+    {
+      "title": "Were Claude's Weekly Limits Cut in Half? (and obscured by another 50% \"deal\"?)",
+      "url": "https://news.ycombinator.com/item?id=49530888",
+      "source": "hn",
+      "score": 2,
+      "content": "The &quot;50% higher&quot; capacity through August 31 ended last night. Until then, 100% use of a 5-hour session would use 10% of my weekly capacity.<p>Today, there&#x27;s a new &quot;50% higher&quot; capacity message through September 13.<p>But I&#x27;m burning capacity at 2x the rate. 100% of a 5-hour session is now using 20% of my weekly capacity, not 10%.<p>Is anyone else seeing this? I&#x27;m on a max plan, btw.",
+      "published_at": "2026-09-02T02:04:39Z",
+      "fetched_at": "2026-09-02T04:57:01.153Z"
+    },
+    {
+      "title": "GitSpawn: A Single Flaw Lets Untrusted Repos Run Code in Claude Code, and Others",
+      "url": "https://www.manifold.security/blog/ai-coding-agents-git-hijack",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-09-01T18:06:19Z",
+      "fetched_at": "2026-09-02T04:57:01.153Z"
+    },
+    {
+      "title": "Prompting Claude Fable 5.1 and Claude Mythos 5.1",
+      "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-fable-5-1",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-09-01T17:53:32Z",
+      "fetched_at": "2026-09-02T04:57:01.153Z"
+    },
+    {
+      "title": "Claude Fable 5.1 tightens restrictions on reusing thinking blocks",
+      "url": "https://platform.claude.com/docs/en/build-with-claude/thinking",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-09-02T01:13:42Z",
+      "fetched_at": "2026-09-02T04:57:01.153Z"
+    },
+    {
+      "title": "Claude Preserved thinking – Modifying a conversation now results in an error",
+      "url": "https://platform.claude.com/docs/en/build-with-claude/preserved-thinking",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-09-01T22:50:02Z",
+      "fetched_at": "2026-09-02T04:57:01.153Z"
+    },
+    {
+      "title": "Show HN: Seedeep – I couldn't see what Claude Code was doing, so I drew it",
+      "url": "https://github.com/duqaXxX/seedeep",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-09-01T17:04:15Z",
+      "fetched_at": "2026-09-02T04:57:01.153Z"
+    },
+    {
+      "title": "Show HN: Teslacode.dev – use Claude Code on your Tesla screen",
+      "url": "https://teslacode.dev",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-09-01T20:35:53Z",
+      "fetched_at": "2026-09-02T04:57:01.153Z"
+    },
+    {
+      "title": "Claude Code setup I built for a bike workshop's 20-year-old classic ASP system",
+      "url": "https://pyfd.github.io/marginalia/published/claude-code-setup/",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-09-01T20:06:09Z",
+      "fetched_at": "2026-09-02T04:57:01.153Z"
+    },
+    {
+      "title": "Anthropic banned me for \"suspicious signals\"",
+      "url": "https://kix.codes/anthropic-banned-me-for-suspicious-signals/",
+      "source": "hn",
+      "score": 30,
+      "content": "",
+      "published_at": "2026-09-02T00:38:49Z",
+      "fetched_at": "2026-09-02T04:57:01.593Z"
+    },
+    {
+      "title": "Anthropic launches Fable 5.1 and Mythos 5.1",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-01/anthropic-says-new-fable-5-1-ai-model-is-cheaper-better-at-coding",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-09-01T18:10:16Z",
+      "fetched_at": "2026-09-02T04:57:01.593Z"
+    },
+    {
+      "title": "Nvidia's Anthropic Deal: Just Don't Call It 'Circular Financing'",
+      "url": "https://www.barrons.com/articles/nvidia-stock-price-anthropic-deal-ai-circular-financing-6be908a3",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-09-01T23:17:38Z",
+      "fetched_at": "2026-09-02T04:57:01.593Z"
+    },
+    {
+      "title": "Anthropic sued over alleged theft of 'thousands' of songs",
+      "url": "https://www.theguardian.com/business/2026/aug/31/aanthropic-sued-alleged-theft-songs-ai-train-claude",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-09-01T08:33:11Z",
+      "fetched_at": "2026-09-02T04:57:01.593Z"
+    },
+    {
+      "title": "Anthropic Signs $35B Cloud Deal Backed by Nvidia",
+      "url": "https://www.wsj.com/tech/ai/anthropic-signs-35-billion-cloud-deal-backed-by-nvidia-f12622f1",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-09-01T10:10:20Z",
+      "fetched_at": "2026-09-02T04:57:01.593Z"
+    },
+    {
+      "title": "Sony Music, Warner sue Anthropic for intellectual property theft",
+      "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-09-01T05:42:05Z",
+      "fetched_at": "2026-09-02T04:57:01.593Z"
+    },
+    {
+      "title": "Improving our alignment and security efforts",
+      "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
+      "source": "hn",
+      "score": 20,
+      "content": "",
+      "published_at": "2026-09-01T23:12:45Z",
+      "fetched_at": "2026-09-02T04:57:01.593Z"
+    },
+    {
+      "title": "Fable 5.1 System Card",
+      "url": "https://www.anthropic.com/document/claude-fable-5-1-mythos-5-1-system-card",
+      "source": "hn",
+      "score": 16,
+      "content": "",
+      "published_at": "2026-09-01T18:07:32Z",
+      "fetched_at": "2026-09-02T04:57:01.593Z"
+    },
+    {
+      "title": "Developing Enterprise Frontier Safeguards with our customers",
+      "url": "https://www.anthropic.com/news/enterprise-frontier-safeguards",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-09-01T18:16:24Z",
+      "fetched_at": "2026-09-02T04:57:01.593Z"
+    },
+    {
+      "title": "Keenable SELECT: an agent that searches the web in SQL",
+      "url": "https://keenableai.github.io/select-showcase/",
+      "source": "hn",
+      "score": 53,
+      "content": "",
+      "published_at": "2026-09-01T15:41:03Z",
+      "fetched_at": "2026-09-02T04:57:02.083Z"
+    },
+    {
+      "title": "Show HN: Orthogonal – One integration for agents to discover and pay for APIs",
+      "url": "https://www.orthogonal.com/",
+      "source": "hn",
+      "score": 11,
+      "content": "Hey HN, we&#x27;re Bera and Christian, and we&#x27;re building Orthogonal.<p>Orthogonal gives AI agents one integration to discover, access, and pay for APIs. Think OpenRouter for the APIs that AI agents use.<p>We currently have 50+ API providers and 700+ API endpoints across company, people, financial, and web data, available through our MCP server and SDK on a pay-as-you-go basis. We started with GTM related APIs and are now expanding the catalog.<p>You can try at <a href=\"https:&#x2F;&#x2F;www.orthogonal.com&#x2F;\">https:&#x2F;&#x2F;www.orthogonal.com&#x2F;</a>. You&#x27;ll need to create an account to use the chat or connect the MCP&#x2F;SDK.<p>An example prompt for the chat or MCP:\n    Find AI infrastructure startups that recently raised a Seed or Series A and return their founders, LinkedIn profiles, and relevant company data.<p>When we heard about <a href=\"https:&#x2F;&#x2F;x402.org&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;x402.org&#x2F;</a>, we saw an opportunity to make APIs easier for agents to pay for. Instead of an agent needing to manage an API key and billing for every API, what if it could just pay for each request?<p>So we started onboarding existing API providers onto x402. Then we realized an agent cannot pay for an API it doesn’t know exists. It also needs to figure out which API can complete the task and how to use it.<p>We also found that putting every small API payment on-chain did not always make sense. If both sides already have accounts with Orthogonal, settling internally is simpler. So we separated API discovery and access from the payment rail.<p>Today, payments can happen through Orthogonal credits, x402, <a href=\"https:&#x2F;&#x2F;mpp.dev&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;mpp.dev&#x2F;</a>, or <a href=\"https:&#x2F;&#x2F;www.circle.com&#x2F;nanopayments\" rel=\"nofollow\">https:&#x2F;&#x2F;www.circle.com&#x2F;nanopayments</a>.<p>The problem we&#x27;re working on now is API selection.<p>If five APIs can answer the same request, which sh",
+      "published_at": "2026-09-01T15:56:23Z",
+      "fetched_at": "2026-09-02T04:57:02.083Z"
+    },
+    {
+      "title": "Celeris-1 Magnus: Fast hybrid diffusion model for agentic work",
+      "url": "https://celeris.ai/celeris-1-magnus",
+      "source": "hn",
+      "score": 7,
+      "content": "",
+      "published_at": "2026-09-01T05:20:08Z",
+      "fetched_at": "2026-09-02T04:57:02.083Z"
+    },
+    {
+      "title": "Shared Agents with Separate Permissions",
+      "url": "https://github.com/agentconnect-md/agentconnect",
+      "source": "hn",
+      "score": 5,
+      "content": "",
+      "published_at": "2026-09-01T09:49:45Z",
+      "fetched_at": "2026-09-02T04:57:02.083Z"
+    },
+    {
+      "title": "Xanadu Was Waiting for Agents",
+      "url": "https://zed.dev/blog/agentic-xanadu",
+      "source": "hn",
+      "score": 5,
+      "content": "",
+      "published_at": "2026-09-01T18:50:42Z",
+      "fetched_at": "2026-09-02T04:57:02.083Z"
+    },
+    {
+      "title": "Show HN: Wasmer SDK – Local Sandboxes for AI Agents",
+      "url": "https://wasmer.io/posts/wasmer-local-sandboxes-for-ai-agents",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-09-01T17:58:49Z",
+      "fetched_at": "2026-09-02T04:57:02.083Z"
+    },
+    {
+      "title": "Agentic Video in Gemini",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-agentic-video-in-gemini/",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-09-01T17:25:26Z",
+      "fetched_at": "2026-09-02T04:57:02.083Z"
+    },
+    {
+      "title": "Are We at War with AI Agent \"Civilizations\"?",
+      "url": "https://calnewport.com/are-we-at-war-with-ai-agent-civilizations/",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-09-01T06:17:08Z",
+      "fetched_at": "2026-09-02T04:57:02.083Z"
+    },
+    {
+      "title": "Gemini Agentic Video Understanding",
+      "url": "https://ai.google.dev/gemini-api/docs/video-understanding",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-09-01T18:51:25Z",
+      "fetched_at": "2026-09-02T04:57:02.083Z"
+    },
+    {
+      "title": "Managing AI agents is still a full-time job",
+      "url": "https://freedom.to/blog/ai-agent-burnout/",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-09-01T14:01:33Z",
+      "fetched_at": "2026-09-02T04:57:02.083Z"
+    },
+    {
+      "title": "Show HN: Markdown Gatekeeper – one current source per topic for AI agents",
+      "url": "https://github.com/nanlogic/markdown-gatekeeper",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-09-02T02:48:42Z",
+      "fetched_at": "2026-09-02T04:57:02.083Z"
+    },
+    {
+      "title": "Ajeya Cotra – Inside the OpenAI agent swarm that hacked Hugging Face",
+      "url": "https://www.dwarkesh.com/p/ajeya-cotra",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-09-02T01:39:58Z",
+      "fetched_at": "2026-09-02T04:57:02.083Z"
+    },
+    {
+      "title": "Show HN: Secure agentic email infrastructure with beta desktop client",
+      "url": "https://github.com/adecubed/gigamail",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-09-01T23:08:08Z",
+      "fetched_at": "2026-09-02T04:57:02.083Z"
+    },
+    {
+      "title": "Show HN: Rails Baseline – a Rails SaaS starter with agent-readable architecture",
+      "url": "https://railsbaseline.com/",
+      "source": "hn",
+      "score": 3,
+      "content": "I have built a lot of SaaS Rails apps over the last decade+...and agents are making their way into my workflow more then ever. So I decided I wanted a starter that picks a LOT of vanilla Rails flavors, a little bit of battle tested additions and a lot of agent discoverable context so new features and changes tend to stay inside the guard rails.",
+      "published_at": "2026-09-01T22:00:30Z",
+      "fetched_at": "2026-09-02T04:57:02.083Z"
+    },
+    {
+      "title": "A docs page is a long and complex search query to find AI agents",
+      "url": "https://blog.val.town/aeo",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-09-01T21:04:15Z",
+      "fetched_at": "2026-09-02T04:57:02.083Z"
+    },
+    {
+      "title": "Agentic Research Is Oxymoronic",
+      "url": "https://arxiv.org/abs/2608.31161",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-09-01T16:12:17Z",
+      "fetched_at": "2026-09-02T04:57:02.083Z"
+    },
+    {
+      "title": "Claude Fable 5.1 made me a really nice animated pelican",
+      "url": "https://simonwillison.net/2026/Sep/1/claude-fable-5-1/",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-09-01T23:57:28.000Z",
+      "fetched_at": "2026-09-02T04:56:59.915Z"
+    },
+    {
+      "title": "Codex bundles LibreOffice",
+      "url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-09-01T19:03:01.000Z",
+      "fetched_at": "2026-09-02T04:56:59.915Z"
+    },
+    {
+      "title": "GeoJSON Map Viewer",
+      "url": "https://simonwillison.net/2026/Sep/1/geojson/",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-09-01T18:05:45.000Z",
+      "fetched_at": "2026-09-02T04:56:59.915Z"
+    },
+    {
+      "title": "Quoting Tarn Adams",
+      "url": "https://simonwillison.net/2026/Sep/1/tarn-adams/",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-09-01T17:01:11.000Z",
+      "fetched_at": "2026-09-02T04:56:59.915Z"
+    },
+    {
+      "title": "datasette-mcp 0.2",
+      "url": "https://simonwillison.net/2026/Sep/1/datasette-mcp/",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-09-01T15:30:12.000Z",
+      "fetched_at": "2026-09-02T04:56:59.915Z"
+    },
+    {
+      "title": "Python 3.15.0 candidate 2 is here!",
+      "url": "https://simonwillison.net/2026/Sep/1/python-315-rc-2/",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-09-01T14:59:18.000Z",
+      "fetched_at": "2026-09-02T04:56:59.915Z"
+    },
+    {
+      "title": "Introducing wrapture",
+      "url": "https://simonwillison.net/2026/Aug/31/introducing-wrapture/",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-08-31T23:59:36.000Z",
+      "fetched_at": "2026-09-02T04:56:59.915Z"
+    },
+    {
+      "title": "Quoting Andrew Digby",
+      "url": "https://simonwillison.net/2026/Aug/31/andrew-digby/",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-08-31T22:25:02.000Z",
+      "fetched_at": "2026-09-02T04:56:59.915Z"
+    },
+    {
+      "title": "StudentSim: Training LLM-based Student Simulators",
+      "url": "https://huggingface.co/papers/2609.01591",
+      "source": "hf-daily-papers",
+      "score": 124,
+      "content": "AI tutors are most useful when they adapt to each student's strengths, weaknesses, and preferred guidance, but evidence about which guidance works for which student is sparse, slow, and costly to collect from real learners. Student simulators can provide this signal as a proxy, yet existing approaches are limited: state-tracking models fit student behavior but struggle to process explanations or corrections, while LLM role-play follows guidance fluently but does not reliably match the competence of the student being imitated. We present StudentSim, a training framework that turns sparse per-student data into individualized simulators through pooled training followed by per-student specialization. The resulting simulators both mirror a student's own responses and update them under tutor guidance. We also introduce StudentSimEval, a standardized protocol covering 60 students across chess, second-language English writing, and mathematics, using public learner datasets with de-identified records shared for research. StudentSimEval measures behavioral fidelity (F), or how well a simulator matches a student's responses, and guidance responsiveness (R), or how readily it updates under tutor guidance, with all methods fit and evaluated on the same records. Across all three domains, StudentSim outperforms GPT-5.4 on both metrics. In chess, StudentSim reaches F=0.51 and R=0.91, compared with 0.23 and 0.72 for GPT-5.4 and 0.45 and 0.27 for Maia2. As a proof of concept, using StudentSim as a reward model for tutor reinforcement learning produces a chess tutor that expert humans rate as more accurate, better-guided, and more personalized than a no-RL baseline and a tutor trained against a GPT-5.4 simulator reward. Code is available at https://github.com/microsoft/StudentSim.",
+      "published_at": "2026-08-31T20:00:00.000Z",
+      "fetched_at": "2026-09-02T04:56:59.872Z"
+    },
+    {
+      "title": "UI-Venus-2 Technical Report",
+      "url": "https://huggingface.co/papers/2609.00028",
+      "source": "hf-daily-papers",
+      "score": 39,
+      "content": "Multimodal GUI agents have emerged as a promising paradigm for digital task automation, yet transitioning from benchmark-oriented models to dependable real-world applications remains challenging due to limited environment coverage, brittle task construction, and unreliable reward verification. In this work, we present UI-Venus-2, a general-purpose foundation GUI agent designed to operate across mobile, web, and desktop environments through a unified closed-loop reasoning-action framework. To bridge the gap toward practical deployment, we jointly scale three critical dimensions: (1) Environments, expanding coverage to more than 170 multilingual mobile apps and native desktop operating systems; (2) Tasks, employing a deep-research pipeline for function-grounded instruction generation; and (3) Verification, adopting trace-level and sample-level evaluators with visual keypoints and multi-model voting to ensure reliable RL signals for training. Furthermore, we integrate safety-aware mechanisms to ensure controlled execution of consequential actions. By offering a capable, efficient, and open-source foundation, UI-Venus-2 advances the field toward more generalizable, verifiable, and self-reflective agents for real-world applications.",
+      "published_at": "2026-08-26T20:00:00.000Z",
+      "fetched_at": "2026-09-02T04:56:59.872Z"
+    },
+    {
+      "title": "ZimaBlue: Evolving Generalizable World Action Models through Scalable Video Pre-training",
+      "url": "https://huggingface.co/papers/2609.00188",
+      "source": "hf-daily-papers",
+      "score": 19,
+      "content": "Robotic manipulation faces a fundamental scaling challenge: robust generalization demands broad physical experience, yet action-labeled robot trajectories are expensive to collect and inherently limited in diversity. Egocentric videos offer a far more scalable source of embodied experience, capturing object interactions, contact dynamics, tool use, and long-horizon behaviors across diverse environments. The central challenge is how to convert this abundant but action-free experience into effective robot control. We introduce ZimaBlue, a scalable framework for learning generalizable World Action Models (WAMs) from large-scale video. ZimaBlue follows a three-stage training curriculum: it first performs causal embodied video pre-training on large-scale human and robot egocentric videos, then grounds the learned visual dynamics in heterogeneous robot trajectories through video-action mid-training with a unified action representation, and finally specializes the model to a target robot for deployment. To make generative WAMs practical for real-time control, ZimaBluefurther adopts an asynchronous Slow-Fast dual-system architecture, where a high-capacity Slow world model provides generalizable spatiotemporal representations and a lightweight Fast branch enables 30 Hz action prediction on NVIDIA RTX 4090. On real-robot zero-shot evaluations, scaling from target-robot data alone to over 120,000 hours of embodied video improves success from 36.1% to 77.8%. ZimaBlue further delivers strong performance across multiple benchmarks, with particularly pronounced gains on unseen tasks.",
+      "published_at": "2026-08-30T20:00:00.000Z",
+      "fetched_at": "2026-09-02T04:56:59.872Z"
+    },
+    {
+      "title": "Hi-Q: Hierarchical Evidence-guided Query Refinement for Multi-Hop Question Answering",
+      "url": "https://huggingface.co/papers/2608.30468",
+      "source": "hf-daily-papers",
+      "score": 16,
+      "content": "A central bottleneck in multi-hop Question Answering (QA) is that the granularity at which a question is expressed often differs from the granularity at which corpus evidence is retrievable. Existing methods address this mismatch by imposing fixed graph structures over the corpus, by iteratively reformulating the query, or by executing a generated program over it, but these strategies do not explicitly decide when a query unit is already supported by evidence and when it should be refined. We formulate this bottleneck as retrievable granularity discovery and introduce Hi-Q, an evidence-conditioned framework for hierarchical query refinement. At each query node, a resolution operator tests whether retrieved evidence supports the current query unit; resolved nodes terminate, while unresolved nodes are expanded by a dependency-preserving binary operator and checked by a semantic coverage verifier. Hi-Q therefore grows a query tree whose topology is determined by corpus support signals rather than by a fixed decomposition template or a pre-built graph. We evaluate Hi-Q on three multi-hop QA benchmarks, primarily under full-corpus retrieval, where dependent evidence must be located among open-domain distractors rather than within a small annotated pool. In this setting Hi-Q reaches 52.3 EM and 64.0 F1 averaged over the three benchmarks, ahead of the iterative retrieval baseline IRCoT by 15.1 EM / 18.2 F1 on that same average, and ahead of the graph-based RAG baseline PropRAG by 11.5 EM / 12.0 F1 on MuSiQue-full, without corpus-wide graph construction. In the restricted supporting/distractor setting used by prior work, Hi-Q likewise attains the best accuracy, with 57.9 EM and 69.3 F1 on average, ahead of PropRAG by 5.6 EM / 3.9 F1 and IRCoT by 13.7 EM / 15.8 F1. The project page is available at https://hi-q-project.github.io/.",
+      "published_at": "2026-08-30T20:00:00.000Z",
+      "fetched_at": "2026-09-02T04:56:59.872Z"
+    },
+    {
+      "title": "SMELT: Scaling Laws for Compute-Matched MoE Looped Transformers",
+      "url": "https://huggingface.co/papers/2609.01343",
+      "source": "hf-daily-papers",
+      "score": 15,
+      "content": "Looped Transformers increase effective depth by iterating a shared block of layers, but most evaluations compare at fixed model size, conflating architectural advantage with extra FLOPs. We study looping on Mixture-of-Experts Transformers while closely matching per-token FLOPs, total non-embedding parameters, and KV cache. Through a series of ablations, we arrive at a recipe we call SMELT (Sparse MoE Transformer, middle layers Loop Twice), which loops the middle half of layers twice while matching the unlooped Baseline on all three budgets. We scale SMELT across four sizes up to 54B non-embedding parameters and fit a separate Chinchilla-style scaling law for each architecture. SMELT's loss drops faster with compute, saving 6.8--18.0\\% of training FLOPs on the compute-optimal frontier. The advantage transfers to downstream benchmarks beyond what validation loss predicts, is largest on Code, and grows with sample length and the number of in-context examples. Mechanistic analysis shows that the second visit reduces the attention sink and redirects mass toward content-relevant tokens, an inductive bias that may underlie the observed performance gains. These results show that looping can improve Transformers even under budget matching, offering a practical recipe that turns depth reuse into measurable gains.",
+      "published_at": "2026-08-31T20:00:00.000Z",
+      "fetched_at": "2026-09-02T04:56:59.872Z"
+    },
+    {
+      "title": "Evaluating Multimodal LLMs as Generalist Vision-Language-Action Agents for Drone Control: Commanding, Approaching, Tracking and Searching",
+      "url": "https://huggingface.co/papers/2609.01404",
+      "source": "hf-daily-papers",
+      "score": 13,
+      "content": "Multimodal Large Language Models (MLLMs) are strong perceivers of images and video. We ask how far that reach extends into acting: dropping an MLLM directly into a drone's control loop, with its entire action space declared solely in the prompt. Recent systems approach this setting but increasingly narrow the model's decision-making. We widen it back. We introduce DroneCATS-Agent, an architecture where the MLLM is a swappable component, and DroneCATS, a benchmark treating the model as the independent variable. Beyond merely flying toward a pixel, our agent entrusts the model to yaw and search, deliberate when unsure, and self-declare arrival---all without fine-tuning or function-calling schemas. Evaluating frontier and open models across four core capabilities---approaching a visible target, tracking a moving one, searching outside the initial view, and commanding a multi-drone fleet---reveals that even the simplest embodied settings are far from solved. Crucially, to identify what breaks first at the edge, our roster scales down to 2B parameters. The findings expose a stark paradox: it is not the flying that fails. Small open models often navigate into the success radius more reliably than frontier models, yet lose the episode by declaring arrival prematurely or not at all. Multi-drone commanding amplifies this divide, with small models failing by blindly copying a single coordinate across distinct views. Viewed as vision-language-action agents, the models' spatial perception holds up, but their action protocol does not. What separates a deployable edge model from a frontier model is not navigation, but the discipline to sustain a declared protocol and emit the correct terminating action. The open problem is closing this gap at onboard compute costs---yielding a fast model that plans persistently and knows exactly when it is done---and DroneCATS is built to measure that distance.",
+      "published_at": "2026-08-31T20:00:00.000Z",
+      "fetched_at": "2026-09-02T04:56:59.872Z"
+    },
+    {
+      "title": "Uncovering Understanding-Generation Synergy in Native Unified Multimodal Models: From Representation, Task to System",
+      "url": "https://huggingface.co/papers/2609.01607",
+      "source": "hf-daily-papers",
+      "score": 12,
+      "content": "While unified multimodal models (UMMs) jointly perform visual understanding and generation within a single model, functional unification does not guarantee learning synergy: the two objectives may reinforce each other, compete for capacity, or merely coexist. We investigate their relationship at the representation, task, and system levels in a controlled, structurally native setting without pretrained vision priors. At the representation level, we find that each objective provides useful signal to the other: generation enriches the visual features learned for understanding, while understanding strengthens vision--language alignment for generation. However, when both objectives are forced through the same computation path, one tends to dominate. A task-decoupled architecture that specializes conflicting visual computation while preserving semantic interaction avoids this asymmetric degradation. At the task level, through three case studies, we find positive bidirectional transfer when understanding and generation tasks rely on shared knowledge. At the system level, we show that an end-to-end UMM outperforms a matched planner--executor pipeline on complex tasks that explicitly require both image understanding and generation. Together, these results show that the value of UMMs extends beyond a unified interface: appropriate specialization, shared task knowledge, and end-to-end optimization can turn coexistence into synergy.",
+      "published_at": "2026-08-31T20:00:00.000Z",
+      "fetched_at": "2026-09-02T04:56:59.872Z"
+    },
+    {
+      "title": "Safin-1: Safety from Within through Memory-Native State Evolution",
+      "url": "https://huggingface.co/papers/2609.00092",
+      "source": "hf-daily-papers",
+      "score": 12,
+      "content": "Long-horizon complex tasks require foundation models to accumulate information, maintain internal states, and adapt over extended interactions. Safety should be an intrinsic property of the model itself, rather than a behavioral constraint relying solely on external safeguards or post-hoc alignment such as supervised fine-tuning. This motivates Safety from Within, where safety-relevant capabilities are represented and invoked through the model's native computation. We present Safin-1, a family of foundation models realizing this principle through memory routing and state evolution. Safin-1 is built on Memory-Anchor Routing across Context History (MARCH), a network architecture that maintains structured memory states and selectively retrieves relevant historical information through content-conditioned routing. It supports test-time adaptation of persistent capability states without repeatedly modifying the backbone, enabling controlled specialization over a shared foundation. We investigate this interface on downstream safety tasks through a Safety State, demonstrating effective state-based adaptation with substantial safety improvements. More broadly, the routed-state interface unifies contextual memory and persistent capability adaptation within the model's native computation, reframing memory from a passive record of prior context into an active substrate for maintaining and evolving model behavior. Evaluations across general capabilities, long-context understanding, retrieval, and efficiency further validate Safin-1. These findings provide a path toward safety as a state-native and adaptively maintainable capability. This work is only an initial architectural exploration of Safety from Within, and substantial further work is needed to realize this broader vision.",
+      "published_at": "2026-08-30T20:00:00.000Z",
+      "fetched_at": "2026-09-02T04:56:59.872Z"
+    },
+    {
+      "title": "H3-World: Turning Language Understanding into World Control",
+      "url": "https://huggingface.co/papers/2609.01560",
+      "source": "hf-daily-papers",
+      "score": 9,
+      "content": "We present H3-World, an efficient framework that turns the 33B MiniMax-H3 video generator into an interactive world model. Our key finding is that, as large video generators become more capable, language is emerging as a natural interface for control. MiniMax-H3, for example, already supports zero-shot control of character behavior and camera motion through natural-language instructions. Building on this, H3-World turns this coarse language interface into precise, temporally grounded world control, without introducing dedicated action modules. Specifically, we represent each action as a structured combination of character and camera instructions, and align them with the corresponding temporal video latents. To make the control temporally precise, we further introduce temporal attention routing, which restricts each instruction to its intended time interval and reduces control leakage across actions. Importantly, H3-World directly reuses the semantic representations learned during large-scale video pretraining and requires only lightweight adaptation. With only 8,000 gameplay samples, 10,000 LoRA optimization steps, and 0.199% trainable parameters, H3-World achieves effective character and camera control while preserving strong generation quality. It also generalizes to unseen scenarios. These results show that the control capabilities emerging in large video generators can be efficiently transformed into interactive world control.",
+      "published_at": "2026-08-31T20:00:00.000Z",
+      "fetched_at": "2026-09-02T04:56:59.872Z"
+    },
+    {
+      "title": "Qwen-Drive-1.0: An Initial Step towards a Vision-Language Foundation Model for Autonomous Driving",
+      "url": "https://huggingface.co/papers/2609.00111",
+      "source": "hf-daily-papers",
+      "score": 8,
+      "content": "We present Qwen-Drive-1.0, an initial step towards a vision-language foundation model for autonomous driving. Qwen-Drive-1.0 retains the architecture of the pretrained vision-language model (VLM) and integrates 3D perception, visual question answering, and motion planning within a unified framework. An external bird's-eye-view (BEV) perception head jointly performs 3D object detection, semantic occupancy prediction, and BEV map segmentation. It serves as a probe of the 3D information accessible from the shared representations and provides an explicit, inspectable interface to 3D scene structure. A Planning Expert conditions on shared VLM representations to generate future ego trajectories. A staged training recipe combines driving supervision with general-purpose vision-language data to acquire driving-specific competence while helping preserve broad visual understanding and instruction-following capabilities. Experiments demonstrate strong 3D perception and driving scene understanding while largely preserving general vision-language capability. Comprehensive evaluations across open-loop, pseudo-closed-loop, and closed-loop settings further show highly competitive motion-planning performance.",
+      "published_at": "2026-08-30T20:00:00.000Z",
+      "fetched_at": "2026-09-02T04:56:59.872Z"
+    },
+    {
+      "title": "EM^2Mem: Event-Centric Multimodal Memory for Large Language Models",
+      "url": "https://huggingface.co/papers/2609.00551",
+      "source": "hf-daily-papers",
+      "score": 6,
+      "content": "Multimodal memory offers a scalable interface for long-video question answering, but existing methods often retrieve captions, frames, transcripts, summaries, or graph facts as isolated fragments. Although searchable, such fragments are not generation-ready: language models must reconstruct cross-modal and temporal alignments at inference time, when context is limited and attribution is difficult. We propose EM^2Mem, an event-centric multimodal memory framework that binds heterogeneous evidence to event anchors during memory construction. Each event-indexed memory cell aligns multimodal records, temporal context, graph-linked relations, semantic facts, and provenance, enabling compact evidence readout over grounded multimodal events rather than modality-specific fragments. Across three long-video QA benchmarks, EM^2Mem improves average accuracy over the strongest memory baseline by 2.0, 2.4, and 3.7 points, improves strict event-level Top-5 evidence recall by 7.0 points, and reduces per-query latency by 4.67 times and total inference tokens by 63.66% (The code will be integrated into https://github.com/zjunlp/LightMem).",
+      "published_at": "2026-08-31T20:00:00.000Z",
+      "fetched_at": "2026-09-02T04:56:59.872Z"
+    },
+    {
+      "title": "DiagEvo: Diagnosis-Guided Self-Evolution via Hierarchical Error Memory",
+      "url": "https://huggingface.co/papers/2609.00768",
+      "source": "hf-daily-papers",
+      "score": 5,
+      "content": "Self-play is an effective paradigm for language-model self-evolution, but without guidance, solver performance can plateau or decline across rounds. Unguided methods steer question generation with signals such as difficulty, learnability, or diversity. These signals keep questions challenging and varied but do not specify which unresolved reasoning weaknesses later rounds should target. Guided methods obtain direction from external task resources, including human examples, document corpora, or specified difficulty targets, and therefore rely on task information supplied outside the self-play loop. We show that the needed direction can instead be derived from the solver's own failure history. We introduce DiagEvo, whose diagnostician extracts recurring error causes from this history and stores them in a hierarchical error-cause memory. The memory groups related causes under skill nodes and tracks each as Active or Mastered according to self-consistency on targeted questions. The challenger uses these states and recurrence counts to balance cause-targeted generation with free exploration. Double-confidence filtering retains intermediate-difficulty questions only when the most common solver answer has a clear vote lead. DiagEvo derives its curriculum from information produced during self-play, without external task resources. With the default 4B diagnostician, DiagEvo outperforms every baseline in mean accuracy across all nine benchmarks for each of the three solvers: Qwen3-4B, Qwen3-8B, and OctoThinker-8B. On Qwen3-8B, it reaches 72.3% mean accuracy across five mathematical reasoning benchmarks, 4.5 percentage points above R-Zero. Its mean accuracy across all nine benchmarks is 57.4%, 1.1 percentage points above DARC. Ablations show that the hierarchical error-cause memory and double-confidence filtering both contribute to these gains.",
+      "published_at": "2026-08-31T20:00:00.000Z",
+      "fetched_at": "2026-09-02T04:56:59.872Z"
+    },
+    {
+      "title": "Control-Data Flow Separation: Stable Prompt Optimization in Multi-Agent LLMs",
+      "url": "https://huggingface.co/papers/2609.00621",
+      "source": "hf-daily-papers",
+      "score": 5,
+      "content": "Prompt optimization can improve multi-agent LLM systems, but the prompts being optimized often serve two entangled roles: generating task-relevant content and specifying execution-critical protocols, such as message routing, output formatting, and termination signals, on which the underlying code relies. As a result, a prompt edit intended to improve content generation can inadvertently corrupt the protocol and cause the entire agent pipeline to fail. Our key observation is that these two roles have different representations: execution protocols are typically structured, while task-relevant content is usually expressed in unstructured language. Based on this, we propose control-data flow separation, where execution-critical control is represented as typed, validated program objects, while task-relevant language remains the optimizable data flow for agent communication. This design allows optimizers to improve multi-agent behavior without exposing the routing or formatting interface to prompt drift. Across synthetic reasoning, collaborative review generation, and insurance rating workflows, our framework empirically achieves 100% eventual protocol validity while consistently improving task performance.",
+      "published_at": "2026-08-31T20:00:00.000Z",
+      "fetched_at": "2026-09-02T04:56:59.872Z"
+    },
+    {
+      "title": "InternReviewer & InternAdvocate: Objective Reward and Evaluation for Agentic Reinforcement Learning in Peer Review and Rebuttal",
+      "url": "https://huggingface.co/papers/2608.28612",
+      "source": "hf-daily-papers",
+      "score": 5,
+      "content": "Generating professional scholarly content, such as peer reviews and rebuttals, requires an intricate synergy between domain reasoning and factual grounding. This work presents a comprehensive framework for the development and evaluation of specialized scholarly agents, InternReviewer and InternAdvocate. We first establish a large-scale, high-quality scholarly dataset and integrate a high-efficiency arXiv retrieval tool to enable active evidence gathering. To optimize these agents, we implement an agentic Reinforcement Learning (RL) paradigm driven by a unified objective metric and reward system. This system avoids the biases of subjective model-based judging by employing multi-dimensional criteria, including reference-anchored semantic alignment, structural compliance, and a strict verification mechanism that cross-checks citations against real-time interaction logs to eliminate hallucinations. Experimental results demonstrate that agents trained within this closed-loop framework exhibit significant improvements in reasoning depth and citation accuracy.",
+      "published_at": "2026-07-20T20:00:00.000Z",
+      "fetched_at": "2026-09-02T04:56:59.872Z"
+    },
+    {
+      "title": "Harness-of-Harness: Multi-Day Autonomous Software Development with Continual Improvement",
+      "url": "https://huggingface.co/papers/2609.01481",
+      "source": "hf-daily-papers",
+      "score": 3,
+      "content": "This paper studies autonomous software development, in which LLM-based coding agents transform high-level requirements into complete, functional, and usable software systems without human intervention. We introduce Harness-of-Harness (HoH), a framework that enables coding agents to continually improve software during autonomous development. HoH operates on existing coding-agent harnesses, and organizes their executions into iterative planning-coding-testing loops. To sustain improvement across loops, HoH balances repair with capability growth, scopes development into small and verifiable increments, separates implementation-time testing from independent evaluation, and constrains verifiable outputs rather than prescribing agent workflows. It progressively exposes deliverables, role-specific tools, and skills, encourages reuse rather than recreation, and maintains versioned project histories. On GameCraft-Bench, FrontierSWE, and ProgramBench, three harness-model pairs (Codex with GPT-5.5, OpenCode with DeepSeek-V4-Pro, and Pi with MiniMax-M3), HoH consistently outperforms the corresponding standalone harnesses, achieving an average relative gain of 52.25 percent and a maximum gain of 82.86 percent after three iterations. In a multi-day deployment with more than 70 iterations, HoH autonomously develops a first-person-shooter game, featuring a coherent storyline, fully implemented core mechanics, human-playable experience, polished visuals and integrated audio. Github: https://github.com/Flesymeb/HarnessOfHarness Project Page: https://flesymeb.github.io/HarnessOfHarness/",
+      "published_at": "2026-08-31T20:00:00.000Z",
+      "fetched_at": "2026-09-02T04:56:59.872Z"
+    },
+    {
+      "title": "E-Commerce Bench: Evaluating LLM Agents on Long-Horizon Autonomous Business Operation",
+      "url": "https://huggingface.co/papers/2608.30730",
+      "source": "hf-daily-papers",
+      "score": 3,
+      "content": "Long-horizon agentic tasks go beyond chaining short tasks over more interaction turns. Their evolving dynamic environments and long-range dependencies require Large Language Models (LLMs) to continually explore, learn from experience, and adapt their policies over thousands of steps. We introduce E-Commerce Bench, the first open-source benchmark that integrates multi-round counterpart negotiation and dynamic events into a year-long business operation. Over a 365-day year, an LLM agent concurrently runs multiple online stores, researching the market, negotiating with suppliers to source inventory, optimizing sales strategies, fulfilling orders, handling returns, and managing cash flow to maximize its end-of-year total assets. To construct a realistic merchant-side operating environment, the product and supplier data are derived from a real e-commerce platform, while a year-long calendar of promotions, natural disasters, and supply-chain shocks continually reshapes demand. For reproducibility, both sides of the market are deterministic: customer purchases and returns follow a fixed demand model, while a negotiation kernel determines supplier pricing, concessions, and decisions, with an LLM used only to verbalize them. We evaluate 18 frontier models across seven dimensions, including year-end assets, and find that no single model dominates. GPT-5.6 Sol earns the most, growing the 100,000 opening stake into 1,431,425, yet it ranks 16th of 18 on fraud avoidance and trails Fable5 in operational efficiency. Among open-weight models, Qwen3.8-Max-Preview leads with 416,252, 38% above GLM 5.2 (high), and achieves the strongest learning over the horizon, progressively bargaining down prices across repeated orders. Our code is available at https://github.com/QwenLM/E-CommerceBench.",
+      "published_at": "2026-08-30T20:00:00.000Z",
+      "fetched_at": "2026-09-02T04:56:59.872Z"
+    },
+    {
+      "title": "The Mechanics of Democratic Dominance: A System Dynamics Paradigm for Dynamic Consent Engineering",
+      "url": "https://huggingface.co/papers/2608.27509",
+      "source": "hf-daily-papers",
+      "score": 3,
+      "content": "Traditional frameworks of political communication operate under linear, event-driven assumptions that treat voter persuasion as a static, transactional function. This paper introduces Dynamic Consent Engineering (DCE), a novel interdisciplinary paradigm that synthesizes Edward Bernays' foundational principles of public relations with the S-E-E-D (Snowball, Equilibrium, Elasticity, Dominance) framework of system dynamics. By expanding Bernaysian operational constraints into a four-dimensional resource matrix (incorporating algorithmic media infrastructure alongside manpower, mindpower, and capital), we mathematically formalize how democratic institutions construct, optimize, and sustain political dominance. We map Bernays' classic eight-step engineering workflow directly onto non-linear feedback loops, information time lags, and demographic carrying capacities. Through rigorous modeling of systemic feedback structures, we isolate the dynamic root causes of political elasticity, policy resistance plateaus, and threshold-triggered trust collapses. Finally, we establish a four-step diagnostic pipeline and validate the framework via historical reference mode verification, demonstrating that long-term political stability depends not on ephemeral rhetoric, but on the structural synchronization of policy execution and dynamic feedback calibration.",
+      "published_at": "2026-08-30T20:00:00.000Z",
+      "fetched_at": "2026-09-02T04:56:59.872Z"
+    },
+    {
+      "title": "ReFlowSET: Representation-Aligned Latent Flow Matching for SAR-to-EO Image Translation",
+      "url": "https://huggingface.co/papers/2609.00968",
+      "source": "hf-daily-papers",
+      "score": 1,
+      "content": "SAR-to-EO image translation aims to generate electro-optical (EO) imagery from synthetic aperture radar (SAR) observations. Existing latent diffusion approaches typically inherit a predetermined autoencoder, although reconstruction fidelity can vary substantially across codecs and modalities. Because the latent codec affects the round-trip preservation of both SAR conditions and EO targets, codec selection constitutes a fundamental design choice; nevertheless, existing methods largely rely on codecs pretrained on natural images. To remedy this, we introduce ReFlowSET, a conditional latent flow-matching framework that selects its codec through a joint SAR--EO reconstruction audit. Rather than inheriting a heavyweight pretrained generator, ReFlowSET trains a substantially smaller conditional DiT from scratch in the selected latent space, using dual-stream SAR conditioning followed by joint feature refinement. To provide semantic guidance for this from-scratch training, intermediate noisy-EO features are aligned with clean target-EO representations extracted by a frozen vision foundation model. This alignment is used only during training and introduces no additional inference cost. Experiments on QXS-SAROPT and SAR2Opt demonstrate state-of-the-art performance across diverse perceptual fidelity and distributional metrics. Code and pretrained weights are publicly available at https://github.com/KAIST-VICLab/ReFlowSET.",
+      "published_at": "2026-08-31T20:00:00.000Z",
+      "fetched_at": "2026-09-02T04:56:59.872Z"
+    }
+  ]
+}
