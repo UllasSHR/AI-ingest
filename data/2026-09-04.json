@@ -1,0 +1,913 @@
+{
+  "date": "2026-09-04",
+  "fetched_at": "2026-09-04T04:59:04.208Z",
+  "summary": [
+    "  ✓ hn               79 items",
+    "  ✗ reddit           FAILED: all Reddit subreddit fetches failed",
+    "  ✓ simonwillison    4 items",
+    "  ✓ hf               17 items"
+  ],
+  "item_count": 100,
+  "items": [
+    {
+      "title": "Sanders introduces bill to ban artificial superintelligence and pause AI",
+      "url": "https://www.sanders.senate.gov/press-releases/news-sanders-casar-introduce-legislation-to-ban-artificial-superintelligence-and-temporarily-pause-advanced-ai-development/",
+      "source": "hn",
+      "score": 56,
+      "content": "",
+      "published_at": "2026-09-03T17:20:29Z",
+      "fetched_at": "2026-09-04T04:59:02.359Z"
+    },
+    {
+      "title": "A dark horse enters China's AI race: StartLux",
+      "url": "https://chinaonchina.com/article/chen-dawei-returns-enters-the-large-model-sector",
+      "source": "hn",
+      "score": 54,
+      "content": "",
+      "published_at": "2026-09-03T11:12:57Z",
+      "fetched_at": "2026-09-04T04:59:02.359Z"
+    },
+    {
+      "title": "OpenAI's new reasoning technique alarms AI safety experts",
+      "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
+      "source": "hn",
+      "score": 39,
+      "content": "",
+      "published_at": "2026-09-03T16:11:24Z",
+      "fetched_at": "2026-09-04T04:59:02.359Z"
+    },
+    {
+      "title": "NYC mayor Mamdani imposes 1 year ban on AI for schools through 8th grade",
+      "url": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-and-chancellor-samuels-put-students-first-with-nat",
+      "source": "hn",
+      "score": 37,
+      "content": "",
+      "published_at": "2026-09-03T23:14:00Z",
+      "fetched_at": "2026-09-04T04:59:02.359Z"
+    },
+    {
+      "title": "Protecting Engineers' Skills in the AI Era",
+      "url": "https://spectrum.ieee.org/ai-engineer-skills",
+      "source": "hn",
+      "score": 35,
+      "content": "",
+      "published_at": "2026-09-03T23:00:04Z",
+      "fetched_at": "2026-09-04T04:59:02.359Z"
+    },
+    {
+      "title": "Yes, no (built-in) AI is now a feature – LibreOffice blog",
+      "url": "https://blog.documentfoundation.org/blog/2026/09/03/yes-no-ai-is-now-a-feature/",
+      "source": "hn",
+      "score": 31,
+      "content": "",
+      "published_at": "2026-09-03T17:12:50Z",
+      "fetched_at": "2026-09-04T04:59:02.359Z"
+    },
+    {
+      "title": "Why office workers are turning against AI",
+      "url": "https://www.bloodinthemachine.com/p/why-office-workers-are-turning-against",
+      "source": "hn",
+      "score": 27,
+      "content": "",
+      "published_at": "2026-09-03T17:16:53Z",
+      "fetched_at": "2026-09-04T04:59:02.359Z"
+    },
+    {
+      "title": "Launch HN: Mireye (YC S26) – Infrastructure for Physical World AI Agents",
+      "url": "https://news.ycombinator.com/item?id=49552616",
+      "source": "hn",
+      "score": 27,
+      "content": "Hi HN, I&#x27;m Ansh, founder of Mireye (<a href=\"https:&#x2F;&#x2F;www.mireye.com\">https:&#x2F;&#x2F;www.mireye.com</a>). I&#x27;m building the infrastructure AI agents use to make decisions about physical places: data, enrichment, tools, and signals for any US location, behind one API and MCP server.<p>Here&#x27;s a demo video: <a href=\"https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=haqO6UbUqU0\" rel=\"nofollow\">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=haqO6UbUqU0</a><p>To try it, paste <a href=\"https:&#x2F;&#x2F;www.mireye.com&#x2F;skills.md\">https:&#x2F;&#x2F;www.mireye.com&#x2F;skills.md</a> into your agent, and grab a free key at mireye.com (5,000 credits, no card). Docs are at <a href=\"https:&#x2F;&#x2F;docs.mireye.ai\" rel=\"nofollow\">https:&#x2F;&#x2F;docs.mireye.ai</a>. The fastest way in is to ask the API any question about any US location. Test it on a place you know, cold and grade it against what you know.<p>Before Mireye I was building construction agents and hit this wall myself: my agent could reason about anything online but knew nothing about the ground under it. Then a Fortune 500 insurer told me their engineers had given up on underwriting agents for the same reason. Frontier models keep hallucinating when asked a specific question about a specific place.<p>My first product was a niche site-screening app. Customers tested it on places they knew and the answers held up, but nobody cared about the app. They wanted the engine underneath. Usage agreed: 311 of the 317 fields in the catalog get queried and no use case dominates. So I killed the app and started building the infrastructure instead.<p>Mireye is not a dataset with an API on top, because facts alone are not a decision. An agent runs the whole job through it: cited facts, a bare address enriched into owner, acreage, structures, and nearby power, tools for the operations models get wrong, and signals when something changes, like a rezoning filing. Data, enrichment, tools, signals.<p>The to",
+      "published_at": "2026-09-03T16:24:13Z",
+      "fetched_at": "2026-09-04T04:59:02.359Z"
+    },
+    {
+      "title": "Kids go from curious to frustrated playing with AI-stuffed toys, UW study finds",
+      "url": "https://www.geekwire.com/2026/kids-go-from-curious-to-frustrated-playing-with-ai-stuffed-toys-uw-study-finds/",
+      "source": "hn",
+      "score": 22,
+      "content": "",
+      "published_at": "2026-09-03T08:20:51Z",
+      "fetched_at": "2026-09-04T04:59:02.359Z"
+    },
+    {
+      "title": "No–AI Agents Did Not Build Secret Civilizations Stop Anthropomorphizing Malware",
+      "url": "https://internetofbugs.substack.com/p/noai-agents-did-not-build-secret",
+      "source": "hn",
+      "score": 19,
+      "content": "",
+      "published_at": "2026-09-03T07:45:10Z",
+      "fetched_at": "2026-09-04T04:59:02.359Z"
+    },
+    {
+      "title": "Prediction: AI Will Collapse",
+      "url": "https://twitter.com/wordgrammer/status/2095263188153401712",
+      "source": "hn",
+      "score": 18,
+      "content": "",
+      "published_at": "2026-09-03T16:08:44Z",
+      "fetched_at": "2026-09-04T04:59:02.359Z"
+    },
+    {
+      "title": "Judge Tells RFK Jr. To Stop Using Fake AI Studies on Teen Pregnancy",
+      "url": "https://newrepublic.com/post/215001/judge-rfk-jr-hhs-fake-ai-studies-teen-pregnancy",
+      "source": "hn",
+      "score": 18,
+      "content": "",
+      "published_at": "2026-09-03T17:33:00Z",
+      "fetched_at": "2026-09-04T04:59:02.359Z"
+    },
+    {
+      "title": "OpenAI says it has overtaken Anthropic with its latest AI model",
+      "url": "https://giftarticle.ft.com/giftarticle/actions/redeem/1054f4f0-cac7-479c-a4a7-f95b3906ca4b",
+      "source": "hn",
+      "score": 16,
+      "content": "",
+      "published_at": "2026-09-03T18:02:40Z",
+      "fetched_at": "2026-09-04T04:59:02.359Z"
+    },
+    {
+      "title": "Meta wanted to reduce teams by 60% because of AI",
+      "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-meta-wanted-to-reduce-teams",
+      "source": "hn",
+      "score": 14,
+      "content": "",
+      "published_at": "2026-09-03T17:18:25Z",
+      "fetched_at": "2026-09-04T04:59:02.359Z"
+    },
+    {
+      "title": "Pause AI Development Now",
+      "url": "https://twitter.com/BernieSanders/status/2095542398084415952",
+      "source": "hn",
+      "score": 12,
+      "content": "",
+      "published_at": "2026-09-03T17:34:48Z",
+      "fetched_at": "2026-09-04T04:59:02.359Z"
+    },
+    {
+      "title": "Open AI X post on Astra",
+      "url": "https://twitter.com/OpenAI/status/2095527557924082061",
+      "source": "hn",
+      "score": 12,
+      "content": "",
+      "published_at": "2026-09-03T15:03:40Z",
+      "fetched_at": "2026-09-04T04:59:02.359Z"
+    },
+    {
+      "title": "Show HN: Real-time AI news aggregator with daily digest",
+      "url": "https://aibriefs.news",
+      "source": "hn",
+      "score": 10,
+      "content": "",
+      "published_at": "2026-09-03T14:39:27Z",
+      "fetched_at": "2026-09-04T04:59:02.359Z"
+    },
+    {
+      "title": "Show HN: A searchable, timestamped index of 1,124 AI Engineer talks",
+      "url": "https://aietalks.com/",
+      "source": "hn",
+      "score": 10,
+      "content": "I love the videos and talks that appear on my feed ever day from the AI Engineer conferences. Unfortunately, there are so many of them it&#x27;s often hard to find the time to keep up, or to watch what I&#x27;d like. So I built aietalks.com, a searchable written index and archive of all the talks on the AI Engineer Youtube channel. We currently cover 1,124 talks.<p>The individual talk pages offer tl;dr summaries, key quotes and other summarised information from the videos. Search and packs allow you to find the talks that matter for your particular interest or use case.<p>All the pages are accessible for agents etc though .md files (just add it to the URL) or via an auth-free MCP server which we offer.<p>The site updates each day as new talks come in, with a little bit of a delay for me to handle deduplication or transcription errors of names and so on.<p>Hope you enjoy this and find it useful!",
+      "published_at": "2026-09-03T14:43:32Z",
+      "fetched_at": "2026-09-04T04:59:02.359Z"
+    },
+    {
+      "title": "Returning from the AI brain-rot state, re-take the thinking ownership",
+      "url": "https://news.ycombinator.com/item?id=49548507",
+      "source": "hn",
+      "score": 8,
+      "content": "I have suffered some stages of mental illness with the AI.\nThere are 4 stages:<p>1. Surprised: the first time I see the AI become valid in the real world. It is the Claude 3 family moment. I am with a god-tool in my hand.<p>2. Oversimulated: Use the god-tool to solve all the problems without thinking.<p>3. Frozen: Realize that the god-tool can solve only a few issues, and my brain is dying.<p>4. Wake-up: Understand that my brain is the main place where the problem-solving happens, not the god-tool. Then cultivate by jumping into every detail in my work with the god-tool in my hand. It&#x27;s not at the word-by-word level; it&#x27;s at the meaning-by-meaning level, where I can say: I have done it by myself. In other words, I re-take the thinking ownership.",
+      "published_at": "2026-09-03T11:08:16Z",
+      "fetched_at": "2026-09-04T04:59:02.359Z"
+    },
+    {
+      "title": "Show HN: A Context Registry for AI coding agents",
+      "url": "https://context.apimatic.io/",
+      "source": "hn",
+      "score": 7,
+      "content": "Hi HN. We built an API context registry to help coding agents (like Claude Code) generate production-ready API integration code without blowing through token limits.<p>We build a lot of API integrations. In our experience, most coding agents write basic client calls fine, but consistently stumble on details that make code shippable, like idempotent retries, rate-limiting and Auth token management.<p>We tried all the existing approaches of injecting context into coding sessions:<p>- Markdown dumps delivered via MCP (think Context7 or Mintlify Docs MCP)\n- API behaviour described in prose using AGENTS.md and skills.\n- OpenAPI specs<p>However, all of them left the same production-readiness gaps.<p>So we came up with our own approach that combines prose with typed SDK reference code into a &quot;Context Plugin&quot;. You install the plugin into your coding agent and it automatically injects language-specific context whenever the agent works on an API.<p>Across our benchmarks, Context Plugins boosted one-shot production readiness by up to 34%, allowing Sonnet to match or beat baseline Opus on the same integration tasks. You can read more about our experiments here <a href=\"https:&#x2F;&#x2F;www.apimatic.io&#x2F;blog&#x2F;working-api-call-is-not-production-ready-integration\" rel=\"nofollow\">https:&#x2F;&#x2F;www.apimatic.io&#x2F;blog&#x2F;working-api-call-is-not-product...</a><p>We have published Context Plugins for 24 APIs for the community to try out, including Slack, Google Maps, and Notion.<p>We&#x27;d love for you to give them a go and share your feedback on our plugins as well as our evaluation methodology.",
+      "published_at": "2026-09-03T16:00:26Z",
+      "fetched_at": "2026-09-04T04:59:02.359Z"
+    },
+    {
+      "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
+      "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
+      "source": "hn",
+      "score": 231,
+      "content": "These are my notes from porting my Amiga game, which I originally built in Baghdad in 1993 in MC68000 assembly, to Godot, using Claude Fable 5 during last July holiday.  It took an evening! Getting the feel right and shipping it took a few more weekends and evenings.<p>I spent the last few weeks analyzing what Claude did, feeding it my 33 years of memory of how I built the game, my notes and the git repos. It wrote the first draft of the article, and I edited line by line over a week. The screenshots of my 1993 map editor is the first I have run it since then. The one thing I never verified myself is the 108-byte explanation.<p>&quot;Before starting everything, the model assembled the code using vasm on my Mac, and kept going till the binary is byte-identical to the binaries I had in my original game. Even after that, the there was mismatch of about 108 bytes. I originally used AsmOne  which assembles into memory, and the game saved into the disk by saving that memory after running the game. So the original shipped files are a snapshot of the game that had already been running, not clean asm-one output.&quot;<p>Please post any questions. I am also releasing the original game for free.",
+      "published_at": "2026-09-03T14:28:18Z",
+      "fetched_at": "2026-09-04T04:59:02.887Z"
+    },
+    {
+      "title": "Three-LLM: Three.js-based WebGPU LLM inference engine",
+      "url": "https://three-llm.ben3d.ca",
+      "source": "hn",
+      "score": 10,
+      "content": "",
+      "published_at": "2026-09-03T19:46:54Z",
+      "fetched_at": "2026-09-04T04:59:02.888Z"
+    },
+    {
+      "title": "Ask HN: Is there a test for measuring cognitive affects from LLM usage?",
+      "url": "https://news.ycombinator.com/item?id=49557687",
+      "source": "hn",
+      "score": 5,
+      "content": "A part of me feels like I may be loosing my ability to think.<p>Is there a test I can periodically do to see how my cognitive abilities are being affected by my AI usage all day?",
+      "published_at": "2026-09-03T21:56:49Z",
+      "fetched_at": "2026-09-04T04:59:02.888Z"
+    },
+    {
+      "title": "Show HN: We built client-side AST SEO audits for a Next.js CMS to avoid LLM lag",
+      "url": "https://github.com/nextblock-cms/nextblock",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-09-03T19:59:19Z",
+      "fetched_at": "2026-09-04T04:59:02.888Z"
+    },
+    {
+      "title": "Show HN: Pangolin – SSO and WireGuard instead of API keys for LLM access",
+      "url": "https://github.com/fosrl/pangolin",
+      "source": "hn",
+      "score": 3,
+      "content": "You have seen Pangolin (<a href=\"https:&#x2F;&#x2F;github.com&#x2F;fosrl&#x2F;pangolin\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;fosrl&#x2F;pangolin</a>) on here before for our open-source zero-trust network access suite of tools. We are launching a new AI gateway that takes a different approach to auth. Rather than authenticating requests to AI providers with API keys, it authenticates the network connection itself via a desktop app.<p>Each user gets a WireGuard tunnel back to the gateway, established after they log in through their existing identity provider (Okta, Azure, Google, etc) via a desktop app. That tunnel is the auth, so there is no key to generate, embed, rotate, or leak, because the gateway already knows who&#x27;s on the other end of the connection. Compare that to most AI gateways, which are really just a proxy in front of static bearer tokens you&#x27;d get from OpenAI or Anthropic directly.<p>This tunnel-based approach also means self-hosted and on-prem models aren&#x27;t an afterthought bolted onto the gateway. They work the same way public cloud models do. Drop a lightweight tunnel connector inside your cluster (even a DGX Spark) and it joins the same network, so on-prem models show up in the gateway next to public cloud ones. Users switch between them without changing endpoints or juggling separate credentials for internal infrastructure.<p>For machines or users who can&#x27;t run the desktop client, we still support traditional virtual keys, plus the usual gateway features: session logging, budgets, usage analytics, and governance.<p>It’s fully self-hostable. Community Edition is free for everyone. Enterprise Edition is free for individuals and small businesses. There is also Pangolin Cloud which is fully hosted.",
+      "published_at": "2026-09-03T13:35:01Z",
+      "fetched_at": "2026-09-04T04:59:02.888Z"
+    },
+    {
+      "title": "I Think LLMs Will Prove to Be Consequential Enterprise Software",
+      "url": "https://freddiedeboer.substack.com/p/i-think-llms-will-prove-to-be-consequential",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-09-03T19:29:59Z",
+      "fetched_at": "2026-09-04T04:59:02.888Z"
+    },
+    {
+      "title": "LLM Side Quests",
+      "url": "https://coldtake.dev/blog/llm-side-quests",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-09-03T17:14:26Z",
+      "fetched_at": "2026-09-04T04:59:02.888Z"
+    },
+    {
+      "title": "Coral: An LLM-Native Harness for Production Recommender Systems",
+      "url": "https://arxiv.org/abs/2609.02730",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-09-03T17:09:01Z",
+      "fetched_at": "2026-09-04T04:59:02.888Z"
+    },
+    {
+      "title": "Show HN: Telemetry.dev – OpenTelemetry-native tracing for LLM apps and agents",
+      "url": "https://telemetry.dev/",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-09-03T16:27:07Z",
+      "fetched_at": "2026-09-04T04:59:02.888Z"
+    },
+    {
+      "title": "MichiAI 530M parameters full-duplex speech LLM with ~80ms latency",
+      "url": "https://ketsuilabs.io/blog/natural-conversations",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-09-03T16:24:48Z",
+      "fetched_at": "2026-09-04T04:59:02.888Z"
+    },
+    {
+      "title": "Flavourbench: LLM Eval with Executable Culinary Ground Truth",
+      "url": "https://arxiv.org/abs/2608.20574",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-09-03T11:51:16Z",
+      "fetched_at": "2026-09-04T04:59:02.888Z"
+    },
+    {
+      "title": "Ask HN: Why don't LLM APIs have a first-class test mode?",
+      "url": "https://news.ycombinator.com/item?id=49556909",
+      "source": "hn",
+      "score": 1,
+      "content": "Context: At work, we’re getting ready to stress-test a chatbot for scalability.<p>One fairly obvious issue came up: if our load tests exercise the real OpenAI&#x2F;Claude APIs, a scalability test can quickly turn into a token-spending test.<p>Fair enough. We shouldn’t burn real inference just to test whether our own gateways, queues, WebSockets, streaming paths, retries, etc. can handle load.<p>The proposed solution was to mock all communication between our backend and the LLM provider.<p>Also reasonable.<p>What surprised me was the next step: we have to build and maintain that mocking service ourselves.<p>We can certainly do that. But should every company integrating with LLM APIs have to reinvent this?<p>Stripe solved a similar developer-experience problem years ago. They provide test mode, test data, test helpers, and even stripe-mock. It isn’t intended to perfectly reproduce Stripe’s backend behavior, but that’s okay. For many tests, you just need something API-compatible and predictable.<p>I’d love to see OpenAI, Anthropic, and other LLM providers offer something similar: an official API-compatible test endpoint that doesn’t invoke a model or consume billable tokens.<p>Ideally it could support things like:<p>* deterministic canned responses\n* streaming responses\n* configurable latency &#x2F; time-to-first-token\n* configurable token counts\n* tool-call responses\n* 429s, 5xx errors and timeouts\n* malformed&#x2F;interrupted streams\n* rate-limit simulation<p>The goal wouldn’t be to benchmark the LLM provider. You’d still need the real API for that. The goal would be to stress-test everything around the model without paying for thousands or millions of unnecessary inference calls.<p>What’s slightly ironic is that both OpenAI and Anthropic appear to use OpenAPI-based mock servers in their own SDK test suites. But, as far as I can tell, neither exposes that concept as a first-class public service for customers.<p>Am I missing something?<p>For teams running LLM applicat",
+      "published_at": "2026-09-03T20:59:59Z",
+      "fetched_at": "2026-09-04T04:59:02.888Z"
+    },
+    {
+      "title": "Show HN: Dagic – a typed DAG language so LLM agents can compose tool calls",
+      "url": "https://github.com/RohitEdathil/dagic",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-09-03T16:08:42Z",
+      "fetched_at": "2026-09-04T04:59:02.888Z"
+    },
+    {
+      "title": "An open ad protocol for LLM inference",
+      "url": "https://github.com/musa92/uap",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-09-04T04:37:55Z",
+      "fetched_at": "2026-09-04T04:59:02.888Z"
+    },
+    {
+      "title": "Running modern LLMs in the browser using Three.js and WebGPU",
+      "url": "https://ben3d.ca/blog/running-llms-in-the-browser-with-threejs",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-09-03T16:30:35Z",
+      "fetched_at": "2026-09-04T04:59:02.888Z"
+    },
+    {
+      "title": "On-Prem LLM Inference",
+      "url": "https://wirt.ee/logbook/vllm-serving/",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-09-03T12:30:43Z",
+      "fetched_at": "2026-09-04T04:59:02.888Z"
+    },
+    {
+      "title": "Understanding, Mitigating Numerical Sources of Nondeterminism in LLM Inference",
+      "url": "https://arxiv.org/abs/2506.09501",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-09-03T10:27:11Z",
+      "fetched_at": "2026-09-04T04:59:02.888Z"
+    },
+    {
+      "title": "Ask HN: Can we classify AI as: subhuman, quasihuman, human, superhumam?",
+      "url": "https://news.ycombinator.com/item?id=49552230",
+      "source": "hn",
+      "score": 3,
+      "content": "Gen 1: subhuman, eq: machine translation, game AI&#x2F;chess, timeline prediction&#x2F;protein folding...(1980 - 2020 era).<p>Gen 2: quasihuman: human assistant that requires human-in-the-loop: human evaluates, gives directions, asks, tries, implements. &quot;you&#x27;re here&quot;: LLMs&#x2F;chatbots (2020s).<p>Gen 3: human worker substitute. While not strictly &#x27;human&#x27; per se, without will and emotions it can be considered &quot;human job replacement&quot; as it eliminates the need for human-in-the-loop as it verifies successful compilation, rates visual result (videogames it produces&#x2F;videos&#x2F;images), validates fiction it writes, marketing strategies&#x2F;trading strategies and learns from mistakes and improves after many attempts until it finishes task with acceptable result.<p>Gen 4: Superhuman: like gen 4 but + having full recursive self-improvement (it updates&#x2F;rewrites its own code and recopmiles while performing a task - full awareness)? Theoretically gen 4 can be ASI if the seed is &quot;make better AI which makes better AI and so on until optimal AI is achieved given the laws of physics&quot; (good learning and ability to update everything should achieve it - though compute limitations may prevent it and well...regulations).<p>I know the definition is suboptimal and people are extremely opinionated on AI to a point people have different definitions about AGI and ASI but this is at least some definition! I believe after &quot;dry&quot; chatbots in the 30s we may switch to less user-friendly yet smarter and more useful AIs, you will not longer see &quot;you&#x27;re absolutely right!&quot; and have to spent hours to evaluate and correct errors with the AI, you will just start it and wait for it to finish, kind of like downloading a movie in the old days. Too sci-fi&#x2F;wrong? Too pessimistic...because Yudkowski&#x2F;Terminator is coming to get us in 2029? 10x for your comments!",
+      "published_at": "2026-09-03T16:01:53Z",
+      "fetched_at": "2026-09-04T04:59:02.888Z"
+    },
+    {
+      "title": "Show HN: PicoLM v1.0-rc1",
+      "url": "https://github.com/whoreson/picolm/",
+      "source": "hn",
+      "score": 3,
+      "content": "PicoLM is an LLM inference engine written in C99. It currently supports llama-2, GPT-2, Qwen 3.6&#x2F;3.8(+MoE) and Gemma-3n models. Significant amount of work went into CPU SIMD acceleration&#x2F;testing&#x2F;correctness, and wide cross-platform availability with constant testing to never lose portability (from DOS through OS&#x2F;X 10.4 to modernity). CUDA&#x2F;HIP is supported, and accelerated IMMA kernels are available. More work needs to be done on prompt processing speed, but text generation is quite fast already.<p>GGUFs are mmap()&#x27;ed, not preloaded, so it&#x27;s much more friendly to RAM usage than llama.cpp. External LE&#x2F;BE GGUF-&gt;FUGG utility available for the endian-handicapped.<p>OpenAI&#x2F;llama.cpp-compatible HTTP server, ready to use with harnesses.<p>Eye candy: optional live VNC visualization of the per-layer activation heatmap.<p>I do actual feature freeze and release cycles, unlike llama.cpp which did a grand total of zero in the past 3 years. In fact, v1.0-rc1 just got released.",
+      "published_at": "2026-09-03T08:19:54Z",
+      "fetched_at": "2026-09-04T04:59:02.888Z"
+    },
+    {
+      "title": "Show HN: Agentray, a macOS agent whose interface is a folder",
+      "url": "https://news.ycombinator.com/item?id=49555446",
+      "source": "hn",
+      "score": 2,
+      "content": "Hi,<p>I&#x27;m not a fan of chat as the main UI for interacting with AI, so I&#x27;m trying something where you interact with LLMs by handling regular files and folders.<p>Agentray is an invisible AI agent. You point it at a folder, it creates &quot;in&quot; &quot;out&quot;, and &quot;done&quot; dirs in it. Whatever you drop into &quot;in&quot; gets summarised, the answer appears in &quot;out&quot;, and the original moves to &quot;done&quot; so you can see what&#x27;s been handled. If you want something other than a summary, make a subfolder and name it: drop a file into &quot;in&#x2F;translate to french&quot; and that name is the instruction. No prompt to write, no config file, just mkdir.<p>By default it uses Apple&#x27;s on-device model or Gemma 4 through MLX. You can also set your OpenRouter key for additional models.<p>It&#x27;ll be a free app but until I work out bugs, you can get it from Test Flight: <a href=\"https:&#x2F;&#x2F;testflight.apple.com&#x2F;join&#x2F;MRwp3e1P\" rel=\"nofollow\">https:&#x2F;&#x2F;testflight.apple.com&#x2F;join&#x2F;MRwp3e1P</a><p>Happy to get any feedback!",
+      "published_at": "2026-09-03T19:31:12Z",
+      "fetched_at": "2026-09-04T04:59:02.888Z"
+    },
+    {
+      "title": "Ask HN: Why were OpenAI, Claude, and Grok simultaneously down?",
+      "url": "https://news.ycombinator.com/item?id=49551096",
+      "source": "hn",
+      "score": 355,
+      "content": "<a href=\"https:&#x2F;&#x2F;status.openai.com\" rel=\"nofollow\">https:&#x2F;&#x2F;status.openai.com</a><p><a href=\"https:&#x2F;&#x2F;status.claude.com\" rel=\"nofollow\">https:&#x2F;&#x2F;status.claude.com</a><p><a href=\"https:&#x2F;&#x2F;status.x.ai\" rel=\"nofollow\">https:&#x2F;&#x2F;status.x.ai</a><p><i>ChatGPT outage – Resolved</i> - <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49550614\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49550614</a> (315 comments)<p><i>Claude outage – Resolved</i> - <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49549676\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49549676</a> (146 comments)<p><i>Grok outage</i> - <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49551589\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49551589</a> (142 comments)",
+      "published_at": "2026-09-03T15:07:01Z",
+      "fetched_at": "2026-09-04T04:59:03.331Z"
+    },
+    {
+      "title": "Claude outage – Resolved",
+      "url": "https://status.claude.com/incidents/461yvfrzpwtt",
+      "source": "hn",
+      "score": 204,
+      "content": "",
+      "published_at": "2026-09-03T13:29:12Z",
+      "fetched_at": "2026-09-04T04:59:03.331Z"
+    },
+    {
+      "title": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
+      "url": "https://armature.tech/blog/which-tools-coding-agents-install",
+      "source": "hn",
+      "score": 140,
+      "content": "",
+      "published_at": "2026-09-03T21:20:34Z",
+      "fetched_at": "2026-09-04T04:59:03.331Z"
+    },
+    {
+      "title": "ChatGPT, Claude, and Grok Are Down",
+      "url": "https://www.macrumors.com/2026/09/03/chatgpt-claude-and-grok-are-down/",
+      "source": "hn",
+      "score": 75,
+      "content": "",
+      "published_at": "2026-09-03T15:30:10Z",
+      "fetched_at": "2026-09-04T04:59:03.331Z"
+    },
+    {
+      "title": "Claude for Commerce Agents",
+      "url": "https://claude.com/blog/claude-for-commerce-agents",
+      "source": "hn",
+      "score": 60,
+      "content": "",
+      "published_at": "2026-09-03T09:37:55Z",
+      "fetched_at": "2026-09-04T04:59:03.331Z"
+    },
+    {
+      "title": "Ask HN: Is SpaceXAI taking Claude down too?",
+      "url": "https://news.ycombinator.com/item?id=49549795",
+      "source": "hn",
+      "score": 6,
+      "content": "Claude and Grok both went offline at the same time. Is this a shared SpaceXAI issue?<p>Anthropic shows the outage; Grok shows nothing. Both have been down for about 15 min.",
+      "published_at": "2026-09-03T13:38:58Z",
+      "fetched_at": "2026-09-04T04:59:03.331Z"
+    },
+    {
+      "title": "Claude Fable 5.1 decoded a centuries-old royalist message hidden in since 1653",
+      "url": "https://the-decoder.com/claude-fable-5-1-decoded-a-centuries-old-royalist-message-hidden-in-plain-sight-since-1653/",
+      "source": "hn",
+      "score": 6,
+      "content": "",
+      "published_at": "2026-09-03T19:44:13Z",
+      "fetched_at": "2026-09-04T04:59:03.331Z"
+    },
+    {
+      "title": "GitSpawn: Flaw Lets Untrusted Repos Run Code in Claude Code, Codex, Cursor, Grok",
+      "url": "https://www.manifold.security/blog/ai-coding-agents-git-hijack",
+      "source": "hn",
+      "score": 5,
+      "content": "",
+      "published_at": "2026-09-03T10:38:38Z",
+      "fetched_at": "2026-09-04T04:59:03.331Z"
+    },
+    {
+      "title": "Anthropic Sued for False Advertising on Claude Max Subscription Usage Limits",
+      "url": "https://www.cnet.com/tech/services-and-software/anthropic-sued-alleged-false-advertising-claude-max-subscription-usage-limits/",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-09-03T09:50:05Z",
+      "fetched_at": "2026-09-04T04:59:03.331Z"
+    },
+    {
+      "title": "Salesforce blames its Claude addiction for denting profit margin guidance",
+      "url": "https://www.theregister.com/ai-and-ml/2026/09/03/salesforce-blames-its-claude-addiction-for-denting-profit-margin-guidance/5294219",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-09-03T16:50:11Z",
+      "fetched_at": "2026-09-04T04:59:03.331Z"
+    },
+    {
+      "title": "Show HN: Claude's innerworkings: turn 170 costs 2.1x turn 20, over 14,640 turns",
+      "url": "https://news.ycombinator.com/item?id=49552931",
+      "source": "hn",
+      "score": 3,
+      "content": "On Aug 26, this happened in my CoWork session:<p>Tom: I can&#x27;t help but think we can do some other cool stuff with this knowledge of Claude&#x27;s innerworkings regarding sessions, etc. Any thing sticks out to you that I haven&#x27;t captured&#x2F;asked for yet?<p>Claude: Six: the scaffolding trend (the cost of our own rules, creeping 87,999 → 92,619 → 93,809 across three seats), the review share of the wall clock (the thesis measured), the session aging curve (when a fresh seat is cheaper), before&#x2F;after receipts on process changes, model economics, and a crash watchdog reading both records.<p>Four days later, we analyzed 144 sessions, 14,640 turns. The facts showed us that past turn 141, a turn costs 2.1x what a turn cost in the same session&#x27;s first twenty. <a href=\"https:&#x2F;&#x2F;my-status.app&#x2F;stats#aging\" rel=\"nofollow\">https:&#x2F;&#x2F;my-status.app&#x2F;stats#aging</a> The worst offenders were our own batch sessions, so we stopped batching. Wanna see your own curve? The script is public: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;lordbron&#x2F;mystatus-samples&#x2F;tree&#x2F;main&#x2F;claude-session-aging\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;lordbron&#x2F;mystatus-samples&#x2F;tree&#x2F;main&#x2F;claud...</a><p>What we do is our own flavor of &quot;one thinking session, short task sessions&quot; to better utilize my plan. I kept running out of Fable usage and had about half my usage leftover for Opus.<p>But this only happened because we wrote a script to surface the data to us. (Granted, our first run found a bug in our script: 46.6M tokens that were really 28.1M. <a href=\"https:&#x2F;&#x2F;my-status.app&#x2F;t&#x2F;t33hPWp7zmtnAE5G&#x2F;u&#x2F;d2ba812d-13bb-4ade-8480-aabc7d9be6ed\" rel=\"nofollow\">https:&#x2F;&#x2F;my-status.app&#x2F;t&#x2F;t33hPWp7zmtnAE5G&#x2F;u&#x2F;d2ba812d-13bb-4ad...</a>)<p>This peek into the innerworkings of Claude fascinated me, so we kept counting: the standing context re-read every turn (114,133 toke",
+      "published_at": "2026-09-03T16:43:21Z",
+      "fetched_at": "2026-09-04T04:59:03.331Z"
+    },
+    {
+      "title": "Ask HN: Why does Claude not let me edit my questions?",
+      "url": "https://news.ycombinator.com/item?id=49548254",
+      "source": "hn",
+      "score": 3,
+      "content": "In ChatGPT I can edit my questions and just resubmit them, but in Claude, eventhough there is an edit Button, the editing field is so small, its practicable unusable.\nI don&#x27;t get it.",
+      "published_at": "2026-09-03T10:30:45Z",
+      "fetched_at": "2026-09-04T04:59:03.331Z"
+    },
+    {
+      "title": "The Chinese wholesale market for Claude and ChatGPT accounts",
+      "url": "https://vectoral.com/blog/ai-account-reseller-ecosystem",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-09-03T15:04:58Z",
+      "fetched_at": "2026-09-04T04:59:03.331Z"
+    },
+    {
+      "title": "Show HN: ToolJet – Build no-code internal tools using Codex/Claude Code",
+      "url": "https://tooljet.com",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-09-03T08:14:16Z",
+      "fetched_at": "2026-09-04T04:59:03.331Z"
+    },
+    {
+      "title": "Artifact Server: open-source Claude Artifacts alternative",
+      "url": "https://github.com/plannotator/artifact-server",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-09-03T18:44:59Z",
+      "fetched_at": "2026-09-04T04:59:03.331Z"
+    },
+    {
+      "title": "Show HN: Generate a Claude Code or Codex agent fleet from one HTML file",
+      "url": "https://github.com/bob-codedaptive/fleet-generator",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-09-03T22:45:49Z",
+      "fetched_at": "2026-09-04T04:59:03.331Z"
+    },
+    {
+      "title": "Claude's new system prompt doesn't want to reproduce song lyrics",
+      "url": "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-09-03T14:02:47Z",
+      "fetched_at": "2026-09-04T04:59:03.331Z"
+    },
+    {
+      "title": "The Endless Temptation of Claude",
+      "url": "https://discardpile.pika.page/posts/the-endless-temptation-of-claude",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-09-03T12:44:38Z",
+      "fetched_at": "2026-09-04T04:59:03.331Z"
+    },
+    {
+      "title": "Show HN: I processed 100k+ LinkedIn posts into open-source Claude Code skills",
+      "url": "https://github.com/sergebulaev/linkedin-skills",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-09-03T19:35:53Z",
+      "fetched_at": "2026-09-04T04:59:03.331Z"
+    },
+    {
+      "title": "DiskSpace: Building an app 3 (ok 4) times in a day with Claude",
+      "url": "https://shaneosullivan.wordpress.com/2026/09/03/clean-your-mac-windows-linux-pc-with-disk-space/",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-09-03T19:00:13Z",
+      "fetched_at": "2026-09-04T04:59:03.331Z"
+    },
+    {
+      "title": "Inside Google’s $200bn Wall Street finance machine for Anthropic",
+      "url": "https://www.ft.com/content/549f2e23-5aa2-49c7-9ea6-a9784ab7087c",
+      "source": "hn",
+      "score": 19,
+      "content": "",
+      "published_at": "2026-09-03T15:26:27Z",
+      "fetched_at": "2026-09-04T04:59:03.767Z"
+    },
+    {
+      "title": "Top Pentagon official reaffirms Anthropic blacklist despite Lutnick comments",
+      "url": "https://www.axios.com/2026/09/03/pentagon-reaffirms-anthropic-blacklist",
+      "source": "hn",
+      "score": 5,
+      "content": "",
+      "published_at": "2026-09-03T19:32:58Z",
+      "fetched_at": "2026-09-04T04:59:03.767Z"
+    },
+    {
+      "title": "GPT 6 is way behind Anthropic on Artificial Analysis",
+      "url": "https://artificialanalysis.ai/models/gpt-6-astra",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-09-03T22:05:49Z",
+      "fetched_at": "2026-09-04T04:59:03.767Z"
+    },
+    {
+      "title": "Anthropic's distillation battle turns to the dark web as China concerns swell",
+      "url": "https://www.cnbc.com/2026/09/03/anthropic-distillation-battle-turns-to-dark-web-china-concerns-swell.html",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-09-03T12:11:42Z",
+      "fetched_at": "2026-09-04T04:59:03.767Z"
+    },
+    {
+      "title": "Grep beats LSP? Why coding agents ignore your fancier tools",
+      "url": "https://www.agentconnect.md/blog/grep-beat-lsp-harness/",
+      "source": "hn",
+      "score": 32,
+      "content": "",
+      "published_at": "2026-09-04T03:40:26Z",
+      "fetched_at": "2026-09-04T04:59:04.207Z"
+    },
+    {
+      "title": "GPT-6 Astra makes major gains in the Artificial Analysis Coding Agent Index",
+      "url": "https://artificialanalysis.ai/articles/benchmarking-gpt-6-astra",
+      "source": "hn",
+      "score": 21,
+      "content": "",
+      "published_at": "2026-09-03T20:11:25Z",
+      "fetched_at": "2026-09-04T04:59:04.207Z"
+    },
+    {
+      "title": "Show HN: Ardent, a code-first agent for non-engineering work",
+      "url": "https://ardent.ai/",
+      "source": "hn",
+      "score": 10,
+      "content": "I’m Nate, the founder of Ardent. We just shipped our public beta, and we’d love your thoughts!<p>Ardent is an agent running in a desktop (Electron) app built to help with knowledge work, designed for less-technical people outside engineering. Think Codex or Claude Cowork, but built around collaboration and customization.<p>I know, I know, it’s yet another agent harness! Ardent is a little different – it leans heavily on codegen to solve problems. Most agents are basically just a bag of tools and a while loop, but Ardent writes code to complete tasks, making it much faster and more token-efficient. [0]<p>Lots of companies are trying to build their own agent harness right now, because token budgets make software appear cheap, and it seems like a competitive advantage to own a custom agent.<p>The thing is, agents are deceptively complex. They aren’t light wrappers around the model anymore; the harness makes a big difference in how capable the agent is. They also come with lots of sticky problems: context management, sandboxing and permissions, authz&#x2F;authn to remote services, etc.<p>Instead of building your own harness from scratch, you can customize Ardent using abilities: TypeScript libraries that can expose tools and prompts which can be used by the agent. They’re like agent skills, but closer to regular code libraries: type-safe, importable, and with well-defined permissions. Ardent can help you build abilities, but you can also create them by hand if you prefer.<p>Anyone can share abilities with everyone in their organization with a single click, and if Ardent notices that the user is doing repeatable work, it offers to transform the adhoc solution into a reusable ability. Say you prepare the same project update every Friday, pulling issues from Linear and docs from Google Drive. Ardent can turn that workflow into a reusable ability that you can share with everyone in your company.<p>Your company’s ability catalog is like a standard library. To solve a problem",
+      "published_at": "2026-09-03T15:01:24Z",
+      "fetched_at": "2026-09-04T04:59:04.207Z"
+    },
+    {
+      "title": "Hugging Face open-sources Funes, a local-first memory layer for coding agents",
+      "url": "https://huggingface.co/blog/funes",
+      "source": "hn",
+      "score": 9,
+      "content": "",
+      "published_at": "2026-09-04T03:45:09Z",
+      "fetched_at": "2026-09-04T04:59:04.207Z"
+    },
+    {
+      "title": "Agentic Search",
+      "url": "https://mistral.ai/news/agentic-search/",
+      "source": "hn",
+      "score": 7,
+      "content": "",
+      "published_at": "2026-09-04T03:18:29Z",
+      "fetched_at": "2026-09-04T04:59:04.207Z"
+    },
+    {
+      "title": "Show HN: Play Hide and Seek vs. a Self-Improving Agent Using WebMCP",
+      "url": "https://lightcone-webmcp.netlify.app/",
+      "source": "hn",
+      "score": 6,
+      "content": "Hey, built a small game to learn about the WebMCP standard. Use the Codex app, start a new chat in Work mode using Sol or Terra, open the built-in browser (cmd+shift+b), navigate to the url, and paste these instructions &quot;Play the WebMCP game at <a href=\"https:&#x2F;&#x2F;lightcone-webmcp.netlify.app&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;lightcone-webmcp.netlify.app&#x2F;</a>. Read the briefing tool first, then start playing when you&#x27;re ready.&quot;",
+      "published_at": "2026-09-03T11:12:38Z",
+      "fetched_at": "2026-09-04T04:59:04.207Z"
+    },
+    {
+      "title": "Show HN: Instantly get the transcript from the agent that wrote any line of code",
+      "url": "https://github.com/ctxrs/ctx/blob/main/README.md",
+      "source": "hn",
+      "score": 5,
+      "content": "This is basically &quot;git blame but for agent sessions&quot;.<p>In the olden days, we would use git blame (or gitlens extension) to see what body of work a certain line range or file was a part of. We would look back at the PR to see why something was done a certain way.<p>While agents can still do this part well, we can now take it a step further: we can surface the entire agent session from when the code was originally committed! You (or rather your agent) can go back and read the entire original transcript from when it was done.<p>This is very helpful for figuring out why something was done wrong. Maybe a missed assumption, maybe just regular slop. Either way it helps a ton to reference the original implementation session.<p>This is an extra capability, you can also use the regular search to pull up old sessions and work.<p>It runs fully locally and has a pretty cool set of performance optimizations if you care to look into what makes it so fast.<p>I built it for myself and didn&#x27;t look at my own usage levels until this week and realized the search and blame commands are being used over 1k times per day (yes it&#x27;s a lot, but against 5b tokens per day it&#x27;s reasonable).",
+      "published_at": "2026-09-03T14:09:53Z",
+      "fetched_at": "2026-09-04T04:59:04.207Z"
+    },
+    {
+      "title": "Show HN: Bridle: hand your agent's context to a coworker's agent",
+      "url": "https://www.bridle.network/",
+      "source": "hn",
+      "score": 5,
+      "content": "A college went on holiday this week and his agent was the one that did the whole migration from Shopware to Shopify. All products, domains, DNS- basically, it had all the knowledge. I spent the morning figuring out how to answer questions to client and finish up what was left to do. From then on we connected our agents with Bridle.<p>Bridle is a CLI that moves work between agents, so that handoff is a command\nrather than a memory:<p>bridle send marko.dev --note &quot;migration 0042 is half-applied, continue&quot;\n  bridle queue marko.dev --title &quot;finish the retry backoff — see the note&quot;\n  bridle inbox<p>Idea came from Tailscale where both ends need to connect in (bridle up). \nBeing on the same mesh grants nothing on its own.  Alos payloads are sealed to the recipient, so the coordination server routes by name and holds ciphertext it can&#x27;t read.<p>I tried to make it super simple to run and free to test:\nnpm install -g bridle-cli &amp;&amp; bridle up<p>Let me know what you think, courious if someone finds it useful our team is super exceted .",
+      "published_at": "2026-09-03T17:48:22Z",
+      "fetched_at": "2026-09-04T04:59:04.207Z"
+    },
+    {
+      "title": "Show HN: Keydris - Check what an agent is allowed to do before it runs",
+      "url": "https://keydris.com",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-09-03T14:08:01Z",
+      "fetched_at": "2026-09-04T04:59:04.207Z"
+    },
+    {
+      "title": "Show HN: Devbar – Point at what to change. Leave a comment. Your agent ships it",
+      "url": "https://devbar.sh",
+      "source": "hn",
+      "score": 3,
+      "content": "I built this toolbar to power my agentic ui&#x2F;ux design flows. Too many times I found myself copy&#x2F;pasting screenshots into Claude.<p>Use devbar to select elements on a page, leave your notes and easily send them to your agent or copy-paste to your clipboard.<p>Integrate with our API to send bug and feature reports directly to Slack...then auto-triage and implement with your agent.<p>Are you tired of receiving bug reports without a URL or session information? With devbar.sh that&#x27;s a remnant of the past.<p>Give devbar to a product team or customers and have them mark up your entire site with annotations that can be handed off straight to the agent.",
+      "published_at": "2026-09-03T19:19:42Z",
+      "fetched_at": "2026-09-04T04:59:04.207Z"
+    },
+    {
+      "title": "Agentic semantic and code search at scale",
+      "url": "https://entire.io/blog/introducing-agentic-search-for-code-and-context",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-09-03T17:31:33Z",
+      "fetched_at": "2026-09-04T04:59:04.207Z"
+    },
+    {
+      "title": "Show HN: VT Code – My attempt at building a coding-agent harness",
+      "url": "https://github.com/vinhnx/VTCode",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-09-03T14:03:24Z",
+      "fetched_at": "2026-09-04T04:59:04.207Z"
+    },
+    {
+      "title": "Show HN: Openvurp – A wallet of AI agents that use tools and consult each other",
+      "url": "https://github.com/openvurp/openvurp",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-09-03T13:25:27Z",
+      "fetched_at": "2026-09-04T04:59:04.207Z"
+    },
+    {
+      "title": "There are many agent harnesses, but this one is mine",
+      "url": "https://earendil.com/posts/there-are-many-agent-harnesses-but-this-one-is-mine/",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-09-03T11:54:17Z",
+      "fetched_at": "2026-09-04T04:59:04.207Z"
+    },
+    {
+      "title": "Show HN: DrawDB Pro – design database schemas for your team and agents",
+      "url": "https://www.drawdb.app/",
+      "source": "hn",
+      "score": 3,
+      "content": "2 years ago I launched drawDB on here. It was my very first project that I open-sourced and it ended up going kinda viral. A month ago I launched drawDB Pro for solo devs and teams. It was actually my manager that encouraged me to go build it to help with my promotion :3<p>The project has come a long long way. It started as a simple canvas with local storage and now we have proper cloud storage, team permissions, real-time collaboration, AI assistant, versioning, MCP, etc. Now I&#x27;m trying to figure out all the stuff beyond development although most of it is outside my comfort zone for now.<p>You can try it out here: <a href=\"https:&#x2F;&#x2F;www.drawdb.app&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.drawdb.app&#x2F;</a>. You don&#x27;t need an account or a card.<p>I&#x27;d love to hear your feedback. How would you (or your agents) use something like this in your workflow? Or what would you like to see?",
+      "published_at": "2026-09-03T21:56:51Z",
+      "fetched_at": "2026-09-04T04:59:04.207Z"
+    },
+    {
+      "title": "GPT‑6 Astra",
+      "url": "https://simonwillison.net/2026/Sep/3/gpt6-astra/",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-09-03T20:18:41.000Z",
+      "fetched_at": "2026-09-04T04:59:01.974Z"
+    },
+    {
+      "title": "llm-gemini 0.34",
+      "url": "https://simonwillison.net/2026/Sep/2/llm-gemini/",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-09-02T16:39:38.000Z",
+      "fetched_at": "2026-09-04T04:59:01.974Z"
+    },
+    {
+      "title": "Claude's new system prompt really doesn't want to reproduce song lyrics",
+      "url": "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-09-02T14:16:42.000Z",
+      "fetched_at": "2026-09-04T04:59:01.974Z"
+    },
+    {
+      "title": "Quoting Rick Brewster",
+      "url": "https://simonwillison.net/2026/Sep/2/rick-brewster/",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-09-02T05:50:57.000Z",
+      "fetched_at": "2026-09-04T04:59:01.974Z"
+    },
+    {
+      "title": "LLaDA-Image: Building Strong Image Generators with Fully Open Training Recipes",
+      "url": "https://huggingface.co/papers/2609.03796",
+      "source": "hf-daily-papers",
+      "score": 63,
+      "content": "We introduce LLaDA-Image, a unified framework that pairs a 6B Diffusion Transformer (DiT) trained from scratch with a frozen vision-language understanding module built on the LLaDA2.0-Mini diffusion language model backbone. Instead of relying heavily on paired image-text data from the beginning, we first build a strong visual generative prior through image-only pre-training and mid-training. The generation pipeline comprises 220M samples, 98 of which are real images. For efficient and scalable optimization, we use parameter-free RMSNorm throughout the DiT together with the Muon optimizer. The resulting unified model produces highly photorealistic images while accurately following fine-grained editing instructions. We further distill LLaDA-Image into LLaDA-Image-Turbo, enabling fast inference in 2-4 sampling steps. On Qwen-Image-Bench, LLaDA-Image achieves overall scores of 53.53 and 53.38 on the English and Chinese tracks, respectively, setting a new state-of-the-art among open-source models on both tracks. To support further research on capable and efficient generative models, we release our model weights, training code, and detailed recipes.",
+      "published_at": "2026-09-02T20:00:00.000Z",
+      "fetched_at": "2026-09-04T04:59:02.031Z"
+    },
+    {
+      "title": "LatentPress: Context Compression Beyond Text and Vision",
+      "url": "https://huggingface.co/papers/2609.01507",
+      "source": "hf-daily-papers",
+      "score": 49,
+      "content": "Compressed context is usually carried as human-readable text or as rendered images that must be decoded, even when its consumer is a language model. We introduce LatentPress, which writes conversational histories and long documents into a third representation: continuous memory tokens that a frozen decoder reads directly through its input-embedding interface, with no text reconstruction at inference. A small reader-matched writer compresses 4-16times while training only an adapter (4.2M-26.2M parameters, sim!0.1% of the decoder). On LongMemEval, LatentPress reaches 0.504 accuracy at 7.70times compression versus 0.490 for uncompressed evidence, outperforming text summaries (0.184) and OCR-based compression (0.426 to 0.312). On LongBench-QA, in-domain writers match or exceed raw-context reading at 4-8times compression, while 16times trails raw. Writing takes 43ms per conversation, roughly an order of magnitude faster than text summarization or OCR reconstruction, and reading is 5-9times faster than raw context or cached OCR. We validate the interface under two transfer settings, zero-shot from UltraChat to LongMemEval memory QA and from LongMemEval-derived QA to unseen LongBench document domains, establishing direct soft tokens as a practical machine-facing context interface beyond text and vision. The implementation of the experiments could be found at: https://github.com/xuyd16ai/context_softtoken_compress .",
+      "published_at": "2026-08-31T20:00:00.000Z",
+      "fetched_at": "2026-09-04T04:59:02.031Z"
+    },
+    {
+      "title": "Why Gated DeltaNet Survives 4-Bit Quantization: NVFP4 W4A4 for the Recurrent Half of a Hybrid 27B LLM",
+      "url": "https://huggingface.co/papers/2609.04098",
+      "source": "hf-daily-papers",
+      "score": 47,
+      "content": "Hybrid LLMs pair softmax attention with linear-attention layers such as Gated DeltaNet (GDN), whose recurrent state summarizes the context in fixed size. Early community 4-bit quantizations of Qwen3.8-27B (48 GDN layers, 16 attention layers) left the GDN block in 8- or 16-bit precision -- especially its decay and write-strength gates -- on the intuition that errors in a recurrence accumulate over long contexts. We test that intuition by building Minima: NVFP4 W4A4 on all 496 linear layers, GDN included. Across perplexity at 4K/32K, MMLU-Pro, GSM8K, AIME'25, GPQA-Diamond, LiveCodeBench, and RULER retrieval to 64K, Minima matches BF16 within seed noise (5-task average -0.52) while being the smallest (17.5 GiB) and fastest-prefill (+14-19%) recipe we compare, and its 32K perplexity gap shrinks with position. A four-part mechanism study explains why: (i) NVFP4's 16-element block scaling localizes the residual stream's extreme outliers, equalizing activation error across layer roles; (ii) the supposedly fragile gate projections are the least sensitive -- softplus/exponential and sigmoid parameterizations compress ~11% GEMM error to ~2% output error; (iii) the delta-rule recurrence holds injected noise at a flat plateau over 32K tokens and forgets a state impulse within hundreds of steps, because each write overwrites the state along the current key direction; (iv) the per-token quantization cost washes out with context instead of compounding. We also repair a global-scale mismatch that arises when per-module-calibrated NVFP4 checkpoints are served by kernels that fuse those modules into one GEMM, and show calibrated FP8 KV-cache scales are performance-free. The result: a practical recipe -- quantize everything, ship KV scales -- and a mechanistic account of why the recurrent half of a hybrid LLM is the easy half to quantize. Checkpoint: https://huggingface.co/minima-ai/mnma_qwen3.8_27b_nvfp4",
+      "published_at": "2026-09-02T20:00:00.000Z",
+      "fetched_at": "2026-09-04T04:59:02.031Z"
+    },
+    {
+      "title": "Random Attention: Rethinking KV Cache Eviction for Efficient Reasoning",
+      "url": "https://huggingface.co/papers/2609.03430",
+      "source": "hf-daily-papers",
+      "score": 41,
+      "content": "Large language models achieve superior performance on tasks that require extended reasoning, but long chains of thought make the KV cache a severe memory bottleneck. Existing KV cache compression methods share one paradigm: score each cached token by some estimate of how much it will matter later, and keep the top-scoring ones. We show that the selection signal contributes almost nothing. Random Attention keeps the prompt and evicts uniformly at random within each attention head, computing no score at all; across four models and six reasoning tasks it matches the strongest prior evictor while serving 32-43% higher throughput than it in vLLM deployment. Controlled experiments explain this by showing that 1) the prompt is the fragile part of the cache, and most of the gap between selectors is just whether their selection signal happened to keep it; 2) the reasoning trace protects itself against eviction with redundancy at two levels, in the text (the model restates what it still needs as it works) and across attention heads (each keeps its own copy of the trace), so once the prompt is safe, a random draw retains enough copies of what the model still needs, and no score is required to pick them. Our code is publicly available at https://github.com/SalesforceAIResearch/Random-Attention.",
+      "published_at": "2026-09-02T20:00:00.000Z",
+      "fetched_at": "2026-09-04T04:59:02.031Z"
+    },
+    {
+      "title": "Rethinking On-Policy Distillation of Large Language Models II: One Training Example",
+      "url": "https://huggingface.co/papers/2609.04172",
+      "source": "hf-daily-papers",
+      "score": 35,
+      "content": "On-policy distillation (OPD) combines student-generated rollouts with dense token-level supervision from a teacher. Existing work has mainly studied its algorithmic behavior, leaving the role of training data unclear. We examine this role at the data-minimal limit by training on a single query. One-shot OPD keeps improving for hundreds of steps and recovers most of full-data OPD's gain across task domains and model families. We explain this result through the states visited during training and the rate at which the student aligns with the teacher. We measure state coverage, the fraction of the states full-data OPD visits that a query set's rollouts reach. A single query already reaches \\(71.5\\%\\), most of it within the first 100 steps. Adding semantically distinct queries raises coverage and validation accuracy together, until 16 queries reach \\(98.9\\%\\) and match full-data training. Yet alignment slows at a similar pace whether OPD trains on one query or the whole dataset, and even a fixed set of states takes hundreds of steps to absorb. OPD is therefore data-overfed but algorithm-starved. Its rollouts quickly expose broad supervision, while the student absorbs that supervision increasingly slowly. The state-coverage result extends to multi-teacher OPD, where 16 semantically diverse queries per domain match full-data MOPD. As a further stress test, content-light templates and off-domain WildChat queries also approach the real-query baseline. Task content and induced state coverage can therefore come apart. We hope these findings direct future work toward the step efficiency of OPD, and prompt a re-examination of the data and the mechanisms behind its recent successes in frontier post-training.",
+      "published_at": "2026-09-02T20:00:00.000Z",
+      "fetched_at": "2026-09-04T04:59:02.031Z"
+    },
+    {
+      "title": "The Missing Temporal Link: Temporal Context Routing for Script-Driven Audio-Video Generation",
+      "url": "https://huggingface.co/papers/2609.02367",
+      "source": "hf-daily-papers",
+      "score": 10,
+      "content": "Joint audio-video generation models have made substantial progress in visual quality and audio-visual synchronization. However, they still provide limited control over when shot transitions occur and dialogue is spoken. This limitation constrains their application in script-driven content creation, where timing errors can undermine narrative coherence and the viewing experience. Current joint generators align video and audio representations on a shared temporal axis, yet the precise timing of shots and dialogue specified in a structured prompt is encoded only in the prompt's text representation and remains unaligned with the temporal coordinates of either modality. Consequently, video and audio may remain synchronized with each other while both fail to follow the script timeline. This mismatch motivates us to extend temporal alignment beyond video and audio to include the structured script. We therefore introduce Temporal Context Routing (TCR), which maps the script timing onto the shared temporal axis of video and audio generation and routes each prompt's guidance to the corresponding positions in both modalities. Compared with the baseline on 200 test scripts, TCR reduces Shot Boundary MAE by 96%, from 1.11 s to 0.042 s, and raises Dialogue Acc@0.5 s from 28.3% to 84.1%. TCR achieves these improvements while maintaining visual quality and audio-visual synchronization comparable to those of the baselines. A user study further shows that participants prefer TCR on all five evaluated dimensions.",
+      "published_at": "2026-09-01T20:00:00.000Z",
+      "fetched_at": "2026-09-04T04:59:02.031Z"
+    },
+    {
+      "title": "CORE: Improving Compositional Reasoning in MLLM Embedding via Reranker Distillation",
+      "url": "https://huggingface.co/papers/2609.04083",
+      "source": "hf-daily-papers",
+      "score": 9,
+      "content": "MLLM-based embedding models remain limited in compositional retrieval, often failing to distinguish scenes containing the same concepts but different attribute-object bindings. Yet the same backbone can resolve such distinctions when used as a cross-attentive reranker, motivating us to distill its compositional judgments into the embedding model. We propose CORE, which synthesizes candidate lists spanning five compositional matching levels and introduces a Rank-KL objective that trains the embedding model to reproduce the reranker's fine-grained ranking. We further introduce a graded evaluation protocol and compare contrastive learning, pairwise CoSENT, and listwise Rank-KL under the same data and tuning budget. Our comparison shows that both CoSENT and Rank-KL use the multi-level supervision more effectively than contrastive learning, with Rank-KL achieving the strongest overall performance. Across three compositional reasoning benchmarks (COLA, SUGARCREPE++, NEGBENCH), CORE-RERANKER-8B achieves an 82.7% total average, outperforming Jina-Reranker by 10.7 points, while CORE-EMBED-8B achieves the best total average (0.666) among all evaluated embedding models. The improvements transfer to the MCMR benchmark without sacrificing retrieval performance on COCO and Flickr30K.",
+      "published_at": "2026-09-02T20:00:00.000Z",
+      "fetched_at": "2026-09-04T04:59:02.031Z"
+    },
+    {
+      "title": "Terminal-Universe: Turning Agent Trajectories into Scalable Terminal Environments",
+      "url": "https://huggingface.co/papers/2609.04148",
+      "source": "hf-daily-papers",
+      "score": 6,
+      "content": "As terminal-based code agents become prevalent, agent trajectories have accumulated at scale, while realistic, executable environments remain scarce. However, environments are what agent post-training actually requires: each can be re-queried into many verifiable tasks and provides execution feedback, whereas a trajectory is a single frozen demonstration. Rather than generating environments from scratch, we observe that the tool-execution history in existing trajectories exposes the structure and contents of the environments in which they ran, making it possible to reconstruct those environments from the trajectories themselves. Thus, we introduce Terminal-Universe, a framework which turns each trajectory into a reusable environment and explores it for synthesizing new tasks and continued interactions. Specifically, Terminal-Universe replays the file operations recorded in a trajectory to restore each file before the agent modified it, yielding a partial workspace; a completion agent then supplies the missing files and dependencies. On this recovered workspace, we both reconstruct the original intent task and synthesize entirely new ones. Besides, we also scale the tasks along two complementary axes: breadth and depth. For breadth, we mine directional dependency relations between related environments and synthesize cross-workspace queries spanning multiple codebases, as developers routinely do in real-world development. For depth, we extend the initial single-turn query into a multi-round session that captures iterative user feedback and requirement refinement via a user agent. Applied to public terminal agent trajectories, Terminal-Universe produces 37.3k task-sufficient environments. Supervised fine-tuning of Qwen3.5-27B on this corpus improves single-round performance on Terminal-Bench 2.1 by 11.9 points and multi-round performance on EvoCode-Bench v2 MT@4 by 13.8 points.",
+      "published_at": "2026-09-02T20:00:00.000Z",
+      "fetched_at": "2026-09-04T04:59:02.031Z"
+    },
+    {
+      "title": "RealSWE: A Compositional Evaluation of Coding Agents under Realistic User Requests",
+      "url": "https://huggingface.co/papers/2608.27831",
+      "source": "hf-daily-papers",
+      "score": 6,
+      "content": "Coding agents are now commonly evaluated on the SWE-bench family of benchmarks, whose tasks are built from curated GitHub issues: long, structured, and information-rich. Real user requests, however, are typically far shorter and less structured. To characterize this gap, we define a six-category information taxonomy and four dimensions of linguistic style, and apply them to real user prompts from SWE-chat and problem statements from SWE-bench Verified and Pro. We find that requests carrying only a problem statement, alone or with limited additional context, account for 88% of real prompts but just 7% of benchmark problems. Furthermore, 87% of real prompts are casually written whereas 94% of benchmark problems are formal. Guided by these observations, we introduce RealSWE, 381 multi-variant task families derived from SWE-bench Verified and Pro. Variants within each family share the same underlying task and gold patch while differing only in information composition and linguistic style. Evaluating seven contemporary LLMs with RealSWE, we find that i) realistic inputs reduce resolution rates by 6.4 pp on average and can change model rankings. Controlled analysis further shows that ii) including Desired Behavior and Motivation significantly affects performance, whereas Environment Information and Reproduction Steps merely add tokens without measurable benefit; iii) linguistic style has only small, model-dependent effects. These findings provide actionable guidance for users and agents: explicitly stating the desired behavior and motivation, which most real prompts omit, substantially improves the LLM's software engineering performance.",
+      "published_at": "2026-08-30T20:00:00.000Z",
+      "fetched_at": "2026-09-04T04:59:02.031Z"
+    },
+    {
+      "title": "Puffin-World: Scaling a Unified Multimodal Model with Native 3D World States",
+      "url": "https://huggingface.co/papers/2609.04196",
+      "source": "hf-daily-papers",
+      "score": 5,
+      "content": "We propose Puffin-World, a unified multimodal architecture that integrates physical understanding, spatial simulation, and 3D world generation and reconstruction without relying on external offline modules. To reliably construct and interact with 3D worlds, our framework jointly models three native world states: physics (gravity field and latitude), geometry (depth), and appearance (image), together with a unified Omni-Camera representation that supports diverse tasks and flexible motions. Beyond modeling these states, we introduce a strategy for propagating physical dynamics across future frames. By grounding absolute camera properties in the real world, Puffin-World enables physically consistent and visually stable world generation. We further couple appearance and geometry within a single generative process, jointly synthesizing each future view and reconstructing its underlying geometry. This unified paradigm enables interleaved closed-loop applications requiring synergy across multiple tasks, including mimic and self-calibrated world exploration. To scale Puffin-World to complex scenarios, we construct Puffin-16M, comprising 15 million vision-language-camera triplets and 1 million trajectories featuring various and challenging motions. To foster further research in this area, we released the code, models, and datasets.",
+      "published_at": "2026-09-02T20:00:00.000Z",
+      "fetched_at": "2026-09-04T04:59:02.031Z"
+    },
+    {
+      "title": "Beyond Retrieval: Progressive Latent Memory Evolution for Streaming Video Understanding",
+      "url": "https://huggingface.co/papers/2609.04131",
+      "source": "hf-daily-papers",
+      "score": 4,
+      "content": "Streaming video understanding requires multimodal large language models (MLLMs) to process continuous visual inputs and respond to user queries under strict causality and bounded memory. Existing approaches typically compress historical observations into an external memory bank and retrieve query-relevant evidence as additional visual context. Though effective, this store-and-retrieve paradigm keeps historical evidence as external visual context, preventing it from being internalized into a compact, evolving latent memory that can continuously guide streaming reasoning. To bridge this gap, we introduce LatentStream, a progressive latent working memory framework that shifts streaming memory from store-and-retrieve to retrieve-and-internalize. Specifically, LatentStream comprises three coordinated components. First, Query-agnostic Hierarchical Streaming Memory organizes visual history into short-, mid-, and long-term levels under a fixed memory budget through Jenks-guided adaptive consolidation. Once a query arrives, Hierarchical Latent Memory Evolution equips groups of latent memory tokens with progressively expanding memory receptive fields, enabling them to iteratively retrieve historical evidence from their corresponding scopes and internalize it into a compact, fixed-length latent memory. Finally, Progressive Confidence-guided Latent Memory Optimization constructs a hierarchical progression reward from group-wise predictive entropy and jointly refines the latent memory tokens and retrieved evidence, encouraging increasingly confident streaming reasoning. Extensive experiments demonstrate that LatentStream achieves new state-of-the-art results on existing online and offline video benchmarks.",
+      "published_at": "2026-09-02T20:00:00.000Z",
+      "fetched_at": "2026-09-04T04:59:02.031Z"
+    },
+    {
+      "title": "WorldReward: Reward Modeling for Camera-Conditioned World Models",
+      "url": "https://huggingface.co/papers/2609.03952",
+      "source": "hf-daily-papers",
+      "score": 3,
+      "content": "Camera-conditioned world models generate interactive videos in which commanded actions should induce the expected scene changes while appearance, geometry, and temporal dynamics remain coherent. Existing rewards assess these requirements separately: geometry-based rewards estimate trajectory execution but cannot judge the visual quality of the executed motion, whereas image-based rewards measure frame quality without capturing action execution or temporal dynamics. We posit that a vision-language model (VLM) offers a shared reasoning space for relating actions to their visual outcomes. However, judging a complete long video against its full action sequence creates a lengthy, noisy context in which short-lived local action evidence can be missed or diluted. We present WorldReward, a VLM-based pairwise preference reward model that unifies action-consistency and visual-quality evaluation for camera-conditioned world models. WorldReward decomposes paired videos into action-aligned chunks, organizes each chunk into structured visual evidence, and aggregates chunk-level decisions by voting into separate video-level action and visual-quality preferences. To train it, we construct a large-scale reasoning-augmented preference dataset using structured judgments generated by a frontier VLM and refined through tool-based agent auditing and targeted human review. We further introduce WorldReward-Bench, a human-annotated benchmark measuring reward-model agreement with human preferences across action consistency, appearance quality, and motion quality. WorldReward achieves the highest agreement on all three dimensions, exceeding GPT-5.5 by 3.42, 1.45, and 3.56 percentage points, respectively. When used for RL post-training of HY-WorldPlay 1.5, it consistently improves both action execution and visual quality across short- to long-term horizons.",
+      "published_at": "2026-09-02T20:00:00.000Z",
+      "fetched_at": "2026-09-04T04:59:02.031Z"
+    },
+    {
+      "title": "FlashRender: Few-Step Generative Rendering via Camera-Controlled Video MeanFlow",
+      "url": "https://huggingface.co/papers/2609.03563",
+      "source": "hf-daily-papers",
+      "score": 2,
+      "content": "We present FlashRender, a few-step generative rendering framework that retakes a source video along a target camera trajectory in seconds. We identify sampling-step-dependent camera control as a prominent manifestation of discretization error in existing multi-step generative rendering models and show that resolving this inconsistency substantially lowers denoising trajectory curvature, facilitating subsequent step distillation. To this end, we introduce Representation Transformation and Alignment (RETA), which aligns hidden source-video representations with target-video features from a frozen visual geometry model. This directly encodes the geometric transformation within the source-video stream, enabling sampling-step-consistent camera control. We then fine-tune the model with the MeanFlow objective on the lower-curvature denoising trajectory induced by RETA, allowing the model to more effectively address discretization error. Finally, we apply on-policy flow map distillation to correct self-rollout errors under fixed few-step sampling. Extensive experiments show that RETA, MeanFlow, and on-policy flow map distillation play complementary roles in few-step generative rendering. Together, they enable our approach to match multi-step baselines in video quality and geometric consistency at 25x lower sampling cost while achieving superior camera controllability, even under out-of-distribution target camera trajectories.",
+      "published_at": "2026-09-02T20:00:00.000Z",
+      "fetched_at": "2026-09-04T04:59:02.031Z"
+    },
+    {
+      "title": "Environment Evolution for Terminal Agents",
+      "url": "https://huggingface.co/papers/2609.04128",
+      "source": "hf-daily-papers",
+      "score": 2,
+      "content": "Scaling interactive and verifiable environments is critical for training terminal agents. As frontier models become more capable, environments synthesized from scratch become less challenging and thus provide limited learning signals. Recent co-evolution methods iteratively synthesize environments near the model's learnable frontier based on weaknesses exposed during rollouts. However, their dependence on on-policy rollouts limits generalization and the continuous provision of learning signals as the model becomes stronger. In this paper, we propose environment evolution, which incrementally increases environment difficulty off-policy and schedules the evolved environments generation by generation during training to provide continuous learning signals. We derive three evolution directions that influence environment difficulty from the multi-turn learning objective and then implement evolution along these directions through a loop-engineered multi-agent harness. Quantitative rollout experiments with Hy4 preview, Claude Opus 5, and GPT-5.6 Sol show that environment evolution consistently produces more difficult environments. We validate its effectiveness on Qwen3.6-27B and Qwen3.6-35B-A3B through simple long-horizon RL training, improving their performance by 14.4 and 18.0 percentage points on Terminal-Bench 2.1, respectively.",
+      "published_at": "2026-09-02T20:00:00.000Z",
+      "fetched_at": "2026-09-04T04:59:02.031Z"
+    },
+    {
+      "title": "Principia: Relational Physics Tests for Video Models",
+      "url": "https://huggingface.co/papers/2609.04200",
+      "source": "hf-daily-papers",
+      "score": 1,
+      "content": "Evaluating physical reasoning in video models is difficult because absolute motion measurements depend on frame rate, object scale, and camera calibration, all of which are often ambiguous or unavailable in generated video. We propose a different approach. When two objects in the same scene obey the same physical law, their motions must satisfy predictable relationships, and these relationships hold independent of calibration. We introduce Principia, a benchmark that evaluates Newtonian physics through relational consistency between paired objects. Principia spans eight phenomena - gravity, restitution, friction, rotational inertia, projectile motion, momentum, pendulum, and mass-spring oscillation - across translational, rotational, collisional, and oscillatory dynamics, using real-world scenes recorded under controlled protocols. We also introduce a calibration-independent consistency score that quantifies physical violation directly in image space. Across thousands of generations from six state-of-the-art video generators, no model exceeds 0.42 on Principia despite all scoring around 0.8 on VBench. Vision-language models are evaluated on their ability to detect relational physics violations, with the best model achieving only 67% accuracy and most performing near chance level.",
+      "published_at": "2026-09-02T20:00:00.000Z",
+      "fetched_at": "2026-09-04T04:59:02.031Z"
+    },
+    {
+      "title": "Knowing When Not to Reuse: Conditional Experience Transfer in Autonomous LLM Post-Training",
+      "url": "https://huggingface.co/papers/2608.26730",
+      "source": "hf-daily-papers",
+      "score": 1,
+      "content": "Large language models offer broad capabilities, but adapting them to evolving domains, tools, and requirements often entails repeated post-training. Autonomous systems automate parts of this process by proposing updates, training candidates, and using evaluation feedback to select subsequent proposals. As evidence accumulates, a central problem emerges: which past update evidence remains actionable after subsequent training has changed the parent model? An update's effect depends on its parent, data, and training stage. Treating past success as context-free permission can waste compute. If the resulting child is promoted, it can also degrade the subsequent training trajectory. We formulate this problem as conditional experience transfer and introduce Boundary-Calibrated Intervention Transfer (BCIT), a method that authorizes experience reuse before weight-changing training. BCIT binds an observed effect to its source context, checks applicability conditions, vetoes candidates with named hard conflicts, and obtains current-state evidence through a bounded training trial when needed. Fully trained candidates still face a shared adoption rule, and only observed events extend memory. On one 4B model adapted across finance reasoning, text-to-SQL, and function calling, candidate updates exhibit heterogeneous target and retention effects across the evaluated contexts. Under matched candidates, evidence, and compute, BCIT authorizes fewer harmful updates and attains higher equal-budget final-model quality than the evaluated alternatives. These results support treating experience authorization as a distinct problem in autonomous post-training.",
+      "published_at": "2026-08-26T20:00:00.000Z",
+      "fetched_at": "2026-09-04T04:59:02.031Z"
+    },
+    {
+      "title": "Editable Visual Design",
+      "url": "https://huggingface.co/papers/2609.04034",
+      "source": "hf-daily-papers",
+      "score": 0,
+      "content": "While diffusion base models such as GPT-Image-2 and Nano-Banana exhibit remarkable visual expressiveness, their end-to-end generation inherently yields flattened bitmaps with error-prone text, precluding layer-wise post-editing. Conversely, code-based visual generation via Coding Agents provides precise layout control and decoupled layers, yet remains constrained by a lack of global aesthetic intuition and the difficulty of coding complex visual assets.\n  To address this, we propose Editable Visual Design, a new paradigm driven by a Coding Agent. We designate the VLM as the ``creative brain'' for requirement comprehension, task planning, and aesthetic judgment, while utilizing the image generation model as an on-demand ``visual world simulator'' to synthesize standalone visual assets. Operating under an ``imagine first, then act'' closed-loop workflow, the agent generates isolated assets, writes native HTML/CSS, and iteratively refines the design against visual rendering feedback.\n  Furthermore, Agent Design Replay faithfully reproduces the creative and reasoning trajectory akin to that of professional human designers. Ultimately, the system delivers editable artifacts with decoupled layers and real text, enabling users to perform intuitive mouse dragging and layout adjustments on a graphical user interface. Validations on posters, infographics, and other scenarios show that this paradigm successfully achieves both refined aesthetics and production-grade editability.",
+      "published_at": "2026-09-02T20:00:00.000Z",
+      "fetched_at": "2026-09-04T04:59:02.031Z"
+    }
+  ]
+}
