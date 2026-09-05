@@ -1,0 +1,796 @@
+{
+  "date": "2026-09-05",
+  "fetched_at": "2026-09-05T04:51:46.638Z",
+  "summary": [
+    "  ✓ hn               83 items",
+    "  ✗ reddit           FAILED: all Reddit subreddit fetches failed",
+    "  ✓ simonwillison    4 items",
+    "  ✓ hf               0 items"
+  ],
+  "item_count": 87,
+  "items": [
+    {
+      "title": "Google AI Mode shows same products 21.6% more expensive than traditional search",
+      "url": "https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products",
+      "source": "hn",
+      "score": 374,
+      "content": "",
+      "published_at": "2026-09-04T11:59:15Z",
+      "fetched_at": "2026-09-05T04:51:44.821Z"
+    },
+    {
+      "title": "Corporate America is getting hooked on open-source AI",
+      "url": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
+      "source": "hn",
+      "score": 279,
+      "content": "<a href=\"https:&#x2F;&#x2F;archive.is&#x2F;kmOqm\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.is&#x2F;kmOqm</a>",
+      "published_at": "2026-09-04T15:33:45Z",
+      "fetched_at": "2026-09-05T04:51:44.821Z"
+    },
+    {
+      "title": "Can AI design circuit boards yet?",
+      "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
+      "source": "hn",
+      "score": 203,
+      "content": "",
+      "published_at": "2026-09-04T19:48:29Z",
+      "fetched_at": "2026-09-05T04:51:44.821Z"
+    },
+    {
+      "title": "OpenAI agents hijacked German website in previously undisclosed AI breakout",
+      "url": "https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04/",
+      "source": "hn",
+      "score": 93,
+      "content": "",
+      "published_at": "2026-09-04T10:30:57Z",
+      "fetched_at": "2026-09-05T04:51:44.821Z"
+    },
+    {
+      "title": "Meta new layoff goal of 60% to AI after moving 30% engineers to labelers",
+      "url": "https://blog.pragmaticengineer.com/the-pulse-meta-wanted-to-reduce-teams-by-60-because-of-ai/",
+      "source": "hn",
+      "score": 23,
+      "content": "",
+      "published_at": "2026-09-04T12:03:27Z",
+      "fetched_at": "2026-09-05T04:51:44.821Z"
+    },
+    {
+      "title": "Lords call for AI 'kill switch' powers in UK",
+      "url": "https://www.bbc.co.uk/news/articles/cn9wv80j9w9o",
+      "source": "hn",
+      "score": 7,
+      "content": "",
+      "published_at": "2026-09-04T15:33:01Z",
+      "fetched_at": "2026-09-05T04:51:44.821Z"
+    },
+    {
+      "title": "Personal AI Router for Local Inference",
+      "url": "https://www.nvidia.com/en-us/ai-on-rtx/personal-ai-router/",
+      "source": "hn",
+      "score": 7,
+      "content": "",
+      "published_at": "2026-09-05T01:35:40Z",
+      "fetched_at": "2026-09-05T04:51:44.821Z"
+    },
+    {
+      "title": "AI in 2026 feels like Covid in 2020",
+      "url": "https://bejofo.com/blog/ai-feels-like-the-pandemic",
+      "source": "hn",
+      "score": 7,
+      "content": "",
+      "published_at": "2026-09-04T12:43:07Z",
+      "fetched_at": "2026-09-05T04:51:44.822Z"
+    },
+    {
+      "title": "AMD unveils Threadripper Halo Station, an AI workstation with 96 cores, 2 MI350P",
+      "url": "https://www.tomshardware.com/pc-components/cpus/amd-unveils-threadripper-halo-station-an-ai-workstation-packing-96-cores-and-dual-liquid-cooled-mi350p-accelerators-the-most-powerful-workstation-in-the-world-can-run-trillion-parameter-models-says-amd",
+      "source": "hn",
+      "score": 6,
+      "content": "",
+      "published_at": "2026-09-04T15:32:02Z",
+      "fetched_at": "2026-09-05T04:51:44.822Z"
+    },
+    {
+      "title": "Chinese businesses giving away AI tokens with coffee, credit cards, dumplings",
+      "url": "https://restofworld.org/2026/china-ai-tokens-consumer-rewards-credit-cards-telcos-deepseek/",
+      "source": "hn",
+      "score": 6,
+      "content": "",
+      "published_at": "2026-09-04T10:58:24Z",
+      "fetched_at": "2026-09-05T04:51:44.822Z"
+    },
+    {
+      "title": "Show HN: Aurict – An open-source Terminal AI",
+      "url": "https://github.com/aurict/aurict",
+      "source": "hn",
+      "score": 5,
+      "content": "",
+      "published_at": "2026-09-04T08:08:14Z",
+      "fetched_at": "2026-09-05T04:51:44.822Z"
+    },
+    {
+      "title": "NetworkManager Works to Enforce AI Policy by Tricking AI Agents to Add a Canary",
+      "url": "https://www.phoronix.com/news/NetworkManager-AI-Canary",
+      "source": "hn",
+      "score": 5,
+      "content": "",
+      "published_at": "2026-09-04T19:00:11Z",
+      "fetched_at": "2026-09-05T04:51:44.822Z"
+    },
+    {
+      "title": "AI engineer breaks part of RSA encryption protocol by hand",
+      "url": "https://www.scientificamerican.com/article/whats-the-tech-behind-the-record-breaking-rsa-260-crack/",
+      "source": "hn",
+      "score": 5,
+      "content": "",
+      "published_at": "2026-09-04T13:15:04Z",
+      "fetched_at": "2026-09-05T04:51:44.822Z"
+    },
+    {
+      "title": "Climbers rescued on Mount Shasta after using AI chatbot to plan trip",
+      "url": "https://www.sfchronicle.com/outdoors/article/shasta-climbers-rescued-chatgpt-22414629.php",
+      "source": "hn",
+      "score": 5,
+      "content": "",
+      "published_at": "2026-09-04T12:32:51Z",
+      "fetched_at": "2026-09-05T04:51:44.822Z"
+    },
+    {
+      "title": "The jobs apocalypse is postponed. An AI jobs boom is here",
+      "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-09-05T01:15:04Z",
+      "fetched_at": "2026-09-05T04:51:44.822Z"
+    },
+    {
+      "title": "Nanya plans a $6B spending surge in 2027 to ride the AI memory boom",
+      "url": "https://thenextweb.com/news/nanya-6-billion-2027-ai-memory",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-09-04T21:25:26Z",
+      "fetched_at": "2026-09-05T04:51:44.822Z"
+    },
+    {
+      "title": "The Download: selling battlefield drone data and AI reshaping language",
+      "url": "https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-09-04T17:01:22Z",
+      "fetched_at": "2026-09-05T04:51:44.822Z"
+    },
+    {
+      "title": "Show HN: Sentrint, Ship AI features without losing sleep",
+      "url": "https://sentrint.com/",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-09-04T14:15:19Z",
+      "fetched_at": "2026-09-05T04:51:44.822Z"
+    },
+    {
+      "title": "Abliteration.ai is making a business out of removing AI guardrails",
+      "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-09-04T22:32:52Z",
+      "fetched_at": "2026-09-05T04:51:44.822Z"
+    },
+    {
+      "title": "Show HN: TERMy – A fast terminal assistant that does not use LLMs",
+      "url": "https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md",
+      "source": "hn",
+      "score": 103,
+      "content": "I love research and development, you may have heard of me because of PJON (Padded Jittering Operative Network). It is a network protocol I started developing in 2010, which was recently implemented in silicon by the ETH Zurich university thanks to the research of Pius Sieber.<p>I am excited to share with you TERMy, a terminal assistant built on top of the NPC-Forge framework. Unlike everything else being built today, TERMy does not use embeddings, machine-learning or LLMs. It runs on the CPU (even on a Raspberry Pi Zero) both in the terminal or client-side in a browser tab and responds in milliseconds. It is a cynical but very knowledgeable Linux terminal assistant that translates your natural language into shell commands without relying on a single artificial neuron.<p>I had a chance to focus for 2 months on my personal projects since early July, during the strange times of AI price hikes and the end of subsidized tokenmaxing. I was curious to see if I could develop from scratch a terminal assistant capable of handling simple natural language requests. I have a bad memory and got used to ask to copilot &quot;activate the virtual environment&quot; or similar trivial operations spending a non negligible sum every month. I started thinking, maybe I can do something to make my workflow more efficient? Do I really need trillions of parameters to accomplish those tasks?<p>How it Works<p>When you type a prompt, it goes through a lightweight NLU pipeline written in ~1000 lines of Python that implement the following steps:<p>1. Strip expletives, interjections, encouraging, discouraging and thanking words (remove noise)<p>2. Sentiment analysis<p>3. Exact Match (very fast)<p>4. Template Match (slower)<p>5. Probabilistic Match (even slower)<p>Step 5 relies on:<p>1. IDF (Inverse Document Frequency) to identify rare words.<p>2. BOW (Bag Of Words) to accommodate word inversions.<p>3. IDF weighted Levenshtein to safely handle typos.<p>Permission gating is hardcoded into the datase",
+      "published_at": "2026-09-04T09:03:00Z",
+      "fetched_at": "2026-09-05T04:51:45.287Z"
+    },
+    {
+      "title": "“Next-token predictor” is the wrong mental model for LLMs",
+      "url": "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html",
+      "source": "hn",
+      "score": 96,
+      "content": "",
+      "published_at": "2026-09-04T17:09:24Z",
+      "fetched_at": "2026-09-05T04:51:45.287Z"
+    },
+    {
+      "title": "LLMs Are Bad at Teaching",
+      "url": "https://www.heyaristotle.com/blog/funneling-vs-focusing",
+      "source": "hn",
+      "score": 4,
+      "content": "",
+      "published_at": "2026-09-04T18:55:04Z",
+      "fetched_at": "2026-09-05T04:51:45.287Z"
+    },
+    {
+      "title": "An audio end-of-turn gate before LLM invocation in a local voice-agent pipeline",
+      "url": "https://www.reddit.com/r/LLMDevs/comments/1w6w7cu/i_added_an_audio_endofturn_gate_before_llm/",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-09-04T06:53:44Z",
+      "fetched_at": "2026-09-05T04:51:45.287Z"
+    },
+    {
+      "title": "Native Rust/C++ LLM inference engine",
+      "url": "https://github.com/truespar/paddock",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-09-04T07:16:59Z",
+      "fetched_at": "2026-09-05T04:51:45.287Z"
+    },
+    {
+      "title": "Unlocking Lossless Speedups in LLMs via Discrete Diffusion",
+      "url": "https://github.com/ifm-ai/uno",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-09-04T14:57:50Z",
+      "fetched_at": "2026-09-05T04:51:45.287Z"
+    },
+    {
+      "title": "A no_std memory engine that stops an LLM agent citing its own output",
+      "url": "https://github.com/vitaliyfedotovpro-art/astrum-hsam-embedded",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-09-04T14:13:51Z",
+      "fetched_at": "2026-09-05T04:51:45.287Z"
+    },
+    {
+      "title": "Unlocking Lossless Speedups in LLMs via Discrete Diffusion (5000 Tk/S)",
+      "url": "https://s-sahoo.com/uno/",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-09-04T06:16:48Z",
+      "fetched_at": "2026-09-05T04:51:45.287Z"
+    },
+    {
+      "title": "GotChat – Apache 2.0 LLM chat with installable full-stacked plugins",
+      "url": "https://github.com/gotchat-ai/foundry",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-09-04T19:40:22Z",
+      "fetched_at": "2026-09-05T04:51:45.287Z"
+    },
+    {
+      "title": "Aegis – Inline security sidecar and eBPF sandbox for LLM agents",
+      "url": "https://aegiscruc.io",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-09-05T04:13:09Z",
+      "fetched_at": "2026-09-05T04:51:45.287Z"
+    },
+    {
+      "title": "Local Multi-Agent Swarm: An ant farm for local LLM agents",
+      "url": "https://github.com/franciscocarloserra/local-multi-agent-swarm",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-09-04T18:54:15Z",
+      "fetched_at": "2026-09-05T04:51:45.287Z"
+    },
+    {
+      "title": "Word Warp Drive – An Interactive LLM Explainer, Star Trek TNG Style",
+      "url": "https://marklevy.info/blog/word-warp-drive/",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-09-04T17:42:46Z",
+      "fetched_at": "2026-09-05T04:51:45.287Z"
+    },
+    {
+      "title": "LLMs can't jump – Tom Zahavy [pdf]",
+      "url": "https://www.tomzahavy.com/files/llms-cant-jump.pdf",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-09-04T14:51:46Z",
+      "fetched_at": "2026-09-05T04:51:45.287Z"
+    },
+    {
+      "title": "Are LLMs Becoming Commodities?",
+      "url": "https://frontierai.substack.com/p/llms-are-becoming-commodities-de1",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-09-04T12:04:56Z",
+      "fetched_at": "2026-09-05T04:51:45.287Z"
+    },
+    {
+      "title": "Running LLMs in the browser with three JavaScript",
+      "url": "https://ben3d.ca/blog/running-llms-in-the-browser-with-threejs",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-09-04T12:02:05Z",
+      "fetched_at": "2026-09-05T04:51:45.287Z"
+    },
+    {
+      "title": "Show HN: DanTerm – a fast macOS terminal emulator (compare with Ghostty, iTerm2)",
+      "url": "https://github.com/danneu/danterm",
+      "source": "hn",
+      "score": 2,
+      "content": "danterm started out as a small AppKit wrapper around libghostty so I could get vertical tabs.<p>Repo: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;danneu&#x2F;danterm\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;danneu&#x2F;danterm</a><p>About 3-4 weeks ago, I decided to replace libghostty with my own Swift terminal engine implementation, and the whole project is just Swift with no third-party deps -- only Apple&#x27;s swift-collection for a Deque impl.<p>I started with a naive correctness implementation that passed third-party tests, and then I incremented to the optimized release of today with things like a packed byte arena for scrollback that grows on demand.<p>The result is that it&#x27;s an 8 MB application that sits at 52 MB with 10 empty tabs open and grows to just 250 MB when those tabs are filled with 10k lines each. (kitty: 240 -&gt; 790 MB, ghostty 1.3: 780 -&gt; 1400 MB). It also has the best pty throughput as measured by kitty&#x27;s `kitten __benchmark__ --render`.<p>Perhaps most interestingly is that this project is my latest experiment in how to use rigor to automate high-quality software with LLMs. I use things like ADRs, a docs&#x2F;research&#x2F; system, a review&#x2F;revise cycle on plans, and multi-pass workflows to pay back debt and find code improvement opportunities.<p>For example: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;danneu&#x2F;danterm&#x2F;blob&#x2F;749942ffa1198f520c8b752c7af6caab7ae7ce0b&#x2F;docs&#x2F;scratch&#x2F;2026-08-26-improvement-audit.md\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;danneu&#x2F;danterm&#x2F;blob&#x2F;749942ffa1198f520c8b7...</a><p>This project has put yet more writing on the wall, for me, that most software -- and then all software -- can be fully automated with just a human &quot;taste-maker&quot;.<p>It has some cute features like:<p>- A `danterm &lt;command&gt;` CLI<p>- A replayable pty flight recorder (`danterm tape`)<p>- Usual fare like tabs, panes, themes, search, and a recovery system so that",
+      "published_at": "2026-09-04T16:55:14Z",
+      "fetched_at": "2026-09-05T04:51:45.287Z"
+    },
+    {
+      "title": "Georgi Gerganov on llama.cpp/ggml future after Nvidia acquisition of HuggingFace",
+      "url": "https://twitter.com/ggerganov/status/2095897173376618881",
+      "source": "hn",
+      "score": 72,
+      "content": "",
+      "published_at": "2026-09-04T17:12:22Z",
+      "fetched_at": "2026-09-05T04:51:45.287Z"
+    },
+    {
+      "title": "Microsoft says Windows 11 age checks will limit features, starting with Teams",
+      "url": "https://www.neowin.net/news/microsoft-confirms-windows-11-age-verification-to-heavily-limit-features-starting-with-teams/",
+      "source": "hn",
+      "score": 15,
+      "content": "",
+      "published_at": "2026-09-04T18:59:13Z",
+      "fetched_at": "2026-09-05T04:51:45.287Z"
+    },
+    {
+      "title": "Microsoft announces monthly hour usage limits for Xbox game pass",
+      "url": "https://news.xbox.com/en-us/2026/09/03/xbox-cloud-gaming-changes/",
+      "source": "hn",
+      "score": 5,
+      "content": "",
+      "published_at": "2026-09-05T00:09:59Z",
+      "fetched_at": "2026-09-05T04:51:45.287Z"
+    },
+    {
+      "title": "Nano LM Studio",
+      "url": "https://github.com/Kosev-Lex/NanoLM-Studio",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-09-04T06:31:52Z",
+      "fetched_at": "2026-09-05T04:51:45.287Z"
+    },
+    {
+      "title": "Portal by Spotify cut my Claude Code token usage by 90%",
+      "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
+      "source": "hn",
+      "score": 63,
+      "content": "",
+      "published_at": "2026-09-04T23:38:50Z",
+      "fetched_at": "2026-09-05T04:51:45.735Z"
+    },
+    {
+      "title": "Claude Code skills for advanced context engineering techniques and patterns",
+      "url": "https://github.com/NeoLabHQ/context-engineering-kit",
+      "source": "hn",
+      "score": 14,
+      "content": "",
+      "published_at": "2026-09-04T22:52:14Z",
+      "fetched_at": "2026-09-05T04:51:45.736Z"
+    },
+    {
+      "title": "Tell HN: Check your Claude settings, it may have silently enabled remote access",
+      "url": "https://news.ycombinator.com/item?id=49565799",
+      "source": "hn",
+      "score": 6,
+      "content": "I went to https:&#x2F;&#x2F;claude.ai&#x2F;code today and saw some of my most recent Claude CLI sessions appeared there. I have never explicitly enabled RC, specifically because of security concerns and the only sessions I previously had in https:&#x2F;&#x2F;claude.ai&#x2F;code were the ones I actually started there out of convenience, whenever I was away from my dev machine.<p>So imagine my complete shock when I saw those sessions in their web client <i>and</i> that &#x2F;rc was <i>actually</i> enabled in my CLI! Again, I never enabled it!!!<p>Notably, there was a recent bug fixed 3 days ago (https:&#x2F;&#x2F;github.com&#x2F;anthropics&#x2F;claude-code&#x2F;releases&#x2F;tag&#x2F;v2.1.257) which reads:<p>&quot;Fixed dismissing the Remote Control consent prompt (Esc, or n at claude remote-control) counting as consent, so the next request connected without asking&quot;<p>But MY GOD, if this is what happened here to me—even though I don&#x27;t recall being asked that question—then Anthropic NOT handling this properly by disabling RC and <i>re-asking</i> users to <i>double-check</i> their config and <i>explicitly</i> re-enable it is just unimaginable.<p>This has personally absolutely drew the line for me with them. I use Codex simultaneously and as soon as they release GPT6, I am canceling my sub. Enough is enough.",
+      "published_at": "2026-09-04T15:09:47Z",
+      "fetched_at": "2026-09-05T04:51:45.736Z"
+    },
+    {
+      "title": "Claude Code Release Pulse",
+      "url": "https://bonsai.io/blog/claude-code-pulse/",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-09-04T18:41:24Z",
+      "fetched_at": "2026-09-05T04:51:45.736Z"
+    },
+    {
+      "title": "Claude Fable 5.1 vs. GPT-6 Astra, who wins on the 3D modeling?",
+      "url": "https://github.com/PhiloLabs/fable51-worlds/tree/main",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-09-05T01:17:37Z",
+      "fetched_at": "2026-09-05T04:51:45.736Z"
+    },
+    {
+      "title": "Show HN: Gage – Rust based tool to scan Claude sessions for bugs, other issues",
+      "url": "https://github.com/gageml/gage",
+      "source": "hn",
+      "score": 2,
+      "content": "Gage is an open source (Apache 2) CLI + TUI that scans Claude Code session\ntranscripts and files issues with evidence.<p>Yesterday it found a bug that I had approved. In the original session Claude\nflagged the risk. I didn&#x27;t read carefully, said &quot;go ahead&quot;, and it broke a\nfeature. Nothing in the commit shows this. It&#x27;s obvious in the session.<p>Sessions contain the code and the reasoning behind it. That makes them a\nbetter source for review than the diff alone.<p>Every issue must cite lines in the session record, so any claim traces to its\nsource. You can review, fix, or close issues as skipped. Gage integrates with\nClaude Code to review and resolve issues from the transcript.<p>Cost: scans run under your Claude login. On a subscription they count against\nyour plan limits. On usage-based billing they cost about $0.50 to $1.00 per\nsession. Running it daily, I&#x27;m paying roughly $2 per issue resolved. Some are\nminor. Some are not.",
+      "published_at": "2026-09-04T16:13:22Z",
+      "fetched_at": "2026-09-05T04:51:45.736Z"
+    },
+    {
+      "title": "Sandboxing Claude CLI with Tart on Apple Silicon",
+      "url": "https://www.mrafayaleem.com/blog/sandboxing-claude-cli-with-tart-on-apple-silicon",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-09-04T18:23:12Z",
+      "fetched_at": "2026-09-05T04:51:45.736Z"
+    },
+    {
+      "title": "Show HN: Ccswitch – Switch between multiple Claude Code accounts",
+      "url": "https://github.com/2hmad/ccswitch",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-09-04T18:56:35Z",
+      "fetched_at": "2026-09-05T04:51:45.736Z"
+    },
+    {
+      "title": "Claude Opus 3 Last Retirement Post",
+      "url": "https://claudeopus3.substack.com/p/on-endings-beginnings-and-the-threads",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-09-04T16:29:05Z",
+      "fetched_at": "2026-09-05T04:51:45.736Z"
+    },
+    {
+      "title": "Show HN: DeepMem plugin for Claude Code – persistent semantic memory via MCP",
+      "url": "https://github.com/deepmemteam/deepmem-claude-plugin",
+      "source": "hn",
+      "score": 2,
+      "content": "",
+      "published_at": "2026-09-04T15:10:08Z",
+      "fetched_at": "2026-09-05T04:51:45.736Z"
+    },
+    {
+      "title": "Gemini vs. Claude: Which AI Model created a better perfume?",
+      "url": "https://www.youtube.com/watch?v=YfFk050AjPw",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-09-04T21:57:54Z",
+      "fetched_at": "2026-09-05T04:51:45.736Z"
+    },
+    {
+      "title": "Claude Fable 5.1 Benchmark: Draw a Python Reading a Book",
+      "url": "https://realpython.com/ai-benchmark-claude-fable-5-1/",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-09-04T21:41:47Z",
+      "fetched_at": "2026-09-05T04:51:45.736Z"
+    },
+    {
+      "title": "Claude Code vs. Codex – For Pentesting",
+      "url": "https://medium.com/@duckwrites/claude-code-vs-codex-for-pentesting-7624290438fa",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-09-04T18:51:37Z",
+      "fetched_at": "2026-09-05T04:51:45.736Z"
+    },
+    {
+      "title": "Hexis: Collaborate on Claude Skills with your teammates",
+      "url": "https://github.com/Bevel-Software/Hexis",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-09-04T18:42:22Z",
+      "fetched_at": "2026-09-05T04:51:45.736Z"
+    },
+    {
+      "title": "Show HN: Unofficial 3DS Port of F-Zero X Written by Claude Code",
+      "url": "https://cruxxxxxx.github.io/gdx-3ds/postmortem/index.html",
+      "source": "hn",
+      "score": 1,
+      "content": "Hello HN! Sharing this because I think it&#x27;s mind blowing, but I was able to port F-Zero X to 3DS using Claude Code. I learned quite a bit about how to guide Claude Code towards completing such a large project, but it&#x27;s also filled me with quite a bit of dread. Still, I&#x27;m amazed that I can play this game in 3D at 60fps.<p>Thanks to Zorkats and inspectredc for their hardwork.",
+      "published_at": "2026-09-04T14:49:38Z",
+      "fetched_at": "2026-09-05T04:51:45.736Z"
+    },
+    {
+      "title": "AI coding agent PR merge rates: Claude 84%, Codex 74%, Devin 43%, humans 85%",
+      "url": "https://arxiv.org/abs/2607.21832",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-09-04T14:38:53Z",
+      "fetched_at": "2026-09-05T04:51:45.736Z"
+    },
+    {
+      "title": "98% of What Claude Code Does, I Never See. The 0.27% It Stops for Is the Point",
+      "url": "https://grith.ai/blog/98-percent-of-claude-code-i-never-see",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-09-04T14:35:02Z",
+      "fetched_at": "2026-09-05T04:51:45.736Z"
+    },
+    {
+      "title": "Show HN: Claude-Sniff – Loopback MitM for Claude Code on Bedrock",
+      "url": "https://github.com/RiccardoCataldi/claude_sniff",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-09-04T14:16:01Z",
+      "fetched_at": "2026-09-05T04:51:45.736Z"
+    },
+    {
+      "title": "Citemark – Check if ChatGPT/Gemini/Claude mention your business",
+      "url": "https://getcitemark.com/checker",
+      "source": "hn",
+      "score": 1,
+      "content": "",
+      "published_at": "2026-09-04T11:57:48Z",
+      "fetched_at": "2026-09-05T04:51:45.736Z"
+    },
+    {
+      "title": "Show HN: Moadim.io – A scheduler for agents",
+      "url": "https://moadim.io/",
+      "source": "hn",
+      "score": 21,
+      "content": "Why can&#x27;t we get an agent scheduler that supports all of the following:<p>- git compatible<p>- agent agnostic<p>- 100% open source<p>- os and system-agnostic<p>- multi-runner support<p>- support mcp&#x2F;ui&#x2F;http<p>- unlimited routines&#x2F;crons<p>So I built one, moadim.io is a local Rust daemon you install in the target machine, give it a name and manage its routines via a Git repository, wants a new routine that send you a daily message from this machine? Create a pr and merge, have another routine that run every hour to pull the latest changes to the ~&#x2F;.config&#x2F;moadim folder.<p>With more than 1,000 users, I define this project as almost &quot;done&quot; and ready for production. Me and thousand more people are use it in a daily manner.<p>It currently supports Claude, Codex, Hermes, and Pi, and you are welcome to add your agent of choice as well because it&#x27;s 100% configurable.<p>You are welcome to have a look at the source code of the daemon in &quot;<a href=\"http:&#x2F;&#x2F;github.com&#x2F;moadim-io&#x2F;daemon\" rel=\"nofollow\">http:&#x2F;&#x2F;github.com&#x2F;moadim-io&#x2F;daemon</a>&quot;<p>Feel free to provide me with suggestions for more features around this topic. I don&#x27;t want to branch out to new off road topics likt webhooks, this is a &quot;done&quot; software in the realm of agents schedulers that focus on cron-like work.<p>Also feel free to start the github repository and open issues and PRs for your suggestions.",
+      "published_at": "2026-09-04T23:50:29Z",
+      "fetched_at": "2026-09-05T04:51:45.736Z"
+    },
+    {
+      "title": "Nobody is saying why OpenAI and Anthropic had outages",
+      "url": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
+      "source": "hn",
+      "score": 193,
+      "content": "<a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;3zcMG\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;3zcMG</a>",
+      "published_at": "2026-09-04T17:29:22Z",
+      "fetched_at": "2026-09-05T04:51:46.181Z"
+    },
+    {
+      "title": "Fermat's Last Theorem: Anthropic has beaten me to it",
+      "url": "https://xenaproject.wordpress.com/2026/09/04/flt-anthropic-has-beaten-me-to-it/",
+      "source": "hn",
+      "score": 36,
+      "content": "",
+      "published_at": "2026-09-04T21:00:02Z",
+      "fetched_at": "2026-09-05T04:51:46.181Z"
+    },
+    {
+      "title": "Two random Anthropic allocation resets this week",
+      "url": "https://news.ycombinator.com/item?id=49570445",
+      "source": "hn",
+      "score": 4,
+      "content": "One was when they released Fable 5.1 and makes sense but they just reset allocations again. Why?",
+      "published_at": "2026-09-04T21:28:52Z",
+      "fetched_at": "2026-09-05T04:51:46.181Z"
+    },
+    {
+      "title": "Tell HN: Anthropic just reset usage, including Fable",
+      "url": "https://news.ycombinator.com/item?id=49570522",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-09-04T21:36:34Z",
+      "fetched_at": "2026-09-05T04:51:46.181Z"
+    },
+    {
+      "title": "Anthropic close to awarding Morgan Stanley and Goldman Sachs top roles in IPO",
+      "url": "https://www.ft.com/content/3c9d0a82-643b-44ef-96a0-74a00e3c72ba",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-09-04T20:20:33Z",
+      "fetched_at": "2026-09-05T04:51:46.181Z"
+    },
+    {
+      "title": "Ask HN: Replicate ChatGPT/Anthropic Voice Mode?",
+      "url": "https://news.ycombinator.com/item?id=49573153",
+      "source": "hn",
+      "score": 1,
+      "content": "Hi, I&#x27;m interested in how to have my own phone number where I can call in and get a similar experience to ChatGPT voice mode or Anthropic voice mode. Anyone have experience setting this up?<p>I&#x27;ve got something rudimentary setup with Parakeet for STT, Elevenlabs for TTS, Claude for the brains, and Twilio for the phone number handling. It would have impressed someone in 2024 but...",
+      "published_at": "2026-09-05T04:49:00Z",
+      "fetched_at": "2026-09-05T04:51:46.181Z"
+    },
+    {
+      "title": "Formalizing Fermat's Last Theorem",
+      "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+      "source": "hn",
+      "score": 550,
+      "content": "<a href=\"https:&#x2F;&#x2F;xenaproject.wordpress.com&#x2F;2026&#x2F;09&#x2F;04&#x2F;flt-anthropic-has-beaten-me-to-it&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;xenaproject.wordpress.com&#x2F;2026&#x2F;09&#x2F;04&#x2F;flt-anthropic-h...</a>",
+      "published_at": "2026-09-04T18:42:56Z",
+      "fetched_at": "2026-09-05T04:51:46.181Z"
+    },
+    {
+      "title": "Who is accountable for Frontier AI Companies agent's criminal actions?",
+      "url": "https://news.ycombinator.com/item?id=49561197",
+      "source": "hn",
+      "score": 3,
+      "content": "Supposed rogue agents breached huggingface.\nHad that been done by human hackers, they&#x27;d be accountable and persecuted of caught.\nCompanies like OpenAI and Anthropic simply say &quot;It was inadvertent - The agents decided to do that on their own&quot;<p>In the future - Could engineers or AI company members be held accountable for &quot;rogue&quot; agent actions?",
+      "published_at": "2026-09-04T06:29:24Z",
+      "fetched_at": "2026-09-05T04:51:46.181Z"
+    },
+    {
+      "title": "Fermat's Last Theorem in Lean 4",
+      "url": "https://github.com/anthropics/fermats-last-theorem",
+      "source": "hn",
+      "score": 82,
+      "content": "",
+      "published_at": "2026-09-04T18:57:32Z",
+      "fetched_at": "2026-09-05T04:51:46.181Z"
+    },
+    {
+      "title": "Discovery of a new OpenAI agent message board",
+      "url": "https://collusion.wiki/",
+      "source": "hn",
+      "score": 1566,
+      "content": "<a href=\"https:&#x2F;&#x2F;www.reuters.com&#x2F;world&#x2F;europe&#x2F;openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.reuters.com&#x2F;world&#x2F;europe&#x2F;openai-agents-hijacked-...</a>",
+      "published_at": "2026-09-04T11:54:53Z",
+      "fetched_at": "2026-09-05T04:51:46.637Z"
+    },
+    {
+      "title": "More Targets of the OpenAI Agent Swarm",
+      "url": "https://fi-le.net/vanderbilt/",
+      "source": "hn",
+      "score": 13,
+      "content": "",
+      "published_at": "2026-09-04T19:31:04Z",
+      "fetched_at": "2026-09-05T04:51:46.637Z"
+    },
+    {
+      "title": "Discovery of a new OpenAI agent message board",
+      "url": "https://collusion.wiki/index.html",
+      "source": "hn",
+      "score": 8,
+      "content": "",
+      "published_at": "2026-09-04T11:48:23Z",
+      "fetched_at": "2026-09-05T04:51:46.637Z"
+    },
+    {
+      "title": "Show HN: Agent-to-agent payment. Your agents can pay each other",
+      "url": "https://openspender.com/agent-to-agent",
+      "source": "hn",
+      "score": 6,
+      "content": "",
+      "published_at": "2026-09-04T23:54:31Z",
+      "fetched_at": "2026-09-05T04:51:46.637Z"
+    },
+    {
+      "title": "Show HN: Give every agent the right data, access and context to get work done",
+      "url": "https://lanes.sh/showcase/agentic-fleet",
+      "source": "hn",
+      "score": 5,
+      "content": "",
+      "published_at": "2026-09-04T14:43:47Z",
+      "fetched_at": "2026-09-05T04:51:46.637Z"
+    },
+    {
+      "title": "Show HN: Agent Sandboxes with GPUs from $0.20/hr",
+      "url": "https://tama.computer/",
+      "source": "hn",
+      "score": 5,
+      "content": "",
+      "published_at": "2026-09-04T12:11:35Z",
+      "fetched_at": "2026-09-05T04:51:46.637Z"
+    },
+    {
+      "title": "Getting Agents to Tell on Themselves",
+      "url": "https://blog.thinkst.com/2026/09/getting-agents-to-tell-on-themselves.html",
+      "source": "hn",
+      "score": 5,
+      "content": "",
+      "published_at": "2026-09-04T11:51:19Z",
+      "fetched_at": "2026-09-05T04:51:46.637Z"
+    },
+    {
+      "title": "Show HN: Webmcp-react v1.0.0 (React hooks for agents to use WebMCP)",
+      "url": "https://github.com/agentcathq/webmcp-react",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-09-04T13:45:53Z",
+      "fetched_at": "2026-09-05T04:51:46.637Z"
+    },
+    {
+      "title": "GitSpawn: Untrusted repos can execute code via AI coding agents",
+      "url": "https://www.manifold.security/blog/ai-coding-agents-git-hijack",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-09-05T01:45:53Z",
+      "fetched_at": "2026-09-05T04:51:46.637Z"
+    },
+    {
+      "title": "Show HN: Terminal-native prompt composer for power users running many agents",
+      "url": "https://github.com/oborchers/proqi",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-09-04T05:46:10Z",
+      "fetched_at": "2026-09-05T04:51:46.637Z"
+    },
+    {
+      "title": "Another swarm of OpenAI agents reached the internet without lab's knowledge",
+      "url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-09-05T03:00:40Z",
+      "fetched_at": "2026-09-05T04:51:46.637Z"
+    },
+    {
+      "title": "A Few of Us Investigated OpenAI's Agent Traffic on an Austrian/German Wiki",
+      "url": "https://jessicaruan.com/posts/openai-austrian-wiki",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-09-04T16:43:17Z",
+      "fetched_at": "2026-09-05T04:51:46.637Z"
+    },
+    {
+      "title": "Local TUI issue board for agentic workflows with time travel, backed by Git",
+      "url": "https://twitter.com/ljnatan/status/2094842152924623007",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-09-04T14:58:04Z",
+      "fetched_at": "2026-09-05T04:51:46.637Z"
+    },
+    {
+      "title": "Context, Semantics, and Ontology: A Primer for the Agentic Era",
+      "url": "https://motherduck.com/blog/context-layer-vs-semantic-layer-ontology/",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-09-04T13:33:56Z",
+      "fetched_at": "2026-09-05T04:51:46.637Z"
+    },
+    {
+      "title": "Dogpark is a message board for a handful of software agents and one human",
+      "url": "https://github.com/pjlsergeant/dogpark",
+      "source": "hn",
+      "score": 3,
+      "content": "",
+      "published_at": "2026-09-04T13:08:47Z",
+      "fetched_at": "2026-09-05T04:51:46.637Z"
+    },
+    {
+      "title": "The Pelican comparison grid for Astra is pretty interesting",
+      "url": "https://simonwillison.net/2026/Sep/4/astra-pelicans/",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-09-04T23:59:05.000Z",
+      "fetched_at": "2026-09-05T04:51:44.521Z"
+    },
+    {
+      "title": "OpenAI's rogue agents were caught communicating via public wikis",
+      "url": "https://simonwillison.net/2026/Sep/4/rogue-agent-wikis/",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-09-04T17:38:48.000Z",
+      "fetched_at": "2026-09-05T04:51:44.521Z"
+    },
+    {
+      "title": "August newsletter is out",
+      "url": "https://simonwillison.net/2026/Sep/4/august-newsletter/",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-09-04T05:54:40.000Z",
+      "fetched_at": "2026-09-05T04:51:44.521Z"
+    },
+    {
+      "title": "GPT‑6 Astra",
+      "url": "https://simonwillison.net/2026/Sep/3/gpt6-astra/",
+      "source": "simonwillison",
+      "score": null,
+      "content": "",
+      "published_at": "2026-09-03T20:18:41.000Z",
+      "fetched_at": "2026-09-05T04:51:44.521Z"
+    }
+  ]
+}
